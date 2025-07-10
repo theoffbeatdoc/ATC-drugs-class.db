@@ -1,28 +1,23 @@
-# ATC Drug Classification Database (a static JSON API)
+# ATC Drugs Classification Database (a static JSON API)
 
-A lightweight project that stores the Anatomical Therapeutic Chemical (ATC) drug classification data as JSON and provides easy access to the data, including mappings between ATC codes and DrugBank IDs, served via a CDN.
+A lightweight project that stores the Anatomical Therapeutic Chemical (ATC) drug classification data as JSON and provides easy access to the data, including mappings between Drug names, ATC codes, and DrugBank IDs, served via a CDN.
 
 ## Overview
-
 This project offers:
-
 - A comprehensive JSON dataset containing ATC drug classification information.
 - Mappings between Drug names, ATC codes, and DrugBank IDs for cross-referencing drug information.
 - A public CDN endpoint to fetch the JSON data for integration into applications, research, or educational tools.
 - Easy-to-use format suitable for web and backend applications.
 
 ## Why This Project?
-
 The ATC classification system is widely used in pharmacology and drug research to classify drugs into different groups according to the organ or system they act on and their therapeutic, pharmacological, and chemical properties.
 
 This project makes it simple to:
-
 - Access and integrate ATC classification data programmatically.
 - Link ATC codes with DrugBank IDs for enriched drug data.
 - Use a reliable CDN for fast and scalable access to data.
 
 ## Data Files, Structure & CDN links
-
 - The `db` folder contains the structured polished json databases.
 ### 1. ATC Classes (Hierarchical)
 - Broad ATC classes with nested subgroups down to drugs.
@@ -80,7 +75,6 @@ https://cdn.jsdelivr.net/gh/theoffbeatdoc/ATC-drugs-class.db@main/db/classes/A.j
 https://cdn.jsdelivr.net/gh/theoffbeatdoc/ATC-drugs-class.db@main/db/classes/A01.json
 ```
 
-Example:
 
 ```json
 [
@@ -101,7 +95,6 @@ Example:
 https://cdn.jsdelivr.net/gh/theoffbeatdoc/ATC-drugs-class.db@main/db/drugs_list.json
 ```
 
-Example:
 
 ```json
 [
