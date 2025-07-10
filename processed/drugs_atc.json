@@ -2,6 +2,7 @@
   "classes": [
     {
       "name": "Alimentary tract and metabolism (A)",
+      "atc_code": "A",
       "children": [
         {
           "name": "Other alimentary tract and metabolism products (A16)",
@@ -7853,6 +7854,7 @@
     },
     {
       "name": "Blood and blood forming organs (B)",
+      "atc_code": "B",
       "children": [
         {
           "name": "Other hematological agents (B06)",
@@ -10672,6 +10674,7 @@
     },
     {
       "name": "Cardiovascular system (C)",
+      "atc_code": "C",
       "children": [
         {
           "name": "Lipid modifying agents (C10)",
@@ -18491,6 +18494,7 @@
     },
     {
       "name": "Dermatologicals (D)",
+      "atc_code": "D",
       "children": [
         {
           "name": "Other dermatological preparations (D11)",
@@ -22882,6 +22886,7 @@
     },
     {
       "name": "Genito urinary system and sex hormones (G)",
+      "atc_code": "G",
       "children": [
         {
           "name": "Urologicals (G04)",
@@ -26733,6 +26738,7 @@
     },
     {
       "name": "Systemic hormonal preparations, excl. sex hormones and insulins (H)",
+      "atc_code": "H",
       "children": [
         {
           "name": "Calcium homeostasis (H05)",
@@ -27878,6 +27884,7 @@
     },
     {
       "name": "Antiinfectives for systemic use (J)",
+      "atc_code": "J",
       "children": [
         {
           "name": "Vaccines (J07)",
@@ -34413,6 +34420,7 @@
     },
     {
       "name": "Antineoplastic and immunomodulating agents (L)",
+      "atc_code": "L",
       "children": [
         {
           "name": "Immunosuppressants (L04)",
@@ -40258,6 +40266,7 @@
     },
     {
       "name": "Musculo-skeletal system (M)",
+      "atc_code": "M",
       "children": [
         {
           "name": "Other drugs for disorders of the musculo-skeletal system (M09)",
@@ -43025,6 +43034,7 @@
     },
     {
       "name": "Nervous system (N)",
+      "atc_code": "N",
       "children": [
         {
           "name": "Other nervous system drugs (N07)",
@@ -50326,6 +50336,7 @@
     },
     {
       "name": "Antiparasitic products, insecticides and repellents (P)",
+      "atc_code": "P",
       "children": [
         {
           "name": "Ectoparasiticides, incl. scabicides, insecticides and repellents (P03)",
@@ -52005,6 +52016,7 @@
     },
     {
       "name": "Respiratory system (R)",
+      "atc_code": "R",
       "children": [
         {
           "name": "Other respiratory system products (R07)",
@@ -56428,6 +56440,7 @@
     },
     {
       "name": "Sensory organs (S)",
+      "atc_code": "S",
       "children": [
         {
           "name": "Ophthalmological and otological preparations (S03)",
@@ -59829,6 +59842,7 @@
     },
     {
       "name": "Various (V)",
+      "atc_code": "V",
       "children": [
         {
           "name": "Surgical dressings (V20)",
