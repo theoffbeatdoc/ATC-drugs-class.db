@@ -1,0 +1,1468 @@
+[
+    {
+        "name": "Drugs used in diabetes (A10)",
+        "atc_code": "A10",
+        "children": [
+            {
+                "name": "Other drugs used in diabetes (A10X)",
+                "atc_code": "A10X",
+                "children": [
+                    {
+                        "name": "Other drugs used in diabetes (A10XX)",
+                        "atc_code": "A10XX",
+                        "children": [
+                            {
+                                "name": "Donislecel (A10XX02)",
+                                "atc_code": "A10XX02",
+                                "children": [
+                                    {
+                                        "name": "Donislecel",
+                                        "drugbank_id": "DB17961"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teplizumab (A10XX01)",
+                                "atc_code": "A10XX01",
+                                "children": [
+                                    {
+                                        "name": "Teplizumab",
+                                        "drugbank_id": "DB06606"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aldose reductase inhibitors (A10XA)",
+                        "atc_code": "A10XA",
+                        "children": [
+                            {
+                                "name": "Tolrestat (A10XA01)",
+                                "atc_code": "A10XA01",
+                                "children": [
+                                    {
+                                        "name": "Tolrestat",
+                                        "drugbank_id": "DB02383"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blood glucose lowering drugs, excl. insulins (A10B)",
+                "atc_code": "A10B",
+                "children": [
+                    {
+                        "name": "Sodium-glucose co-transporter 2 (sglt2) inhibitors (A10BK)",
+                        "atc_code": "A10BK",
+                        "children": [
+                            {
+                                "name": "Enavogliflozin (A10BK09)",
+                                "atc_code": "A10BK09",
+                                "children": [
+                                    {
+                                        "name": "Enavogliflozin",
+                                        "drugbank_id": "DB18970"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bexagliflozin (A10BK08)",
+                                "atc_code": "A10BK08",
+                                "children": [
+                                    {
+                                        "name": "Bexagliflozin",
+                                        "drugbank_id": "DB12236"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Luseogliflozin (A10BK07)",
+                                "atc_code": "A10BK07",
+                                "children": [
+                                    {
+                                        "name": "Luseogliflozin",
+                                        "drugbank_id": "DB12214"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sotagliflozin (A10BK06)",
+                                "atc_code": "A10BK06",
+                                "children": [
+                                    {
+                                        "name": "Sotagliflozin",
+                                        "drugbank_id": "DB12713"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ipragliflozin (A10BK05)",
+                                "atc_code": "A10BK05",
+                                "children": [
+                                    {
+                                        "name": "Ipragliflozin",
+                                        "drugbank_id": "DB11698"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ertugliflozin (A10BK04)",
+                                "atc_code": "A10BK04",
+                                "children": [
+                                    {
+                                        "name": "Ertugliflozin",
+                                        "drugbank_id": "DB11827"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Empagliflozin (A10BK03)",
+                                "atc_code": "A10BK03",
+                                "children": [
+                                    {
+                                        "name": "Empagliflozin",
+                                        "drugbank_id": "DB09038"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canagliflozin (A10BK02)",
+                                "atc_code": "A10BK02",
+                                "children": [
+                                    {
+                                        "name": "Canagliflozin",
+                                        "drugbank_id": "DB08907"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dapagliflozin (A10BK01)",
+                                "atc_code": "A10BK01",
+                                "children": [
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glucagon-like peptide-1 (glp-1) analogues (A10BJ)",
+                        "atc_code": "A10BJ",
+                        "children": [
+                            {
+                                "name": "Beinaglutide (A10BJ07)",
+                                "atc_code": "A10BJ07",
+                                "children": [
+                                    {
+                                        "name": "Beinaglutide",
+                                        "drugbank_id": "DB15072"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Semaglutide (A10BJ06)",
+                                "atc_code": "A10BJ06",
+                                "children": [
+                                    {
+                                        "name": "Semaglutide",
+                                        "drugbank_id": "DB13928"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dulaglutide (A10BJ05)",
+                                "atc_code": "A10BJ05",
+                                "children": [
+                                    {
+                                        "name": "Dulaglutide",
+                                        "drugbank_id": "DB09045"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Albiglutide (A10BJ04)",
+                                "atc_code": "A10BJ04",
+                                "children": [
+                                    {
+                                        "name": "Albiglutide",
+                                        "drugbank_id": "DB09043"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lixisenatide (A10BJ03)",
+                                "atc_code": "A10BJ03",
+                                "children": [
+                                    {
+                                        "name": "Lixisenatide",
+                                        "drugbank_id": "DB09265"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Liraglutide (A10BJ02)",
+                                "atc_code": "A10BJ02",
+                                "children": [
+                                    {
+                                        "name": "Liraglutide",
+                                        "drugbank_id": "DB06655"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Exenatide (A10BJ01)",
+                                "atc_code": "A10BJ01",
+                                "children": [
+                                    {
+                                        "name": "Exenatide",
+                                        "drugbank_id": "DB01276"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other blood glucose lowering drugs, excl. insulins (A10BX)",
+                        "atc_code": "A10BX",
+                        "children": [
+                            {
+                                "name": "Dorzagliatin (A10BX18)",
+                                "atc_code": "A10BX18",
+                                "children": [
+                                    {
+                                        "name": "Dorzagliatin",
+                                        "drugbank_id": "DB15123"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carfloglitazar (A10BX17)",
+                                "atc_code": "A10BX17"
+                            },
+                            {
+                                "name": "Tirzepatide (A10BX16)",
+                                "atc_code": "A10BX16",
+                                "children": [
+                                    {
+                                        "name": "Tirzepatide",
+                                        "drugbank_id": "DB15171"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imeglimin (A10BX15)",
+                                "atc_code": "A10BX15",
+                                "children": [
+                                    {
+                                        "name": "Imeglimin",
+                                        "drugbank_id": "DB12509"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mitiglinide (A10BX08)",
+                                "atc_code": "A10BX08",
+                                "children": [
+                                    {
+                                        "name": "Mitiglinide",
+                                        "drugbank_id": "DB01252"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benfluorex (A10BX06)",
+                                "atc_code": "A10BX06",
+                                "children": [
+                                    {
+                                        "name": "Benfluorex",
+                                        "drugbank_id": "DB09022"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pramlintide (A10BX05)",
+                                "atc_code": "A10BX05",
+                                "children": [
+                                    {
+                                        "name": "Pramlintide",
+                                        "drugbank_id": "DB01278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nateglinide (A10BX03)",
+                                "atc_code": "A10BX03",
+                                "children": [
+                                    {
+                                        "name": "Nateglinide",
+                                        "drugbank_id": "DB00731"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Repaglinide (A10BX02)",
+                                "atc_code": "A10BX02",
+                                "children": [
+                                    {
+                                        "name": "Repaglinide",
+                                        "drugbank_id": "DB00912"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guar gum (A10BX01)",
+                                "atc_code": "A10BX01",
+                                "children": [
+                                    {
+                                        "name": "Guar gum",
+                                        "drugbank_id": "DB13446"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dipeptidyl peptidase 4 (dpp-4) inhibitors (A10BH)",
+                        "atc_code": "A10BH",
+                        "children": [
+                            {
+                                "name": "Teneligliptin (A10BH08)",
+                                "atc_code": "A10BH08",
+                                "children": [
+                                    {
+                                        "name": "Teneligliptin",
+                                        "drugbank_id": "DB11950"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gemigliptin and rosuvastatin (A10BH52)",
+                                "atc_code": "A10BH52",
+                                "children": [
+                                    {
+                                        "name": "Gemigliptin",
+                                        "drugbank_id": "DB12412"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Evogliptin (A10BH07)",
+                                "atc_code": "A10BH07",
+                                "children": [
+                                    {
+                                        "name": "Evogliptin",
+                                        "drugbank_id": "DB12625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitagliptin and simvastatin (A10BH51)",
+                                "atc_code": "A10BH51",
+                                "children": [
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    },
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gemigliptin (A10BH06)",
+                                "atc_code": "A10BH06",
+                                "children": [
+                                    {
+                                        "name": "Gemigliptin",
+                                        "drugbank_id": "DB12412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linagliptin (A10BH05)",
+                                "atc_code": "A10BH05",
+                                "children": [
+                                    {
+                                        "name": "Linagliptin",
+                                        "drugbank_id": "DB08882"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alogliptin (A10BH04)",
+                                "atc_code": "A10BH04",
+                                "children": [
+                                    {
+                                        "name": "Alogliptin",
+                                        "drugbank_id": "DB06203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saxagliptin (A10BH03)",
+                                "atc_code": "A10BH03",
+                                "children": [
+                                    {
+                                        "name": "Saxagliptin",
+                                        "drugbank_id": "DB06335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vildagliptin (A10BH02)",
+                                "atc_code": "A10BH02",
+                                "children": [
+                                    {
+                                        "name": "Vildagliptin",
+                                        "drugbank_id": "DB04876"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitagliptin (A10BH01)",
+                                "atc_code": "A10BH01",
+                                "children": [
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiazolidinediones (A10BG)",
+                        "atc_code": "A10BG",
+                        "children": [
+                            {
+                                "name": "Lobeglitazone (A10BG04)",
+                                "atc_code": "A10BG04",
+                                "children": [
+                                    {
+                                        "name": "Lobeglitazone",
+                                        "drugbank_id": "DB09198"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pioglitazone (A10BG03)",
+                                "atc_code": "A10BG03",
+                                "children": [
+                                    {
+                                        "name": "Pioglitazone",
+                                        "drugbank_id": "DB01132"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosiglitazone (A10BG02)",
+                                "atc_code": "A10BG02",
+                                "children": [
+                                    {
+                                        "name": "Rosiglitazone",
+                                        "drugbank_id": "DB00412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Troglitazone (A10BG01)",
+                                "atc_code": "A10BG01",
+                                "children": [
+                                    {
+                                        "name": "Troglitazone",
+                                        "drugbank_id": "DB00197"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha glucosidase inhibitors (A10BF)",
+                        "atc_code": "A10BF",
+                        "children": [
+                            {
+                                "name": "Voglibose (A10BF03)",
+                                "atc_code": "A10BF03",
+                                "children": [
+                                    {
+                                        "name": "Voglibose",
+                                        "drugbank_id": "DB04878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miglitol (A10BF02)",
+                                "atc_code": "A10BF02",
+                                "children": [
+                                    {
+                                        "name": "Miglitol",
+                                        "drugbank_id": "DB00491"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acarbose (A10BF01)",
+                                "atc_code": "A10BF01",
+                                "children": [
+                                    {
+                                        "name": "Acarbose",
+                                        "drugbank_id": "DB00284"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations of oral blood glucose lowering drugs (A10BD)",
+                        "atc_code": "A10BD",
+                        "children": [
+                            {
+                                "name": "Gemigliptin and dapagliflozin (A10BD30)",
+                                "atc_code": "A10BD30",
+                                "children": [
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    },
+                                    {
+                                        "name": "Gemigliptin",
+                                        "drugbank_id": "DB12412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitagliptin and dapagliflozin (A10BD29)",
+                                "atc_code": "A10BD29",
+                                "children": [
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    },
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and teneligliptin (A10BD28)",
+                                "atc_code": "A10BD28",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Teneligliptin",
+                                        "drugbank_id": "DB11950"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin, linagliptin and empagliflozin (A10BD27)",
+                                "atc_code": "A10BD27",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Linagliptin",
+                                        "drugbank_id": "DB08882"
+                                    },
+                                    {
+                                        "name": "Empagliflozin",
+                                        "drugbank_id": "DB09038"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and lobeglitazone (A10BD26)",
+                                "atc_code": "A10BD26",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Lobeglitazone",
+                                        "drugbank_id": "DB09198"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin, saxagliptin and dapagliflozin (A10BD25)",
+                                "atc_code": "A10BD25",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    },
+                                    {
+                                        "name": "Saxagliptin",
+                                        "drugbank_id": "DB06335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitagliptin and ertugliflozin (A10BD24)",
+                                "atc_code": "A10BD24",
+                                "children": [
+                                    {
+                                        "name": "Ertugliflozin",
+                                        "drugbank_id": "DB11827"
+                                    },
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and ertugliflozin (A10BD23)",
+                                "atc_code": "A10BD23",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Ertugliflozin",
+                                        "drugbank_id": "DB11827"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and evogliptin (A10BD22)",
+                                "atc_code": "A10BD22",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Evogliptin",
+                                        "drugbank_id": "DB12625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saxagliptin and dapagliflozin (A10BD21)",
+                                "atc_code": "A10BD21",
+                                "children": [
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    },
+                                    {
+                                        "name": "Saxagliptin",
+                                        "drugbank_id": "DB06335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and empagliflozin (A10BD20)",
+                                "atc_code": "A10BD20",
+                                "children": [
+                                    {
+                                        "name": "Empagliflozin",
+                                        "drugbank_id": "DB09038"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linagliptin and empagliflozin (A10BD19)",
+                                "atc_code": "A10BD19",
+                                "children": [
+                                    {
+                                        "name": "Linagliptin",
+                                        "drugbank_id": "DB08882"
+                                    },
+                                    {
+                                        "name": "Empagliflozin",
+                                        "drugbank_id": "DB09038"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and gemigliptin (A10BD18)",
+                                "atc_code": "A10BD18",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Gemigliptin",
+                                        "drugbank_id": "DB12412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and acarbose (A10BD17)",
+                                "atc_code": "A10BD17",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Acarbose",
+                                        "drugbank_id": "DB00284"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and canagliflozin (A10BD16)",
+                                "atc_code": "A10BD16",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Canagliflozin",
+                                        "drugbank_id": "DB08907"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and dapagliflozin (A10BD15)",
+                                "atc_code": "A10BD15",
+                                "children": [
+                                    {
+                                        "name": "Dapagliflozin",
+                                        "drugbank_id": "DB06292"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and repaglinide (A10BD14)",
+                                "atc_code": "A10BD14",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Repaglinide",
+                                        "drugbank_id": "DB00912"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and alogliptin (A10BD13)",
+                                "atc_code": "A10BD13",
+                                "children": [
+                                    {
+                                        "name": "Alogliptin",
+                                        "drugbank_id": "DB06203"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pioglitazone and sitagliptin (A10BD12)",
+                                "atc_code": "A10BD12",
+                                "children": [
+                                    {
+                                        "name": "Pioglitazone",
+                                        "drugbank_id": "DB01132"
+                                    },
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and linagliptin (A10BD11)",
+                                "atc_code": "A10BD11",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Linagliptin",
+                                        "drugbank_id": "DB08882"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and saxagliptin (A10BD10)",
+                                "atc_code": "A10BD10",
+                                "children": [
+                                    {
+                                        "name": "Saxagliptin",
+                                        "drugbank_id": "DB06335"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pioglitazone and alogliptin (A10BD09)",
+                                "atc_code": "A10BD09",
+                                "children": [
+                                    {
+                                        "name": "Alogliptin",
+                                        "drugbank_id": "DB06203"
+                                    },
+                                    {
+                                        "name": "Pioglitazone",
+                                        "drugbank_id": "DB01132"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and vildagliptin (A10BD08)",
+                                "atc_code": "A10BD08",
+                                "children": [
+                                    {
+                                        "name": "Vildagliptin",
+                                        "drugbank_id": "DB04876"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and sitagliptin (A10BD07)",
+                                "atc_code": "A10BD07",
+                                "children": [
+                                    {
+                                        "name": "Sitagliptin",
+                                        "drugbank_id": "DB01261"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glimepiride and pioglitazone (A10BD06)",
+                                "atc_code": "A10BD06",
+                                "children": [
+                                    {
+                                        "name": "Glimepiride",
+                                        "drugbank_id": "DB00222"
+                                    },
+                                    {
+                                        "name": "Pioglitazone",
+                                        "drugbank_id": "DB01132"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and pioglitazone (A10BD05)",
+                                "atc_code": "A10BD05",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    },
+                                    {
+                                        "name": "Pioglitazone",
+                                        "drugbank_id": "DB01132"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glimepiride and rosiglitazone (A10BD04)",
+                                "atc_code": "A10BD04",
+                                "children": [
+                                    {
+                                        "name": "Rosiglitazone",
+                                        "drugbank_id": "DB00412"
+                                    },
+                                    {
+                                        "name": "Glimepiride",
+                                        "drugbank_id": "DB00222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and rosiglitazone (A10BD03)",
+                                "atc_code": "A10BD03",
+                                "children": [
+                                    {
+                                        "name": "Rosiglitazone",
+                                        "drugbank_id": "DB00412"
+                                    },
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin and sulfonylureas (A10BD02)",
+                                "atc_code": "A10BD02",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenformin and sulfonylureas (A10BD01)",
+                                "atc_code": "A10BD01",
+                                "children": [
+                                    {
+                                        "name": "Phenformin",
+                                        "drugbank_id": "DB00914"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides (heterocyclic) (A10BC)",
+                        "atc_code": "A10BC",
+                        "children": [
+                            {
+                                "name": "Glymidine (A10BC01)",
+                                "atc_code": "A10BC01",
+                                "children": [
+                                    {
+                                        "name": "Glymidine",
+                                        "drugbank_id": "DB01382"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonylureas (A10BB)",
+                        "atc_code": "A10BB",
+                        "children": [
+                            {
+                                "name": "Acetohexamide (A10BB31)",
+                                "atc_code": "A10BB31",
+                                "children": [
+                                    {
+                                        "name": "Acetohexamide",
+                                        "drugbank_id": "DB00414"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glimepiride (A10BB12)",
+                                "atc_code": "A10BB12",
+                                "children": [
+                                    {
+                                        "name": "Glimepiride",
+                                        "drugbank_id": "DB00222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glisoxepide (A10BB11)",
+                                "atc_code": "A10BB11",
+                                "children": [
+                                    {
+                                        "name": "Glisoxepide",
+                                        "drugbank_id": "DB01289"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metahexamide (A10BB10)",
+                                "atc_code": "A10BB10",
+                                "children": [
+                                    {
+                                        "name": "Metahexamide",
+                                        "drugbank_id": "DB13675"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gliclazide (A10BB09)",
+                                "atc_code": "A10BB09",
+                                "children": [
+                                    {
+                                        "name": "Gliclazide",
+                                        "drugbank_id": "DB01120"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gliquidone (A10BB08)",
+                                "atc_code": "A10BB08",
+                                "children": [
+                                    {
+                                        "name": "Gliquidone",
+                                        "drugbank_id": "DB01251"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glipizide (A10BB07)",
+                                "atc_code": "A10BB07",
+                                "children": [
+                                    {
+                                        "name": "Glipizide",
+                                        "drugbank_id": "DB01067"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbutamide (A10BB06)",
+                                "atc_code": "A10BB06",
+                                "children": [
+                                    {
+                                        "name": "Carbutamide",
+                                        "drugbank_id": "DB13406"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolazamide (A10BB05)",
+                                "atc_code": "A10BB05",
+                                "children": [
+                                    {
+                                        "name": "Tolazamide",
+                                        "drugbank_id": "DB00839"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glibornuride (A10BB04)",
+                                "atc_code": "A10BB04",
+                                "children": [
+                                    {
+                                        "name": "Glibornuride",
+                                        "drugbank_id": "DB08962"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolbutamide (A10BB03)",
+                                "atc_code": "A10BB03",
+                                "children": [
+                                    {
+                                        "name": "Tolbutamide",
+                                        "drugbank_id": "DB01124"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorpropamide (A10BB02)",
+                                "atc_code": "A10BB02",
+                                "children": [
+                                    {
+                                        "name": "Chlorpropamide",
+                                        "drugbank_id": "DB00672"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glibenclamide (A10BB01)",
+                                "atc_code": "A10BB01",
+                                "children": [
+                                    {
+                                        "name": "Glyburide",
+                                        "drugbank_id": "DB01016"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Biguanides (A10BA)",
+                        "atc_code": "A10BA",
+                        "children": [
+                            {
+                                "name": "Buformin (A10BA03)",
+                                "atc_code": "A10BA03",
+                                "children": [
+                                    {
+                                        "name": "Buformin",
+                                        "drugbank_id": "DB04830"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metformin (A10BA02)",
+                                "atc_code": "A10BA02",
+                                "children": [
+                                    {
+                                        "name": "Metformin",
+                                        "drugbank_id": "DB00331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenformin (A10BA01)",
+                                "atc_code": "A10BA01",
+                                "children": [
+                                    {
+                                        "name": "Phenformin",
+                                        "drugbank_id": "DB00914"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Insulins and analogues (A10A)",
+                "atc_code": "A10A",
+                "children": [
+                    {
+                        "name": "Insulins and analogues for inhalation (A10AF)",
+                        "atc_code": "A10AF",
+                        "children": [
+                            {
+                                "name": "Insulin (human) (A10AF01)",
+                                "atc_code": "A10AF01",
+                                "children": [
+                                    {
+                                        "name": "Insulin human",
+                                        "drugbank_id": "DB00030"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Insulins and analogues for injection, long-acting (A10AE)",
+                        "atc_code": "A10AE",
+                        "children": [
+                            {
+                                "name": "Insulin icodec (A10AE07)",
+                                "atc_code": "A10AE07",
+                                "children": [
+                                    {
+                                        "name": "Insulin icodec",
+                                        "drugbank_id": "DB16693"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin glargine and lixisenatide (A10AE54)",
+                                "atc_code": "A10AE54",
+                                "children": [
+                                    {
+                                        "name": "Lixisenatide",
+                                        "drugbank_id": "DB09265"
+                                    },
+                                    {
+                                        "name": "Insulin glargine",
+                                        "drugbank_id": "DB00047"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin degludec and liraglutide (A10AE56)",
+                                "atc_code": "A10AE56",
+                                "children": [
+                                    {
+                                        "name": "Liraglutide",
+                                        "drugbank_id": "DB06655"
+                                    },
+                                    {
+                                        "name": "Insulin degludec",
+                                        "drugbank_id": "DB09564"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (A10AE30)",
+                                "atc_code": "A10AE30"
+                            },
+                            {
+                                "name": "Insulin degludec (A10AE06)",
+                                "atc_code": "A10AE06",
+                                "children": [
+                                    {
+                                        "name": "Insulin degludec",
+                                        "drugbank_id": "DB09564"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin detemir (A10AE05)",
+                                "atc_code": "A10AE05",
+                                "children": [
+                                    {
+                                        "name": "Insulin detemir",
+                                        "drugbank_id": "DB01307"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin glargine (A10AE04)",
+                                "atc_code": "A10AE04",
+                                "children": [
+                                    {
+                                        "name": "Insulin glargine",
+                                        "drugbank_id": "DB00047"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (pork) (A10AE03)",
+                                "atc_code": "A10AE03",
+                                "children": [
+                                    {
+                                        "name": "Insulin pork",
+                                        "drugbank_id": "DB00071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (beef) (A10AE02)",
+                                "atc_code": "A10AE02",
+                                "children": [
+                                    {
+                                        "name": "Insulin beef",
+                                        "drugbank_id": "DB09456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (human) (A10AE01)",
+                                "atc_code": "A10AE01",
+                                "children": [
+                                    {
+                                        "name": "Insulin human",
+                                        "drugbank_id": "DB00030"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting (A10AD)",
+                        "atc_code": "A10AD",
+                        "children": [
+                            {
+                                "name": "Combinations (A10AD30)",
+                                "atc_code": "A10AD30"
+                            },
+                            {
+                                "name": "Insulin degludec and insulin aspart (A10AD06)",
+                                "atc_code": "A10AD06",
+                                "children": [
+                                    {
+                                        "name": "Insulin degludec",
+                                        "drugbank_id": "DB09564"
+                                    },
+                                    {
+                                        "name": "Insulin aspart",
+                                        "drugbank_id": "DB01306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin aspart (A10AD05)",
+                                "atc_code": "A10AD05",
+                                "children": [
+                                    {
+                                        "name": "Insulin aspart",
+                                        "drugbank_id": "DB01306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin lispro (A10AD04)",
+                                "atc_code": "A10AD04",
+                                "children": [
+                                    {
+                                        "name": "Insulin lispro",
+                                        "drugbank_id": "DB00046"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (pork) (A10AD03)",
+                                "atc_code": "A10AD03",
+                                "children": [
+                                    {
+                                        "name": "Insulin pork",
+                                        "drugbank_id": "DB00071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (beef) (A10AD02)",
+                                "atc_code": "A10AD02",
+                                "children": [
+                                    {
+                                        "name": "Insulin beef",
+                                        "drugbank_id": "DB09456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (human) (A10AD01)",
+                                "atc_code": "A10AD01",
+                                "children": [
+                                    {
+                                        "name": "Insulin human",
+                                        "drugbank_id": "DB00030"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Insulins and analogues for injection, intermediate-acting (A10AC)",
+                        "atc_code": "A10AC",
+                        "children": [
+                            {
+                                "name": "Combinations (A10AC30)",
+                                "atc_code": "A10AC30"
+                            },
+                            {
+                                "name": "Insulin lispro (A10AC04)",
+                                "atc_code": "A10AC04",
+                                "children": [
+                                    {
+                                        "name": "Insulin lispro",
+                                        "drugbank_id": "DB00046"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (pork) (A10AC03)",
+                                "atc_code": "A10AC03",
+                                "children": [
+                                    {
+                                        "name": "Insulin pork",
+                                        "drugbank_id": "DB00071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (beef) (A10AC02)",
+                                "atc_code": "A10AC02",
+                                "children": [
+                                    {
+                                        "name": "Insulin beef",
+                                        "drugbank_id": "DB09456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (human) (A10AC01)",
+                                "atc_code": "A10AC01",
+                                "children": [
+                                    {
+                                        "name": "Insulin human",
+                                        "drugbank_id": "DB00030"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Insulins and analogues for injection, fast-acting (A10AB)",
+                        "atc_code": "A10AB",
+                        "children": [
+                            {
+                                "name": "Combinations (A10AB30)",
+                                "atc_code": "A10AB30"
+                            },
+                            {
+                                "name": "Insulin glulisine (A10AB06)",
+                                "atc_code": "A10AB06",
+                                "children": [
+                                    {
+                                        "name": "Insulin glulisine",
+                                        "drugbank_id": "DB01309"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin aspart (A10AB05)",
+                                "atc_code": "A10AB05",
+                                "children": [
+                                    {
+                                        "name": "Insulin aspart",
+                                        "drugbank_id": "DB01306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin lispro (A10AB04)",
+                                "atc_code": "A10AB04",
+                                "children": [
+                                    {
+                                        "name": "Insulin lispro",
+                                        "drugbank_id": "DB00046"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (pork) (A10AB03)",
+                                "atc_code": "A10AB03",
+                                "children": [
+                                    {
+                                        "name": "Insulin pork",
+                                        "drugbank_id": "DB00071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (beef) (A10AB02)",
+                                "atc_code": "A10AB02",
+                                "children": [
+                                    {
+                                        "name": "Insulin beef",
+                                        "drugbank_id": "DB09456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Insulin (human) (A10AB01)",
+                                "atc_code": "A10AB01",
+                                "children": [
+                                    {
+                                        "name": "Insulin human",
+                                        "drugbank_id": "DB00030"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

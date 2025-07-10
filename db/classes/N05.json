@@ -1,0 +1,2026 @@
+[
+    {
+        "name": "Psycholeptics (N05)",
+        "atc_code": "N05",
+        "children": [
+            {
+                "name": "Hypnotics and sedatives (N05C)",
+                "atc_code": "N05C",
+                "children": [
+                    {
+                        "name": "Orexin receptor antagonists (N05CJ)",
+                        "atc_code": "N05CJ",
+                        "children": [
+                            {
+                                "name": "Daridorexant (N05CJ03)",
+                                "atc_code": "N05CJ03",
+                                "children": [
+                                    {
+                                        "name": "Daridorexant",
+                                        "drugbank_id": "DB15031"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lemborexant (N05CJ02)",
+                                "atc_code": "N05CJ02",
+                                "children": [
+                                    {
+                                        "name": "Lemborexant",
+                                        "drugbank_id": "DB11951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Suvorexant (N05CJ01)",
+                                "atc_code": "N05CJ01",
+                                "children": [
+                                    {
+                                        "name": "Suvorexant",
+                                        "drugbank_id": "DB09034"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hypnotics and sedatives in combination, excl. barbiturates (N05CX)",
+                        "atc_code": "N05CX",
+                        "children": [
+                            {
+                                "name": "Dipiperonylaminoethanol, combinations (N05CX06)",
+                                "atc_code": "N05CX06"
+                            },
+                            {
+                                "name": "Emepronium, combinations (N05CX05)",
+                                "atc_code": "N05CX05",
+                                "children": [
+                                    {
+                                        "name": "Emepronium",
+                                        "drugbank_id": "DB13505"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clomethiazole, combinations (N05CX04)",
+                                "atc_code": "N05CX04",
+                                "children": [
+                                    {
+                                        "name": "Clomethiazole",
+                                        "drugbank_id": "DB06470"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylpentynol, combinations (N05CX03)",
+                                "atc_code": "N05CX03",
+                                "children": [
+                                    {
+                                        "name": "Methylpentynol",
+                                        "drugbank_id": "DB13733"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methaqualone, combinations (N05CX02)",
+                                "atc_code": "N05CX02",
+                                "children": [
+                                    {
+                                        "name": "Methaqualone",
+                                        "drugbank_id": "DB04833"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meprobamate, combinations (N05CX01)",
+                                "atc_code": "N05CX01",
+                                "children": [
+                                    {
+                                        "name": "Meprobamate",
+                                        "drugbank_id": "DB00371"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other hypnotics and sedatives (N05CM)",
+                        "atc_code": "N05CM",
+                        "children": [
+                            {
+                                "name": "Dexmedetomidine (N05CM18)",
+                                "atc_code": "N05CM18",
+                                "children": [
+                                    {
+                                        "name": "Dexmedetomidine",
+                                        "drugbank_id": "DB00633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Niaprazine (N05CM16)",
+                                "atc_code": "N05CM16",
+                                "children": [
+                                    {
+                                        "name": "Niaprazine",
+                                        "drugbank_id": "DB13687"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylpentynol (N05CM15)",
+                                "atc_code": "N05CM15",
+                                "children": [
+                                    {
+                                        "name": "Methylpentynol",
+                                        "drugbank_id": "DB13733"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valnoctamide (N05CM13)",
+                                "atc_code": "N05CM13",
+                                "children": [
+                                    {
+                                        "name": "Valnoctamide",
+                                        "drugbank_id": "DB13099"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apronal (N05CM12)",
+                                "atc_code": "N05CM12",
+                                "children": [
+                                    {
+                                        "name": "Apronalide",
+                                        "drugbank_id": "DB13221"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromides (N05CM11)",
+                                "atc_code": "N05CM11"
+                            },
+                            {
+                                "name": "Hexapropymate (N05CM10)",
+                                "atc_code": "N05CM10",
+                                "children": [
+                                    {
+                                        "name": "Hexapropymate",
+                                        "drugbank_id": "DB13662"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valerianae radix (N05CM09)",
+                                "atc_code": "N05CM09",
+                                "children": [
+                                    {
+                                        "name": "Valerian",
+                                        "drugbank_id": "DB13196"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethchlorvynol (N05CM08)",
+                                "atc_code": "N05CM08",
+                                "children": [
+                                    {
+                                        "name": "Ethchlorvynol",
+                                        "drugbank_id": "DB00189"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triclofos (N05CM07)",
+                                "atc_code": "N05CM07",
+                                "children": [
+                                    {
+                                        "name": "Triclofos",
+                                        "drugbank_id": "DB06753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propiomazine (N05CM06)",
+                                "atc_code": "N05CM06",
+                                "children": [
+                                    {
+                                        "name": "Propiomazine",
+                                        "drugbank_id": "DB00777"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scopolamine (N05CM05)",
+                                "atc_code": "N05CM05",
+                                "children": [
+                                    {
+                                        "name": "Scopolamine",
+                                        "drugbank_id": "DB00747"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbromal (N05CM04)",
+                                "atc_code": "N05CM04",
+                                "children": [
+                                    {
+                                        "name": "Carbromal",
+                                        "drugbank_id": "DB13817"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromisoval (N05CM03)",
+                                "atc_code": "N05CM03",
+                                "children": [
+                                    {
+                                        "name": "Bromisoval",
+                                        "drugbank_id": "DB13370"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clomethiazole (N05CM02)",
+                                "atc_code": "N05CM02",
+                                "children": [
+                                    {
+                                        "name": "Clomethiazole",
+                                        "drugbank_id": "DB06470"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methaqualone (N05CM01)",
+                                "atc_code": "N05CM01",
+                                "children": [
+                                    {
+                                        "name": "Methaqualone",
+                                        "drugbank_id": "DB04833"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Melatonin receptor agonists (N05CH)",
+                        "atc_code": "N05CH",
+                        "children": [
+                            {
+                                "name": "Tasimelteon (N05CH03)",
+                                "atc_code": "N05CH03",
+                                "children": [
+                                    {
+                                        "name": "Tasimelteon",
+                                        "drugbank_id": "DB09071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramelteon (N05CH02)",
+                                "atc_code": "N05CH02",
+                                "children": [
+                                    {
+                                        "name": "Ramelteon",
+                                        "drugbank_id": "DB00980"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melatonin (N05CH01)",
+                                "atc_code": "N05CH01",
+                                "children": [
+                                    {
+                                        "name": "Melatonin",
+                                        "drugbank_id": "DB01065"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzodiazepine related drugs (N05CF)",
+                        "atc_code": "N05CF",
+                        "children": [
+                            {
+                                "name": "Eszopiclone (N05CF04)",
+                                "atc_code": "N05CF04",
+                                "children": [
+                                    {
+                                        "name": "Eszopiclone",
+                                        "drugbank_id": "DB00402"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zaleplon (N05CF03)",
+                                "atc_code": "N05CF03",
+                                "children": [
+                                    {
+                                        "name": "Zaleplon",
+                                        "drugbank_id": "DB00962"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zolpidem (N05CF02)",
+                                "atc_code": "N05CF02",
+                                "children": [
+                                    {
+                                        "name": "Zolpidem",
+                                        "drugbank_id": "DB00425"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zopiclone (N05CF01)",
+                                "atc_code": "N05CF01",
+                                "children": [
+                                    {
+                                        "name": "Zopiclone",
+                                        "drugbank_id": "DB01198"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Piperidinedione derivatives (N05CE)",
+                        "atc_code": "N05CE",
+                        "children": [
+                            {
+                                "name": "Pyrithyldione (N05CE03)",
+                                "atc_code": "N05CE03",
+                                "children": [
+                                    {
+                                        "name": "Pyrithyldione",
+                                        "drugbank_id": "DB13331"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methyprylon (N05CE02)",
+                                "atc_code": "N05CE02",
+                                "children": [
+                                    {
+                                        "name": "Methyprylon",
+                                        "drugbank_id": "DB01107"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glutethimide (N05CE01)",
+                                "atc_code": "N05CE01",
+                                "children": [
+                                    {
+                                        "name": "Glutethimide",
+                                        "drugbank_id": "DB01437"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzodiazepine derivatives (N05CD)",
+                        "atc_code": "N05CD",
+                        "children": [
+                            {
+                                "name": "Nimetazepam (N05CD15)",
+                                "atc_code": "N05CD15"
+                            },
+                            {
+                                "name": "Remimazolam (N05CD14)",
+                                "atc_code": "N05CD14",
+                                "children": [
+                                    {
+                                        "name": "Remimazolam",
+                                        "drugbank_id": "DB12404"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinolazepam (N05CD13)",
+                                "atc_code": "N05CD13",
+                                "children": [
+                                    {
+                                        "name": "Cinolazepam",
+                                        "drugbank_id": "DB01594"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxefazepam (N05CD12)",
+                                "atc_code": "N05CD12",
+                                "children": [
+                                    {
+                                        "name": "Doxefazepam",
+                                        "drugbank_id": "DB13837"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loprazolam (N05CD11)",
+                                "atc_code": "N05CD11",
+                                "children": [
+                                    {
+                                        "name": "Loprazolam",
+                                        "drugbank_id": "DB13643"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quazepam (N05CD10)",
+                                "atc_code": "N05CD10",
+                                "children": [
+                                    {
+                                        "name": "Quazepam",
+                                        "drugbank_id": "DB01589"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brotizolam (N05CD09)",
+                                "atc_code": "N05CD09",
+                                "children": [
+                                    {
+                                        "name": "Brotizolam",
+                                        "drugbank_id": "DB09017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Midazolam (N05CD08)",
+                                "atc_code": "N05CD08",
+                                "children": [
+                                    {
+                                        "name": "Midazolam",
+                                        "drugbank_id": "DB00683"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Temazepam (N05CD07)",
+                                "atc_code": "N05CD07",
+                                "children": [
+                                    {
+                                        "name": "Temazepam",
+                                        "drugbank_id": "DB00231"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lormetazepam (N05CD06)",
+                                "atc_code": "N05CD06",
+                                "children": [
+                                    {
+                                        "name": "Lormetazepam",
+                                        "drugbank_id": "DB13872"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triazolam (N05CD05)",
+                                "atc_code": "N05CD05",
+                                "children": [
+                                    {
+                                        "name": "Triazolam",
+                                        "drugbank_id": "DB00897"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Estazolam (N05CD04)",
+                                "atc_code": "N05CD04",
+                                "children": [
+                                    {
+                                        "name": "Estazolam",
+                                        "drugbank_id": "DB01215"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flunitrazepam (N05CD03)",
+                                "atc_code": "N05CD03",
+                                "children": [
+                                    {
+                                        "name": "Flunitrazepam",
+                                        "drugbank_id": "DB01544"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrazepam (N05CD02)",
+                                "atc_code": "N05CD02",
+                                "children": [
+                                    {
+                                        "name": "Nitrazepam",
+                                        "drugbank_id": "DB01595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flurazepam (N05CD01)",
+                                "atc_code": "N05CD01",
+                                "children": [
+                                    {
+                                        "name": "Flurazepam",
+                                        "drugbank_id": "DB00690"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aldehydes and derivatives (N05CC)",
+                        "atc_code": "N05CC",
+                        "children": [
+                            {
+                                "name": "Paraldehyde (N05CC05)",
+                                "atc_code": "N05CC05",
+                                "children": [
+                                    {
+                                        "name": "Paraldehyde",
+                                        "drugbank_id": "DB09117"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dichloralphenazone (N05CC04)",
+                                "atc_code": "N05CC04",
+                                "children": [
+                                    {
+                                        "name": "Dichloralphenazone",
+                                        "drugbank_id": "DB01495"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylglycinamide chloral hydrate (N05CC03)",
+                                "atc_code": "N05CC03",
+                                "children": [
+                                    {
+                                        "name": "Acetylglycinamide chloral hydrate",
+                                        "drugbank_id": "DB13402"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloralodol (N05CC02)",
+                                "atc_code": "N05CC02",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexadol",
+                                        "drugbank_id": "DB01534"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloral hydrate (N05CC01)",
+                                "atc_code": "N05CC01",
+                                "children": [
+                                    {
+                                        "name": "Chloral hydrate",
+                                        "drugbank_id": "DB01563"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barbiturates, combinations (N05CB)",
+                        "atc_code": "N05CB",
+                        "children": [
+                            {
+                                "name": "Barbiturates in combination with other drugs (N05CB02)",
+                                "atc_code": "N05CB02"
+                            },
+                            {
+                                "name": "Combinations of barbiturates (N05CB01)",
+                                "atc_code": "N05CB01",
+                                "children": [
+                                    {
+                                        "name": "Amobarbital",
+                                        "drugbank_id": "DB01351"
+                                    },
+                                    {
+                                        "name": "Phenobarbital",
+                                        "drugbank_id": "DB01174"
+                                    },
+                                    {
+                                        "name": "Methylphenobarbital",
+                                        "drugbank_id": "DB00849"
+                                    },
+                                    {
+                                        "name": "Butabarbital",
+                                        "drugbank_id": "DB00237"
+                                    },
+                                    {
+                                        "name": "Primidone",
+                                        "drugbank_id": "DB00794"
+                                    },
+                                    {
+                                        "name": "Thiamylal",
+                                        "drugbank_id": "DB01154"
+                                    },
+                                    {
+                                        "name": "Methohexital",
+                                        "drugbank_id": "DB00474"
+                                    },
+                                    {
+                                        "name": "Thiopental",
+                                        "drugbank_id": "DB00599"
+                                    },
+                                    {
+                                        "name": "Secobarbital",
+                                        "drugbank_id": "DB00418"
+                                    },
+                                    {
+                                        "name": "Pentobarbital",
+                                        "drugbank_id": "DB00312"
+                                    },
+                                    {
+                                        "name": "Butalbital",
+                                        "drugbank_id": "DB00241"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barbiturates, plain (N05CA)",
+                        "atc_code": "N05CA",
+                        "children": [
+                            {
+                                "name": "Proxibarbal (N05CA22)",
+                                "atc_code": "N05CA22",
+                                "children": [
+                                    {
+                                        "name": "Proxibarbal",
+                                        "drugbank_id": "DB13253"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Allobarbital (N05CA21)",
+                                "atc_code": "N05CA21",
+                                "children": [
+                                    {
+                                        "name": "Allobarbital",
+                                        "drugbank_id": "DB13577"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etallobarbital (N05CA20)",
+                                "atc_code": "N05CA20"
+                            },
+                            {
+                                "name": "Thiopental (N05CA19)",
+                                "atc_code": "N05CA19",
+                                "children": [
+                                    {
+                                        "name": "Thiopental",
+                                        "drugbank_id": "DB00599"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexobarbital (N05CA16)",
+                                "atc_code": "N05CA16",
+                                "children": [
+                                    {
+                                        "name": "Hexobarbital",
+                                        "drugbank_id": "DB01355"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methohexital (N05CA15)",
+                                "atc_code": "N05CA15",
+                                "children": [
+                                    {
+                                        "name": "Methohexital",
+                                        "drugbank_id": "DB00474"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reposal (N05CA12)",
+                                "atc_code": "N05CA12",
+                                "children": [
+                                    {
+                                        "name": "Reposal",
+                                        "drugbank_id": "DB13805"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Heptabarbital (N05CA11)",
+                                "atc_code": "N05CA11",
+                                "children": [
+                                    {
+                                        "name": "Heptabarbital",
+                                        "drugbank_id": "DB01354"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclobarbital (N05CA10)",
+                                "atc_code": "N05CA10",
+                                "children": [
+                                    {
+                                        "name": "Cyclobarbital",
+                                        "drugbank_id": "DB13737"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vinbarbital (N05CA09)",
+                                "atc_code": "N05CA09",
+                                "children": [
+                                    {
+                                        "name": "Vinbarbital",
+                                        "drugbank_id": "DB13377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vinylbital (N05CA08)",
+                                "atc_code": "N05CA08",
+                                "children": [
+                                    {
+                                        "name": "Vinylbital",
+                                        "drugbank_id": "DB13770"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Talbutal (N05CA07)",
+                                "atc_code": "N05CA07",
+                                "children": [
+                                    {
+                                        "name": "Talbutal",
+                                        "drugbank_id": "DB00306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Secobarbital (N05CA06)",
+                                "atc_code": "N05CA06",
+                                "children": [
+                                    {
+                                        "name": "Secobarbital",
+                                        "drugbank_id": "DB00418"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aprobarbital (N05CA05)",
+                                "atc_code": "N05CA05",
+                                "children": [
+                                    {
+                                        "name": "Aprobarbital",
+                                        "drugbank_id": "DB01352"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Barbital (N05CA04)",
+                                "atc_code": "N05CA04",
+                                "children": [
+                                    {
+                                        "name": "Barbital",
+                                        "drugbank_id": "DB01483"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butobarbital (N05CA03)",
+                                "atc_code": "N05CA03",
+                                "children": [
+                                    {
+                                        "name": "Butobarbital",
+                                        "drugbank_id": "DB01353"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amobarbital (N05CA02)",
+                                "atc_code": "N05CA02",
+                                "children": [
+                                    {
+                                        "name": "Amobarbital",
+                                        "drugbank_id": "DB01351"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentobarbital (N05CA01)",
+                                "atc_code": "N05CA01",
+                                "children": [
+                                    {
+                                        "name": "Pentobarbital",
+                                        "drugbank_id": "DB00312"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anxiolytics (N05B)",
+                "atc_code": "N05B",
+                "children": [
+                    {
+                        "name": "Other anxiolytics (N05BX)",
+                        "atc_code": "N05BX",
+                        "children": [
+                            {
+                                "name": "Lavandulae aetheroleum (N05BX05)",
+                                "atc_code": "N05BX05",
+                                "children": [
+                                    {
+                                        "name": "Lavender oil",
+                                        "drugbank_id": "DB14566"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fabomotizole (N05BX04)",
+                                "atc_code": "N05BX04",
+                                "children": [
+                                    {
+                                        "name": "Fabomotizole",
+                                        "drugbank_id": "DB13623"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etifoxine (N05BX03)",
+                                "atc_code": "N05BX03",
+                                "children": [
+                                    {
+                                        "name": "Etifoxine",
+                                        "drugbank_id": "DB08986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gedocarnil (N05BX02)",
+                                "atc_code": "N05BX02",
+                                "children": [
+                                    {
+                                        "name": "Gedocarnil",
+                                        "drugbank_id": "DB13534"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mephenoxalone (N05BX01)",
+                                "atc_code": "N05BX01",
+                                "children": [
+                                    {
+                                        "name": "Mephenoxalone",
+                                        "drugbank_id": "DB13754"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Azaspirodecanedione derivatives (N05BE)",
+                        "atc_code": "N05BE",
+                        "children": [
+                            {
+                                "name": "Buspirone (N05BE01)",
+                                "atc_code": "N05BE01",
+                                "children": [
+                                    {
+                                        "name": "Buspirone",
+                                        "drugbank_id": "DB00490"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dibenzo-bicyclo-octadiene derivatives (N05BD)",
+                        "atc_code": "N05BD",
+                        "children": [
+                            {
+                                "name": "Benzoctamine (N05BD01)",
+                                "atc_code": "N05BD01",
+                                "children": [
+                                    {
+                                        "name": "Benzoctamine",
+                                        "drugbank_id": "DB09021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carbamates (N05BC)",
+                        "atc_code": "N05BC",
+                        "children": [
+                            {
+                                "name": "Meprobamate, combinations (N05BC51)",
+                                "atc_code": "N05BC51",
+                                "children": [
+                                    {
+                                        "name": "Meprobamate",
+                                        "drugbank_id": "DB00371"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mebutamate (N05BC04)",
+                                "atc_code": "N05BC04",
+                                "children": [
+                                    {
+                                        "name": "Mebutamate",
+                                        "drugbank_id": "DB06797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emylcamate (N05BC03)",
+                                "atc_code": "N05BC03",
+                                "children": [
+                                    {
+                                        "name": "Emylcamate",
+                                        "drugbank_id": "DB13572"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meprobamate (N05BC01)",
+                                "atc_code": "N05BC01",
+                                "children": [
+                                    {
+                                        "name": "Meprobamate",
+                                        "drugbank_id": "DB00371"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diphenylmethane derivatives (N05BB)",
+                        "atc_code": "N05BB",
+                        "children": [
+                            {
+                                "name": "Hydroxyzine, combinations (N05BB51)",
+                                "atc_code": "N05BB51",
+                                "children": [
+                                    {
+                                        "name": "Hydroxyzine",
+                                        "drugbank_id": "DB00557"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Captodiame (N05BB02)",
+                                "atc_code": "N05BB02",
+                                "children": [
+                                    {
+                                        "name": "Captodiame",
+                                        "drugbank_id": "DB09014"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroxyzine (N05BB01)",
+                                "atc_code": "N05BB01",
+                                "children": [
+                                    {
+                                        "name": "Hydroxyzine",
+                                        "drugbank_id": "DB00557"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzodiazepine derivatives (N05BA)",
+                        "atc_code": "N05BA",
+                        "children": [
+                            {
+                                "name": "Mexazolam (N05BA25)",
+                                "atc_code": "N05BA25",
+                                "children": [
+                                    {
+                                        "name": "Mexazolam",
+                                        "drugbank_id": "DB15489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bentazepam (N05BA24)",
+                                "atc_code": "N05BA24",
+                                "children": [
+                                    {
+                                        "name": "Bentazepam",
+                                        "drugbank_id": "DB14719"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lorazepam, combinations (N05BA56)",
+                                "atc_code": "N05BA56",
+                                "children": [
+                                    {
+                                        "name": "Lorazepam",
+                                        "drugbank_id": "DB00186"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tofisopam (N05BA23)",
+                                "atc_code": "N05BA23",
+                                "children": [
+                                    {
+                                        "name": "Tofisopam",
+                                        "drugbank_id": "DB08811"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloxazolam (N05BA22)",
+                                "atc_code": "N05BA22",
+                                "children": [
+                                    {
+                                        "name": "Cloxazolam",
+                                        "drugbank_id": "DB01553"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clotiazepam (N05BA21)",
+                                "atc_code": "N05BA21",
+                                "children": [
+                                    {
+                                        "name": "Clotiazepam",
+                                        "drugbank_id": "DB01559"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etizolam (N05BA19)",
+                                "atc_code": "N05BA19",
+                                "children": [
+                                    {
+                                        "name": "Etizolam",
+                                        "drugbank_id": "DB09166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethyl loflazepate (N05BA18)",
+                                "atc_code": "N05BA18",
+                                "children": [
+                                    {
+                                        "name": "Ethyl loflazepate",
+                                        "drugbank_id": "DB01545"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludiazepam (N05BA17)",
+                                "atc_code": "N05BA17",
+                                "children": [
+                                    {
+                                        "name": "Fludiazepam",
+                                        "drugbank_id": "DB01567"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nordazepam (N05BA16)",
+                                "atc_code": "N05BA16",
+                                "children": [
+                                    {
+                                        "name": "Nordazepam",
+                                        "drugbank_id": "DB14028"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camazepam (N05BA15)",
+                                "atc_code": "N05BA15",
+                                "children": [
+                                    {
+                                        "name": "Camazepam",
+                                        "drugbank_id": "DB01489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pinazepam (N05BA14)",
+                                "atc_code": "N05BA14",
+                                "children": [
+                                    {
+                                        "name": "Pinazepam",
+                                        "drugbank_id": "DB13335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Halazepam (N05BA13)",
+                                "atc_code": "N05BA13",
+                                "children": [
+                                    {
+                                        "name": "Halazepam",
+                                        "drugbank_id": "DB00801"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alprazolam (N05BA12)",
+                                "atc_code": "N05BA12",
+                                "children": [
+                                    {
+                                        "name": "Alprazolam",
+                                        "drugbank_id": "DB00404"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prazepam (N05BA11)",
+                                "atc_code": "N05BA11",
+                                "children": [
+                                    {
+                                        "name": "Prazepam",
+                                        "drugbank_id": "DB01588"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketazolam (N05BA10)",
+                                "atc_code": "N05BA10",
+                                "children": [
+                                    {
+                                        "name": "Ketazolam",
+                                        "drugbank_id": "DB01587"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clobazam (N05BA09)",
+                                "atc_code": "N05BA09",
+                                "children": [
+                                    {
+                                        "name": "Clobazam",
+                                        "drugbank_id": "DB00349"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromazepam (N05BA08)",
+                                "atc_code": "N05BA08",
+                                "children": [
+                                    {
+                                        "name": "Bromazepam",
+                                        "drugbank_id": "DB01558"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adinazolam (N05BA07)",
+                                "atc_code": "N05BA07",
+                                "children": [
+                                    {
+                                        "name": "Adinazolam",
+                                        "drugbank_id": "DB00546"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lorazepam (N05BA06)",
+                                "atc_code": "N05BA06",
+                                "children": [
+                                    {
+                                        "name": "Lorazepam",
+                                        "drugbank_id": "DB00186"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium clorazepate (N05BA05)",
+                                "atc_code": "N05BA05",
+                                "children": [
+                                    {
+                                        "name": "Clorazepic acid",
+                                        "drugbank_id": "DB00628"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxazepam (N05BA04)",
+                                "atc_code": "N05BA04",
+                                "children": [
+                                    {
+                                        "name": "Oxazepam",
+                                        "drugbank_id": "DB00842"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medazepam (N05BA03)",
+                                "atc_code": "N05BA03",
+                                "children": [
+                                    {
+                                        "name": "Medazepam",
+                                        "drugbank_id": "DB13437"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlordiazepoxide (N05BA02)",
+                                "atc_code": "N05BA02",
+                                "children": [
+                                    {
+                                        "name": "Chlordiazepoxide",
+                                        "drugbank_id": "DB00475"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diazepam (N05BA01)",
+                                "atc_code": "N05BA01",
+                                "children": [
+                                    {
+                                        "name": "Diazepam",
+                                        "drugbank_id": "DB00829"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antipsychotics (N05A)",
+                "atc_code": "N05A",
+                "children": [
+                    {
+                        "name": "Other antipsychotics (N05AX)",
+                        "atc_code": "N05AX",
+                        "children": [
+                            {
+                                "name": "Pimavanserin (N05AX17)",
+                                "atc_code": "N05AX17",
+                                "children": [
+                                    {
+                                        "name": "Pimavanserin",
+                                        "drugbank_id": "DB05316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brexpiprazole (N05AX16)",
+                                "atc_code": "N05AX16",
+                                "children": [
+                                    {
+                                        "name": "Brexpiprazole",
+                                        "drugbank_id": "DB09128"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cariprazine (N05AX15)",
+                                "atc_code": "N05AX15",
+                                "children": [
+                                    {
+                                        "name": "Cariprazine",
+                                        "drugbank_id": "DB06016"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iloperidone (N05AX14)",
+                                "atc_code": "N05AX14",
+                                "children": [
+                                    {
+                                        "name": "Iloperidone",
+                                        "drugbank_id": "DB04946"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paliperidone (N05AX13)",
+                                "atc_code": "N05AX13",
+                                "children": [
+                                    {
+                                        "name": "Paliperidone",
+                                        "drugbank_id": "DB01267"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aripiprazole (N05AX12)",
+                                "atc_code": "N05AX12",
+                                "children": [
+                                    {
+                                        "name": "Aripiprazole",
+                                        "drugbank_id": "DB01238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zotepine (N05AX11)",
+                                "atc_code": "N05AX11",
+                                "children": [
+                                    {
+                                        "name": "Zotepine",
+                                        "drugbank_id": "DB09225"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mosapramine (N05AX10)",
+                                "atc_code": "N05AX10",
+                                "children": [
+                                    {
+                                        "name": "Mosapramine",
+                                        "drugbank_id": "DB13676"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risperidone (N05AX08)",
+                                "atc_code": "N05AX08",
+                                "children": [
+                                    {
+                                        "name": "Risperidone",
+                                        "drugbank_id": "DB00734"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prothipendyl (N05AX07)",
+                                "atc_code": "N05AX07",
+                                "children": [
+                                    {
+                                        "name": "Prothipendyl",
+                                        "drugbank_id": "DB12958"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lithium (N05AN)",
+                        "atc_code": "N05AN",
+                        "children": [
+                            {
+                                "name": "Lithium (N05AN01)",
+                                "atc_code": "N05AN01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzamides (N05AL)",
+                        "atc_code": "N05AL",
+                        "children": [
+                            {
+                                "name": "Levosulpiride (N05AL07)",
+                                "atc_code": "N05AL07",
+                                "children": [
+                                    {
+                                        "name": "Levosulpiride",
+                                        "drugbank_id": "DB16021"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Veralipride (N05AL06)",
+                                "atc_code": "N05AL06",
+                                "children": [
+                                    {
+                                        "name": "Veralipride",
+                                        "drugbank_id": "DB13523"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amisulpride (N05AL05)",
+                                "atc_code": "N05AL05",
+                                "children": [
+                                    {
+                                        "name": "Amisulpride",
+                                        "drugbank_id": "DB06288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Remoxipride (N05AL04)",
+                                "atc_code": "N05AL04",
+                                "children": [
+                                    {
+                                        "name": "Remoxipride",
+                                        "drugbank_id": "DB00409"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiapride (N05AL03)",
+                                "atc_code": "N05AL03",
+                                "children": [
+                                    {
+                                        "name": "Tiapride",
+                                        "drugbank_id": "DB13025"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sultopride (N05AL02)",
+                                "atc_code": "N05AL02",
+                                "children": [
+                                    {
+                                        "name": "Sultopride",
+                                        "drugbank_id": "DB13273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulpiride (N05AL01)",
+                                "atc_code": "N05AL01",
+                                "children": [
+                                    {
+                                        "name": "Sulpiride",
+                                        "drugbank_id": "DB00391"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diazepines, oxazepines, thiazepines and oxepines (N05AH)",
+                        "atc_code": "N05AH",
+                        "children": [
+                            {
+                                "name": "Olanzapine and samidorphan (N05AH53)",
+                                "atc_code": "N05AH53",
+                                "children": [
+                                    {
+                                        "name": "Samidorphan",
+                                        "drugbank_id": "DB12543"
+                                    },
+                                    {
+                                        "name": "Olanzapine",
+                                        "drugbank_id": "DB00334"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clotiapine (N05AH06)",
+                                "atc_code": "N05AH06",
+                                "children": [
+                                    {
+                                        "name": "Clothiapine",
+                                        "drugbank_id": "DB13256"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Asenapine (N05AH05)",
+                                "atc_code": "N05AH05",
+                                "children": [
+                                    {
+                                        "name": "Asenapine",
+                                        "drugbank_id": "DB06216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quetiapine (N05AH04)",
+                                "atc_code": "N05AH04",
+                                "children": [
+                                    {
+                                        "name": "Quetiapine",
+                                        "drugbank_id": "DB01224"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olanzapine (N05AH03)",
+                                "atc_code": "N05AH03",
+                                "children": [
+                                    {
+                                        "name": "Olanzapine",
+                                        "drugbank_id": "DB00334"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clozapine (N05AH02)",
+                                "atc_code": "N05AH02",
+                                "children": [
+                                    {
+                                        "name": "Clozapine",
+                                        "drugbank_id": "DB00363"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loxapine (N05AH01)",
+                                "atc_code": "N05AH01",
+                                "children": [
+                                    {
+                                        "name": "Loxapine",
+                                        "drugbank_id": "DB00408"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diphenylbutylpiperidine derivatives (N05AG)",
+                        "atc_code": "N05AG",
+                        "children": [
+                            {
+                                "name": "Penfluridol (N05AG03)",
+                                "atc_code": "N05AG03",
+                                "children": [
+                                    {
+                                        "name": "Penfluridol",
+                                        "drugbank_id": "DB13791"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pimozide (N05AG02)",
+                                "atc_code": "N05AG02",
+                                "children": [
+                                    {
+                                        "name": "Pimozide",
+                                        "drugbank_id": "DB01100"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluspirilene (N05AG01)",
+                                "atc_code": "N05AG01",
+                                "children": [
+                                    {
+                                        "name": "Fluspirilene",
+                                        "drugbank_id": "DB04842"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thioxanthene derivatives (N05AF)",
+                        "atc_code": "N05AF",
+                        "children": [
+                            {
+                                "name": "Zuclopenthixol (N05AF05)",
+                                "atc_code": "N05AF05",
+                                "children": [
+                                    {
+                                        "name": "Zuclopenthixol",
+                                        "drugbank_id": "DB01624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiotixene (N05AF04)",
+                                "atc_code": "N05AF04",
+                                "children": [
+                                    {
+                                        "name": "Thiothixene",
+                                        "drugbank_id": "DB01623"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorprothixene (N05AF03)",
+                                "atc_code": "N05AF03",
+                                "children": [
+                                    {
+                                        "name": "Chlorprothixene",
+                                        "drugbank_id": "DB01239"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clopenthixol (N05AF02)",
+                                "atc_code": "N05AF02",
+                                "children": [
+                                    {
+                                        "name": "Clopenthixol",
+                                        "drugbank_id": "DB13841"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flupentixol (N05AF01)",
+                                "atc_code": "N05AF01",
+                                "children": [
+                                    {
+                                        "name": "Flupentixol",
+                                        "drugbank_id": "DB00875"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indole derivatives (N05AE)",
+                        "atc_code": "N05AE",
+                        "children": [
+                            {
+                                "name": "Lurasidone (N05AE05)",
+                                "atc_code": "N05AE05",
+                                "children": [
+                                    {
+                                        "name": "Lurasidone",
+                                        "drugbank_id": "DB08815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ziprasidone (N05AE04)",
+                                "atc_code": "N05AE04",
+                                "children": [
+                                    {
+                                        "name": "Ziprasidone",
+                                        "drugbank_id": "DB00246"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sertindole (N05AE03)",
+                                "atc_code": "N05AE03",
+                                "children": [
+                                    {
+                                        "name": "Sertindole",
+                                        "drugbank_id": "DB06144"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Molindone (N05AE02)",
+                                "atc_code": "N05AE02",
+                                "children": [
+                                    {
+                                        "name": "Molindone",
+                                        "drugbank_id": "DB01618"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxypertine (N05AE01)",
+                                "atc_code": "N05AE01",
+                                "children": [
+                                    {
+                                        "name": "Oxypertine",
+                                        "drugbank_id": "DB13403"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Butyrophenone derivatives (N05AD)",
+                        "atc_code": "N05AD",
+                        "children": [
+                            {
+                                "name": "Lumateperone (N05AD10)",
+                                "atc_code": "N05AD10",
+                                "children": [
+                                    {
+                                        "name": "Lumateperone",
+                                        "drugbank_id": "DB06077"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluanisone (N05AD09)",
+                                "atc_code": "N05AD09",
+                                "children": [
+                                    {
+                                        "name": "Fluanisone",
+                                        "drugbank_id": "DB13665"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Droperidol (N05AD08)",
+                                "atc_code": "N05AD08",
+                                "children": [
+                                    {
+                                        "name": "Droperidol",
+                                        "drugbank_id": "DB00450"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benperidol (N05AD07)",
+                                "atc_code": "N05AD07",
+                                "children": [
+                                    {
+                                        "name": "Benperidol",
+                                        "drugbank_id": "DB12867"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromperidol (N05AD06)",
+                                "atc_code": "N05AD06",
+                                "children": [
+                                    {
+                                        "name": "Bromperidol",
+                                        "drugbank_id": "DB12401"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipamperone (N05AD05)",
+                                "atc_code": "N05AD05",
+                                "children": [
+                                    {
+                                        "name": "Pipamperone",
+                                        "drugbank_id": "DB09286"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moperone (N05AD04)",
+                                "atc_code": "N05AD04",
+                                "children": [
+                                    {
+                                        "name": "Moperone",
+                                        "drugbank_id": "DB13554"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melperone (N05AD03)",
+                                "atc_code": "N05AD03",
+                                "children": [
+                                    {
+                                        "name": "Melperone",
+                                        "drugbank_id": "DB09224"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trifluperidol (N05AD02)",
+                                "atc_code": "N05AD02",
+                                "children": [
+                                    {
+                                        "name": "Trifluperidol",
+                                        "drugbank_id": "DB13552"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Haloperidol (N05AD01)",
+                                "atc_code": "N05AD01",
+                                "children": [
+                                    {
+                                        "name": "Haloperidol",
+                                        "drugbank_id": "DB00502"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenothiazines with piperidine structure (N05AC)",
+                        "atc_code": "N05AC",
+                        "children": [
+                            {
+                                "name": "Pipotiazine (N05AC04)",
+                                "atc_code": "N05AC04",
+                                "children": [
+                                    {
+                                        "name": "Pipotiazine",
+                                        "drugbank_id": "DB01621"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesoridazine (N05AC03)",
+                                "atc_code": "N05AC03",
+                                "children": [
+                                    {
+                                        "name": "Mesoridazine",
+                                        "drugbank_id": "DB00933"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thioridazine (N05AC02)",
+                                "atc_code": "N05AC02",
+                                "children": [
+                                    {
+                                        "name": "Thioridazine",
+                                        "drugbank_id": "DB00679"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Periciazine (N05AC01)",
+                                "atc_code": "N05AC01",
+                                "children": [
+                                    {
+                                        "name": "Periciazine",
+                                        "drugbank_id": "DB01608"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenothiazines with piperazine structure (N05AB)",
+                        "atc_code": "N05AB",
+                        "children": [
+                            {
+                                "name": "Perazine (N05AB10)",
+                                "atc_code": "N05AB10",
+                                "children": [
+                                    {
+                                        "name": "Perazine",
+                                        "drugbank_id": "DB12710"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butaperazine (N05AB09)",
+                                "atc_code": "N05AB09",
+                                "children": [
+                                    {
+                                        "name": "Butaperazine",
+                                        "drugbank_id": "DB13213"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thioproperazine (N05AB08)",
+                                "atc_code": "N05AB08",
+                                "children": [
+                                    {
+                                        "name": "Thioproperazine",
+                                        "drugbank_id": "DB01622"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetophenazine (N05AB07)",
+                                "atc_code": "N05AB07",
+                                "children": [
+                                    {
+                                        "name": "Acetophenazine",
+                                        "drugbank_id": "DB01063"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trifluoperazine (N05AB06)",
+                                "atc_code": "N05AB06",
+                                "children": [
+                                    {
+                                        "name": "Trifluoperazine",
+                                        "drugbank_id": "DB00831"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiopropazate (N05AB05)",
+                                "atc_code": "N05AB05",
+                                "children": [
+                                    {
+                                        "name": "Thiopropazate",
+                                        "drugbank_id": "DB13557"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prochlorperazine (N05AB04)",
+                                "atc_code": "N05AB04",
+                                "children": [
+                                    {
+                                        "name": "Prochlorperazine",
+                                        "drugbank_id": "DB00433"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perphenazine (N05AB03)",
+                                "atc_code": "N05AB03",
+                                "children": [
+                                    {
+                                        "name": "Perphenazine",
+                                        "drugbank_id": "DB00850"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluphenazine (N05AB02)",
+                                "atc_code": "N05AB02",
+                                "children": [
+                                    {
+                                        "name": "Fluphenazine",
+                                        "drugbank_id": "DB00623"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dixyrazine (N05AB01)",
+                                "atc_code": "N05AB01",
+                                "children": [
+                                    {
+                                        "name": "Dixyrazine",
+                                        "drugbank_id": "DB13784"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenothiazines with aliphatic side-chain (N05AA)",
+                        "atc_code": "N05AA",
+                        "children": [
+                            {
+                                "name": "Chlorproethazine (N05AA07)",
+                                "atc_code": "N05AA07",
+                                "children": [
+                                    {
+                                        "name": "Chlorproethazine",
+                                        "drugbank_id": "DB13382"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyamemazine (N05AA06)",
+                                "atc_code": "N05AA06",
+                                "children": [
+                                    {
+                                        "name": "Cyamemazine",
+                                        "drugbank_id": "DB09000"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triflupromazine (N05AA05)",
+                                "atc_code": "N05AA05",
+                                "children": [
+                                    {
+                                        "name": "Triflupromazine",
+                                        "drugbank_id": "DB00508"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acepromazine (N05AA04)",
+                                "atc_code": "N05AA04",
+                                "children": [
+                                    {
+                                        "name": "Acepromazine",
+                                        "drugbank_id": "DB01614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Promazine (N05AA03)",
+                                "atc_code": "N05AA03",
+                                "children": [
+                                    {
+                                        "name": "Promazine",
+                                        "drugbank_id": "DB00420"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levomepromazine (N05AA02)",
+                                "atc_code": "N05AA02",
+                                "children": [
+                                    {
+                                        "name": "Methotrimeprazine",
+                                        "drugbank_id": "DB01403"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorpromazine (N05AA01)",
+                                "atc_code": "N05AA01",
+                                "children": [
+                                    {
+                                        "name": "Chlorpromazine",
+                                        "drugbank_id": "DB00477"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

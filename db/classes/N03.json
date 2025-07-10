@@ -1,0 +1,546 @@
+[
+    {
+        "name": "Antiepileptics (N03)",
+        "atc_code": "N03",
+        "children": [
+            {
+                "name": "Antiepileptics (N03A)",
+                "atc_code": "N03A",
+                "children": [
+                    {
+                        "name": "Other antiepileptics (N03AX)",
+                        "atc_code": "N03AX",
+                        "children": [
+                            {
+                                "name": "Ganaxolone (N03AX27)",
+                                "atc_code": "N03AX27",
+                                "children": [
+                                    {
+                                        "name": "Ganaxolone",
+                                        "drugbank_id": "DB05087"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenfluramine (N03AX26)",
+                                "atc_code": "N03AX26",
+                                "children": [
+                                    {
+                                        "name": "Fenfluramine",
+                                        "drugbank_id": "DB00574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cenobamate (N03AX25)",
+                                "atc_code": "N03AX25",
+                                "children": [
+                                    {
+                                        "name": "Cenobamate",
+                                        "drugbank_id": "DB06119"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cannabidiol (N03AX24)",
+                                "atc_code": "N03AX24",
+                                "children": [
+                                    {
+                                        "name": "Cannabidiol",
+                                        "drugbank_id": "DB09061"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beclamide (N03AX30)",
+                                "atc_code": "N03AX30",
+                                "children": [
+                                    {
+                                        "name": "Beclamide",
+                                        "drugbank_id": "DB09011"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brivaracetam (N03AX23)",
+                                "atc_code": "N03AX23",
+                                "children": [
+                                    {
+                                        "name": "Brivaracetam",
+                                        "drugbank_id": "DB05541"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perampanel (N03AX22)",
+                                "atc_code": "N03AX22",
+                                "children": [
+                                    {
+                                        "name": "Perampanel",
+                                        "drugbank_id": "DB08883"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Retigabine (N03AX21)",
+                                "atc_code": "N03AX21",
+                                "children": [
+                                    {
+                                        "name": "Ezogabine",
+                                        "drugbank_id": "DB04953"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carisbamate (N03AX19)",
+                                "atc_code": "N03AX19",
+                                "children": [
+                                    {
+                                        "name": "Carisbamate",
+                                        "drugbank_id": "DB12338"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lacosamide (N03AX18)",
+                                "atc_code": "N03AX18",
+                                "children": [
+                                    {
+                                        "name": "Lacosamide",
+                                        "drugbank_id": "DB06218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stiripentol (N03AX17)",
+                                "atc_code": "N03AX17",
+                                "children": [
+                                    {
+                                        "name": "Stiripentol",
+                                        "drugbank_id": "DB09118"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zonisamide (N03AX15)",
+                                "atc_code": "N03AX15",
+                                "children": [
+                                    {
+                                        "name": "Zonisamide",
+                                        "drugbank_id": "DB00909"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levetiracetam (N03AX14)",
+                                "atc_code": "N03AX14",
+                                "children": [
+                                    {
+                                        "name": "Levetiracetam",
+                                        "drugbank_id": "DB01202"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pheneturide (N03AX13)",
+                                "atc_code": "N03AX13",
+                                "children": [
+                                    {
+                                        "name": "Pheneturide",
+                                        "drugbank_id": "DB13362"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Topiramate (N03AX11)",
+                                "atc_code": "N03AX11",
+                                "children": [
+                                    {
+                                        "name": "Topiramate",
+                                        "drugbank_id": "DB00273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Felbamate (N03AX10)",
+                                "atc_code": "N03AX10",
+                                "children": [
+                                    {
+                                        "name": "Felbamate",
+                                        "drugbank_id": "DB00949"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamotrigine (N03AX09)",
+                                "atc_code": "N03AX09",
+                                "children": [
+                                    {
+                                        "name": "Lamotrigine",
+                                        "drugbank_id": "DB00555"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenacemide (N03AX07)",
+                                "atc_code": "N03AX07",
+                                "children": [
+                                    {
+                                        "name": "Phenacemide",
+                                        "drugbank_id": "DB01121"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sultiame (N03AX03)",
+                                "atc_code": "N03AX03",
+                                "children": [
+                                    {
+                                        "name": "Sulthiame",
+                                        "drugbank_id": "DB08329"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fatty acid derivatives (N03AG)",
+                        "atc_code": "N03AG",
+                        "children": [
+                            {
+                                "name": "Tiagabine (N03AG06)",
+                                "atc_code": "N03AG06",
+                                "children": [
+                                    {
+                                        "name": "Tiagabine",
+                                        "drugbank_id": "DB00906"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Progabide (N03AG05)",
+                                "atc_code": "N03AG05",
+                                "children": [
+                                    {
+                                        "name": "Progabide",
+                                        "drugbank_id": "DB00837"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vigabatrin (N03AG04)",
+                                "atc_code": "N03AG04",
+                                "children": [
+                                    {
+                                        "name": "Vigabatrin",
+                                        "drugbank_id": "DB01080"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminobutyric acid (N03AG03)",
+                                "atc_code": "N03AG03"
+                            },
+                            {
+                                "name": "Valpromide (N03AG02)",
+                                "atc_code": "N03AG02",
+                                "children": [
+                                    {
+                                        "name": "Valpromide",
+                                        "drugbank_id": "DB04165"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valproic acid (N03AG01)",
+                                "atc_code": "N03AG01",
+                                "children": [
+                                    {
+                                        "name": "Valproic acid",
+                                        "drugbank_id": "DB00313"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carboxamide derivatives (N03AF)",
+                        "atc_code": "N03AF",
+                        "children": [
+                            {
+                                "name": "Eslicarbazepine (N03AF04)",
+                                "atc_code": "N03AF04",
+                                "children": [
+                                    {
+                                        "name": "Eslicarbazepine",
+                                        "drugbank_id": "DB14575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rufinamide (N03AF03)",
+                                "atc_code": "N03AF03",
+                                "children": [
+                                    {
+                                        "name": "Rufinamide",
+                                        "drugbank_id": "DB06201"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxcarbazepine (N03AF02)",
+                                "atc_code": "N03AF02",
+                                "children": [
+                                    {
+                                        "name": "Oxcarbazepine",
+                                        "drugbank_id": "DB00776"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbamazepine (N03AF01)",
+                                "atc_code": "N03AF01",
+                                "children": [
+                                    {
+                                        "name": "Carbamazepine",
+                                        "drugbank_id": "DB00564"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzodiazepine derivatives (N03AE)",
+                        "atc_code": "N03AE",
+                        "children": [
+                            {
+                                "name": "Clonazepam (N03AE01)",
+                                "atc_code": "N03AE01",
+                                "children": [
+                                    {
+                                        "name": "Clonazepam",
+                                        "drugbank_id": "DB01068"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Succinimide derivatives (N03AD)",
+                        "atc_code": "N03AD",
+                        "children": [
+                            {
+                                "name": "Ethosuximide, combinations (N03AD51)",
+                                "atc_code": "N03AD51",
+                                "children": [
+                                    {
+                                        "name": "Ethosuximide",
+                                        "drugbank_id": "DB00593"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesuximide (N03AD03)",
+                                "atc_code": "N03AD03",
+                                "children": [
+                                    {
+                                        "name": "Methsuximide",
+                                        "drugbank_id": "DB05246"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phensuximide (N03AD02)",
+                                "atc_code": "N03AD02",
+                                "children": [
+                                    {
+                                        "name": "Phensuximide",
+                                        "drugbank_id": "DB00832"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethosuximide (N03AD01)",
+                                "atc_code": "N03AD01",
+                                "children": [
+                                    {
+                                        "name": "Ethosuximide",
+                                        "drugbank_id": "DB00593"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oxazolidine derivatives (N03AC)",
+                        "atc_code": "N03AC",
+                        "children": [
+                            {
+                                "name": "Ethadione (N03AC03)",
+                                "atc_code": "N03AC03",
+                                "children": [
+                                    {
+                                        "name": "Ethadione",
+                                        "drugbank_id": "DB13799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimethadione (N03AC02)",
+                                "atc_code": "N03AC02",
+                                "children": [
+                                    {
+                                        "name": "Trimethadione",
+                                        "drugbank_id": "DB00347"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paramethadione (N03AC01)",
+                                "atc_code": "N03AC01",
+                                "children": [
+                                    {
+                                        "name": "Paramethadione",
+                                        "drugbank_id": "DB00617"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydantoin derivatives (N03AB)",
+                        "atc_code": "N03AB",
+                        "children": [
+                            {
+                                "name": "Mephenytoin, combinations (N03AB54)",
+                                "atc_code": "N03AB54",
+                                "children": [
+                                    {
+                                        "name": "Mephenytoin",
+                                        "drugbank_id": "DB00532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenytoin, combinations (N03AB52)",
+                                "atc_code": "N03AB52",
+                                "children": [
+                                    {
+                                        "name": "Phenytoin",
+                                        "drugbank_id": "DB00252"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosphenytoin (N03AB05)",
+                                "atc_code": "N03AB05",
+                                "children": [
+                                    {
+                                        "name": "Fosphenytoin",
+                                        "drugbank_id": "DB01320"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mephenytoin (N03AB04)",
+                                "atc_code": "N03AB04",
+                                "children": [
+                                    {
+                                        "name": "Mephenytoin",
+                                        "drugbank_id": "DB00532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amino(diphenylhydantoin) valeric acid (N03AB03)",
+                                "atc_code": "N03AB03",
+                                "children": [
+                                    {
+                                        "name": "Neocitrullamon",
+                                        "drugbank_id": "DB13396"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenytoin (N03AB02)",
+                                "atc_code": "N03AB02",
+                                "children": [
+                                    {
+                                        "name": "Phenytoin",
+                                        "drugbank_id": "DB00252"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethotoin (N03AB01)",
+                                "atc_code": "N03AB01",
+                                "children": [
+                                    {
+                                        "name": "Ethotoin",
+                                        "drugbank_id": "DB00754"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barbiturates and derivatives (N03AA)",
+                        "atc_code": "N03AA",
+                        "children": [
+                            {
+                                "name": "Metharbital (N03AA30)",
+                                "atc_code": "N03AA30",
+                                "children": [
+                                    {
+                                        "name": "Metharbital",
+                                        "drugbank_id": "DB00463"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Barbexaclone (N03AA04)",
+                                "atc_code": "N03AA04",
+                                "children": [
+                                    {
+                                        "name": "Barbexaclone",
+                                        "drugbank_id": "DB09001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Primidone (N03AA03)",
+                                "atc_code": "N03AA03",
+                                "children": [
+                                    {
+                                        "name": "Primidone",
+                                        "drugbank_id": "DB00794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenobarbital (N03AA02)",
+                                "atc_code": "N03AA02",
+                                "children": [
+                                    {
+                                        "name": "Phenobarbital",
+                                        "drugbank_id": "DB01174"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylphenobarbital (N03AA01)",
+                                "atc_code": "N03AA01",
+                                "children": [
+                                    {
+                                        "name": "Methylphenobarbital",
+                                        "drugbank_id": "DB00849"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

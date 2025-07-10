@@ -1,0 +1,384 @@
+[
+    {
+        "name": "Topical products for joint and muscular pain (M02)",
+        "atc_code": "M02",
+        "children": [
+            {
+                "name": "Topical products for joint and muscular pain (M02A)",
+                "atc_code": "M02A",
+                "children": [
+                    {
+                        "name": "Other topical products for joint and muscular pain (M02AX)",
+                        "atc_code": "M02AX",
+                        "children": [
+                            {
+                                "name": "Various (M02AX10)",
+                                "atc_code": "M02AX10"
+                            },
+                            {
+                                "name": "Tolperisone (M02AX06)",
+                                "atc_code": "M02AX06",
+                                "children": [
+                                    {
+                                        "name": "Tolperisone",
+                                        "drugbank_id": "DB06264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idrocilamide (M02AX05)",
+                                "atc_code": "M02AX05",
+                                "children": [
+                                    {
+                                        "name": "Idrocilamide",
+                                        "drugbank_id": "DB13297"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethyl sulfoxide (M02AX03)",
+                                "atc_code": "M02AX03",
+                                "children": [
+                                    {
+                                        "name": "Dimethyl sulfoxide",
+                                        "drugbank_id": "DB01093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolazoline (M02AX02)",
+                                "atc_code": "M02AX02",
+                                "children": [
+                                    {
+                                        "name": "Tolazoline",
+                                        "drugbank_id": "DB00797"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations with salicylic acid derivatives (M02AC)",
+                        "atc_code": "M02AC"
+                    },
+                    {
+                        "name": "Capsaicin and similar agents (M02AB)",
+                        "atc_code": "M02AB",
+                        "children": [
+                            {
+                                "name": "Zucapsaicin (M02AB02)",
+                                "atc_code": "M02AB02",
+                                "children": [
+                                    {
+                                        "name": "Zucapsaicin",
+                                        "drugbank_id": "DB09120"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Capsaicin (M02AB01)",
+                                "atc_code": "M02AB01",
+                                "children": [
+                                    {
+                                        "name": "Capsaicin",
+                                        "drugbank_id": "DB06774"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinflammatory preparations, non-steroids for topical use (M02AA)",
+                        "atc_code": "M02AA",
+                        "children": [
+                            {
+                                "name": "Loxoprofen (M02AA31)",
+                                "atc_code": "M02AA31",
+                                "children": [
+                                    {
+                                        "name": "Loxoprofen",
+                                        "drugbank_id": "DB09212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esflurbiprofen (M02AA29)",
+                                "atc_code": "M02AA29",
+                                "children": [
+                                    {
+                                        "name": "Esflurbiprofen",
+                                        "drugbank_id": "DB16159"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piketoprofen (M02AA28)",
+                                "atc_code": "M02AA28"
+                            },
+                            {
+                                "name": "Dexketoprofen (M02AA27)",
+                                "atc_code": "M02AA27",
+                                "children": [
+                                    {
+                                        "name": "Dexketoprofen",
+                                        "drugbank_id": "DB09214"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nimesulide (M02AA26)",
+                                "atc_code": "M02AA26",
+                                "children": [
+                                    {
+                                        "name": "Nimesulide",
+                                        "drugbank_id": "DB04743"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aceclofenac (M02AA25)",
+                                "atc_code": "M02AA25",
+                                "children": [
+                                    {
+                                        "name": "Aceclofenac",
+                                        "drugbank_id": "DB06736"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifenazone (M02AA24)",
+                                "atc_code": "M02AA24",
+                                "children": [
+                                    {
+                                        "name": "Nifenazone",
+                                        "drugbank_id": "DB13407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indometacin (M02AA23)",
+                                "atc_code": "M02AA23",
+                                "children": [
+                                    {
+                                        "name": "Indomethacin",
+                                        "drugbank_id": "DB00328"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Suxibuzone (M02AA22)",
+                                "atc_code": "M02AA22",
+                                "children": [
+                                    {
+                                        "name": "Suxibuzone",
+                                        "drugbank_id": "DB13232"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolmetin (M02AA21)",
+                                "atc_code": "M02AA21",
+                                "children": [
+                                    {
+                                        "name": "Tolmetin",
+                                        "drugbank_id": "DB00500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flurbiprofen (M02AA19)",
+                                "atc_code": "M02AA19",
+                                "children": [
+                                    {
+                                        "name": "Flurbiprofen",
+                                        "drugbank_id": "DB00712"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meclofenamic acid (M02AA18)",
+                                "atc_code": "M02AA18",
+                                "children": [
+                                    {
+                                        "name": "Meclofenamic acid",
+                                        "drugbank_id": "DB00939"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Niflumic acid (M02AA17)",
+                                "atc_code": "M02AA17",
+                                "children": [
+                                    {
+                                        "name": "Niflumic acid",
+                                        "drugbank_id": "DB04552"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Feprazone (M02AA16)",
+                                "atc_code": "M02AA16",
+                                "children": [
+                                    {
+                                        "name": "Feprazone",
+                                        "drugbank_id": "DB13364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diclofenac (M02AA15)",
+                                "atc_code": "M02AA15",
+                                "children": [
+                                    {
+                                        "name": "Diclofenac",
+                                        "drugbank_id": "DB00586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fentiazac (M02AA14)",
+                                "atc_code": "M02AA14",
+                                "children": [
+                                    {
+                                        "name": "Fentiazac",
+                                        "drugbank_id": "DB13217"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibuprofen (M02AA13)",
+                                "atc_code": "M02AA13",
+                                "children": [
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naproxen (M02AA12)",
+                                "atc_code": "M02AA12",
+                                "children": [
+                                    {
+                                        "name": "Naproxen",
+                                        "drugbank_id": "DB00788"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bendazac (M02AA11)",
+                                "atc_code": "M02AA11",
+                                "children": [
+                                    {
+                                        "name": "Bendazac",
+                                        "drugbank_id": "DB13501"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketoprofen (M02AA10)",
+                                "atc_code": "M02AA10",
+                                "children": [
+                                    {
+                                        "name": "Ketoprofen",
+                                        "drugbank_id": "DB01009"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bufexamac (M02AA09)",
+                                "atc_code": "M02AA09",
+                                "children": [
+                                    {
+                                        "name": "Bufexamac",
+                                        "drugbank_id": "DB13346"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Felbinac (M02AA08)",
+                                "atc_code": "M02AA08",
+                                "children": [
+                                    {
+                                        "name": "Felbinac",
+                                        "drugbank_id": "DB07477"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piroxicam (M02AA07)",
+                                "atc_code": "M02AA07",
+                                "children": [
+                                    {
+                                        "name": "Piroxicam",
+                                        "drugbank_id": "DB00554"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etofenamate (M02AA06)",
+                                "atc_code": "M02AA06",
+                                "children": [
+                                    {
+                                        "name": "Etofenamate",
+                                        "drugbank_id": "DB08984"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzydamine (M02AA05)",
+                                "atc_code": "M02AA05",
+                                "children": [
+                                    {
+                                        "name": "Benzydamine",
+                                        "drugbank_id": "DB09084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyphenbutazone (M02AA04)",
+                                "atc_code": "M02AA04",
+                                "children": [
+                                    {
+                                        "name": "Oxyphenbutazone",
+                                        "drugbank_id": "DB03585"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofezone (M02AA03)",
+                                "atc_code": "M02AA03",
+                                "children": [
+                                    {
+                                        "name": "Rabeprazole",
+                                        "drugbank_id": "DB01129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mofebutazone (M02AA02)",
+                                "atc_code": "M02AA02",
+                                "children": [
+                                    {
+                                        "name": "Mofebutazone",
+                                        "drugbank_id": "DB13629"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylbutazone (M02AA01)",
+                                "atc_code": "M02AA01",
+                                "children": [
+                                    {
+                                        "name": "Phenylbutazone",
+                                        "drugbank_id": "DB00812"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

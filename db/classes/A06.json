@@ -1,0 +1,656 @@
+[
+    {
+        "name": "Drugs for constipation (A06)",
+        "atc_code": "A06",
+        "children": [
+            {
+                "name": "Drugs for constipation (A06A)",
+                "atc_code": "A06A",
+                "children": [
+                    {
+                        "name": "Other drugs for constipation (A06AX)",
+                        "atc_code": "A06AX",
+                        "children": [
+                            {
+                                "name": "Elobixibat (A06AX09)",
+                                "atc_code": "A06AX09",
+                                "children": [
+                                    {
+                                        "name": "Elobixibat",
+                                        "drugbank_id": "DB12486"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tenapanor (A06AX08)",
+                                "atc_code": "A06AX08",
+                                "children": [
+                                    {
+                                        "name": "Tenapanor",
+                                        "drugbank_id": "DB11761"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Plecanatide (A06AX07)",
+                                "atc_code": "A06AX07",
+                                "children": [
+                                    {
+                                        "name": "Plecanatide",
+                                        "drugbank_id": "DB13170"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tegaserod (A06AX06)",
+                                "atc_code": "A06AX06",
+                                "children": [
+                                    {
+                                        "name": "Tegaserod",
+                                        "drugbank_id": "DB01079"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prucalopride (A06AX05)",
+                                "atc_code": "A06AX05",
+                                "children": [
+                                    {
+                                        "name": "Prucalopride",
+                                        "drugbank_id": "DB06480"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linaclotide (A06AX04)",
+                                "atc_code": "A06AX04",
+                                "children": [
+                                    {
+                                        "name": "Linaclotide",
+                                        "drugbank_id": "DB08890"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lubiprostone (A06AX03)",
+                                "atc_code": "A06AX03",
+                                "children": [
+                                    {
+                                        "name": "Lubiprostone",
+                                        "drugbank_id": "DB01046"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbon dioxide producing drugs (A06AX02)",
+                                "atc_code": "A06AX02"
+                            },
+                            {
+                                "name": "Glycerol (A06AX01)",
+                                "atc_code": "A06AX01",
+                                "children": [
+                                    {
+                                        "name": "Glycerin",
+                                        "drugbank_id": "DB09462"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peripheral opioid receptor antagonists (A06AH)",
+                        "atc_code": "A06AH",
+                        "children": [
+                            {
+                                "name": "Naldemedine (A06AH05)",
+                                "atc_code": "A06AH05",
+                                "children": [
+                                    {
+                                        "name": "Naldemedine",
+                                        "drugbank_id": "DB11691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naloxone (A06AH04)",
+                                "atc_code": "A06AH04",
+                                "children": [
+                                    {
+                                        "name": "Naloxone",
+                                        "drugbank_id": "DB01183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naloxegol (A06AH03)",
+                                "atc_code": "A06AH03",
+                                "children": [
+                                    {
+                                        "name": "Naloxegol",
+                                        "drugbank_id": "DB09049"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alvimopan (A06AH02)",
+                                "atc_code": "A06AH02",
+                                "children": [
+                                    {
+                                        "name": "Alvimopan",
+                                        "drugbank_id": "DB06274"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylnaltrexone bromide (A06AH01)",
+                                "atc_code": "A06AH01",
+                                "children": [
+                                    {
+                                        "name": "Methylnaltrexone",
+                                        "drugbank_id": "DB06800"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enemas (A06AG)",
+                        "atc_code": "A06AG",
+                        "children": [
+                            {
+                                "name": "Combinations (A06AG20)",
+                                "atc_code": "A06AG20"
+                            },
+                            {
+                                "name": "Sodium lauryl sulfoacetate, incl. combinations (A06AG11)",
+                                "atc_code": "A06AG11",
+                                "children": [
+                                    {
+                                        "name": "Sodium lauryl sulfoacetate",
+                                        "drugbank_id": "DB13157"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Docusate sodium, incl. combinations (A06AG10)",
+                                "atc_code": "A06AG10"
+                            },
+                            {
+                                "name": "Sorbitol (A06AG07)",
+                                "atc_code": "A06AG07",
+                                "children": [
+                                    {
+                                        "name": "Sorbitol",
+                                        "drugbank_id": "DB01638"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oil (A06AG06)",
+                                "atc_code": "A06AG06"
+                            },
+                            {
+                                "name": "Glycerol (A06AG04)",
+                                "atc_code": "A06AG04",
+                                "children": [
+                                    {
+                                        "name": "Glycerin",
+                                        "drugbank_id": "DB09462"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dantron, incl. combinations (A06AG03)",
+                                "atc_code": "A06AG03",
+                                "children": [
+                                    {
+                                        "name": "Dantron",
+                                        "drugbank_id": "DB04816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisacodyl (A06AG02)",
+                                "atc_code": "A06AG02",
+                                "children": [
+                                    {
+                                        "name": "Bisacodyl",
+                                        "drugbank_id": "DB09020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phosphate (A06AG01)",
+                                "atc_code": "A06AG01",
+                                "children": [
+                                    {
+                                        "name": "Sodium phosphate, monobasic",
+                                        "drugbank_id": "DB09449"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Osmotically acting laxatives (A06AD)",
+                        "atc_code": "A06AD",
+                        "children": [
+                            {
+                                "name": "Macrogol, combinations (A06AD65)",
+                                "atc_code": "A06AD65",
+                                "children": [
+                                    {
+                                        "name": "Polyethylene glycol",
+                                        "drugbank_id": "DB09287"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactulose, combinations (A06AD61)",
+                                "atc_code": "A06AD61",
+                                "children": [
+                                    {
+                                        "name": "Lactulose",
+                                        "drugbank_id": "DB00581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium tartrate (A06AD21)",
+                                "atc_code": "A06AD21",
+                                "children": [
+                                    {
+                                        "name": "Sodium tartrate",
+                                        "drugbank_id": "DB13707"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium citrate (A06AD19)",
+                                "atc_code": "A06AD19",
+                                "children": [
+                                    {
+                                        "name": "Magnesium citrate",
+                                        "drugbank_id": "DB11110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sorbitol (A06AD18)",
+                                "atc_code": "A06AD18",
+                                "children": [
+                                    {
+                                        "name": "Sorbitol",
+                                        "drugbank_id": "DB01638"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phosphate (A06AD17)",
+                                "atc_code": "A06AD17",
+                                "children": [
+                                    {
+                                        "name": "Sodium phosphate, monobasic",
+                                        "drugbank_id": "DB09449"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mannitol (A06AD16)",
+                                "atc_code": "A06AD16",
+                                "children": [
+                                    {
+                                        "name": "Mannitol",
+                                        "drugbank_id": "DB00742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Macrogol (A06AD15)",
+                                "atc_code": "A06AD15",
+                                "children": [
+                                    {
+                                        "name": "Polyethylene glycol",
+                                        "drugbank_id": "DB09287"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentaerithrityl (A06AD14)",
+                                "atc_code": "A06AD14",
+                                "children": [
+                                    {
+                                        "name": "Pentaerithrityl",
+                                        "drugbank_id": "DB13526"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium sulfate (A06AD13)",
+                                "atc_code": "A06AD13",
+                                "children": [
+                                    {
+                                        "name": "Sodium sulfate",
+                                        "drugbank_id": "DB09472"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactitol (A06AD12)",
+                                "atc_code": "A06AD12",
+                                "children": [
+                                    {
+                                        "name": "Lactitol",
+                                        "drugbank_id": "DB12942"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactulose (A06AD11)",
+                                "atc_code": "A06AD11",
+                                "children": [
+                                    {
+                                        "name": "Lactulose",
+                                        "drugbank_id": "DB00581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mineral salts in combination (A06AD10)",
+                                "atc_code": "A06AD10"
+                            },
+                            {
+                                "name": "Magnesium sulfate (A06AD04)",
+                                "atc_code": "A06AD04",
+                                "children": [
+                                    {
+                                        "name": "Magnesium sulfate",
+                                        "drugbank_id": "DB00653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium peroxide (A06AD03)",
+                                "atc_code": "A06AD03",
+                                "children": [
+                                    {
+                                        "name": "Magnesium peroxide",
+                                        "drugbank_id": "DB13486"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium oxide (A06AD02)",
+                                "atc_code": "A06AD02",
+                                "children": [
+                                    {
+                                        "name": "Magnesium oxide",
+                                        "drugbank_id": "DB01377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium carbonate (A06AD01)",
+                                "atc_code": "A06AD01",
+                                "children": [
+                                    {
+                                        "name": "Magnesium carbonate",
+                                        "drugbank_id": "DB09481"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bulk-forming laxatives (A06AC)",
+                        "atc_code": "A06AC",
+                        "children": [
+                            {
+                                "name": "Linseed, combinations (A06AC55)",
+                                "atc_code": "A06AC55"
+                            },
+                            {
+                                "name": "Sterculia, combinations (A06AC53)",
+                                "atc_code": "A06AC53",
+                                "children": [
+                                    {
+                                        "name": "Karaya gum",
+                                        "drugbank_id": "DB10535"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ispaghula, combinations (A06AC51)",
+                                "atc_code": "A06AC51",
+                                "children": [
+                                    {
+                                        "name": "Plantago ovata seed",
+                                        "drugbank_id": "DB14585"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polycarbophil calcium (A06AC08)",
+                                "atc_code": "A06AC08",
+                                "children": [
+                                    {
+                                        "name": "Calcium polycarbophil",
+                                        "drugbank_id": "DB14684"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triticum (wheat fibre) (A06AC07)",
+                                "atc_code": "A06AC07"
+                            },
+                            {
+                                "name": "Methylcellulose (A06AC06)",
+                                "atc_code": "A06AC06",
+                                "children": [
+                                    {
+                                        "name": "Methylcellulose",
+                                        "drugbank_id": "DB11228"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linseed (A06AC05)",
+                                "atc_code": "A06AC05"
+                            },
+                            {
+                                "name": "Sterculia (A06AC03)",
+                                "atc_code": "A06AC03",
+                                "children": [
+                                    {
+                                        "name": "Karaya gum",
+                                        "drugbank_id": "DB10535"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethulose (A06AC02)",
+                                "atc_code": "A06AC02"
+                            },
+                            {
+                                "name": "Ispaghula (psylla seeds) (A06AC01)",
+                                "atc_code": "A06AC01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Contact laxatives (A06AB)",
+                        "atc_code": "A06AB",
+                        "children": [
+                            {
+                                "name": "Sodium picosulfate, combinations (A06AB58)",
+                                "atc_code": "A06AB58",
+                                "children": [
+                                    {
+                                        "name": "Picosulfuric acid",
+                                        "drugbank_id": "DB09268"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cascara, combinations (A06AB57)",
+                                "atc_code": "A06AB57"
+                            },
+                            {
+                                "name": "Senna glycosides, combinations (A06AB56)",
+                                "atc_code": "A06AB56",
+                                "children": [
+                                    {
+                                        "name": "Sennosides",
+                                        "drugbank_id": "DB11365"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dantron, combinations (A06AB53)",
+                                "atc_code": "A06AB53",
+                                "children": [
+                                    {
+                                        "name": "Dantron",
+                                        "drugbank_id": "DB04816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisacodyl, combinations (A06AB52)",
+                                "atc_code": "A06AB52",
+                                "children": [
+                                    {
+                                        "name": "Bisacodyl",
+                                        "drugbank_id": "DB09020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Contact laxatives in combination with belladonna alkaloids (A06AB30)",
+                                "atc_code": "A06AB30"
+                            },
+                            {
+                                "name": "Contact laxatives in combination (A06AB20)",
+                                "atc_code": "A06AB20"
+                            },
+                            {
+                                "name": "Bisoxatin (A06AB09)",
+                                "atc_code": "A06AB09",
+                                "children": [
+                                    {
+                                        "name": "Bisoxatin",
+                                        "drugbank_id": "DB09219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium picosulfate (A06AB08)",
+                                "atc_code": "A06AB08",
+                                "children": [
+                                    {
+                                        "name": "Picosulfuric acid",
+                                        "drugbank_id": "DB09268"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cascara (A06AB07)",
+                                "atc_code": "A06AB07"
+                            },
+                            {
+                                "name": "Senna glycosides (A06AB06)",
+                                "atc_code": "A06AB06",
+                                "children": [
+                                    {
+                                        "name": "Sennosides",
+                                        "drugbank_id": "DB11365"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Castor oil (A06AB05)",
+                                "atc_code": "A06AB05",
+                                "children": [
+                                    {
+                                        "name": "Castor oil",
+                                        "drugbank_id": "DB11113"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenolphthalein (A06AB04)",
+                                "atc_code": "A06AB04",
+                                "children": [
+                                    {
+                                        "name": "Phenolphthalein",
+                                        "drugbank_id": "DB04824"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dantron (A06AB03)",
+                                "atc_code": "A06AB03",
+                                "children": [
+                                    {
+                                        "name": "Dantron",
+                                        "drugbank_id": "DB04816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisacodyl (A06AB02)",
+                                "atc_code": "A06AB02",
+                                "children": [
+                                    {
+                                        "name": "Bisacodyl",
+                                        "drugbank_id": "DB09020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyphenisatine (A06AB01)",
+                                "atc_code": "A06AB01",
+                                "children": [
+                                    {
+                                        "name": "Oxyphenisatin",
+                                        "drugbank_id": "DB04823"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Softeners, emollients (A06AA)",
+                        "atc_code": "A06AA",
+                        "children": [
+                            {
+                                "name": "Liquid paraffin, combinations (A06AA51)",
+                                "atc_code": "A06AA51",
+                                "children": [
+                                    {
+                                        "name": "Mineral oil",
+                                        "drugbank_id": "DB11057"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Docusate sodium (A06AA02)",
+                                "atc_code": "A06AA02"
+                            },
+                            {
+                                "name": "Liquid paraffin (A06AA01)",
+                                "atc_code": "A06AA01",
+                                "children": [
+                                    {
+                                        "name": "Mineral oil",
+                                        "drugbank_id": "DB11057"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

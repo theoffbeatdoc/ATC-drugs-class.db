@@ -1,0 +1,1682 @@
+[
+    {
+        "name": "Antiparasitic products, insecticides and repellents (P)",
+        "atc_code": "P",
+        "children": [
+            {
+                "name": "Ectoparasiticides, incl. scabicides, insecticides and repellents (P03)",
+                "atc_code": "P03",
+                "children": [
+                    {
+                        "name": "Insecticides and repellents (P03B)",
+                        "atc_code": "P03B",
+                        "children": [
+                            {
+                                "name": "Other insecticides and repellents (P03BX)",
+                                "atc_code": "P03BX",
+                                "children": [
+                                    {
+                                        "name": "Etohexadiol (P03BX06)",
+                                        "atc_code": "P03BX06",
+                                        "children": [
+                                            {
+                                                "name": "Etohexadiol",
+                                                "drugbank_id": "DB13826"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dimethylcarbate (P03BX05)",
+                                        "atc_code": "P03BX05",
+                                        "children": [
+                                            {
+                                                "name": "Dimethyl carbate",
+                                                "drugbank_id": "DB13204"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dibutylsuccinate (P03BX04)",
+                                        "atc_code": "P03BX04",
+                                        "children": [
+                                            {
+                                                "name": "Dibutylsuccinate",
+                                                "drugbank_id": "DB13332"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dibutylphthalate (P03BX03)",
+                                        "atc_code": "P03BX03",
+                                        "children": [
+                                            {
+                                                "name": "Dibutylphthalate",
+                                                "drugbank_id": "DB13716"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dimethylphthalate (P03BX02)",
+                                        "atc_code": "P03BX02",
+                                        "children": [
+                                            {
+                                                "name": "Dimethylphthalate",
+                                                "drugbank_id": "DB13336"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Diethyltoluamide (P03BX01)",
+                                        "atc_code": "P03BX01",
+                                        "children": [
+                                            {
+                                                "name": "Diethyltoluamide",
+                                                "drugbank_id": "DB11282"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrethrines (P03BA)",
+                                "atc_code": "P03BA",
+                                "children": [
+                                    {
+                                        "name": "Tetramethrin (P03BA04)",
+                                        "atc_code": "P03BA04",
+                                        "children": [
+                                            {
+                                                "name": "Tetramethrin",
+                                                "drugbank_id": "DB13752"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Decamethrin (P03BA03)",
+                                        "atc_code": "P03BA03",
+                                        "children": [
+                                            {
+                                                "name": "Deltamethrin",
+                                                "drugbank_id": "DB13600"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cypermethrin (P03BA02)",
+                                        "atc_code": "P03BA02",
+                                        "children": [
+                                            {
+                                                "name": "Cypermethrin",
+                                                "drugbank_id": "DB13721"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cyfluthrin (P03BA01)",
+                                        "atc_code": "P03BA01",
+                                        "children": [
+                                            {
+                                                "name": "Cyfluthrin",
+                                                "drugbank_id": "DB13828"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ectoparasiticides, incl. scabicides (P03A)",
+                        "atc_code": "P03A",
+                        "children": [
+                            {
+                                "name": "Other ectoparasiticides, incl. scabicides (P03AX)",
+                                "atc_code": "P03AX",
+                                "children": [
+                                    {
+                                        "name": "Abametapir (P03AX07)",
+                                        "atc_code": "P03AX07",
+                                        "children": [
+                                            {
+                                                "name": "Abametapir",
+                                                "drugbank_id": "DB11932"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Benzyl alcohol (P03AX06)",
+                                        "atc_code": "P03AX06",
+                                        "children": [
+                                            {
+                                                "name": "Benzyl alcohol",
+                                                "drugbank_id": "DB06770"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dimeticone (P03AX05)",
+                                        "atc_code": "P03AX05",
+                                        "children": [
+                                            {
+                                                "name": "Dimethicone",
+                                                "drugbank_id": "DB11074"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Quassia (P03AX04)",
+                                        "atc_code": "P03AX04",
+                                        "children": [
+                                            {
+                                                "name": "Quassia",
+                                                "drugbank_id": "DB13263"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Malathion (P03AX03)",
+                                        "atc_code": "P03AX03",
+                                        "children": [
+                                            {
+                                                "name": "Malathion",
+                                                "drugbank_id": "DB00772"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Copper oleinate (P03AX02)",
+                                        "atc_code": "P03AX02"
+                                    },
+                                    {
+                                        "name": "Benzyl benzoate (P03AX01)",
+                                        "atc_code": "P03AX01",
+                                        "children": [
+                                            {
+                                                "name": "Benzyl benzoate",
+                                                "drugbank_id": "DB00676"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrethrines, incl. synthetic compounds (P03AC)",
+                                "atc_code": "P03AC",
+                                "children": [
+                                    {
+                                        "name": "Permethrin, combinations (P03AC54)",
+                                        "atc_code": "P03AC54",
+                                        "children": [
+                                            {
+                                                "name": "Permethrin",
+                                                "drugbank_id": "DB04930"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Phenothrin, combinations (P03AC53)",
+                                        "atc_code": "P03AC53",
+                                        "children": [
+                                            {
+                                                "name": "Phenothrin",
+                                                "drugbank_id": "DB13717"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bioallethrin, combinations (P03AC52)",
+                                        "atc_code": "P03AC52",
+                                        "children": [
+                                            {
+                                                "name": "Bioallethrin",
+                                                "drugbank_id": "DB13746"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pyrethrum, combinations (P03AC51)",
+                                        "atc_code": "P03AC51"
+                                    },
+                                    {
+                                        "name": "Permethrin (P03AC04)",
+                                        "atc_code": "P03AC04",
+                                        "children": [
+                                            {
+                                                "name": "Permethrin",
+                                                "drugbank_id": "DB04930"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Phenothrin (P03AC03)",
+                                        "atc_code": "P03AC03",
+                                        "children": [
+                                            {
+                                                "name": "Phenothrin",
+                                                "drugbank_id": "DB13717"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bioallethrin (P03AC02)",
+                                        "atc_code": "P03AC02",
+                                        "children": [
+                                            {
+                                                "name": "Bioallethrin",
+                                                "drugbank_id": "DB13746"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pyrethrum (P03AC01)",
+                                        "atc_code": "P03AC01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorine containing products (P03AB)",
+                                "atc_code": "P03AB",
+                                "children": [
+                                    {
+                                        "name": "Clofenotane, combinations (P03AB51)",
+                                        "atc_code": "P03AB51",
+                                        "children": [
+                                            {
+                                                "name": "Clofenotane",
+                                                "drugbank_id": "DB13424"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Lindane (P03AB02)",
+                                        "atc_code": "P03AB02",
+                                        "children": [
+                                            {
+                                                "name": "Lindane",
+                                                "drugbank_id": "DB00431"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Clofenotane (P03AB01)",
+                                        "atc_code": "P03AB01",
+                                        "children": [
+                                            {
+                                                "name": "Clofenotane",
+                                                "drugbank_id": "DB13424"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfur containing products (P03AA)",
+                                "atc_code": "P03AA",
+                                "children": [
+                                    {
+                                        "name": "Disulfiram, combinations (P03AA54)",
+                                        "atc_code": "P03AA54",
+                                        "children": [
+                                            {
+                                                "name": "Disulfiram",
+                                                "drugbank_id": "DB00822"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Thiram (P03AA05)",
+                                        "atc_code": "P03AA05",
+                                        "children": [
+                                            {
+                                                "name": "Thiram",
+                                                "drugbank_id": "DB13245"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Disulfiram (P03AA04)",
+                                        "atc_code": "P03AA04",
+                                        "children": [
+                                            {
+                                                "name": "Disulfiram",
+                                                "drugbank_id": "DB00822"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mesulfen (P03AA03)",
+                                        "atc_code": "P03AA03",
+                                        "children": [
+                                            {
+                                                "name": "Mesulfen",
+                                                "drugbank_id": "DB13356"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Potassium polysulfide (P03AA02)",
+                                        "atc_code": "P03AA02"
+                                    },
+                                    {
+                                        "name": "Dixanthogen (P03AA01)",
+                                        "atc_code": "P03AA01",
+                                        "children": [
+                                            {
+                                                "name": "Dixanthogen",
+                                                "drugbank_id": "DB13712"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anthelmintics (P02)",
+                "atc_code": "P02",
+                "children": [
+                    {
+                        "name": "Anticestodals (P02D)",
+                        "atc_code": "P02D",
+                        "children": [
+                            {
+                                "name": "Other anticestodals (P02DX)",
+                                "atc_code": "P02DX",
+                                "children": [
+                                    {
+                                        "name": "Dichlorophen (P02DX02)",
+                                        "atc_code": "P02DX02",
+                                        "children": [
+                                            {
+                                                "name": "Dichlorophen",
+                                                "drugbank_id": "DB11396"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Desaspidin (P02DX01)",
+                                        "atc_code": "P02DX01",
+                                        "children": [
+                                            {
+                                                "name": "Desaspidin",
+                                                "drugbank_id": "DB13567"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salicylic acid derivatives (P02DA)",
+                                "atc_code": "P02DA",
+                                "children": [
+                                    {
+                                        "name": "Niclosamide (P02DA01)",
+                                        "atc_code": "P02DA01",
+                                        "children": [
+                                            {
+                                                "name": "Niclosamide",
+                                                "drugbank_id": "DB06803"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antinematodal agents (P02C)",
+                        "atc_code": "P02C",
+                        "children": [
+                            {
+                                "name": "Other antinematodals (P02CX)",
+                                "atc_code": "P02CX",
+                                "children": [
+                                    {
+                                        "name": "Moxidectin (P02CX03)",
+                                        "atc_code": "P02CX03",
+                                        "children": [
+                                            {
+                                                "name": "Moxidectin",
+                                                "drugbank_id": "DB11431"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bephenium (P02CX02)",
+                                        "atc_code": "P02CX02",
+                                        "children": [
+                                            {
+                                                "name": "Bephenium",
+                                                "drugbank_id": "DB13462"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pyrvinium (P02CX01)",
+                                        "atc_code": "P02CX01",
+                                        "children": [
+                                            {
+                                                "name": "Pyrvinium",
+                                                "drugbank_id": "DB06816"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avermectines (P02CF)",
+                                "atc_code": "P02CF",
+                                "children": [
+                                    {
+                                        "name": "Ivermectin (P02CF01)",
+                                        "atc_code": "P02CF01",
+                                        "children": [
+                                            {
+                                                "name": "Ivermectin",
+                                                "drugbank_id": "DB00602"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imidazothiazole derivatives (P02CE)",
+                                "atc_code": "P02CE",
+                                "children": [
+                                    {
+                                        "name": "Levamisole (P02CE01)",
+                                        "atc_code": "P02CE01",
+                                        "children": [
+                                            {
+                                                "name": "Levamisole",
+                                                "drugbank_id": "DB00848"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetrahydropyrimidine derivatives (P02CC)",
+                                "atc_code": "P02CC",
+                                "children": [
+                                    {
+                                        "name": "Oxantel (P02CC02)",
+                                        "atc_code": "P02CC02",
+                                        "children": [
+                                            {
+                                                "name": "Oxantel",
+                                                "drugbank_id": "DB13670"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pyrantel (P02CC01)",
+                                        "atc_code": "P02CC01",
+                                        "children": [
+                                            {
+                                                "name": "Pyrantel",
+                                                "drugbank_id": "DB11156"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piperazine and derivatives (P02CB)",
+                                "atc_code": "P02CB",
+                                "children": [
+                                    {
+                                        "name": "Diethylcarbamazine (P02CB02)",
+                                        "atc_code": "P02CB02",
+                                        "children": [
+                                            {
+                                                "name": "Diethylcarbamazine",
+                                                "drugbank_id": "DB00711"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Piperazine (P02CB01)",
+                                        "atc_code": "P02CB01",
+                                        "children": [
+                                            {
+                                                "name": "Piperazine",
+                                                "drugbank_id": "DB00592"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzimidazole derivatives (P02CA)",
+                                "atc_code": "P02CA",
+                                "children": [
+                                    {
+                                        "name": "Mebendazole, combinations (P02CA51)",
+                                        "atc_code": "P02CA51",
+                                        "children": [
+                                            {
+                                                "name": "Mebendazole",
+                                                "drugbank_id": "DB00643"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fenbendazole (P02CA06)",
+                                        "atc_code": "P02CA06",
+                                        "children": [
+                                            {
+                                                "name": "Fenbendazole",
+                                                "drugbank_id": "DB11410"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Flubendazole (P02CA05)",
+                                        "atc_code": "P02CA05",
+                                        "children": [
+                                            {
+                                                "name": "Flubendazole",
+                                                "drugbank_id": "DB08974"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ciclobendazole (P02CA04)",
+                                        "atc_code": "P02CA04",
+                                        "children": [
+                                            {
+                                                "name": "Ciclobendazole",
+                                                "drugbank_id": "DB13465"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Albendazole (P02CA03)",
+                                        "atc_code": "P02CA03",
+                                        "children": [
+                                            {
+                                                "name": "Albendazole",
+                                                "drugbank_id": "DB00518"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tiabendazole (P02CA02)",
+                                        "atc_code": "P02CA02",
+                                        "children": [
+                                            {
+                                                "name": "Thiabendazole",
+                                                "drugbank_id": "DB00730"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mebendazole (P02CA01)",
+                                        "atc_code": "P02CA01",
+                                        "children": [
+                                            {
+                                                "name": "Mebendazole",
+                                                "drugbank_id": "DB00643"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antitrematodals (P02B)",
+                        "atc_code": "P02B",
+                        "children": [
+                            {
+                                "name": "Other antitrematodal agents (P02BX)",
+                                "atc_code": "P02BX",
+                                "children": [
+                                    {
+                                        "name": "Triclabendazole (P02BX04)",
+                                        "atc_code": "P02BX04",
+                                        "children": [
+                                            {
+                                                "name": "Triclabendazole",
+                                                "drugbank_id": "DB12245"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Stibophen (P02BX03)",
+                                        "atc_code": "P02BX03",
+                                        "children": [
+                                            {
+                                                "name": "Stibophen",
+                                                "drugbank_id": "DB13236"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Niridazole (P02BX02)",
+                                        "atc_code": "P02BX02",
+                                        "children": [
+                                            {
+                                                "name": "Niridazole",
+                                                "drugbank_id": "DB13661"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bithionol (P02BX01)",
+                                        "atc_code": "P02BX01",
+                                        "children": [
+                                            {
+                                                "name": "Bithionol",
+                                                "drugbank_id": "DB04813"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Organophosphorous compounds (P02BB)",
+                                "atc_code": "P02BB",
+                                "children": [
+                                    {
+                                        "name": "Metrifonate (P02BB01)",
+                                        "atc_code": "P02BB01",
+                                        "children": [
+                                            {
+                                                "name": "Metrifonate",
+                                                "drugbank_id": "DB11473"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinoline derivatives and related substances (P02BA)",
+                                "atc_code": "P02BA",
+                                "children": [
+                                    {
+                                        "name": "Arpraziquantel (P02BA03)",
+                                        "atc_code": "P02BA03"
+                                    },
+                                    {
+                                        "name": "Oxamniquine (P02BA02)",
+                                        "atc_code": "P02BA02",
+                                        "children": [
+                                            {
+                                                "name": "Oxamniquine",
+                                                "drugbank_id": "DB01096"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Praziquantel (P02BA01)",
+                                        "atc_code": "P02BA01",
+                                        "children": [
+                                            {
+                                                "name": "Praziquantel",
+                                                "drugbank_id": "DB01058"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiprotozoals (P01)",
+                "atc_code": "P01",
+                "children": [
+                    {
+                        "name": "Agents against leishmaniasis and trypanosomiasis (P01C)",
+                        "atc_code": "P01C",
+                        "children": [
+                            {
+                                "name": "Other agents against leishmaniasis and trypanosomiasis (P01CX)",
+                                "atc_code": "P01CX",
+                                "children": [
+                                    {
+                                        "name": "Miltefosine (P01CX04)",
+                                        "atc_code": "P01CX04",
+                                        "children": [
+                                            {
+                                                "name": "Miltefosine",
+                                                "drugbank_id": "DB09031"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Eflornithine (P01CX03)",
+                                        "atc_code": "P01CX03",
+                                        "children": [
+                                            {
+                                                "name": "Eflornithine",
+                                                "drugbank_id": "DB06243"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Suramin sodium (P01CX02)",
+                                        "atc_code": "P01CX02",
+                                        "children": [
+                                            {
+                                                "name": "Suramin",
+                                                "drugbank_id": "DB04786"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pentamidine isethionate (P01CX01)",
+                                        "atc_code": "P01CX01",
+                                        "children": [
+                                            {
+                                                "name": "Pentamidine",
+                                                "drugbank_id": "DB00738"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arsenic compounds (P01CD)",
+                                "atc_code": "P01CD",
+                                "children": [
+                                    {
+                                        "name": "Acetarsol (P01CD02)",
+                                        "atc_code": "P01CD02",
+                                        "children": [
+                                            {
+                                                "name": "Acetarsol",
+                                                "drugbank_id": "DB13268"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Melarsoprol (P01CD01)",
+                                        "atc_code": "P01CD01",
+                                        "children": [
+                                            {
+                                                "name": "Melarsoprol",
+                                                "drugbank_id": "DB12864"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrofuran derivatives (P01CC)",
+                                "atc_code": "P01CC",
+                                "children": [
+                                    {
+                                        "name": "Nitrofural (P01CC02)",
+                                        "atc_code": "P01CC02",
+                                        "children": [
+                                            {
+                                                "name": "Nitrofural",
+                                                "drugbank_id": "DB00336"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nifurtimox (P01CC01)",
+                                        "atc_code": "P01CC01",
+                                        "children": [
+                                            {
+                                                "name": "Nifurtimox",
+                                                "drugbank_id": "DB11820"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antimony compounds (P01CB)",
+                                "atc_code": "P01CB",
+                                "children": [
+                                    {
+                                        "name": "Sodium stibogluconate (P01CB02)",
+                                        "atc_code": "P01CB02",
+                                        "children": [
+                                            {
+                                                "name": "Sodium stibogluconate",
+                                                "drugbank_id": "DB05630"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Meglumine antimonate (P01CB01)",
+                                        "atc_code": "P01CB01",
+                                        "children": [
+                                            {
+                                                "name": "Meglumine antimoniate",
+                                                "drugbank_id": "DB13732"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitroimidazole derivatives (P01CA)",
+                                "atc_code": "P01CA",
+                                "children": [
+                                    {
+                                        "name": "Fexinidazole (P01CA03)",
+                                        "atc_code": "P01CA03",
+                                        "children": [
+                                            {
+                                                "name": "Fexinidazole",
+                                                "drugbank_id": "DB12265"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Benznidazole (P01CA02)",
+                                        "atc_code": "P01CA02",
+                                        "children": [
+                                            {
+                                                "name": "Benznidazole",
+                                                "drugbank_id": "DB11989"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antimalarials (P01B)",
+                        "atc_code": "P01B",
+                        "children": [
+                            {
+                                "name": "Other antimalarials (P01BX)",
+                                "atc_code": "P01BX",
+                                "children": [
+                                    {
+                                        "name": "Arterolane and piperaquine (P01BX02)",
+                                        "atc_code": "P01BX02",
+                                        "children": [
+                                            {
+                                                "name": "Piperaquine",
+                                                "drugbank_id": "DB13941"
+                                            },
+                                            {
+                                                "name": "Arterolane",
+                                                "drugbank_id": "DB19027"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Halofantrine (P01BX01)",
+                                        "atc_code": "P01BX01",
+                                        "children": [
+                                            {
+                                                "name": "Halofantrine",
+                                                "drugbank_id": "DB01218"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Artemisinin and derivatives, combinations (P01BF)",
+                                "atc_code": "P01BF",
+                                "children": [
+                                    {
+                                        "name": "Artesunate, sulfadoxine and pyrimethamine (P01BF09)",
+                                        "atc_code": "P01BF09",
+                                        "children": [
+                                            {
+                                                "name": "Sulfadoxine",
+                                                "drugbank_id": "DB01299"
+                                            },
+                                            {
+                                                "name": "Pyrimethamine",
+                                                "drugbank_id": "DB00205"
+                                            },
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemisinin and naphthoquine (P01BF08)",
+                                        "atc_code": "P01BF08",
+                                        "children": [
+                                            {
+                                                "name": "Artemisinin",
+                                                "drugbank_id": "DB13132"
+                                            },
+                                            {
+                                                "name": "Naphthoquine",
+                                                "drugbank_id": "DB16249"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemisinin and piperaquine (P01BF07)",
+                                        "atc_code": "P01BF07",
+                                        "children": [
+                                            {
+                                                "name": "Piperaquine",
+                                                "drugbank_id": "DB13941"
+                                            },
+                                            {
+                                                "name": "Artemisinin",
+                                                "drugbank_id": "DB13132"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artesunate and pyronaridine (P01BF06)",
+                                        "atc_code": "P01BF06",
+                                        "children": [
+                                            {
+                                                "name": "Pyronaridine",
+                                                "drugbank_id": "DB12975"
+                                            },
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artenimol and piperaquine (P01BF05)",
+                                        "atc_code": "P01BF05",
+                                        "children": [
+                                            {
+                                                "name": "Piperaquine",
+                                                "drugbank_id": "DB13941"
+                                            },
+                                            {
+                                                "name": "Artenimol",
+                                                "drugbank_id": "DB11638"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artesunate, sulfalene and pyrimethamine (P01BF04)",
+                                        "atc_code": "P01BF04",
+                                        "children": [
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            },
+                                            {
+                                                "name": "Pyrimethamine",
+                                                "drugbank_id": "DB00205"
+                                            },
+                                            {
+                                                "name": "Sulfametopyrazine",
+                                                "drugbank_id": "DB00664"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artesunate and amodiaquine (P01BF03)",
+                                        "atc_code": "P01BF03",
+                                        "children": [
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            },
+                                            {
+                                                "name": "Amodiaquine",
+                                                "drugbank_id": "DB00613"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artesunate and mefloquine (P01BF02)",
+                                        "atc_code": "P01BF02",
+                                        "children": [
+                                            {
+                                                "name": "Mefloquine",
+                                                "drugbank_id": "DB00358"
+                                            },
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemether and lumefantrine (P01BF01)",
+                                        "atc_code": "P01BF01",
+                                        "children": [
+                                            {
+                                                "name": "Artemether",
+                                                "drugbank_id": "DB06697"
+                                            },
+                                            {
+                                                "name": "Lumefantrine",
+                                                "drugbank_id": "DB06708"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Artemisinin and derivatives, plain (P01BE)",
+                                "atc_code": "P01BE",
+                                "children": [
+                                    {
+                                        "name": "Artenimol (P01BE05)",
+                                        "atc_code": "P01BE05",
+                                        "children": [
+                                            {
+                                                "name": "Artenimol",
+                                                "drugbank_id": "DB11638"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemotil (P01BE04)",
+                                        "atc_code": "P01BE04",
+                                        "children": [
+                                            {
+                                                "name": "Artemotil",
+                                                "drugbank_id": "DB13851"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artesunate (P01BE03)",
+                                        "atc_code": "P01BE03",
+                                        "children": [
+                                            {
+                                                "name": "Artesunate",
+                                                "drugbank_id": "DB09274"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemether (P01BE02)",
+                                        "atc_code": "P01BE02",
+                                        "children": [
+                                            {
+                                                "name": "Artemether",
+                                                "drugbank_id": "DB06697"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Artemisinin (P01BE01)",
+                                        "atc_code": "P01BE01",
+                                        "children": [
+                                            {
+                                                "name": "Artemisinin",
+                                                "drugbank_id": "DB13132"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diaminopyrimidines (P01BD)",
+                                "atc_code": "P01BD",
+                                "children": [
+                                    {
+                                        "name": "Pyrimethamine, combinations (P01BD51)",
+                                        "atc_code": "P01BD51",
+                                        "children": [
+                                            {
+                                                "name": "Pyrimethamine",
+                                                "drugbank_id": "DB00205"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pyrimethamine (P01BD01)",
+                                        "atc_code": "P01BD01",
+                                        "children": [
+                                            {
+                                                "name": "Pyrimethamine",
+                                                "drugbank_id": "DB00205"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methanolquinolines (P01BC)",
+                                "atc_code": "P01BC",
+                                "children": [
+                                    {
+                                        "name": "Mefloquine (P01BC02)",
+                                        "atc_code": "P01BC02",
+                                        "children": [
+                                            {
+                                                "name": "Mefloquine",
+                                                "drugbank_id": "DB00358"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Quinine (P01BC01)",
+                                        "atc_code": "P01BC01",
+                                        "children": [
+                                            {
+                                                "name": "Quinine",
+                                                "drugbank_id": "DB00468"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Biguanides (P01BB)",
+                                "atc_code": "P01BB",
+                                "children": [
+                                    {
+                                        "name": "Chloroquine and proguanil (P01BB52)",
+                                        "atc_code": "P01BB52",
+                                        "children": [
+                                            {
+                                                "name": "Proguanil",
+                                                "drugbank_id": "DB01131"
+                                            },
+                                            {
+                                                "name": "Chloroquine",
+                                                "drugbank_id": "DB00608"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Proguanil and atovaquone (P01BB51)",
+                                        "atc_code": "P01BB51",
+                                        "children": [
+                                            {
+                                                "name": "Atovaquone",
+                                                "drugbank_id": "DB01117"
+                                            },
+                                            {
+                                                "name": "Proguanil",
+                                                "drugbank_id": "DB01131"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cycloguanil embonate (P01BB02)",
+                                        "atc_code": "P01BB02",
+                                        "children": [
+                                            {
+                                                "name": "Cycloguanil",
+                                                "drugbank_id": "DB14763"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Proguanil (P01BB01)",
+                                        "atc_code": "P01BB01",
+                                        "children": [
+                                            {
+                                                "name": "Proguanil",
+                                                "drugbank_id": "DB01131"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminoquinolines (P01BA)",
+                                "atc_code": "P01BA",
+                                "children": [
+                                    {
+                                        "name": "Tafenoquine (P01BA07)",
+                                        "atc_code": "P01BA07",
+                                        "children": [
+                                            {
+                                                "name": "Tafenoquine",
+                                                "drugbank_id": "DB06608"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Amodiaquine (P01BA06)",
+                                        "atc_code": "P01BA06",
+                                        "children": [
+                                            {
+                                                "name": "Amodiaquine",
+                                                "drugbank_id": "DB00613"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Primaquine (P01BA03)",
+                                        "atc_code": "P01BA03",
+                                        "children": [
+                                            {
+                                                "name": "Primaquine",
+                                                "drugbank_id": "DB01087"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hydroxychloroquine (P01BA02)",
+                                        "atc_code": "P01BA02",
+                                        "children": [
+                                            {
+                                                "name": "Hydroxychloroquine",
+                                                "drugbank_id": "DB01611"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Chloroquine (P01BA01)",
+                                        "atc_code": "P01BA01",
+                                        "children": [
+                                            {
+                                                "name": "Chloroquine",
+                                                "drugbank_id": "DB00608"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Agents against amoebiasis and other protozoal diseases (P01A)",
+                        "atc_code": "P01A",
+                        "children": [
+                            {
+                                "name": "Other agents against amoebiasis and other protozoal diseases (P01AX)",
+                                "atc_code": "P01AX",
+                                "children": [
+                                    {
+                                        "name": "Emetine, combinations (P01AX52)",
+                                        "atc_code": "P01AX52",
+                                        "children": [
+                                            {
+                                                "name": "Emetine",
+                                                "drugbank_id": "DB13393"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nitazoxanide (P01AX11)",
+                                        "atc_code": "P01AX11",
+                                        "children": [
+                                            {
+                                                "name": "Nitazoxanide",
+                                                "drugbank_id": "DB00507"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fumagillin (P01AX10)",
+                                        "atc_code": "P01AX10",
+                                        "children": [
+                                            {
+                                                "name": "Fumagillin",
+                                                "drugbank_id": "DB02640"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dehydroemetine (P01AX09)",
+                                        "atc_code": "P01AX09",
+                                        "children": [
+                                            {
+                                                "name": "Dehydroemetine",
+                                                "drugbank_id": "DB13865"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tenonitrozole (P01AX08)",
+                                        "atc_code": "P01AX08",
+                                        "children": [
+                                            {
+                                                "name": "Tenonitrozole",
+                                                "drugbank_id": "DB13659"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Trimetrexate (P01AX07)",
+                                        "atc_code": "P01AX07",
+                                        "children": [
+                                            {
+                                                "name": "Trimetrexate",
+                                                "drugbank_id": "DB01157"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Atovaquone (P01AX06)",
+                                        "atc_code": "P01AX06",
+                                        "children": [
+                                            {
+                                                "name": "Atovaquone",
+                                                "drugbank_id": "DB01117"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mepacrine (P01AX05)",
+                                        "atc_code": "P01AX05",
+                                        "children": [
+                                            {
+                                                "name": "Quinacrine",
+                                                "drugbank_id": "DB01103"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Phanquinone (P01AX04)",
+                                        "atc_code": "P01AX04",
+                                        "children": [
+                                            {
+                                                "name": "Phanquinone",
+                                                "drugbank_id": "DB13469"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Emetine (P01AX02)",
+                                        "atc_code": "P01AX02",
+                                        "children": [
+                                            {
+                                                "name": "Emetine",
+                                                "drugbank_id": "DB13393"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Chiniofon (P01AX01)",
+                                        "atc_code": "P01AX01",
+                                        "children": [
+                                            {
+                                                "name": "Chiniofon",
+                                                "drugbank_id": "DB13379"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arsenic compounds (P01AR)",
+                                "atc_code": "P01AR",
+                                "children": [
+                                    {
+                                        "name": "Glycobiarsol, combinations (P01AR53)",
+                                        "atc_code": "P01AR53"
+                                    },
+                                    {
+                                        "name": "Glycobiarsol (P01AR03)",
+                                        "atc_code": "P01AR03"
+                                    },
+                                    {
+                                        "name": "Difetarsone (P01AR02)",
+                                        "atc_code": "P01AR02",
+                                        "children": [
+                                            {
+                                                "name": "Difetarsone",
+                                                "drugbank_id": "DB13599"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Arsthinol (P01AR01)",
+                                        "atc_code": "P01AR01",
+                                        "children": [
+                                            {
+                                                "name": "Arsthinol",
+                                                "drugbank_id": "DB08928"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dichloroacetamide derivatives (P01AC)",
+                                "atc_code": "P01AC",
+                                "children": [
+                                    {
+                                        "name": "Teclozan (P01AC04)",
+                                        "atc_code": "P01AC04",
+                                        "children": [
+                                            {
+                                                "name": "Teclozan",
+                                                "drugbank_id": "DB13205"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Etofamide (P01AC03)",
+                                        "atc_code": "P01AC03",
+                                        "children": [
+                                            {
+                                                "name": "Etofamide",
+                                                "drugbank_id": "DB13258"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Clefamide (P01AC02)",
+                                        "atc_code": "P01AC02",
+                                        "children": [
+                                            {
+                                                "name": "Clefamide",
+                                                "drugbank_id": "DB13512"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Diloxanide (P01AC01)",
+                                        "atc_code": "P01AC01",
+                                        "children": [
+                                            {
+                                                "name": "Diloxanide",
+                                                "drugbank_id": "DB08792"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitroimidazole derivatives (P01AB)",
+                                "atc_code": "P01AB",
+                                "children": [
+                                    {
+                                        "name": "Tinidazole and diloxanide (P01AB53)",
+                                        "atc_code": "P01AB53",
+                                        "children": [
+                                            {
+                                                "name": "Diloxanide",
+                                                "drugbank_id": "DB08792"
+                                            },
+                                            {
+                                                "name": "Tinidazole",
+                                                "drugbank_id": "DB00911"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Satranidazole (P01AB08)",
+                                        "atc_code": "P01AB08"
+                                    },
+                                    {
+                                        "name": "Metronidazole and diloxanide (P01AB52)",
+                                        "atc_code": "P01AB52",
+                                        "children": [
+                                            {
+                                                "name": "Metronidazole",
+                                                "drugbank_id": "DB00916"
+                                            },
+                                            {
+                                                "name": "Diloxanide",
+                                                "drugbank_id": "DB08792"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metronidazole and furazolidone (P01AB51)",
+                                        "atc_code": "P01AB51",
+                                        "children": [
+                                            {
+                                                "name": "Metronidazole",
+                                                "drugbank_id": "DB00916"
+                                            },
+                                            {
+                                                "name": "Furazolidone",
+                                                "drugbank_id": "DB00614"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Secnidazole (P01AB07)",
+                                        "atc_code": "P01AB07",
+                                        "children": [
+                                            {
+                                                "name": "Secnidazole",
+                                                "drugbank_id": "DB12834"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nimorazole (P01AB06)",
+                                        "atc_code": "P01AB06",
+                                        "children": [
+                                            {
+                                                "name": "Nimorazole",
+                                                "drugbank_id": "DB12172"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Propenidazole (P01AB05)",
+                                        "atc_code": "P01AB05",
+                                        "children": [
+                                            {
+                                                "name": "Propenidazole",
+                                                "drugbank_id": "DB13319"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Azanidazole (P01AB04)",
+                                        "atc_code": "P01AB04",
+                                        "children": [
+                                            {
+                                                "name": "Azanidazole",
+                                                "drugbank_id": "DB13350"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ornidazole (P01AB03)",
+                                        "atc_code": "P01AB03",
+                                        "children": [
+                                            {
+                                                "name": "Ornidazole",
+                                                "drugbank_id": "DB13026"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tinidazole (P01AB02)",
+                                        "atc_code": "P01AB02",
+                                        "children": [
+                                            {
+                                                "name": "Tinidazole",
+                                                "drugbank_id": "DB00911"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metronidazole (P01AB01)",
+                                        "atc_code": "P01AB01",
+                                        "children": [
+                                            {
+                                                "name": "Metronidazole",
+                                                "drugbank_id": "DB00916"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroxyquinoline derivatives (P01AA)",
+                                "atc_code": "P01AA",
+                                "children": [
+                                    {
+                                        "name": "Tilbroquinol and tiliquinol (P01AA30)",
+                                        "atc_code": "P01AA30",
+                                        "children": [
+                                            {
+                                                "name": "Tiliquinol",
+                                                "drugbank_id": "DB20266"
+                                            },
+                                            {
+                                                "name": "Tilbroquinol",
+                                                "drugbank_id": "DB13222"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Clioquinol, combinations (P01AA52)",
+                                        "atc_code": "P01AA52",
+                                        "children": [
+                                            {
+                                                "name": "Clioquinol",
+                                                "drugbank_id": "DB04815"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tilbroquinol (P01AA05)",
+                                        "atc_code": "P01AA05",
+                                        "children": [
+                                            {
+                                                "name": "Tilbroquinol",
+                                                "drugbank_id": "DB13222"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Chlorquinaldol (P01AA04)",
+                                        "atc_code": "P01AA04",
+                                        "children": [
+                                            {
+                                                "name": "Chlorquinaldol",
+                                                "drugbank_id": "DB13306"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Clioquinol (P01AA02)",
+                                        "atc_code": "P01AA02",
+                                        "children": [
+                                            {
+                                                "name": "Clioquinol",
+                                                "drugbank_id": "DB04815"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Broxyquinoline (P01AA01)",
+                                        "atc_code": "P01AA01",
+                                        "children": [
+                                            {
+                                                "name": "Broxyquinoline",
+                                                "drugbank_id": "DB13536"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

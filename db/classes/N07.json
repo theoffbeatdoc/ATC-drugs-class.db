@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Other nervous system drugs (N07)",
+        "atc_code": "N07",
+        "children": [
+            {
+                "name": "Other nervous system drugs (N07X)",
+                "atc_code": "N07X",
+                "children": [
+                    {
+                        "name": "Other nervous system drugs (N07XX)",
+                        "atc_code": "N07XX",
+                        "children": [
+                            {
+                                "name": "Omaveloxolone (N07XX25)",
+                                "atc_code": "N07XX25",
+                                "children": [
+                                    {
+                                        "name": "Omaveloxolone",
+                                        "drugbank_id": "DB12513"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trofinetide (N07XX24)",
+                                "atc_code": "N07XX24",
+                                "children": [
+                                    {
+                                        "name": "Trofinetide",
+                                        "drugbank_id": "DB06045"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Troriluzole (N07XX23)",
+                                "atc_code": "N07XX23",
+                                "children": [
+                                    {
+                                        "name": "Troriluzole",
+                                        "drugbank_id": "DB15079"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tofersen (N07XX22)",
+                                "atc_code": "N07XX22",
+                                "children": [
+                                    {
+                                        "name": "Tofersen",
+                                        "drugbank_id": "DB14782"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eplontersen (N07XX21)",
+                                "atc_code": "N07XX21",
+                                "children": [
+                                    {
+                                        "name": "Eplontersen",
+                                        "drugbank_id": "DB16199"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phenylbutyrate and ursodoxicoltaurine (N07XX19)",
+                                "atc_code": "N07XX19",
+                                "children": [
+                                    {
+                                        "name": "Tauroursodeoxycholic acid",
+                                        "drugbank_id": "DB08834"
+                                    },
+                                    {
+                                        "name": "Phenylbutyric acid",
+                                        "drugbank_id": "DB06819"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vutrisiran (N07XX18)",
+                                "atc_code": "N07XX18",
+                                "children": [
+                                    {
+                                        "name": "Vutrisiran",
+                                        "drugbank_id": "DB16699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arimoclomol (N07XX17)",
+                                "atc_code": "N07XX17",
+                                "children": [
+                                    {
+                                        "name": "Arimoclomol",
+                                        "drugbank_id": "DB05025"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deutetrabenazine (N07XX16)",
+                                "atc_code": "N07XX16",
+                                "children": [
+                                    {
+                                        "name": "Deutetrabenazine",
+                                        "drugbank_id": "DB12161"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inotersen (N07XX15)",
+                                "atc_code": "N07XX15",
+                                "children": [
+                                    {
+                                        "name": "Inotersen",
+                                        "drugbank_id": "DB14713"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Edaravone (N07XX14)",
+                                "atc_code": "N07XX14",
+                                "children": [
+                                    {
+                                        "name": "Edaravone",
+                                        "drugbank_id": "DB12243"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valbenazine (N07XX13)",
+                                "atc_code": "N07XX13",
+                                "children": [
+                                    {
+                                        "name": "Valbenazine",
+                                        "drugbank_id": "DB11915"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Patisiran (N07XX12)",
+                                "atc_code": "N07XX12",
+                                "children": [
+                                    {
+                                        "name": "Patisiran",
+                                        "drugbank_id": "DB14582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextromethorphan, combinations (N07XX59)",
+                                "atc_code": "N07XX59",
+                                "children": [
+                                    {
+                                        "name": "Dextromethorphan",
+                                        "drugbank_id": "DB00514"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pitolisant (N07XX11)",
+                                "atc_code": "N07XX11",
+                                "children": [
+                                    {
+                                        "name": "Pitolisant",
+                                        "drugbank_id": "DB11642"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Laquinimod (N07XX10)",
+                                "atc_code": "N07XX10",
+                                "children": [
+                                    {
+                                        "name": "Laquinimod",
+                                        "drugbank_id": "DB06685"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tafamidis (N07XX08)",
+                                "atc_code": "N07XX08",
+                                "children": [
+                                    {
+                                        "name": "Tafamidis",
+                                        "drugbank_id": "DB11644"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fampridine (N07XX07)",
+                                "atc_code": "N07XX07",
+                                "children": [
+                                    {
+                                        "name": "Dalfampridine",
+                                        "drugbank_id": "DB06637"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetrabenazine (N07XX06)",
+                                "atc_code": "N07XX06",
+                                "children": [
+                                    {
+                                        "name": "Tetrabenazine",
+                                        "drugbank_id": "DB04844"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amifampridine (N07XX05)",
+                                "atc_code": "N07XX05",
+                                "children": [
+                                    {
+                                        "name": "Amifampridine",
+                                        "drugbank_id": "DB11640"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium oxybate (N07XX04)",
+                                "atc_code": "N07XX04",
+                                "children": [
+                                    {
+                                        "name": "Sodium oxybate",
+                                        "drugbank_id": "DB09072"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xaliproden (N07XX03)",
+                                "atc_code": "N07XX03",
+                                "children": [
+                                    {
+                                        "name": "Xaliproden",
+                                        "drugbank_id": "DB06393"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Riluzole (N07XX02)",
+                                "atc_code": "N07XX02",
+                                "children": [
+                                    {
+                                        "name": "Riluzole",
+                                        "drugbank_id": "DB00740"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tirilazad (N07XX01)",
+                                "atc_code": "N07XX01",
+                                "children": [
+                                    {
+                                        "name": "Tirilazad",
+                                        "drugbank_id": "DB13050"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gangliosides and ganglioside derivatives (N07XA)",
+                        "atc_code": "N07XA"
+                    }
+                ]
+            },
+            {
+                "name": "Antivertigo preparations (N07C)",
+                "atc_code": "N07C",
+                "children": [
+                    {
+                        "name": "Antivertigo preparations (N07CA)",
+                        "atc_code": "N07CA",
+                        "children": [
+                            {
+                                "name": "Cinnarizine, combinations (N07CA52)",
+                                "atc_code": "N07CA52",
+                                "children": [
+                                    {
+                                        "name": "Cinnarizine",
+                                        "drugbank_id": "DB00568"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylleucine (N07CA04)",
+                                "atc_code": "N07CA04",
+                                "children": [
+                                    {
+                                        "name": "Acetylleucine",
+                                        "drugbank_id": "DB13226"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flunarizine (N07CA03)",
+                                "atc_code": "N07CA03",
+                                "children": [
+                                    {
+                                        "name": "Flunarizine",
+                                        "drugbank_id": "DB04841"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinnarizine (N07CA02)",
+                                "atc_code": "N07CA02",
+                                "children": [
+                                    {
+                                        "name": "Cinnarizine",
+                                        "drugbank_id": "DB00568"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betahistine (N07CA01)",
+                                "atc_code": "N07CA01",
+                                "children": [
+                                    {
+                                        "name": "Betahistine",
+                                        "drugbank_id": "DB06698"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Drugs used in addictive disorders (N07B)",
+                "atc_code": "N07B",
+                "children": [
+                    {
+                        "name": "Drugs used in opioid dependence (N07BC)",
+                        "atc_code": "N07BC",
+                        "children": [
+                            {
+                                "name": "Buprenorphine, combinations (N07BC51)",
+                                "atc_code": "N07BC51",
+                                "children": [
+                                    {
+                                        "name": "Buprenorphine",
+                                        "drugbank_id": "DB00921"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diamorphine (N07BC06)",
+                                "atc_code": "N07BC06",
+                                "children": [
+                                    {
+                                        "name": "Diamorphine",
+                                        "drugbank_id": "DB01452"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levomethadone (N07BC05)",
+                                "atc_code": "N07BC05",
+                                "children": [
+                                    {
+                                        "name": "Levomethadone",
+                                        "drugbank_id": "DB13515"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lofexidine (N07BC04)",
+                                "atc_code": "N07BC04",
+                                "children": [
+                                    {
+                                        "name": "Lofexidine",
+                                        "drugbank_id": "DB04948"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levacetylmethadol (N07BC03)",
+                                "atc_code": "N07BC03",
+                                "children": [
+                                    {
+                                        "name": "Levacetylmethadol",
+                                        "drugbank_id": "DB01227"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methadone (N07BC02)",
+                                "atc_code": "N07BC02",
+                                "children": [
+                                    {
+                                        "name": "Methadone",
+                                        "drugbank_id": "DB00333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buprenorphine (N07BC01)",
+                                "atc_code": "N07BC01",
+                                "children": [
+                                    {
+                                        "name": "Buprenorphine",
+                                        "drugbank_id": "DB00921"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drugs used in alcohol dependence (N07BB)",
+                        "atc_code": "N07BB",
+                        "children": [
+                            {
+                                "name": "Ondelopran (N07BB06)",
+                                "atc_code": "N07BB06",
+                                "children": [
+                                    {
+                                        "name": "Ondelopran",
+                                        "drugbank_id": "DB12585"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nalmefene (N07BB05)",
+                                "atc_code": "N07BB05",
+                                "children": [
+                                    {
+                                        "name": "Nalmefene",
+                                        "drugbank_id": "DB06230"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naltrexone (N07BB04)",
+                                "atc_code": "N07BB04",
+                                "children": [
+                                    {
+                                        "name": "Naltrexone",
+                                        "drugbank_id": "DB00704"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acamprosate (N07BB03)",
+                                "atc_code": "N07BB03",
+                                "children": [
+                                    {
+                                        "name": "Acamprosate",
+                                        "drugbank_id": "DB00659"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium carbimide (N07BB02)",
+                                "atc_code": "N07BB02",
+                                "children": [
+                                    {
+                                        "name": "Calcium carbimide",
+                                        "drugbank_id": "DB09116"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Disulfiram (N07BB01)",
+                                "atc_code": "N07BB01",
+                                "children": [
+                                    {
+                                        "name": "Disulfiram",
+                                        "drugbank_id": "DB00822"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drugs used in nicotine dependence (N07BA)",
+                        "atc_code": "N07BA",
+                        "children": [
+                            {
+                                "name": "Cytisinicline (N07BA04)",
+                                "atc_code": "N07BA04"
+                            },
+                            {
+                                "name": "Varenicline (N07BA03)",
+                                "atc_code": "N07BA03",
+                                "children": [
+                                    {
+                                        "name": "Varenicline",
+                                        "drugbank_id": "DB01273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotine (N07BA01)",
+                                "atc_code": "N07BA01",
+                                "children": [
+                                    {
+                                        "name": "Nicotine",
+                                        "drugbank_id": "DB00184"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Parasympathomimetics (N07A)",
+                "atc_code": "N07A",
+                "children": [
+                    {
+                        "name": "Other parasympathomimetics (N07AX)",
+                        "atc_code": "N07AX",
+                        "children": [
+                            {
+                                "name": "Cevimeline (N07AX03)",
+                                "atc_code": "N07AX03",
+                                "children": [
+                                    {
+                                        "name": "Cevimeline",
+                                        "drugbank_id": "DB00185"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Choline alfoscerate (N07AX02)",
+                                "atc_code": "N07AX02",
+                                "children": [
+                                    {
+                                        "name": "Choline alfoscerate",
+                                        "drugbank_id": "DB04660"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pilocarpine (N07AX01)",
+                                "atc_code": "N07AX01",
+                                "children": [
+                                    {
+                                        "name": "Pilocarpine",
+                                        "drugbank_id": "DB01085"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choline esters (N07AB)",
+                        "atc_code": "N07AB",
+                        "children": [
+                            {
+                                "name": "Bethanechol (N07AB02)",
+                                "atc_code": "N07AB02",
+                                "children": [
+                                    {
+                                        "name": "Bethanechol",
+                                        "drugbank_id": "DB01019"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbachol (N07AB01)",
+                                "atc_code": "N07AB01",
+                                "children": [
+                                    {
+                                        "name": "Carbamoylcholine",
+                                        "drugbank_id": "DB00411"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anticholinesterases (N07AA)",
+                        "atc_code": "N07AA",
+                        "children": [
+                            {
+                                "name": "Neostigmine, combinations (N07AA51)",
+                                "atc_code": "N07AA51",
+                                "children": [
+                                    {
+                                        "name": "Neostigmine",
+                                        "drugbank_id": "DB01400"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambenonium (N07AA30)",
+                                "atc_code": "N07AA30",
+                                "children": [
+                                    {
+                                        "name": "Ambenonium",
+                                        "drugbank_id": "DB01122"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Distigmine (N07AA03)",
+                                "atc_code": "N07AA03",
+                                "children": [
+                                    {
+                                        "name": "Distigmine",
+                                        "drugbank_id": "DB13694"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyridostigmine (N07AA02)",
+                                "atc_code": "N07AA02",
+                                "children": [
+                                    {
+                                        "name": "Pyridostigmine",
+                                        "drugbank_id": "DB00545"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neostigmine (N07AA01)",
+                                "atc_code": "N07AA01",
+                                "children": [
+                                    {
+                                        "name": "Neostigmine",
+                                        "drugbank_id": "DB01400"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

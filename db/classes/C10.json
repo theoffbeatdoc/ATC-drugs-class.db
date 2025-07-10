@@ -1,0 +1,1028 @@
+[
+    {
+        "name": "Lipid modifying agents (C10)",
+        "atc_code": "C10",
+        "children": [
+            {
+                "name": "Lipid modifying agents, combinations (C10B)",
+                "atc_code": "C10B",
+                "children": [
+                    {
+                        "name": "Lipid modifying agents in combination with other drugs (C10BX)",
+                        "atc_code": "C10BX",
+                        "children": [
+                            {
+                                "name": "Rosuvastatin and nebivolol (C10BX22)",
+                                "atc_code": "C10BX22",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and perindopril (C10BX21)",
+                                "atc_code": "C10BX21",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and telmisartan (C10BX20)",
+                                "atc_code": "C10BX20",
+                                "children": [
+                                    {
+                                        "name": "Telmisartan",
+                                        "drugbank_id": "DB00966"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin, amlodipine and candesartan (C10BX19)",
+                                "atc_code": "C10BX19",
+                                "children": [
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    },
+                                    {
+                                        "name": "Candesartan",
+                                        "drugbank_id": "DB13919"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin, amlodipine and ramipril (C10BX18)",
+                                "atc_code": "C10BX18",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and ramipril (C10BX17)",
+                                "atc_code": "C10BX17",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and fimasartan (C10BX16)",
+                                "atc_code": "C10BX16",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Fimasartan",
+                                        "drugbank_id": "DB09279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin and perindopril (C10BX15)",
+                                "atc_code": "C10BX15",
+                                "children": [
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin, amlodipine and perindopril (C10BX14)",
+                                "atc_code": "C10BX14",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin, perindopril and indapamide (C10BX13)",
+                                "atc_code": "C10BX13",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    },
+                                    {
+                                        "name": "Indapamide",
+                                        "drugbank_id": "DB00808"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin, acetylsalicylic acid and perindopril (C10BX12)",
+                                "atc_code": "C10BX12",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin, amlodipine and perindopril (C10BX11)",
+                                "atc_code": "C10BX11",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and valsartan (C10BX10)",
+                                "atc_code": "C10BX10",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and amlodipine (C10BX09)",
+                                "atc_code": "C10BX09",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin and acetylsalicylic acid (C10BX08)",
+                                "atc_code": "C10BX08",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin, amlodipine and lisinopril (C10BX07)",
+                                "atc_code": "C10BX07",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Lisinopril",
+                                        "drugbank_id": "DB00722"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin, acetylsalicylic acid and ramipril (C10BX06)",
+                                "atc_code": "C10BX06",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and acetylsalicylic acid (C10BX05)",
+                                "atc_code": "C10BX05",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simvastatin, acetylsalicylic acid and ramipril (C10BX04)",
+                                "atc_code": "C10BX04",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    },
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin and amlodipine (C10BX03)",
+                                "atc_code": "C10BX03",
+                                "children": [
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pravastatin and acetylsalicylic acid (C10BX02)",
+                                "atc_code": "C10BX02",
+                                "children": [
+                                    {
+                                        "name": "Pravastatin",
+                                        "drugbank_id": "DB00175"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simvastatin and acetylsalicylic acid (C10BX01)",
+                                "atc_code": "C10BX01",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations of various lipid modifying agents (C10BA)",
+                        "atc_code": "C10BA",
+                        "children": [
+                            {
+                                "name": "Pitavastatin and ezetimibe (C10BA13)",
+                                "atc_code": "C10BA13",
+                                "children": [
+                                    {
+                                        "name": "Pitavastatin",
+                                        "drugbank_id": "DB08860"
+                                    },
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pravastatin, ezetimibe and fenofibrate (C10BA12)",
+                                "atc_code": "C10BA12",
+                                "children": [
+                                    {
+                                        "name": "Pravastatin",
+                                        "drugbank_id": "DB00175"
+                                    },
+                                    {
+                                        "name": "Fenofibrate",
+                                        "drugbank_id": "DB01039"
+                                    },
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pravastatin and ezetimibe (C10BA11)",
+                                "atc_code": "C10BA11",
+                                "children": [
+                                    {
+                                        "name": "Pravastatin",
+                                        "drugbank_id": "DB00175"
+                                    },
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bempedoic acid and ezetimibe (C10BA10)",
+                                "atc_code": "C10BA10",
+                                "children": [
+                                    {
+                                        "name": "Bempedoic acid",
+                                        "drugbank_id": "DB11936"
+                                    },
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin and fenofibrate (C10BA09)",
+                                "atc_code": "C10BA09",
+                                "children": [
+                                    {
+                                        "name": "Fenofibrate",
+                                        "drugbank_id": "DB01039"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin and omega-3 fatty acids (C10BA08)",
+                                "atc_code": "C10BA08"
+                            },
+                            {
+                                "name": "Rosuvastatin and omega-3 fatty acids (C10BA07)",
+                                "atc_code": "C10BA07"
+                            },
+                            {
+                                "name": "Rosuvastatin and ezetimibe (C10BA06)",
+                                "atc_code": "C10BA06",
+                                "children": [
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin and ezetimibe (C10BA05)",
+                                "atc_code": "C10BA05",
+                                "children": [
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    },
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simvastatin and fenofibrate (C10BA04)",
+                                "atc_code": "C10BA04",
+                                "children": [
+                                    {
+                                        "name": "Fenofibrate",
+                                        "drugbank_id": "DB01039"
+                                    },
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pravastatin and fenofibrate (C10BA03)",
+                                "atc_code": "C10BA03",
+                                "children": [
+                                    {
+                                        "name": "Pravastatin",
+                                        "drugbank_id": "DB00175"
+                                    },
+                                    {
+                                        "name": "Fenofibrate",
+                                        "drugbank_id": "DB01039"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simvastatin and ezetimibe (C10BA02)",
+                                "atc_code": "C10BA02",
+                                "children": [
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    },
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lovastatin and nicotinic acid (C10BA01)",
+                                "atc_code": "C10BA01",
+                                "children": [
+                                    {
+                                        "name": "Niacin",
+                                        "drugbank_id": "DB00627"
+                                    },
+                                    {
+                                        "name": "Lovastatin",
+                                        "drugbank_id": "DB00227"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lipid modifying agents, plain (C10A)",
+                "atc_code": "C10A",
+                "children": [
+                    {
+                        "name": "Other lipid modifying agents (C10AX)",
+                        "atc_code": "C10AX",
+                        "children": [
+                            {
+                                "name": "Volanesorsen (C10AX18)",
+                                "atc_code": "C10AX18",
+                                "children": [
+                                    {
+                                        "name": "Volanesorsen",
+                                        "drugbank_id": "DB15067"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Evinacumab (C10AX17)",
+                                "atc_code": "C10AX17",
+                                "children": [
+                                    {
+                                        "name": "Evinacumab",
+                                        "drugbank_id": "DB15354"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inclisiran (C10AX16)",
+                                "atc_code": "C10AX16",
+                                "children": [
+                                    {
+                                        "name": "Inclisiran",
+                                        "drugbank_id": "DB14901"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bempedoic acid (C10AX15)",
+                                "atc_code": "C10AX15",
+                                "children": [
+                                    {
+                                        "name": "Bempedoic acid",
+                                        "drugbank_id": "DB11936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alirocumab (C10AX14)",
+                                "atc_code": "C10AX14",
+                                "children": [
+                                    {
+                                        "name": "Alirocumab",
+                                        "drugbank_id": "DB09302"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Evolocumab (C10AX13)",
+                                "atc_code": "C10AX13",
+                                "children": [
+                                    {
+                                        "name": "Evolocumab",
+                                        "drugbank_id": "DB09303"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lomitapide (C10AX12)",
+                                "atc_code": "C10AX12",
+                                "children": [
+                                    {
+                                        "name": "Lomitapide",
+                                        "drugbank_id": "DB08827"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mipomersen (C10AX11)",
+                                "atc_code": "C10AX11",
+                                "children": [
+                                    {
+                                        "name": "Mipomersen",
+                                        "drugbank_id": "DB05528"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alipogene tiparvovec (C10AX10)",
+                                "atc_code": "C10AX10",
+                                "children": [
+                                    {
+                                        "name": "Alipogene tiparvovec",
+                                        "drugbank_id": "DB13521"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ezetimibe (C10AX09)",
+                                "atc_code": "C10AX09",
+                                "children": [
+                                    {
+                                        "name": "Ezetimibe",
+                                        "drugbank_id": "DB00973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Policosanol (C10AX08)",
+                                "atc_code": "C10AX08"
+                            },
+                            {
+                                "name": "Magnesium pyridoxal 5-phosphate glutamate (C10AX07)",
+                                "atc_code": "C10AX07"
+                            },
+                            {
+                                "name": "Omega-3-triglycerides incl. other esters and acids (C10AX06)",
+                                "atc_code": "C10AX06"
+                            },
+                            {
+                                "name": "Meglutol (C10AX05)",
+                                "atc_code": "C10AX05",
+                                "children": [
+                                    {
+                                        "name": "Meglutol",
+                                        "drugbank_id": "DB04377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiadenol (C10AX03)",
+                                "atc_code": "C10AX03",
+                                "children": [
+                                    {
+                                        "name": "Tiadenol",
+                                        "drugbank_id": "DB13348"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Probucol (C10AX02)",
+                                "atc_code": "C10AX02",
+                                "children": [
+                                    {
+                                        "name": "Probucol",
+                                        "drugbank_id": "DB01599"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextrothyroxine (C10AX01)",
+                                "atc_code": "C10AX01",
+                                "children": [
+                                    {
+                                        "name": "Dextrothyroxine",
+                                        "drugbank_id": "DB00509"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nicotinic acid and derivatives (C10AD)",
+                        "atc_code": "C10AD",
+                        "children": [
+                            {
+                                "name": "Nicotinic acid, combinations (C10AD52)",
+                                "atc_code": "C10AD52",
+                                "children": [
+                                    {
+                                        "name": "Niacin",
+                                        "drugbank_id": "DB00627"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acipimox (C10AD06)",
+                                "atc_code": "C10AD06",
+                                "children": [
+                                    {
+                                        "name": "Acipimox",
+                                        "drugbank_id": "DB09055"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotinyl alcohol (pyridylcarbinol) (C10AD05)",
+                                "atc_code": "C10AD05",
+                                "children": [
+                                    {
+                                        "name": "Nicotinyl alcohol",
+                                        "drugbank_id": "DB04145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium nicotinate (C10AD04)",
+                                "atc_code": "C10AD04",
+                                "children": [
+                                    {
+                                        "name": "Aluminium nicotinate",
+                                        "drugbank_id": "DB13576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicofuranose (C10AD03)",
+                                "atc_code": "C10AD03",
+                                "children": [
+                                    {
+                                        "name": "Nicofuranose",
+                                        "drugbank_id": "DB13422"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotinic acid (C10AD02)",
+                                "atc_code": "C10AD02",
+                                "children": [
+                                    {
+                                        "name": "Niacin",
+                                        "drugbank_id": "DB00627"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Niceritrol (C10AD01)",
+                                "atc_code": "C10AD01",
+                                "children": [
+                                    {
+                                        "name": "Niceritrol",
+                                        "drugbank_id": "DB13441"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bile acid sequestrants (C10AC)",
+                        "atc_code": "C10AC",
+                        "children": [
+                            {
+                                "name": "Colesevelam (C10AC04)",
+                                "atc_code": "C10AC04",
+                                "children": [
+                                    {
+                                        "name": "Colesevelam",
+                                        "drugbank_id": "DB00930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colextran (C10AC03)",
+                                "atc_code": "C10AC03"
+                            },
+                            {
+                                "name": "Colestipol (C10AC02)",
+                                "atc_code": "C10AC02",
+                                "children": [
+                                    {
+                                        "name": "Colestipol",
+                                        "drugbank_id": "DB00375"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colestyramine (C10AC01)",
+                                "atc_code": "C10AC01",
+                                "children": [
+                                    {
+                                        "name": "Cholestyramine",
+                                        "drugbank_id": "DB01432"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fibrates (C10AB)",
+                        "atc_code": "C10AB",
+                        "children": [
+                            {
+                                "name": "Pemafibrate (C10AB12)",
+                                "atc_code": "C10AB12",
+                                "children": [
+                                    {
+                                        "name": "Pemafibrate",
+                                        "drugbank_id": "DB15212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Choline fenofibrate (C10AB11)",
+                                "atc_code": "C10AB11",
+                                "children": [
+                                    {
+                                        "name": "Fenofibric acid",
+                                        "drugbank_id": "DB13873"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofibride (C10AB10)",
+                                "atc_code": "C10AB10",
+                                "children": [
+                                    {
+                                        "name": "Clofibride",
+                                        "drugbank_id": "DB13849"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etofibrate (C10AB09)",
+                                "atc_code": "C10AB09",
+                                "children": [
+                                    {
+                                        "name": "Etofibrate",
+                                        "drugbank_id": "DB08983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofibrate (C10AB08)",
+                                "atc_code": "C10AB08",
+                                "children": [
+                                    {
+                                        "name": "Ciprofibrate",
+                                        "drugbank_id": "DB09064"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ronifibrate (C10AB07)",
+                                "atc_code": "C10AB07",
+                                "children": [
+                                    {
+                                        "name": "Ronifibrate",
+                                        "drugbank_id": "DB13460"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simfibrate (C10AB06)",
+                                "atc_code": "C10AB06",
+                                "children": [
+                                    {
+                                        "name": "Simfibrate",
+                                        "drugbank_id": "DB13433"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenofibrate (C10AB05)",
+                                "atc_code": "C10AB05",
+                                "children": [
+                                    {
+                                        "name": "Fenofibrate",
+                                        "drugbank_id": "DB01039"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gemfibrozil (C10AB04)",
+                                "atc_code": "C10AB04",
+                                "children": [
+                                    {
+                                        "name": "Gemfibrozil",
+                                        "drugbank_id": "DB01241"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium clofibrate (C10AB03)",
+                                "atc_code": "C10AB03",
+                                "children": [
+                                    {
+                                        "name": "Aluminium clofibrate",
+                                        "drugbank_id": "DB13780"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bezafibrate (C10AB02)",
+                                "atc_code": "C10AB02",
+                                "children": [
+                                    {
+                                        "name": "Bezafibrate",
+                                        "drugbank_id": "DB01393"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofibrate (C10AB01)",
+                                "atc_code": "C10AB01",
+                                "children": [
+                                    {
+                                        "name": "Clofibrate",
+                                        "drugbank_id": "DB00636"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hmg coa reductase inhibitors (C10AA)",
+                        "atc_code": "C10AA",
+                        "children": [
+                            {
+                                "name": "Pitavastatin (C10AA08)",
+                                "atc_code": "C10AA08",
+                                "children": [
+                                    {
+                                        "name": "Pitavastatin",
+                                        "drugbank_id": "DB08860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosuvastatin (C10AA07)",
+                                "atc_code": "C10AA07",
+                                "children": [
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cerivastatin (C10AA06)",
+                                "atc_code": "C10AA06",
+                                "children": [
+                                    {
+                                        "name": "Cerivastatin",
+                                        "drugbank_id": "DB00439"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atorvastatin (C10AA05)",
+                                "atc_code": "C10AA05",
+                                "children": [
+                                    {
+                                        "name": "Atorvastatin",
+                                        "drugbank_id": "DB01076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluvastatin (C10AA04)",
+                                "atc_code": "C10AA04",
+                                "children": [
+                                    {
+                                        "name": "Fluvastatin",
+                                        "drugbank_id": "DB01095"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pravastatin (C10AA03)",
+                                "atc_code": "C10AA03",
+                                "children": [
+                                    {
+                                        "name": "Pravastatin",
+                                        "drugbank_id": "DB00175"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lovastatin (C10AA02)",
+                                "atc_code": "C10AA02",
+                                "children": [
+                                    {
+                                        "name": "Lovastatin",
+                                        "drugbank_id": "DB00227"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simvastatin (C10AA01)",
+                                "atc_code": "C10AA01",
+                                "children": [
+                                    {
+                                        "name": "Simvastatin",
+                                        "drugbank_id": "DB00641"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

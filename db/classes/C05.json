@@ -1,0 +1,616 @@
+[
+    {
+        "name": "Vasoprotectives (C05)",
+        "atc_code": "C05",
+        "children": [
+            {
+                "name": "Other vasoprotectives (C05X)",
+                "atc_code": "C05X",
+                "children": [
+                    {
+                        "name": "Other vasoprotectives (C05XX)",
+                        "atc_code": "C05XX",
+                        "children": [
+                            {
+                                "name": "Beperminogene perplasmid (C05XX01)",
+                                "atc_code": "C05XX01",
+                                "children": [
+                                    {
+                                        "name": "Beperminogene perplasmid",
+                                        "drugbank_id": "DB19236"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Capillary stabilizing agents (C05C)",
+                "atc_code": "C05C",
+                "children": [
+                    {
+                        "name": "Other capillary stabilizing agents (C05CX)",
+                        "atc_code": "C05CX",
+                        "children": [
+                            {
+                                "name": "Hippocastani semen (C05CX03)",
+                                "atc_code": "C05CX03",
+                                "children": [
+                                    {
+                                        "name": "Horse chestnut",
+                                        "drugbank_id": "DB13195"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naftazone (C05CX02)",
+                                "atc_code": "C05CX02",
+                                "children": [
+                                    {
+                                        "name": "Naftazone",
+                                        "drugbank_id": "DB13680"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tribenoside (C05CX01)",
+                                "atc_code": "C05CX01",
+                                "children": [
+                                    {
+                                        "name": "Tribenoside",
+                                        "drugbank_id": "DB13227"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bioflavonoids (C05CA)",
+                        "atc_code": "C05CA",
+                        "children": [
+                            {
+                                "name": "Troxerutin, combinations (C05CA54)",
+                                "atc_code": "C05CA54",
+                                "children": [
+                                    {
+                                        "name": "Troxerutin",
+                                        "drugbank_id": "DB13124"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diosmin, combinations (C05CA53)",
+                                "atc_code": "C05CA53",
+                                "children": [
+                                    {
+                                        "name": "Diosmin",
+                                        "drugbank_id": "DB08995"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rutoside, combinations (C05CA51)",
+                                "atc_code": "C05CA51",
+                                "children": [
+                                    {
+                                        "name": "Rutin",
+                                        "drugbank_id": "DB01698"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hidrosmin (C05CA05)",
+                                "atc_code": "C05CA05",
+                                "children": [
+                                    {
+                                        "name": "Hidrosmin",
+                                        "drugbank_id": "DB13490"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Troxerutin (C05CA04)",
+                                "atc_code": "C05CA04",
+                                "children": [
+                                    {
+                                        "name": "Troxerutin",
+                                        "drugbank_id": "DB13124"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diosmin (C05CA03)",
+                                "atc_code": "C05CA03",
+                                "children": [
+                                    {
+                                        "name": "Diosmin",
+                                        "drugbank_id": "DB08995"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monoxerutin (C05CA02)",
+                                "atc_code": "C05CA02",
+                                "children": [
+                                    {
+                                        "name": "Monoxerutin",
+                                        "drugbank_id": "DB13764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rutoside (C05CA01)",
+                                "atc_code": "C05CA01",
+                                "children": [
+                                    {
+                                        "name": "Rutin",
+                                        "drugbank_id": "DB01698"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antivaricose therapy (C05B)",
+                "atc_code": "C05B",
+                "children": [
+                    {
+                        "name": "Other sclerosing agents (C05BX)",
+                        "atc_code": "C05BX",
+                        "children": [
+                            {
+                                "name": "Calcium dobesilate, combinations (C05BX51)",
+                                "atc_code": "C05BX51",
+                                "children": [
+                                    {
+                                        "name": "Dobesilic acid",
+                                        "drugbank_id": "DB13529"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium dobesilate (C05BX01)",
+                                "atc_code": "C05BX01",
+                                "children": [
+                                    {
+                                        "name": "Dobesilic acid",
+                                        "drugbank_id": "DB13529"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sclerosing agents for local injection (C05BB)",
+                        "atc_code": "C05BB",
+                        "children": [
+                            {
+                                "name": "Glucose, combinations (C05BB56)",
+                                "atc_code": "C05BB56"
+                            },
+                            {
+                                "name": "Phenol (C05BB05)",
+                                "atc_code": "C05BB05",
+                                "children": [
+                                    {
+                                        "name": "Phenol",
+                                        "drugbank_id": "DB03255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium tetradecyl sulfate (C05BB04)",
+                                "atc_code": "C05BB04",
+                                "children": [
+                                    {
+                                        "name": "Sodium tetradecyl sulfate",
+                                        "drugbank_id": "DB00464"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Invert sugar (C05BB03)",
+                                "atc_code": "C05BB03",
+                                "children": [
+                                    {
+                                        "name": "Invert sugar",
+                                        "drugbank_id": "DB09344"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polidocanol (C05BB02)",
+                                "atc_code": "C05BB02",
+                                "children": [
+                                    {
+                                        "name": "Polidocanol",
+                                        "drugbank_id": "DB06811"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monoethanolamine oleate (C05BB01)",
+                                "atc_code": "C05BB01",
+                                "children": [
+                                    {
+                                        "name": "Ethanolamine oleate",
+                                        "drugbank_id": "DB06689"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heparins or heparinoids for topical use (C05BA)",
+                        "atc_code": "C05BA",
+                        "children": [
+                            {
+                                "name": "Heparin, combinations (C05BA53)",
+                                "atc_code": "C05BA53",
+                                "children": [
+                                    {
+                                        "name": "Heparin",
+                                        "drugbank_id": "DB01109"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Heparinoid, combinations (C05BA51)",
+                                "atc_code": "C05BA51",
+                                "children": [
+                                    {
+                                        "name": "Pentosan polysulfate",
+                                        "drugbank_id": "DB00686"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentosan polysulfate sodium (C05BA04)",
+                                "atc_code": "C05BA04",
+                                "children": [
+                                    {
+                                        "name": "Pentosan polysulfate",
+                                        "drugbank_id": "DB00686"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Heparin (C05BA03)",
+                                "atc_code": "C05BA03",
+                                "children": [
+                                    {
+                                        "name": "Heparin",
+                                        "drugbank_id": "DB01109"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium apolate (C05BA02)",
+                                "atc_code": "C05BA02",
+                                "children": [
+                                    {
+                                        "name": "Sodium apolate",
+                                        "drugbank_id": "DB13477"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Organo-heparinoid (C05BA01)",
+                                "atc_code": "C05BA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Agents for treatment of hemorrhoids and anal fissures for topical use (C05A)",
+                "atc_code": "C05A",
+                "children": [
+                    {
+                        "name": "Other agents for treatment of hemorrhoids and anal fissures for topical use (C05AX)",
+                        "atc_code": "C05AX",
+                        "children": [
+                            {
+                                "name": "Phenylephrine (C05AX06)",
+                                "atc_code": "C05AX06",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tribenoside (C05AX05)",
+                                "atc_code": "C05AX05",
+                                "children": [
+                                    {
+                                        "name": "Tribenoside",
+                                        "drugbank_id": "DB13227"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zinc preparations (C05AX04)",
+                                "atc_code": "C05AX04",
+                                "children": [
+                                    {
+                                        "name": "Zinc ascorbate",
+                                        "drugbank_id": "DB14485"
+                                    },
+                                    {
+                                        "name": "Zinc sulfate, unspecified form",
+                                        "drugbank_id": "DB14548"
+                                    },
+                                    {
+                                        "name": "Zinc acetate",
+                                        "drugbank_id": "DB14487"
+                                    },
+                                    {
+                                        "name": "Zinc oxide",
+                                        "drugbank_id": "DB09321"
+                                    },
+                                    {
+                                        "name": "Ditiocarb zinc",
+                                        "drugbank_id": "DB14193"
+                                    },
+                                    {
+                                        "name": "Zinc dibutyldithiocarbamate",
+                                        "drugbank_id": "DB14194"
+                                    },
+                                    {
+                                        "name": "Zinc sulfate",
+                                        "drugbank_id": "DB09322"
+                                    },
+                                    {
+                                        "name": "Zinc",
+                                        "drugbank_id": "DB01593"
+                                    },
+                                    {
+                                        "name": "Zinc citrate",
+                                        "drugbank_id": "DB11154"
+                                    },
+                                    {
+                                        "name": "Zinc chloride",
+                                        "drugbank_id": "DB14533"
+                                    },
+                                    {
+                                        "name": "Zinc gluconate",
+                                        "drugbank_id": "DB11248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Other preparations, combinations (C05AX03)",
+                                "atc_code": "C05AX03"
+                            },
+                            {
+                                "name": "Bismuth preparations, combinations (C05AX02)",
+                                "atc_code": "C05AX02"
+                            },
+                            {
+                                "name": "Aluminium preparations (C05AX01)",
+                                "atc_code": "C05AX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muscle relaxants (C05AE)",
+                        "atc_code": "C05AE",
+                        "children": [
+                            {
+                                "name": "Diltiazem (C05AE03)",
+                                "atc_code": "C05AE03",
+                                "children": [
+                                    {
+                                        "name": "Diltiazem",
+                                        "drugbank_id": "DB00343"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isosorbide dinitrate (C05AE02)",
+                                "atc_code": "C05AE02",
+                                "children": [
+                                    {
+                                        "name": "Isosorbide dinitrate",
+                                        "drugbank_id": "DB00883"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glyceryl trinitrate (C05AE01)",
+                                "atc_code": "C05AE01",
+                                "children": [
+                                    {
+                                        "name": "Nitroglycerin",
+                                        "drugbank_id": "DB00727"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Local anesthetics (C05AD)",
+                        "atc_code": "C05AD",
+                        "children": [
+                            {
+                                "name": "Pramocaine (C05AD07)",
+                                "atc_code": "C05AD07",
+                                "children": [
+                                    {
+                                        "name": "Pramocaine",
+                                        "drugbank_id": "DB09345"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxetacaine (C05AD06)",
+                                "atc_code": "C05AD06",
+                                "children": [
+                                    {
+                                        "name": "Oxetacaine",
+                                        "drugbank_id": "DB12532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaine (C05AD05)",
+                                "atc_code": "C05AD05",
+                                "children": [
+                                    {
+                                        "name": "Procaine",
+                                        "drugbank_id": "DB00721"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinchocaine (C05AD04)",
+                                "atc_code": "C05AD04",
+                                "children": [
+                                    {
+                                        "name": "Cinchocaine",
+                                        "drugbank_id": "DB00527"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzocaine (C05AD03)",
+                                "atc_code": "C05AD03",
+                                "children": [
+                                    {
+                                        "name": "Benzocaine",
+                                        "drugbank_id": "DB01086"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracaine (C05AD02)",
+                                "atc_code": "C05AD02",
+                                "children": [
+                                    {
+                                        "name": "Tetracaine",
+                                        "drugbank_id": "DB09085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine (C05AD01)",
+                                "atc_code": "C05AD01",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (C05AB)",
+                        "atc_code": "C05AB"
+                    },
+                    {
+                        "name": "Corticosteroids (C05AA)",
+                        "atc_code": "C05AA",
+                        "children": [
+                            {
+                                "name": "Triamcinolone (C05AA12)",
+                                "atc_code": "C05AA12",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinonide (C05AA11)",
+                                "atc_code": "C05AA11",
+                                "children": [
+                                    {
+                                        "name": "Fluocinonide",
+                                        "drugbank_id": "DB01047"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinolone acetonide (C05AA10)",
+                                "atc_code": "C05AA10",
+                                "children": [
+                                    {
+                                        "name": "Fluocinolone acetonide",
+                                        "drugbank_id": "DB00591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (C05AA09)",
+                                "atc_code": "C05AA09",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocortolone (C05AA08)",
+                                "atc_code": "C05AA08",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorometholone (C05AA06)",
+                                "atc_code": "C05AA06",
+                                "children": [
+                                    {
+                                        "name": "Fluorometholone",
+                                        "drugbank_id": "DB00324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (C05AA05)",
+                                "atc_code": "C05AA05",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone (C05AA04)",
+                                "atc_code": "C05AA04",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (C05AA01)",
+                                "atc_code": "C05AA01",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

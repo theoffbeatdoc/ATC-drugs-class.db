@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Thyroid therapy (H03)",
+        "atc_code": "H03",
+        "children": [
+            {
+                "name": "Iodine therapy (H03C)",
+                "atc_code": "H03C",
+                "children": [
+                    {
+                        "name": "Iodine therapy (H03CA)",
+                        "atc_code": "H03CA"
+                    }
+                ]
+            },
+            {
+                "name": "Antithyroid preparations (H03B)",
+                "atc_code": "H03B",
+                "children": [
+                    {
+                        "name": "Other antithyroid preparations (H03BX)",
+                        "atc_code": "H03BX",
+                        "children": [
+                            {
+                                "name": "Dibromotyrosine (H03BX02)",
+                                "atc_code": "H03BX02",
+                                "children": [
+                                    {
+                                        "name": "Dibromotyrosine",
+                                        "drugbank_id": "DB07637"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diiodotyrosine (H03BX01)",
+                                "atc_code": "H03BX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Perchlorates (H03BC)",
+                        "atc_code": "H03BC",
+                        "children": [
+                            {
+                                "name": "Potassium perchlorate (H03BC01)",
+                                "atc_code": "H03BC01",
+                                "children": [
+                                    {
+                                        "name": "Potassium perchlorate",
+                                        "drugbank_id": "DB09418"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfur-containing imidazole derivatives (H03BB)",
+                        "atc_code": "H03BB",
+                        "children": [
+                            {
+                                "name": "Thiamazole, combinations (H03BB52)",
+                                "atc_code": "H03BB52",
+                                "children": [
+                                    {
+                                        "name": "Methimazole",
+                                        "drugbank_id": "DB00763"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiamazole (H03BB02)",
+                                "atc_code": "H03BB02",
+                                "children": [
+                                    {
+                                        "name": "Methimazole",
+                                        "drugbank_id": "DB00763"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbimazole (H03BB01)",
+                                "atc_code": "H03BB01",
+                                "children": [
+                                    {
+                                        "name": "Carbimazole",
+                                        "drugbank_id": "DB00389"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiouracils (H03BA)",
+                        "atc_code": "H03BA",
+                        "children": [
+                            {
+                                "name": "Benzylthiouracil (H03BA03)",
+                                "atc_code": "H03BA03",
+                                "children": [
+                                    {
+                                        "name": "Benzylthiouracil",
+                                        "drugbank_id": "DB13804"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propylthiouracil (H03BA02)",
+                                "atc_code": "H03BA02",
+                                "children": [
+                                    {
+                                        "name": "Propylthiouracil",
+                                        "drugbank_id": "DB00550"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylthiouracil (H03BA01)",
+                                "atc_code": "H03BA01",
+                                "children": [
+                                    {
+                                        "name": "Methylthiouracil",
+                                        "drugbank_id": "DB13644"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Thyroid preparations (H03A)",
+                "atc_code": "H03A",
+                "children": [
+                    {
+                        "name": "Thyroid hormones (H03AA)",
+                        "atc_code": "H03AA",
+                        "children": [
+                            {
+                                "name": "Levothyroxine sodium and iodine compounds (H03AA51)",
+                                "atc_code": "H03AA51",
+                                "children": [
+                                    {
+                                        "name": "Levothyroxine",
+                                        "drugbank_id": "DB00451"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thyroid gland preparations (H03AA05)",
+                                "atc_code": "H03AA05"
+                            },
+                            {
+                                "name": "Tiratricol (H03AA04)",
+                                "atc_code": "H03AA04",
+                                "children": [
+                                    {
+                                        "name": "Tiratricol",
+                                        "drugbank_id": "DB03604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations of levothyroxine and liothyronine (H03AA03)",
+                                "atc_code": "H03AA03",
+                                "children": [
+                                    {
+                                        "name": "Liothyronine",
+                                        "drugbank_id": "DB00279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Liothyronine sodium (H03AA02)",
+                                "atc_code": "H03AA02",
+                                "children": [
+                                    {
+                                        "name": "Liothyronine",
+                                        "drugbank_id": "DB00279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levothyroxine sodium (H03AA01)",
+                                "atc_code": "H03AA01",
+                                "children": [
+                                    {
+                                        "name": "Levothyroxine",
+                                        "drugbank_id": "DB00451"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

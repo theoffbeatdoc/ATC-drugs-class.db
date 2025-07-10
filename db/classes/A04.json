@@ -1,0 +1,196 @@
+[
+    {
+        "name": "Antiemetics and antinauseants (A04)",
+        "atc_code": "A04",
+        "children": [
+            {
+                "name": "Antiemetics and antinauseants (A04A)",
+                "atc_code": "A04A",
+                "children": [
+                    {
+                        "name": "Other antiemetics (A04AD)",
+                        "atc_code": "A04AD",
+                        "children": [
+                            {
+                                "name": "Rolapitant (A04AD14)",
+                                "atc_code": "A04AD14",
+                                "children": [
+                                    {
+                                        "name": "Rolapitant",
+                                        "drugbank_id": "DB09291"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorobutanol, combinations (A04AD54)",
+                                "atc_code": "A04AD54",
+                                "children": [
+                                    {
+                                        "name": "Chlorobutanol",
+                                        "drugbank_id": "DB11386"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scopolamine, combinations (A04AD51)",
+                                "atc_code": "A04AD51",
+                                "children": [
+                                    {
+                                        "name": "Scopolamine",
+                                        "drugbank_id": "DB00747"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Casopitant (A04AD13)",
+                                "atc_code": "A04AD13",
+                                "children": [
+                                    {
+                                        "name": "Casopitant",
+                                        "drugbank_id": "DB06634"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aprepitant (A04AD12)",
+                                "atc_code": "A04AD12",
+                                "children": [
+                                    {
+                                        "name": "Aprepitant",
+                                        "drugbank_id": "DB00673"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nabilone (A04AD11)",
+                                "atc_code": "A04AD11",
+                                "children": [
+                                    {
+                                        "name": "Nabilone",
+                                        "drugbank_id": "DB00486"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dronabinol (A04AD10)",
+                                "atc_code": "A04AD10",
+                                "children": [
+                                    {
+                                        "name": "Dronabinol",
+                                        "drugbank_id": "DB00470"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metopimazine (A04AD05)",
+                                "atc_code": "A04AD05",
+                                "children": [
+                                    {
+                                        "name": "Metopimazine",
+                                        "drugbank_id": "DB13591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorobutanol (A04AD04)",
+                                "atc_code": "A04AD04",
+                                "children": [
+                                    {
+                                        "name": "Chlorobutanol",
+                                        "drugbank_id": "DB11386"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cerium oxalate (A04AD02)",
+                                "atc_code": "A04AD02",
+                                "children": [
+                                    {
+                                        "name": "Cerium oxalate",
+                                        "drugbank_id": "DB13519"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scopolamine (A04AD01)",
+                                "atc_code": "A04AD01",
+                                "children": [
+                                    {
+                                        "name": "Scopolamine",
+                                        "drugbank_id": "DB00747"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serotonin (5ht3) antagonists (A04AA)",
+                        "atc_code": "A04AA",
+                        "children": [
+                            {
+                                "name": "Palonosetron, combinations (A04AA55)",
+                                "atc_code": "A04AA55",
+                                "children": [
+                                    {
+                                        "name": "Palonosetron",
+                                        "drugbank_id": "DB00377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Palonosetron (A04AA05)",
+                                "atc_code": "A04AA05",
+                                "children": [
+                                    {
+                                        "name": "Palonosetron",
+                                        "drugbank_id": "DB00377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dolasetron (A04AA04)",
+                                "atc_code": "A04AA04",
+                                "children": [
+                                    {
+                                        "name": "Dolasetron",
+                                        "drugbank_id": "DB00757"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tropisetron (A04AA03)",
+                                "atc_code": "A04AA03",
+                                "children": [
+                                    {
+                                        "name": "Tropisetron",
+                                        "drugbank_id": "DB11699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Granisetron (A04AA02)",
+                                "atc_code": "A04AA02",
+                                "children": [
+                                    {
+                                        "name": "Granisetron",
+                                        "drugbank_id": "DB00889"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ondansetron (A04AA01)",
+                                "atc_code": "A04AA01",
+                                "children": [
+                                    {
+                                        "name": "Ondansetron",
+                                        "drugbank_id": "DB00904"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

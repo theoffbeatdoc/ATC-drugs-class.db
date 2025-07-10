@@ -1,0 +1,942 @@
+[
+    {
+        "name": "Antihypertensives (C02)",
+        "atc_code": "C02",
+        "children": [
+            {
+                "name": "Combinations of antihypertensives in atc-gr. c02 (C02N)",
+                "atc_code": "C02N"
+            },
+            {
+                "name": "Antihypertensives and diuretics in combination (C02L)",
+                "atc_code": "C02L",
+                "children": [
+                    {
+                        "name": "Other antihypertensives and diuretics (C02LX)",
+                        "atc_code": "C02LX",
+                        "children": [
+                            {
+                                "name": "Pinacidil and diuretics (C02LX01)",
+                                "atc_code": "C02LX01",
+                                "children": [
+                                    {
+                                        "name": "Pinacidil",
+                                        "drugbank_id": "DB06762"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serotonin antagonists and diuretics (C02LN)",
+                        "atc_code": "C02LN"
+                    },
+                    {
+                        "name": "Mao inhibitors and diuretics (C02LL)",
+                        "atc_code": "C02LL",
+                        "children": [
+                            {
+                                "name": "Pargyline and diuretics (C02LL01)",
+                                "atc_code": "C02LL01",
+                                "children": [
+                                    {
+                                        "name": "Pargyline",
+                                        "drugbank_id": "DB01626"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alkaloids, excl. rauwolfia, in combination with diuretics (C02LK)",
+                        "atc_code": "C02LK",
+                        "children": [
+                            {
+                                "name": "Veratrum and diuretics (C02LK01)",
+                                "atc_code": "C02LK01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydrazinophthalazine derivatives and diuretics (C02LG)",
+                        "atc_code": "C02LG",
+                        "children": [
+                            {
+                                "name": "Picodralazine and diuretics, combinations with psycholeptics (C02LG73)",
+                                "atc_code": "C02LG73"
+                            },
+                            {
+                                "name": "Dihydralazine and diuretics, combinations with other drugs (C02LG51)",
+                                "atc_code": "C02LG51",
+                                "children": [
+                                    {
+                                        "name": "Dihydralazine",
+                                        "drugbank_id": "DB12945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Picodralazine and diuretics (C02LG03)",
+                                "atc_code": "C02LG03"
+                            },
+                            {
+                                "name": "Hydralazine and diuretics (C02LG02)",
+                                "atc_code": "C02LG02",
+                                "children": [
+                                    {
+                                        "name": "Hydralazine",
+                                        "drugbank_id": "DB01275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydralazine and diuretics (C02LG01)",
+                                "atc_code": "C02LG01",
+                                "children": [
+                                    {
+                                        "name": "Dihydralazine",
+                                        "drugbank_id": "DB12945"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guanidine derivatives and diuretics (C02LF)",
+                        "atc_code": "C02LF",
+                        "children": [
+                            {
+                                "name": "Guanethidine and diuretics (C02LF01)",
+                                "atc_code": "C02LF01",
+                                "children": [
+                                    {
+                                        "name": "Guanethidine",
+                                        "drugbank_id": "DB01170"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha-adrenoreceptor antagonists and diuretics (C02LE)",
+                        "atc_code": "C02LE",
+                        "children": [
+                            {
+                                "name": "Prazosin and diuretics (C02LE01)",
+                                "atc_code": "C02LE01",
+                                "children": [
+                                    {
+                                        "name": "Prazosin",
+                                        "drugbank_id": "DB00457"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazoline receptor agonists in combination with diuretics (C02LC)",
+                        "atc_code": "C02LC",
+                        "children": [
+                            {
+                                "name": "Clonidine and diuretics, combinations with other drugs (C02LC51)",
+                                "atc_code": "C02LC51",
+                                "children": [
+                                    {
+                                        "name": "Clonidine",
+                                        "drugbank_id": "DB00575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moxonidine and diuretics (C02LC05)",
+                                "atc_code": "C02LC05",
+                                "children": [
+                                    {
+                                        "name": "Moxonidine",
+                                        "drugbank_id": "DB09242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clonidine and diuretics (C02LC01)",
+                                "atc_code": "C02LC01",
+                                "children": [
+                                    {
+                                        "name": "Clonidine",
+                                        "drugbank_id": "DB00575"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Methyldopa and diuretics in combination (C02LB)",
+                        "atc_code": "C02LB",
+                        "children": [
+                            {
+                                "name": "Methyldopa (levorotatory) and diuretics (C02LB01)",
+                                "atc_code": "C02LB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rauwolfia alkaloids and diuretics in combination (C02LA)",
+                        "atc_code": "C02LA",
+                        "children": [
+                            {
+                                "name": "Reserpine and diuretics, combinations with psycholeptics (C02LA71)",
+                                "atc_code": "C02LA71",
+                                "children": [
+                                    {
+                                        "name": "Reserpine",
+                                        "drugbank_id": "DB00206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rescinnamine and diuretics, combinations with other drugs (C02LA52)",
+                                "atc_code": "C02LA52",
+                                "children": [
+                                    {
+                                        "name": "Rescinnamine",
+                                        "drugbank_id": "DB01180"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reserpine and diuretics, combinations with other drugs (C02LA51)",
+                                "atc_code": "C02LA51",
+                                "children": [
+                                    {
+                                        "name": "Reserpine",
+                                        "drugbank_id": "DB00206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combination of rauwolfia alkaloids and diuretics incl. other combinations (C02LA50)",
+                                "atc_code": "C02LA50"
+                            },
+                            {
+                                "name": "Syrosingopine and diuretics (C02LA09)",
+                                "atc_code": "C02LA09",
+                                "children": [
+                                    {
+                                        "name": "Syrosingopine",
+                                        "drugbank_id": "DB19379"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rauwolfia alkaloids, whole root and diuretics (C02LA08)",
+                                "atc_code": "C02LA08",
+                                "children": [
+                                    {
+                                        "name": "Rauwolfia serpentina root",
+                                        "drugbank_id": "DB09363"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bietaserpine and diuretics (C02LA07)",
+                                "atc_code": "C02LA07",
+                                "children": [
+                                    {
+                                        "name": "Bietaserpine",
+                                        "drugbank_id": "DB13575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoserpidine and diuretics (C02LA04)",
+                                "atc_code": "C02LA04",
+                                "children": [
+                                    {
+                                        "name": "Methoserpidine",
+                                        "drugbank_id": "DB13631"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deserpidine and diuretics (C02LA03)",
+                                "atc_code": "C02LA03",
+                                "children": [
+                                    {
+                                        "name": "Deserpidine",
+                                        "drugbank_id": "DB01089"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rescinnamine and diuretics (C02LA02)",
+                                "atc_code": "C02LA02",
+                                "children": [
+                                    {
+                                        "name": "Rescinnamine",
+                                        "drugbank_id": "DB01180"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reserpine and diuretics (C02LA01)",
+                                "atc_code": "C02LA01",
+                                "children": [
+                                    {
+                                        "name": "Reserpine",
+                                        "drugbank_id": "DB00206"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other antihypertensives (C02K)",
+                "atc_code": "C02K",
+                "children": [
+                    {
+                        "name": "Other antihypertensives (C02KN)",
+                        "atc_code": "C02KN",
+                        "children": [
+                            {
+                                "name": "Aprocitentan (C02KN01)",
+                                "atc_code": "C02KN01",
+                                "children": [
+                                    {
+                                        "name": "Aprocitentan",
+                                        "drugbank_id": "DB15059"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antihypertensives for pulmonary arterial hypertension (C02KX)",
+                        "atc_code": "C02KX",
+                        "children": [
+                            {
+                                "name": "Sotatercept (C02KX06)",
+                                "atc_code": "C02KX06",
+                                "children": [
+                                    {
+                                        "name": "Sotatercept",
+                                        "drugbank_id": "DB12118"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Macitentan and tadalafil (C02KX54)",
+                                "atc_code": "C02KX54",
+                                "children": [
+                                    {
+                                        "name": "Macitentan",
+                                        "drugbank_id": "DB08932"
+                                    },
+                                    {
+                                        "name": "Tadalafil",
+                                        "drugbank_id": "DB00820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambrisentan and tadalafil (C02KX52)",
+                                "atc_code": "C02KX52",
+                                "children": [
+                                    {
+                                        "name": "Tadalafil",
+                                        "drugbank_id": "DB00820"
+                                    },
+                                    {
+                                        "name": "Ambrisentan",
+                                        "drugbank_id": "DB06403"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Riociguat (C02KX05)",
+                                "atc_code": "C02KX05",
+                                "children": [
+                                    {
+                                        "name": "Riociguat",
+                                        "drugbank_id": "DB08931"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Macitentan (C02KX04)",
+                                "atc_code": "C02KX04",
+                                "children": [
+                                    {
+                                        "name": "Macitentan",
+                                        "drugbank_id": "DB08932"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitaxentan (C02KX03)",
+                                "atc_code": "C02KX03",
+                                "children": [
+                                    {
+                                        "name": "Sitaxentan",
+                                        "drugbank_id": "DB06268"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambrisentan (C02KX02)",
+                                "atc_code": "C02KX02",
+                                "children": [
+                                    {
+                                        "name": "Ambrisentan",
+                                        "drugbank_id": "DB06403"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bosentan (C02KX01)",
+                                "atc_code": "C02KX01",
+                                "children": [
+                                    {
+                                        "name": "Bosentan",
+                                        "drugbank_id": "DB00559"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serotonin antagonists (C02KD)",
+                        "atc_code": "C02KD",
+                        "children": [
+                            {
+                                "name": "Ketanserin (C02KD01)",
+                                "atc_code": "C02KD01",
+                                "children": [
+                                    {
+                                        "name": "Ketanserin",
+                                        "drugbank_id": "DB12465"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mao inhibitors (C02KC)",
+                        "atc_code": "C02KC",
+                        "children": [
+                            {
+                                "name": "Pargyline (C02KC01)",
+                                "atc_code": "C02KC01",
+                                "children": [
+                                    {
+                                        "name": "Pargyline",
+                                        "drugbank_id": "DB01626"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tyrosine hydroxylase inhibitors (C02KB)",
+                        "atc_code": "C02KB",
+                        "children": [
+                            {
+                                "name": "Metirosine (C02KB01)",
+                                "atc_code": "C02KB01",
+                                "children": [
+                                    {
+                                        "name": "Metyrosine",
+                                        "drugbank_id": "DB00765"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alkaloids, excl. rauwolfia (C02KA)",
+                        "atc_code": "C02KA",
+                        "children": [
+                            {
+                                "name": "Veratrum (C02KA01)",
+                                "atc_code": "C02KA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arteriolar smooth muscle, agents acting on (C02D)",
+                "atc_code": "C02D",
+                "children": [
+                    {
+                        "name": "Guanidine derivatives (C02DG)",
+                        "atc_code": "C02DG",
+                        "children": [
+                            {
+                                "name": "Pinacidil (C02DG01)",
+                                "atc_code": "C02DG01",
+                                "children": [
+                                    {
+                                        "name": "Pinacidil",
+                                        "drugbank_id": "DB06762"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nitroferricyanide derivatives (C02DD)",
+                        "atc_code": "C02DD",
+                        "children": [
+                            {
+                                "name": "Nitroprusside (C02DD01)",
+                                "atc_code": "C02DD01",
+                                "children": [
+                                    {
+                                        "name": "Nitroprusside",
+                                        "drugbank_id": "DB00325"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pyrimidine derivatives (C02DC)",
+                        "atc_code": "C02DC",
+                        "children": [
+                            {
+                                "name": "Minoxidil (C02DC01)",
+                                "atc_code": "C02DC01",
+                                "children": [
+                                    {
+                                        "name": "Minoxidil",
+                                        "drugbank_id": "DB00350"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydrazinophthalazine derivatives (C02DB)",
+                        "atc_code": "C02DB",
+                        "children": [
+                            {
+                                "name": "Cadralazine (C02DB04)",
+                                "atc_code": "C02DB04",
+                                "children": [
+                                    {
+                                        "name": "Cadralazine",
+                                        "drugbank_id": "DB13452"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Endralazine (C02DB03)",
+                                "atc_code": "C02DB03",
+                                "children": [
+                                    {
+                                        "name": "Endralazine",
+                                        "drugbank_id": "DB13435"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydralazine (C02DB02)",
+                                "atc_code": "C02DB02",
+                                "children": [
+                                    {
+                                        "name": "Hydralazine",
+                                        "drugbank_id": "DB01275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydralazine (C02DB01)",
+                                "atc_code": "C02DB01",
+                                "children": [
+                                    {
+                                        "name": "Dihydralazine",
+                                        "drugbank_id": "DB12945"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiazide derivatives (C02DA)",
+                        "atc_code": "C02DA",
+                        "children": [
+                            {
+                                "name": "Diazoxide (C02DA01)",
+                                "atc_code": "C02DA01",
+                                "children": [
+                                    {
+                                        "name": "Diazoxide",
+                                        "drugbank_id": "DB01119"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiadrenergic agents, peripherally acting (C02C)",
+                "atc_code": "C02C",
+                "children": [
+                    {
+                        "name": "Guanidine derivatives (C02CC)",
+                        "atc_code": "C02CC",
+                        "children": [
+                            {
+                                "name": "Guanoxabenz (C02CC07)",
+                                "atc_code": "C02CC07",
+                                "children": [
+                                    {
+                                        "name": "Guanoxabenz",
+                                        "drugbank_id": "DB13410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guanazodine (C02CC06)",
+                                "atc_code": "C02CC06",
+                                "children": [
+                                    {
+                                        "name": "Guanazodine",
+                                        "drugbank_id": "DB13604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guanoclor (C02CC05)",
+                                "atc_code": "C02CC05",
+                                "children": [
+                                    {
+                                        "name": "Guanoclor",
+                                        "drugbank_id": "DB13779"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Debrisoquine (C02CC04)",
+                                "atc_code": "C02CC04",
+                                "children": [
+                                    {
+                                        "name": "Debrisoquine",
+                                        "drugbank_id": "DB04840"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guanoxan (C02CC03)",
+                                "atc_code": "C02CC03",
+                                "children": [
+                                    {
+                                        "name": "Guanoxan",
+                                        "drugbank_id": "DB13211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guanethidine (C02CC02)",
+                                "atc_code": "C02CC02",
+                                "children": [
+                                    {
+                                        "name": "Guanethidine",
+                                        "drugbank_id": "DB01170"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betanidine (C02CC01)",
+                                "atc_code": "C02CC01",
+                                "children": [
+                                    {
+                                        "name": "Bethanidine",
+                                        "drugbank_id": "DB00217"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha-adrenoreceptor antagonists (C02CA)",
+                        "atc_code": "C02CA",
+                        "children": [
+                            {
+                                "name": "Urapidil (C02CA06)",
+                                "atc_code": "C02CA06",
+                                "children": [
+                                    {
+                                        "name": "Urapidil",
+                                        "drugbank_id": "DB12661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxazosin (C02CA04)",
+                                "atc_code": "C02CA04",
+                                "children": [
+                                    {
+                                        "name": "Doxazosin",
+                                        "drugbank_id": "DB00590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimazosin (C02CA03)",
+                                "atc_code": "C02CA03",
+                                "children": [
+                                    {
+                                        "name": "Trimazosin",
+                                        "drugbank_id": "DB09206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indoramin (C02CA02)",
+                                "atc_code": "C02CA02",
+                                "children": [
+                                    {
+                                        "name": "Indoramin",
+                                        "drugbank_id": "DB08950"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prazosin (C02CA01)",
+                                "atc_code": "C02CA01",
+                                "children": [
+                                    {
+                                        "name": "Prazosin",
+                                        "drugbank_id": "DB00457"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiadrenergic agents, ganglion-blocking (C02B)",
+                "atc_code": "C02B",
+                "children": [
+                    {
+                        "name": "Bisquaternary ammonium compounds (C02BC)",
+                        "atc_code": "C02BC"
+                    },
+                    {
+                        "name": "Secondary and tertiary amines (C02BB)",
+                        "atc_code": "C02BB",
+                        "children": [
+                            {
+                                "name": "Mecamylamine (C02BB01)",
+                                "atc_code": "C02BB01",
+                                "children": [
+                                    {
+                                        "name": "Mecamylamine",
+                                        "drugbank_id": "DB00657"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonium derivatives (C02BA)",
+                        "atc_code": "C02BA",
+                        "children": [
+                            {
+                                "name": "Trimetaphan (C02BA01)",
+                                "atc_code": "C02BA01",
+                                "children": [
+                                    {
+                                        "name": "Trimethaphan",
+                                        "drugbank_id": "DB01116"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiadrenergic agents, centrally acting (C02A)",
+                "atc_code": "C02A",
+                "children": [
+                    {
+                        "name": "Imidazoline receptor agonists (C02AC)",
+                        "atc_code": "C02AC",
+                        "children": [
+                            {
+                                "name": "Rilmenidine (C02AC06)",
+                                "atc_code": "C02AC06",
+                                "children": [
+                                    {
+                                        "name": "Rilmenidine",
+                                        "drugbank_id": "DB11738"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moxonidine (C02AC05)",
+                                "atc_code": "C02AC05",
+                                "children": [
+                                    {
+                                        "name": "Moxonidine",
+                                        "drugbank_id": "DB09242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolonidine (C02AC04)",
+                                "atc_code": "C02AC04",
+                                "children": [
+                                    {
+                                        "name": "Tolonidine",
+                                        "drugbank_id": "DB13429"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guanfacine (C02AC02)",
+                                "atc_code": "C02AC02",
+                                "children": [
+                                    {
+                                        "name": "Guanfacine",
+                                        "drugbank_id": "DB01018"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clonidine (C02AC01)",
+                                "atc_code": "C02AC01",
+                                "children": [
+                                    {
+                                        "name": "Clonidine",
+                                        "drugbank_id": "DB00575"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Methyldopa (C02AB)",
+                        "atc_code": "C02AB",
+                        "children": [
+                            {
+                                "name": "Methyldopa (racemic) (C02AB02)",
+                                "atc_code": "C02AB02"
+                            },
+                            {
+                                "name": "Methyldopa (levorotatory) (C02AB01)",
+                                "atc_code": "C02AB01",
+                                "children": [
+                                    {
+                                        "name": "Methyldopa",
+                                        "drugbank_id": "DB00968"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rauwolfia alkaloids (C02AA)",
+                        "atc_code": "C02AA",
+                        "children": [
+                            {
+                                "name": "Bietaserpine, combinations (C02AA57)",
+                                "atc_code": "C02AA57",
+                                "children": [
+                                    {
+                                        "name": "Bietaserpine",
+                                        "drugbank_id": "DB13575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations of rauwolfia alkoloids, combinations (C02AA53)",
+                                "atc_code": "C02AA53"
+                            },
+                            {
+                                "name": "Reserpine, combinations (C02AA52)",
+                                "atc_code": "C02AA52",
+                                "children": [
+                                    {
+                                        "name": "Reserpine",
+                                        "drugbank_id": "DB00206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bietaserpine (C02AA07)",
+                                "atc_code": "C02AA07",
+                                "children": [
+                                    {
+                                        "name": "Bietaserpine",
+                                        "drugbank_id": "DB13575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoserpidine (C02AA06)",
+                                "atc_code": "C02AA06",
+                                "children": [
+                                    {
+                                        "name": "Methoserpidine",
+                                        "drugbank_id": "DB13631"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deserpidine (C02AA05)",
+                                "atc_code": "C02AA05",
+                                "children": [
+                                    {
+                                        "name": "Deserpidine",
+                                        "drugbank_id": "DB01089"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rauwolfia alkaloids, whole root (C02AA04)",
+                                "atc_code": "C02AA04"
+                            },
+                            {
+                                "name": "Combinations of rauwolfia alkaloids (C02AA03)",
+                                "atc_code": "C02AA03",
+                                "children": [
+                                    {
+                                        "name": "Rauwolfia serpentina root",
+                                        "drugbank_id": "DB09363"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reserpine (C02AA02)",
+                                "atc_code": "C02AA02",
+                                "children": [
+                                    {
+                                        "name": "Reserpine",
+                                        "drugbank_id": "DB00206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rescinnamine (C02AA01)",
+                                "atc_code": "C02AA01",
+                                "children": [
+                                    {
+                                        "name": "Rescinnamine",
+                                        "drugbank_id": "DB01180"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

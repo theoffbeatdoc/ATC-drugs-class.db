@@ -1,0 +1,1320 @@
+[
+    {
+        "name": "Psychoanaleptics (N06)",
+        "atc_code": "N06",
+        "children": [
+            {
+                "name": "Anti-dementia drugs (N06D)",
+                "atc_code": "N06D",
+                "children": [
+                    {
+                        "name": "Other anti-dementia drugs (N06DX)",
+                        "atc_code": "N06DX",
+                        "children": [
+                            {
+                                "name": "Donanemab (N06DX05)",
+                                "atc_code": "N06DX05",
+                                "children": [
+                                    {
+                                        "name": "Donanemab",
+                                        "drugbank_id": "DB16647"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lecanemab (N06DX04)",
+                                "atc_code": "N06DX04",
+                                "children": [
+                                    {
+                                        "name": "Lecanemab",
+                                        "drugbank_id": "DB14580"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aducanumab (N06DX03)",
+                                "atc_code": "N06DX03",
+                                "children": [
+                                    {
+                                        "name": "Aducanumab",
+                                        "drugbank_id": "DB12274"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (N06DX30)",
+                                "atc_code": "N06DX30"
+                            },
+                            {
+                                "name": "Ginkgo folium (N06DX02)",
+                                "atc_code": "N06DX02",
+                                "children": [
+                                    {
+                                        "name": "Ginkgo biloba",
+                                        "drugbank_id": "DB01381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Memantine (N06DX01)",
+                                "atc_code": "N06DX01",
+                                "children": [
+                                    {
+                                        "name": "Memantine",
+                                        "drugbank_id": "DB01043"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anticholinesterases (N06DA)",
+                        "atc_code": "N06DA",
+                        "children": [
+                            {
+                                "name": "Donepezil, memantine and ginkgo folium (N06DA53)",
+                                "atc_code": "N06DA53",
+                                "children": [
+                                    {
+                                        "name": "Ginkgo biloba",
+                                        "drugbank_id": "DB01381"
+                                    },
+                                    {
+                                        "name": "Memantine",
+                                        "drugbank_id": "DB01043"
+                                    },
+                                    {
+                                        "name": "Donepezil",
+                                        "drugbank_id": "DB00843"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Donepezil and memantine (N06DA52)",
+                                "atc_code": "N06DA52",
+                                "children": [
+                                    {
+                                        "name": "Memantine",
+                                        "drugbank_id": "DB01043"
+                                    },
+                                    {
+                                        "name": "Donepezil",
+                                        "drugbank_id": "DB00843"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ipidacrine (N06DA05)",
+                                "atc_code": "N06DA05",
+                                "children": [
+                                    {
+                                        "name": "Ipidacrine",
+                                        "drugbank_id": "DB13668"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Galantamine (N06DA04)",
+                                "atc_code": "N06DA04",
+                                "children": [
+                                    {
+                                        "name": "Galantamine",
+                                        "drugbank_id": "DB00674"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rivastigmine (N06DA03)",
+                                "atc_code": "N06DA03",
+                                "children": [
+                                    {
+                                        "name": "Rivastigmine",
+                                        "drugbank_id": "DB00989"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Donepezil (N06DA02)",
+                                "atc_code": "N06DA02",
+                                "children": [
+                                    {
+                                        "name": "Donepezil",
+                                        "drugbank_id": "DB00843"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tacrine (N06DA01)",
+                                "atc_code": "N06DA01",
+                                "children": [
+                                    {
+                                        "name": "Tacrine",
+                                        "drugbank_id": "DB00382"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Psycholeptics and psychoanaleptics in combination (N06C)",
+                "atc_code": "N06C",
+                "children": [
+                    {
+                        "name": "Psychostimulants in combination with psycholeptics (N06CB)",
+                        "atc_code": "N06CB"
+                    },
+                    {
+                        "name": "Antidepressants in combination with psycholeptics (N06CA)",
+                        "atc_code": "N06CA",
+                        "children": [
+                            {
+                                "name": "Fluoxetine and psycholeptics (N06CA03)",
+                                "atc_code": "N06CA03",
+                                "children": [
+                                    {
+                                        "name": "Fluoxetine",
+                                        "drugbank_id": "DB00472"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melitracen and psycholeptics (N06CA02)",
+                                "atc_code": "N06CA02",
+                                "children": [
+                                    {
+                                        "name": "Melitracen",
+                                        "drugbank_id": "DB13384"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amitriptyline and psycholeptics (N06CA01)",
+                                "atc_code": "N06CA01",
+                                "children": [
+                                    {
+                                        "name": "Amitriptyline",
+                                        "drugbank_id": "DB00321"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Psychostimulants, agents used for adhd and nootropics (N06B)",
+                "atc_code": "N06B",
+                "children": [
+                    {
+                        "name": "Other psychostimulants and nootropics (N06BX)",
+                        "atc_code": "N06BX",
+                        "children": [
+                            {
+                                "name": "Phenibut (N06BX22)",
+                                "atc_code": "N06BX22",
+                                "children": [
+                                    {
+                                        "name": "Phenibut",
+                                        "drugbank_id": "DB13455"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Temgicoluril (N06BX21)",
+                                "atc_code": "N06BX21"
+                            },
+                            {
+                                "name": "Vinpocetine (N06BX18)",
+                                "atc_code": "N06BX18",
+                                "children": [
+                                    {
+                                        "name": "Vinpocetine",
+                                        "drugbank_id": "DB12131"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adrafinil (N06BX17)",
+                                "atc_code": "N06BX17",
+                                "children": [
+                                    {
+                                        "name": "Adrafinil",
+                                        "drugbank_id": "DB08925"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pramiracetam (N06BX16)",
+                                "atc_code": "N06BX16",
+                                "children": [
+                                    {
+                                        "name": "Pramiracetam",
+                                        "drugbank_id": "DB13247"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipradrol (N06BX15)",
+                                "atc_code": "N06BX15",
+                                "children": [
+                                    {
+                                        "name": "Pipradrol",
+                                        "drugbank_id": "DB11584"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prolintane (N06BX14)",
+                                "atc_code": "N06BX14",
+                                "children": [
+                                    {
+                                        "name": "Prolintane",
+                                        "drugbank_id": "DB13438"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idebenone (N06BX13)",
+                                "atc_code": "N06BX13",
+                                "children": [
+                                    {
+                                        "name": "Idebenone",
+                                        "drugbank_id": "DB09081"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylcarnitine (N06BX12)",
+                                "atc_code": "N06BX12",
+                                "children": [
+                                    {
+                                        "name": "Acetylcarnitine",
+                                        "drugbank_id": "DB08842"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aniracetam (N06BX11)",
+                                "atc_code": "N06BX11",
+                                "children": [
+                                    {
+                                        "name": "Aniracetam",
+                                        "drugbank_id": "DB04599"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nizofenone (N06BX10)",
+                                "atc_code": "N06BX10",
+                                "children": [
+                                    {
+                                        "name": "Nizofenone",
+                                        "drugbank_id": "DB13546"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linopirdine (N06BX09)",
+                                "atc_code": "N06BX09",
+                                "children": [
+                                    {
+                                        "name": "Linopirdine",
+                                        "drugbank_id": "DB13806"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pirisudanol (N06BX08)",
+                                "atc_code": "N06BX08",
+                                "children": [
+                                    {
+                                        "name": "Pirisudanol",
+                                        "drugbank_id": "DB13412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxiracetam (N06BX07)",
+                                "atc_code": "N06BX07",
+                                "children": [
+                                    {
+                                        "name": "Oxiracetam",
+                                        "drugbank_id": "DB13601"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Citicoline (N06BX06)",
+                                "atc_code": "N06BX06",
+                                "children": [
+                                    {
+                                        "name": "Citicoline",
+                                        "drugbank_id": "DB12153"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fipexide (N06BX05)",
+                                "atc_code": "N06BX05",
+                                "children": [
+                                    {
+                                        "name": "Fipexide",
+                                        "drugbank_id": "DB13790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deanol (N06BX04)",
+                                "atc_code": "N06BX04",
+                                "children": [
+                                    {
+                                        "name": "Deanol",
+                                        "drugbank_id": "DB13352"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piracetam (N06BX03)",
+                                "atc_code": "N06BX03",
+                                "children": [
+                                    {
+                                        "name": "Piracetam",
+                                        "drugbank_id": "DB09210"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyritinol (N06BX02)",
+                                "atc_code": "N06BX02",
+                                "children": [
+                                    {
+                                        "name": "Pyritinol",
+                                        "drugbank_id": "DB13084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meclofenoxate (N06BX01)",
+                                "atc_code": "N06BX01",
+                                "children": [
+                                    {
+                                        "name": "Meclofenoxate",
+                                        "drugbank_id": "DB13758"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Xanthine derivatives (N06BC)",
+                        "atc_code": "N06BC",
+                        "children": [
+                            {
+                                "name": "Propentofylline (N06BC02)",
+                                "atc_code": "N06BC02",
+                                "children": [
+                                    {
+                                        "name": "Propentofylline",
+                                        "drugbank_id": "DB06479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Caffeine (N06BC01)",
+                                "atc_code": "N06BC01",
+                                "children": [
+                                    {
+                                        "name": "Caffeine",
+                                        "drugbank_id": "DB00201"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrally acting sympathomimetics (N06BA)",
+                        "atc_code": "N06BA",
+                        "children": [
+                            {
+                                "name": "Dexmethylphenidate and serdexmethylphenidate (N06BA15)",
+                                "atc_code": "N06BA15",
+                                "children": [
+                                    {
+                                        "name": "Serdexmethylphenidate",
+                                        "drugbank_id": "DB16629"
+                                    },
+                                    {
+                                        "name": "Dexmethylphenidate",
+                                        "drugbank_id": "DB06701"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Solriamfetol (N06BA14)",
+                                "atc_code": "N06BA14",
+                                "children": [
+                                    {
+                                        "name": "Solriamfetol",
+                                        "drugbank_id": "DB14754"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Armodafinil (N06BA13)",
+                                "atc_code": "N06BA13",
+                                "children": [
+                                    {
+                                        "name": "Armodafinil",
+                                        "drugbank_id": "DB06413"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisdexamfetamine (N06BA12)",
+                                "atc_code": "N06BA12",
+                                "children": [
+                                    {
+                                        "name": "Lisdexamfetamine",
+                                        "drugbank_id": "DB01255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexmethylphenidate (N06BA11)",
+                                "atc_code": "N06BA11",
+                                "children": [
+                                    {
+                                        "name": "Dexmethylphenidate",
+                                        "drugbank_id": "DB06701"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenetylline (N06BA10)",
+                                "atc_code": "N06BA10",
+                                "children": [
+                                    {
+                                        "name": "Fenethylline",
+                                        "drugbank_id": "DB01482"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atomoxetine (N06BA09)",
+                                "atc_code": "N06BA09",
+                                "children": [
+                                    {
+                                        "name": "Atomoxetine",
+                                        "drugbank_id": "DB00289"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenozolone (N06BA08)",
+                                "atc_code": "N06BA08",
+                                "children": [
+                                    {
+                                        "name": "Fenozolone",
+                                        "drugbank_id": "DB13341"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Modafinil (N06BA07)",
+                                "atc_code": "N06BA07",
+                                "children": [
+                                    {
+                                        "name": "Modafinil",
+                                        "drugbank_id": "DB00745"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fencamfamin (N06BA06)",
+                                "atc_code": "N06BA06",
+                                "children": [
+                                    {
+                                        "name": "Fencamfamin",
+                                        "drugbank_id": "DB01463"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pemoline (N06BA05)",
+                                "atc_code": "N06BA05",
+                                "children": [
+                                    {
+                                        "name": "Pemoline",
+                                        "drugbank_id": "DB01230"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylphenidate (N06BA04)",
+                                "atc_code": "N06BA04",
+                                "children": [
+                                    {
+                                        "name": "Methylphenidate",
+                                        "drugbank_id": "DB00422"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metamfetamine (N06BA03)",
+                                "atc_code": "N06BA03",
+                                "children": [
+                                    {
+                                        "name": "Metamfetamine",
+                                        "drugbank_id": "DB01577"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamfetamine (N06BA02)",
+                                "atc_code": "N06BA02",
+                                "children": [
+                                    {
+                                        "name": "Dextroamphetamine",
+                                        "drugbank_id": "DB01576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amfetamine (N06BA01)",
+                                "atc_code": "N06BA01",
+                                "children": [
+                                    {
+                                        "name": "Amphetamine",
+                                        "drugbank_id": "DB00182"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antidepressants (N06A)",
+                "atc_code": "N06A",
+                "children": [
+                    {
+                        "name": "Other antidepressants (N06AX)",
+                        "atc_code": "N06AX",
+                        "children": [
+                            {
+                                "name": "Zuranolone (N06AX31)",
+                                "atc_code": "N06AX31",
+                                "children": [
+                                    {
+                                        "name": "Zuranolone",
+                                        "drugbank_id": "DB15490"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupropion and dextromethorphan (N06AX62)",
+                                "atc_code": "N06AX62",
+                                "children": [
+                                    {
+                                        "name": "Dextromethorphan",
+                                        "drugbank_id": "DB00514"
+                                    },
+                                    {
+                                        "name": "Bupropion",
+                                        "drugbank_id": "DB01156"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brexanolone (N06AX29)",
+                                "atc_code": "N06AX29",
+                                "children": [
+                                    {
+                                        "name": "Brexanolone",
+                                        "drugbank_id": "DB11859"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levomilnacipran (N06AX28)",
+                                "atc_code": "N06AX28",
+                                "children": [
+                                    {
+                                        "name": "Levomilnacipran",
+                                        "drugbank_id": "DB08918"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esketamine (N06AX27)",
+                                "atc_code": "N06AX27",
+                                "children": [
+                                    {
+                                        "name": "Esketamine",
+                                        "drugbank_id": "DB11823"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vortioxetine (N06AX26)",
+                                "atc_code": "N06AX26",
+                                "children": [
+                                    {
+                                        "name": "Vortioxetine",
+                                        "drugbank_id": "DB09068"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hyperici herba (N06AX25)",
+                                "atc_code": "N06AX25",
+                                "children": [
+                                    {
+                                        "name": "St. John's Wort",
+                                        "drugbank_id": "DB01323"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vilazodone (N06AX24)",
+                                "atc_code": "N06AX24",
+                                "children": [
+                                    {
+                                        "name": "Vilazodone",
+                                        "drugbank_id": "DB06684"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desvenlafaxine (N06AX23)",
+                                "atc_code": "N06AX23",
+                                "children": [
+                                    {
+                                        "name": "Desvenlafaxine",
+                                        "drugbank_id": "DB06700"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Agomelatine (N06AX22)",
+                                "atc_code": "N06AX22",
+                                "children": [
+                                    {
+                                        "name": "Agomelatine",
+                                        "drugbank_id": "DB06594"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Duloxetine (N06AX21)",
+                                "atc_code": "N06AX21",
+                                "children": [
+                                    {
+                                        "name": "Duloxetine",
+                                        "drugbank_id": "DB00476"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gepirone (N06AX19)",
+                                "atc_code": "N06AX19",
+                                "children": [
+                                    {
+                                        "name": "Gepirone",
+                                        "drugbank_id": "DB12184"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reboxetine (N06AX18)",
+                                "atc_code": "N06AX18",
+                                "children": [
+                                    {
+                                        "name": "Reboxetine",
+                                        "drugbank_id": "DB00234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Milnacipran (N06AX17)",
+                                "atc_code": "N06AX17",
+                                "children": [
+                                    {
+                                        "name": "Milnacipran",
+                                        "drugbank_id": "DB04896"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Venlafaxine (N06AX16)",
+                                "atc_code": "N06AX16",
+                                "children": [
+                                    {
+                                        "name": "Venlafaxine",
+                                        "drugbank_id": "DB00285"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pivagabine (N06AX15)",
+                                "atc_code": "N06AX15",
+                                "children": [
+                                    {
+                                        "name": "Pivagabine",
+                                        "drugbank_id": "DB12951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tianeptine (N06AX14)",
+                                "atc_code": "N06AX14",
+                                "children": [
+                                    {
+                                        "name": "Tianeptine",
+                                        "drugbank_id": "DB09289"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medifoxamine (N06AX13)",
+                                "atc_code": "N06AX13",
+                                "children": [
+                                    {
+                                        "name": "Medifoxamine",
+                                        "drugbank_id": "DB13219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupropion (N06AX12)",
+                                "atc_code": "N06AX12",
+                                "children": [
+                                    {
+                                        "name": "Bupropion",
+                                        "drugbank_id": "DB01156"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mirtazapine (N06AX11)",
+                                "atc_code": "N06AX11",
+                                "children": [
+                                    {
+                                        "name": "Mirtazapine",
+                                        "drugbank_id": "DB00370"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxaflozane (N06AX10)",
+                                "atc_code": "N06AX10",
+                                "children": [
+                                    {
+                                        "name": "Oxaflozane",
+                                        "drugbank_id": "DB13457"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Viloxazine (N06AX09)",
+                                "atc_code": "N06AX09",
+                                "children": [
+                                    {
+                                        "name": "Viloxazine",
+                                        "drugbank_id": "DB09185"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bifemelane (N06AX08)",
+                                "atc_code": "N06AX08",
+                                "children": [
+                                    {
+                                        "name": "Bifemelane",
+                                        "drugbank_id": "DB13550"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Minaprine (N06AX07)",
+                                "atc_code": "N06AX07",
+                                "children": [
+                                    {
+                                        "name": "Minaprine",
+                                        "drugbank_id": "DB00805"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nefazodone (N06AX06)",
+                                "atc_code": "N06AX06",
+                                "children": [
+                                    {
+                                        "name": "Nefazodone",
+                                        "drugbank_id": "DB01149"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trazodone (N06AX05)",
+                                "atc_code": "N06AX05",
+                                "children": [
+                                    {
+                                        "name": "Trazodone",
+                                        "drugbank_id": "DB00656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nomifensine (N06AX04)",
+                                "atc_code": "N06AX04",
+                                "children": [
+                                    {
+                                        "name": "Nomifensine",
+                                        "drugbank_id": "DB04821"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mianserin (N06AX03)",
+                                "atc_code": "N06AX03",
+                                "children": [
+                                    {
+                                        "name": "Mianserin",
+                                        "drugbank_id": "DB06148"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tryptophan (N06AX02)",
+                                "atc_code": "N06AX02",
+                                "children": [
+                                    {
+                                        "name": "Tryptophan",
+                                        "drugbank_id": "DB00150"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxitriptan (N06AX01)",
+                                "atc_code": "N06AX01",
+                                "children": [
+                                    {
+                                        "name": "Oxitriptan",
+                                        "drugbank_id": "DB02959"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monoamine oxidase a inhibitors (N06AG)",
+                        "atc_code": "N06AG",
+                        "children": [
+                            {
+                                "name": "Toloxatone (N06AG03)",
+                                "atc_code": "N06AG03",
+                                "children": [
+                                    {
+                                        "name": "Toloxatone",
+                                        "drugbank_id": "DB09245"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moclobemide (N06AG02)",
+                                "atc_code": "N06AG02",
+                                "children": [
+                                    {
+                                        "name": "Moclobemide",
+                                        "drugbank_id": "DB01171"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monoamine oxidase inhibitors, non-selective (N06AF)",
+                        "atc_code": "N06AF",
+                        "children": [
+                            {
+                                "name": "Iproclozide (N06AF06)",
+                                "atc_code": "N06AF06",
+                                "children": [
+                                    {
+                                        "name": "Iproclozide",
+                                        "drugbank_id": "DB09247"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iproniazide (N06AF05)",
+                                "atc_code": "N06AF05",
+                                "children": [
+                                    {
+                                        "name": "Iproniazid",
+                                        "drugbank_id": "DB04818"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tranylcypromine (N06AF04)",
+                                "atc_code": "N06AF04",
+                                "children": [
+                                    {
+                                        "name": "Tranylcypromine",
+                                        "drugbank_id": "DB00752"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenelzine (N06AF03)",
+                                "atc_code": "N06AF03",
+                                "children": [
+                                    {
+                                        "name": "Phenelzine",
+                                        "drugbank_id": "DB00780"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nialamide (N06AF02)",
+                                "atc_code": "N06AF02",
+                                "children": [
+                                    {
+                                        "name": "Nialamide",
+                                        "drugbank_id": "DB04820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isocarboxazid (N06AF01)",
+                                "atc_code": "N06AF01",
+                                "children": [
+                                    {
+                                        "name": "Isocarboxazid",
+                                        "drugbank_id": "DB01247"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Selective serotonin reuptake inhibitors (N06AB)",
+                        "atc_code": "N06AB",
+                        "children": [
+                            {
+                                "name": "Escitalopram (N06AB10)",
+                                "atc_code": "N06AB10",
+                                "children": [
+                                    {
+                                        "name": "Escitalopram",
+                                        "drugbank_id": "DB01175"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etoperidone (N06AB09)",
+                                "atc_code": "N06AB09",
+                                "children": [
+                                    {
+                                        "name": "Etoperidone",
+                                        "drugbank_id": "DB09194"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluvoxamine (N06AB08)",
+                                "atc_code": "N06AB08",
+                                "children": [
+                                    {
+                                        "name": "Fluvoxamine",
+                                        "drugbank_id": "DB00176"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alaproclate (N06AB07)",
+                                "atc_code": "N06AB07",
+                                "children": [
+                                    {
+                                        "name": "Alaproclate",
+                                        "drugbank_id": "DB13233"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sertraline (N06AB06)",
+                                "atc_code": "N06AB06",
+                                "children": [
+                                    {
+                                        "name": "Sertraline",
+                                        "drugbank_id": "DB01104"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paroxetine (N06AB05)",
+                                "atc_code": "N06AB05",
+                                "children": [
+                                    {
+                                        "name": "Paroxetine",
+                                        "drugbank_id": "DB00715"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Citalopram (N06AB04)",
+                                "atc_code": "N06AB04",
+                                "children": [
+                                    {
+                                        "name": "Citalopram",
+                                        "drugbank_id": "DB00215"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluoxetine (N06AB03)",
+                                "atc_code": "N06AB03",
+                                "children": [
+                                    {
+                                        "name": "Fluoxetine",
+                                        "drugbank_id": "DB00472"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zimeldine (N06AB02)",
+                                "atc_code": "N06AB02",
+                                "children": [
+                                    {
+                                        "name": "Zimelidine",
+                                        "drugbank_id": "DB04832"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-selective monoamine reuptake inhibitors (N06AA)",
+                        "atc_code": "N06AA",
+                        "children": [
+                            {
+                                "name": "Quinupramine (N06AA23)",
+                                "atc_code": "N06AA23",
+                                "children": [
+                                    {
+                                        "name": "Quinupramine",
+                                        "drugbank_id": "DB13246"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Maprotiline (N06AA21)",
+                                "atc_code": "N06AA21",
+                                "children": [
+                                    {
+                                        "name": "Maprotiline",
+                                        "drugbank_id": "DB00934"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amineptine (N06AA19)",
+                                "atc_code": "N06AA19",
+                                "children": [
+                                    {
+                                        "name": "Amineptine",
+                                        "drugbank_id": "DB04836"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimetacrine (N06AA18)",
+                                "atc_code": "N06AA18",
+                                "children": [
+                                    {
+                                        "name": "Dimetacrine",
+                                        "drugbank_id": "DB08996"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amoxapine (N06AA17)",
+                                "atc_code": "N06AA17",
+                                "children": [
+                                    {
+                                        "name": "Amoxapine",
+                                        "drugbank_id": "DB00543"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dosulepin (N06AA16)",
+                                "atc_code": "N06AA16",
+                                "children": [
+                                    {
+                                        "name": "Dosulepin",
+                                        "drugbank_id": "DB09167"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butriptyline (N06AA15)",
+                                "atc_code": "N06AA15",
+                                "children": [
+                                    {
+                                        "name": "Butriptyline",
+                                        "drugbank_id": "DB09016"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melitracen (N06AA14)",
+                                "atc_code": "N06AA14",
+                                "children": [
+                                    {
+                                        "name": "Melitracen",
+                                        "drugbank_id": "DB13384"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iprindole (N06AA13)",
+                                "atc_code": "N06AA13",
+                                "children": [
+                                    {
+                                        "name": "Iprindole",
+                                        "drugbank_id": "DB13496"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxepin (N06AA12)",
+                                "atc_code": "N06AA12",
+                                "children": [
+                                    {
+                                        "name": "Doxepin",
+                                        "drugbank_id": "DB01142"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Protriptyline (N06AA11)",
+                                "atc_code": "N06AA11",
+                                "children": [
+                                    {
+                                        "name": "Protriptyline",
+                                        "drugbank_id": "DB00344"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nortriptyline (N06AA10)",
+                                "atc_code": "N06AA10",
+                                "children": [
+                                    {
+                                        "name": "Nortriptyline",
+                                        "drugbank_id": "DB00540"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amitriptyline (N06AA09)",
+                                "atc_code": "N06AA09",
+                                "children": [
+                                    {
+                                        "name": "Amitriptyline",
+                                        "drugbank_id": "DB00321"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibenzepin (N06AA08)",
+                                "atc_code": "N06AA08",
+                                "children": [
+                                    {
+                                        "name": "Dibenzepin",
+                                        "drugbank_id": "DB13225"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lofepramine (N06AA07)",
+                                "atc_code": "N06AA07",
+                                "children": [
+                                    {
+                                        "name": "Lofepramine",
+                                        "drugbank_id": "DB13411"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimipramine (N06AA06)",
+                                "atc_code": "N06AA06",
+                                "children": [
+                                    {
+                                        "name": "Trimipramine",
+                                        "drugbank_id": "DB00726"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opipramol (N06AA05)",
+                                "atc_code": "N06AA05",
+                                "children": [
+                                    {
+                                        "name": "Opipramol",
+                                        "drugbank_id": "DB12930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clomipramine (N06AA04)",
+                                "atc_code": "N06AA04",
+                                "children": [
+                                    {
+                                        "name": "Clomipramine",
+                                        "drugbank_id": "DB01242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imipramine oxide (N06AA03)",
+                                "atc_code": "N06AA03",
+                                "children": [
+                                    {
+                                        "name": "Imipramine oxide",
+                                        "drugbank_id": "DB13782"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imipramine (N06AA02)",
+                                "atc_code": "N06AA02",
+                                "children": [
+                                    {
+                                        "name": "Imipramine",
+                                        "drugbank_id": "DB00458"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desipramine (N06AA01)",
+                                "atc_code": "N06AA01",
+                                "children": [
+                                    {
+                                        "name": "Desipramine",
+                                        "drugbank_id": "DB01151"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

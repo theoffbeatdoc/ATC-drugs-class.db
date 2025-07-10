@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Corticosteroids for systemic use (H02)",
+        "atc_code": "H02",
+        "children": [
+            {
+                "name": "Antiadrenal preparations (H02C)",
+                "atc_code": "H02C",
+                "children": [
+                    {
+                        "name": "Anticorticosteroids (H02CA)",
+                        "atc_code": "H02CA",
+                        "children": [
+                            {
+                                "name": "Levoketoconazole (H02CA04)",
+                                "atc_code": "H02CA04",
+                                "children": [
+                                    {
+                                        "name": "Levoketoconazole",
+                                        "drugbank_id": "DB05667"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketoconazole (H02CA03)",
+                                "atc_code": "H02CA03",
+                                "children": [
+                                    {
+                                        "name": "Ketoconazole",
+                                        "drugbank_id": "DB01026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Osilodrostat (H02CA02)",
+                                "atc_code": "H02CA02",
+                                "children": [
+                                    {
+                                        "name": "Osilodrostat",
+                                        "drugbank_id": "DB11837"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trilostane (H02CA01)",
+                                "atc_code": "H02CA01",
+                                "children": [
+                                    {
+                                        "name": "Trilostane",
+                                        "drugbank_id": "DB01108"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids for systemic use, combinations (H02B)",
+                "atc_code": "H02B",
+                "children": [
+                    {
+                        "name": "Corticosteroids for systemic use, combinations (H02BX)",
+                        "atc_code": "H02BX",
+                        "children": [
+                            {
+                                "name": "Methylprednisolone, combinations (H02BX01)",
+                                "atc_code": "H02BX01",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids for systemic use, plain (H02A)",
+                "atc_code": "H02A",
+                "children": [
+                    {
+                        "name": "Glucocorticoids (H02AB)",
+                        "atc_code": "H02AB",
+                        "children": [
+                            {
+                                "name": "Vamorolone (H02AB18)",
+                                "atc_code": "H02AB18",
+                                "children": [
+                                    {
+                                        "name": "Vamorolone",
+                                        "drugbank_id": "DB15114"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cortivazol (H02AB17)",
+                                "atc_code": "H02AB17",
+                                "children": [
+                                    {
+                                        "name": "Cortivazol",
+                                        "drugbank_id": "DB13003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meprednisone (H02AB15)",
+                                "atc_code": "H02AB15",
+                                "children": [
+                                    {
+                                        "name": "Meprednisone",
+                                        "drugbank_id": "DB09383"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloprednol (H02AB14)",
+                                "atc_code": "H02AB14",
+                                "children": [
+                                    {
+                                        "name": "Cloprednol",
+                                        "drugbank_id": "DB13843"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deflazacort (H02AB13)",
+                                "atc_code": "H02AB13",
+                                "children": [
+                                    {
+                                        "name": "Deflazacort",
+                                        "drugbank_id": "DB11921"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rimexolone (H02AB12)",
+                                "atc_code": "H02AB12",
+                                "children": [
+                                    {
+                                        "name": "Rimexolone",
+                                        "drugbank_id": "DB00896"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednylidene (H02AB11)",
+                                "atc_code": "H02AB11",
+                                "children": [
+                                    {
+                                        "name": "Prednylidene",
+                                        "drugbank_id": "DB13208"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cortisone (H02AB10)",
+                                "atc_code": "H02AB10",
+                                "children": [
+                                    {
+                                        "name": "Cortisone",
+                                        "drugbank_id": "DB14681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (H02AB09)",
+                                "atc_code": "H02AB09",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (H02AB08)",
+                                "atc_code": "H02AB08",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisone (H02AB07)",
+                                "atc_code": "H02AB07",
+                                "children": [
+                                    {
+                                        "name": "Prednisone",
+                                        "drugbank_id": "DB00635"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone (H02AB06)",
+                                "atc_code": "H02AB06",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paramethasone (H02AB05)",
+                                "atc_code": "H02AB05",
+                                "children": [
+                                    {
+                                        "name": "Paramethasone",
+                                        "drugbank_id": "DB01384"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylprednisolone (H02AB04)",
+                                "atc_code": "H02AB04",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocortolone (H02AB03)",
+                                "atc_code": "H02AB03",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (H02AB02)",
+                                "atc_code": "H02AB02",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (H02AB01)",
+                                "atc_code": "H02AB01",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mineralocorticoids (H02AA)",
+                        "atc_code": "H02AA",
+                        "children": [
+                            {
+                                "name": "Desoxycortone (H02AA03)",
+                                "atc_code": "H02AA03",
+                                "children": [
+                                    {
+                                        "name": "Desoxycortone",
+                                        "drugbank_id": "DB15972"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludrocortisone (H02AA02)",
+                                "atc_code": "H02AA02",
+                                "children": [
+                                    {
+                                        "name": "Fludrocortisone",
+                                        "drugbank_id": "DB00687"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aldosterone (H02AA01)",
+                                "atc_code": "H02AA01",
+                                "children": [
+                                    {
+                                        "name": "Aldosterone",
+                                        "drugbank_id": "DB04630"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

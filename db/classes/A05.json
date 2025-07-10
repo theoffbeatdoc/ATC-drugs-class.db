@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Bile and liver therapy (A05)",
+        "atc_code": "A05",
+        "children": [
+            {
+                "name": "Drugs for bile therapy and lipotropics in combination (A05C)",
+                "atc_code": "A05C"
+            },
+            {
+                "name": "Liver therapy, lipotropics (A05B)",
+                "atc_code": "A05B",
+                "children": [
+                    {
+                        "name": "Liver therapy (A05BA)",
+                        "atc_code": "A05BA",
+                        "children": [
+                            {
+                                "name": "Phospholipids (A05BA10)",
+                                "atc_code": "A05BA10",
+                                "children": [
+                                    {
+                                        "name": "Omega-3 fatty acids",
+                                        "drugbank_id": "DB11133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metadoxine (A05BA09)",
+                                "atc_code": "A05BA09",
+                                "children": [
+                                    {
+                                        "name": "Metadoxine",
+                                        "drugbank_id": "DB16554"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycyrrhizic acid (A05BA08)",
+                                "atc_code": "A05BA08",
+                                "children": [
+                                    {
+                                        "name": "Glycyrrhizic acid",
+                                        "drugbank_id": "DB13751"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tidiacic arginine (A05BA07)",
+                                "atc_code": "A05BA07",
+                                "children": [
+                                    {
+                                        "name": "Tidiacic arginine",
+                                        "drugbank_id": "DB13748"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ornithine oxoglurate (A05BA06)",
+                                "atc_code": "A05BA06",
+                                "children": [
+                                    {
+                                        "name": "Ornithine",
+                                        "drugbank_id": "DB00129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epomediol (A05BA05)",
+                                "atc_code": "A05BA05",
+                                "children": [
+                                    {
+                                        "name": "Epomediol",
+                                        "drugbank_id": "DB13802"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Citiolone (A05BA04)",
+                                "atc_code": "A05BA04",
+                                "children": [
+                                    {
+                                        "name": "Citiolone",
+                                        "drugbank_id": "DB13442"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Silymarin (A05BA03)",
+                                "atc_code": "A05BA03",
+                                "children": [
+                                    {
+                                        "name": "Silibinin",
+                                        "drugbank_id": "DB09298"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arginine glutamate (A05BA01)",
+                                "atc_code": "A05BA01",
+                                "children": [
+                                    {
+                                        "name": "Arginine glutamate",
+                                        "drugbank_id": "DB13207"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bile therapy (A05A)",
+                "atc_code": "A05A",
+                "children": [
+                    {
+                        "name": "Other drugs for bile therapy (A05AX)",
+                        "atc_code": "A05AX",
+                        "children": [
+                            {
+                                "name": "Seladelpar (A05AX07)",
+                                "atc_code": "A05AX07",
+                                "children": [
+                                    {
+                                        "name": "Seladelpar",
+                                        "drugbank_id": "DB12390"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elafibranor (A05AX06)",
+                                "atc_code": "A05AX06",
+                                "children": [
+                                    {
+                                        "name": "Elafibranor",
+                                        "drugbank_id": "DB05187"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Odevixibat (A05AX05)",
+                                "atc_code": "A05AX05",
+                                "children": [
+                                    {
+                                        "name": "Odevixibat",
+                                        "drugbank_id": "DB16261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Maralixibat chloride (A05AX04)",
+                                "atc_code": "A05AX04",
+                                "children": [
+                                    {
+                                        "name": "Maralixibat",
+                                        "drugbank_id": "DB16226"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclobutyrol (A05AX03)",
+                                "atc_code": "A05AX03",
+                                "children": [
+                                    {
+                                        "name": "Cyclobutyrol",
+                                        "drugbank_id": "DB13493"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hymecromone (A05AX02)",
+                                "atc_code": "A05AX02",
+                                "children": [
+                                    {
+                                        "name": "Hymecromone",
+                                        "drugbank_id": "DB07118"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piprozolin (A05AX01)",
+                                "atc_code": "A05AX01",
+                                "children": [
+                                    {
+                                        "name": "Piprozolin",
+                                        "drugbank_id": "DB13202"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations for biliary tract therapy (A05AB)",
+                        "atc_code": "A05AB",
+                        "children": [
+                            {
+                                "name": "Nicotinyl methylamide (A05AB01)",
+                                "atc_code": "A05AB01",
+                                "children": [
+                                    {
+                                        "name": "N-methylnicotinamide",
+                                        "drugbank_id": "DB08840"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bile acids and derivatives (A05AA)",
+                        "atc_code": "A05AA",
+                        "children": [
+                            {
+                                "name": "Ursodoxicoltaurine (A05AA05)",
+                                "atc_code": "A05AA05",
+                                "children": [
+                                    {
+                                        "name": "Tauroursodeoxycholic acid",
+                                        "drugbank_id": "DB08834"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Obeticholic acid (A05AA04)",
+                                "atc_code": "A05AA04",
+                                "children": [
+                                    {
+                                        "name": "Obeticholic acid",
+                                        "drugbank_id": "DB05990"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cholic acid (A05AA03)",
+                                "atc_code": "A05AA03",
+                                "children": [
+                                    {
+                                        "name": "Cholic Acid",
+                                        "drugbank_id": "DB02659"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ursodeoxycholic acid (A05AA02)",
+                                "atc_code": "A05AA02",
+                                "children": [
+                                    {
+                                        "name": "Ursodeoxycholic acid",
+                                        "drugbank_id": "DB01586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chenodeoxycholic acid (A05AA01)",
+                                "atc_code": "A05AA01",
+                                "children": [
+                                    {
+                                        "name": "Chenodeoxycholic acid",
+                                        "drugbank_id": "DB06777"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,868 @@
+[
+    {
+        "name": "Diagnostic radiopharmaceuticals (V09)",
+        "atc_code": "V09",
+        "children": [
+            {
+                "name": "Other diagnostic radiopharmaceuticals (V09X)",
+                "atc_code": "V09X"
+            },
+            {
+                "name": "Tumour detection (V09I)",
+                "atc_code": "V09I",
+                "children": [
+                    {
+                        "name": "Other diagnostic radiopharmaceuticals for tumour detection (V09IX)",
+                        "atc_code": "V09IX",
+                        "children": [
+                            {
+                                "name": "Flotufolastat (18f) (V09IX18)",
+                                "atc_code": "V09IX18",
+                                "children": [
+                                    {
+                                        "name": "Flotufolastat F-18",
+                                        "drugbank_id": "DB17851"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psma-1007 (18f) (V09IX17)",
+                                "atc_code": "V09IX17"
+                            },
+                            {
+                                "name": "Piflufolastat (18f) (V09IX16)",
+                                "atc_code": "V09IX16"
+                            },
+                            {
+                                "name": "Copper (64cu) dotatate (V09IX15)",
+                                "atc_code": "V09IX15"
+                            },
+                            {
+                                "name": "Gallium (68ga) gozetotide (V09IX14)",
+                                "atc_code": "V09IX14",
+                                "children": [
+                                    {
+                                        "name": "Gallium Ga-68 gozetotide",
+                                        "drugbank_id": "DB16019"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methionine (11c) (V09IX13)",
+                                "atc_code": "V09IX13",
+                                "children": [
+                                    {
+                                        "name": "Methionine C-11",
+                                        "drugbank_id": "DB17147"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluciclovine (18f) (V09IX12)",
+                                "atc_code": "V09IX12",
+                                "children": [
+                                    {
+                                        "name": "Fluciclovine (18F)",
+                                        "drugbank_id": "DB13146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluoroestradiol (18f) (V09IX11)",
+                                "atc_code": "V09IX11"
+                            },
+                            {
+                                "name": "Fluoroethyl-l-tyrosine (18f) (V09IX10)",
+                                "atc_code": "V09IX10",
+                                "children": [
+                                    {
+                                        "name": "FET F-18",
+                                        "drugbank_id": "DB15405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gallium (68ga) edotreotide (V09IX09)",
+                                "atc_code": "V09IX09",
+                                "children": [
+                                    {
+                                        "name": "Edotreotide gallium Ga-68",
+                                        "drugbank_id": "DB15494"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluoroethylcholine (18f) (V09IX08)",
+                                "atc_code": "V09IX08"
+                            },
+                            {
+                                "name": "Fluorocholine (18f) (V09IX07)",
+                                "atc_code": "V09IX07"
+                            },
+                            {
+                                "name": "Sodium fluoride (18f) (V09IX06)",
+                                "atc_code": "V09IX06",
+                                "children": [
+                                    {
+                                        "name": "Fluoride ion F-18",
+                                        "drugbank_id": "DB09398"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorodopa (18f) (V09IX05)",
+                                "atc_code": "V09IX05",
+                                "children": [
+                                    {
+                                        "name": "Fluorodopa (18F)",
+                                        "drugbank_id": "DB13848"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludeoxyglucose (18f) (V09IX04)",
+                                "atc_code": "V09IX04",
+                                "children": [
+                                    {
+                                        "name": "Fludeoxyglucose (18F)",
+                                        "drugbank_id": "DB09502"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (125i) cc49-monoclonal antibody (V09IX03)",
+                                "atc_code": "V09IX03"
+                            },
+                            {
+                                "name": "Iobenguane (131i) (V09IX02)",
+                                "atc_code": "V09IX02",
+                                "children": [
+                                    {
+                                        "name": "Iobenguane",
+                                        "drugbank_id": "DB06704"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iobenguane (123i) (V09IX01)",
+                                "atc_code": "V09IX01",
+                                "children": [
+                                    {
+                                        "name": "Iobenguane",
+                                        "drugbank_id": "DB06704"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indium (111in) compounds (V09IB)",
+                        "atc_code": "V09IB",
+                        "children": [
+                            {
+                                "name": "Indium (111in) capromab pendetide (V09IB04)",
+                                "atc_code": "V09IB04",
+                                "children": [
+                                    {
+                                        "name": "Capromab pendetide",
+                                        "drugbank_id": "DB00089"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indium (111in) antiovariumcarcinoma antibody (V09IB03)",
+                                "atc_code": "V09IB03"
+                            },
+                            {
+                                "name": "Indium (111in) satumomab pendetide (V09IB02)",
+                                "atc_code": "V09IB02",
+                                "children": [
+                                    {
+                                        "name": "Indium In-111 satumomab pendetide",
+                                        "drugbank_id": "DB00057"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indium (111in) pentetreotide (V09IB01)",
+                                "atc_code": "V09IB01",
+                                "children": [
+                                    {
+                                        "name": "Indium In-111 pentetreotide",
+                                        "drugbank_id": "DB11835"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09IA)",
+                        "atc_code": "V09IA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) trofolastat chloride (V09IA10)",
+                                "atc_code": "V09IA10"
+                            },
+                            {
+                                "name": "Technetium (99mtc) tilmanocept (V09IA09)",
+                                "atc_code": "V09IA09",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m tilmanocept",
+                                        "drugbank_id": "DB09266"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) etarfolatide (V09IA08)",
+                                "atc_code": "V09IA08"
+                            },
+                            {
+                                "name": "Technetium (99mtc) hynic-octreotide (V09IA07)",
+                                "atc_code": "V09IA07"
+                            },
+                            {
+                                "name": "Technetium (99mtc) arcitumomab (V09IA06)",
+                                "atc_code": "V09IA06",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m arcitumomab",
+                                        "drugbank_id": "DB00113"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) depreotide (V09IA05)",
+                                "atc_code": "V09IA05"
+                            },
+                            {
+                                "name": "Technetium (99mtc) votumumab (V09IA04)",
+                                "atc_code": "V09IA04"
+                            },
+                            {
+                                "name": "Technetium (99mtc) pentavalent succimer (V09IA03)",
+                                "atc_code": "V09IA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) antimelanoma antibody (V09IA02)",
+                                "atc_code": "V09IA02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) anticarcinoembryonicantigen antibody (V09IA01)",
+                                "atc_code": "V09IA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Inflammation and infection detection (V09H)",
+                "atc_code": "V09H",
+                "children": [
+                    {
+                        "name": "Other diagnostic radiopharmaceuticals for inflammation and infection detection (V09HX)",
+                        "atc_code": "V09HX",
+                        "children": [
+                            {
+                                "name": "Gallium (67ga) citrate (V09HX01)",
+                                "atc_code": "V09HX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indium (111in) compounds (V09HB)",
+                        "atc_code": "V09HB",
+                        "children": [
+                            {
+                                "name": "Indium (111in) tropolonate labelled cells (V09HB02)",
+                                "atc_code": "V09HB02"
+                            },
+                            {
+                                "name": "Indium (111in) oxinate labelled cells (V09HB01)",
+                                "atc_code": "V09HB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09HA)",
+                        "atc_code": "V09HA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) sulesomab (V09HA04)",
+                                "atc_code": "V09HA04",
+                                "children": [
+                                    {
+                                        "name": "Sulesomab",
+                                        "drugbank_id": "DB13976"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) antigranulocyte antibody (V09HA03)",
+                                "atc_code": "V09HA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) exametazime labelled cells (V09HA02)",
+                                "atc_code": "V09HA02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) human immunoglobulin (V09HA01)",
+                                "atc_code": "V09HA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cardiovascular system (V09G)",
+                "atc_code": "V09G",
+                "children": [
+                    {
+                        "name": "Other cardiovascular system diagnostic radiopharmaceuticals (V09GX)",
+                        "atc_code": "V09GX",
+                        "children": [
+                            {
+                                "name": "Ammonia (13n) (V09GX05)",
+                                "atc_code": "V09GX05"
+                            },
+                            {
+                                "name": "Rubidium (82rb) chloride (V09GX04)",
+                                "atc_code": "V09GX04"
+                            },
+                            {
+                                "name": "Chromium (51cr) chromate labelled cells (V09GX03)",
+                                "atc_code": "V09GX03"
+                            },
+                            {
+                                "name": "Indium (111in) imciromab (V09GX02)",
+                                "atc_code": "V09GX02"
+                            },
+                            {
+                                "name": "Thallium (201tl) chloride (V09GX01)",
+                                "atc_code": "V09GX01",
+                                "children": [
+                                    {
+                                        "name": "Thallous chloride Tl-201",
+                                        "drugbank_id": "DB16624"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iodine (125i) compounds (V09GB)",
+                        "atc_code": "V09GB",
+                        "children": [
+                            {
+                                "name": "Iodine (125i) human albumin (V09GB02)",
+                                "atc_code": "V09GB02"
+                            },
+                            {
+                                "name": "Fibrinogen (125i) (V09GB01)",
+                                "atc_code": "V09GB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09GA)",
+                        "atc_code": "V09GA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) apcitide (V09GA07)",
+                                "atc_code": "V09GA07"
+                            },
+                            {
+                                "name": "Technetium (99mtc) stannous agent labelled cells (V09GA06)",
+                                "atc_code": "V09GA06"
+                            },
+                            {
+                                "name": "Technetium (99mtc) furifosmin (V09GA05)",
+                                "atc_code": "V09GA05"
+                            },
+                            {
+                                "name": "Technetium (99mtc) human albumin (V09GA04)",
+                                "atc_code": "V09GA04"
+                            },
+                            {
+                                "name": "Technetium (99mtc) teboroxime (V09GA03)",
+                                "atc_code": "V09GA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) tetrofosmin (V09GA02)",
+                                "atc_code": "V09GA02",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m tetrofosmin",
+                                        "drugbank_id": "DB09160"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) sestamibi (V09GA01)",
+                                "atc_code": "V09GA01",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m sestamibi",
+                                        "drugbank_id": "DB09161"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Thyroid (V09F)",
+                "atc_code": "V09F",
+                "children": [
+                    {
+                        "name": "Various thyroid diagnostic radiopharmaceuticals (V09FX)",
+                        "atc_code": "V09FX",
+                        "children": [
+                            {
+                                "name": "Sodium iodide (124i) (V09FX04)",
+                                "atc_code": "V09FX04"
+                            },
+                            {
+                                "name": "Sodium iodide (131i) (V09FX03)",
+                                "atc_code": "V09FX03",
+                                "children": [
+                                    {
+                                        "name": "Iodide I-131",
+                                        "drugbank_id": "DB09293"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium iodide (123i) (V09FX02)",
+                                "atc_code": "V09FX02",
+                                "children": [
+                                    {
+                                        "name": "Iodide I-123",
+                                        "drugbank_id": "DB09420"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) pertechnetate (V09FX01)",
+                                "atc_code": "V09FX01",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m pertechnetate",
+                                        "drugbank_id": "DB09314"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Respiratory system (V09E)",
+                "atc_code": "V09E",
+                "children": [
+                    {
+                        "name": "Other respiratory system diagnostic radiopharmaceuticals (V09EX)",
+                        "atc_code": "V09EX",
+                        "children": [
+                            {
+                                "name": "Xenon (133xe) gas (V09EX03)",
+                                "atc_code": "V09EX03",
+                                "children": [
+                                    {
+                                        "name": "Xenon-133",
+                                        "drugbank_id": "DB09315"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xenon (127xe) gas (V09EX02)",
+                                "atc_code": "V09EX02"
+                            },
+                            {
+                                "name": "Krypton (81mkr) gas (V09EX01)",
+                                "atc_code": "V09EX01",
+                                "children": [
+                                    {
+                                        "name": "Krypton Kr 81m",
+                                        "drugbank_id": "DB09443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc), particles for injection (V09EB)",
+                        "atc_code": "V09EB",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) microspheres (V09EB02)",
+                                "atc_code": "V09EB02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) macrosalb (V09EB01)",
+                                "atc_code": "V09EB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc), inhalants (V09EA)",
+                        "atc_code": "V09EA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) nanocolloid (V09EA03)",
+                                "atc_code": "V09EA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) technegas (V09EA02)",
+                                "atc_code": "V09EA02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) pentetic acid (V09EA01)",
+                                "atc_code": "V09EA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hepatic and reticulo endothelial system (V09D)",
+                "atc_code": "V09D",
+                "children": [
+                    {
+                        "name": "Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals (V09DX)",
+                        "atc_code": "V09DX",
+                        "children": [
+                            {
+                                "name": "Selenium (75se) tauroselcholic acid (V09DX01)",
+                                "atc_code": "V09DX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc), particles and colloids (V09DB)",
+                        "atc_code": "V09DB",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) phytate (V09DB07)",
+                                "atc_code": "V09DB07"
+                            },
+                            {
+                                "name": "Technetium (99mtc) rheniumsulfide colloid (V09DB06)",
+                                "atc_code": "V09DB06"
+                            },
+                            {
+                                "name": "Technetium (99mtc) sulfur colloid (V09DB05)",
+                                "atc_code": "V09DB05",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m sulfur colloid",
+                                        "drugbank_id": "DB09397"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) tin colloid (V09DB04)",
+                                "atc_code": "V09DB04"
+                            },
+                            {
+                                "name": "Technetium (99mtc) millimicrospheres (V09DB03)",
+                                "atc_code": "V09DB03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) microcolloid (V09DB02)",
+                                "atc_code": "V09DB02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) nanocolloid (V09DB01)",
+                                "atc_code": "V09DB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09DA)",
+                        "atc_code": "V09DA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) galtifenin (V09DA05)",
+                                "atc_code": "V09DA05"
+                            },
+                            {
+                                "name": "Technetium (99mtc) mebrofenin (V09DA04)",
+                                "atc_code": "V09DA04",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m mebrofenin",
+                                        "drugbank_id": "DB09137"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) lidofenin (V09DA03)",
+                                "atc_code": "V09DA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) etifenin (V09DA02)",
+                                "atc_code": "V09DA02",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m etifenin",
+                                        "drugbank_id": "DB13183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) disofenin (V09DA01)",
+                                "atc_code": "V09DA01",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m disofenin",
+                                        "drugbank_id": "DB09164"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Renal system (V09C)",
+                "atc_code": "V09C",
+                "children": [
+                    {
+                        "name": "Other renal system diagnostic radiopharmaceuticals (V09CX)",
+                        "atc_code": "V09CX",
+                        "children": [
+                            {
+                                "name": "Chromium (51cr) edetate (V09CX04)",
+                                "atc_code": "V09CX04"
+                            },
+                            {
+                                "name": "Sodium iothalamate (125i) (V09CX03)",
+                                "atc_code": "V09CX03"
+                            },
+                            {
+                                "name": "Sodium iodohippurate (131i) (V09CX02)",
+                                "atc_code": "V09CX02",
+                                "children": [
+                                    {
+                                        "name": "Iodohippurate sodium I-131",
+                                        "drugbank_id": "DB09382"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium iodohippurate (123i) (V09CX01)",
+                                "atc_code": "V09CX01",
+                                "children": [
+                                    {
+                                        "name": "Iodohippurate sodium I-123",
+                                        "drugbank_id": "DB09448"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09CA)",
+                        "atc_code": "V09CA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) ethylenedicysteine (V09CA06)",
+                                "atc_code": "V09CA06"
+                            },
+                            {
+                                "name": "Technetium (99mtc) gluconate (V09CA05)",
+                                "atc_code": "V09CA05"
+                            },
+                            {
+                                "name": "Technetium (99mtc) gluceptate (V09CA04)",
+                                "atc_code": "V09CA04"
+                            },
+                            {
+                                "name": "Technetium (99mtc) mertiatide (V09CA03)",
+                                "atc_code": "V09CA03"
+                            },
+                            {
+                                "name": "Technetium (99mtc) succimer (V09CA02)",
+                                "atc_code": "V09CA02",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m succimer",
+                                        "drugbank_id": "DB09436"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) pentetic acid (V09CA01)",
+                                "atc_code": "V09CA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeleton (V09B)",
+                "atc_code": "V09B",
+                "children": [
+                    {
+                        "name": "Technetium (99mtc) compounds (V09BA)",
+                        "atc_code": "V09BA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) butedronic acid (V09BA04)",
+                                "atc_code": "V09BA04"
+                            },
+                            {
+                                "name": "Technetium (99mtc) pyrophosphate (V09BA03)",
+                                "atc_code": "V09BA03",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m pyrophosphate",
+                                        "drugbank_id": "DB09165"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) medronic acid (V09BA02)",
+                                "atc_code": "V09BA02",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m medronate",
+                                        "drugbank_id": "DB09138"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) oxidronic acid (V09BA01)",
+                                "atc_code": "V09BA01",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m oxidronate",
+                                        "drugbank_id": "DB09139"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Central nervous system (V09A)",
+                "atc_code": "V09A",
+                "children": [
+                    {
+                        "name": "Other central nervous system diagnostic radiopharmaceuticals (V09AX)",
+                        "atc_code": "V09AX",
+                        "children": [
+                            {
+                                "name": "Flortaucipir (18f) (V09AX07)",
+                                "atc_code": "V09AX07",
+                                "children": [
+                                    {
+                                        "name": "Flortaucipir F-18",
+                                        "drugbank_id": "DB14914"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Florbetaben (18f) (V09AX06)",
+                                "atc_code": "V09AX06",
+                                "children": [
+                                    {
+                                        "name": "Florbetaben F-18",
+                                        "drugbank_id": "DB09148"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Florbetapir (18f) (V09AX05)",
+                                "atc_code": "V09AX05",
+                                "children": [
+                                    {
+                                        "name": "Florbetapir F-18",
+                                        "drugbank_id": "DB09149"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flutemetamol (18f) (V09AX04)",
+                                "atc_code": "V09AX04",
+                                "children": [
+                                    {
+                                        "name": "Flutemetamol (18F)",
+                                        "drugbank_id": "DB09151"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (124i) 2beta-carbomethoxy-3beta-(4 iodophenyl)-tropane (V09AX03)",
+                                "atc_code": "V09AX03"
+                            },
+                            {
+                                "name": "Indium (111in) pentetic acid (V09AX01)",
+                                "atc_code": "V09AX01",
+                                "children": [
+                                    {
+                                        "name": "Indium In-111 pentetate",
+                                        "drugbank_id": "DB09425"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iodine (123i) compounds (V09AB)",
+                        "atc_code": "V09AB",
+                        "children": [
+                            {
+                                "name": "Iodine ioflupane (123i) (V09AB03)",
+                                "atc_code": "V09AB03",
+                                "children": [
+                                    {
+                                        "name": "Ioflupane I-123",
+                                        "drugbank_id": "DB08824"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine iolopride (123i) (V09AB02)",
+                                "atc_code": "V09AB02"
+                            },
+                            {
+                                "name": "Iodine iofetamine (123i) (V09AB01)",
+                                "atc_code": "V09AB01",
+                                "children": [
+                                    {
+                                        "name": "Iofetamine I-123",
+                                        "drugbank_id": "DB09480"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Technetium (99mtc) compounds (V09AA)",
+                        "atc_code": "V09AA",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) bicisate (V09AA02)",
+                                "atc_code": "V09AA02"
+                            },
+                            {
+                                "name": "Technetium (99mtc) exametazime (V09AA01)",
+                                "atc_code": "V09AA01",
+                                "children": [
+                                    {
+                                        "name": "Technetium Tc-99m exametazime",
+                                        "drugbank_id": "DB09163"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

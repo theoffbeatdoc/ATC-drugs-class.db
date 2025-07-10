@@ -1,0 +1,710 @@
+[
+    {
+        "name": "Cough and cold preparations (R05)",
+        "atc_code": "R05",
+        "children": [
+            {
+                "name": "Other cold preparations (R05X)",
+                "atc_code": "R05X"
+            },
+            {
+                "name": "Cough suppressants and expectorants, combinations (R05F)",
+                "atc_code": "R05F",
+                "children": [
+                    {
+                        "name": "Other cough suppressants and expectorants (R05FB)",
+                        "atc_code": "R05FB",
+                        "children": [
+                            {
+                                "name": "Cough suppressants and expectorants (R05FB02)",
+                                "atc_code": "R05FB02"
+                            },
+                            {
+                                "name": "Cough suppressants and mucolytics (R05FB01)",
+                                "atc_code": "R05FB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opium derivatives and expectorants (R05FA)",
+                        "atc_code": "R05FA",
+                        "children": [
+                            {
+                                "name": "Opium derivatives and expectorants (R05FA02)",
+                                "atc_code": "R05FA02"
+                            },
+                            {
+                                "name": "Opium derivatives and mucolytics (R05FA01)",
+                                "atc_code": "R05FA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cough suppressants, excl. combinations with expectorants (R05D)",
+                "atc_code": "R05D",
+                "children": [
+                    {
+                        "name": "Other cough suppressants (R05DB)",
+                        "atc_code": "R05DB",
+                        "children": [
+                            {
+                                "name": "Gefapixant (R05DB29)",
+                                "atc_code": "R05DB29",
+                                "children": [
+                                    {
+                                        "name": "Gefapixant",
+                                        "drugbank_id": "DB15097"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethoxanate (R05DB28)",
+                                "atc_code": "R05DB28",
+                                "children": [
+                                    {
+                                        "name": "Dimethoxanate",
+                                        "drugbank_id": "DB13794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levodropropizine (R05DB27)",
+                                "atc_code": "R05DB27",
+                                "children": [
+                                    {
+                                        "name": "Levodropropizine",
+                                        "drugbank_id": "DB12472"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nepinalone (R05DB26)",
+                                "atc_code": "R05DB26",
+                                "children": [
+                                    {
+                                        "name": "Nepinalone",
+                                        "drugbank_id": "DB13445"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morclofone (R05DB25)",
+                                "atc_code": "R05DB25",
+                                "children": [
+                                    {
+                                        "name": "Morclofone",
+                                        "drugbank_id": "DB13558"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tipepidine (R05DB24)",
+                                "atc_code": "R05DB24",
+                                "children": [
+                                    {
+                                        "name": "Tipepidine",
+                                        "drugbank_id": "DB13474"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piperidione (R05DB23)",
+                                "atc_code": "R05DB23",
+                                "children": [
+                                    {
+                                        "name": "Piperidione",
+                                        "drugbank_id": "DB13224"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meprotixol (R05DB22)",
+                                "atc_code": "R05DB22",
+                                "children": [
+                                    {
+                                        "name": "Meprotixol",
+                                        "drugbank_id": "DB13822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloperastine (R05DB21)",
+                                "atc_code": "R05DB21",
+                                "children": [
+                                    {
+                                        "name": "Cloperastine",
+                                        "drugbank_id": "DB09002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (R05DB20)",
+                                "atc_code": "R05DB20"
+                            },
+                            {
+                                "name": "Dropropizine (R05DB19)",
+                                "atc_code": "R05DB19",
+                                "children": [
+                                    {
+                                        "name": "Dropropizine",
+                                        "drugbank_id": "DB13785"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prenoxdiazine (R05DB18)",
+                                "atc_code": "R05DB18",
+                                "children": [
+                                    {
+                                        "name": "Prenoxdiazine",
+                                        "drugbank_id": "DB13397"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Droxypropine (R05DB17)",
+                                "atc_code": "R05DB17",
+                                "children": [
+                                    {
+                                        "name": "Droxypropine",
+                                        "drugbank_id": "DB13436"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibunate (R05DB16)",
+                                "atc_code": "R05DB16",
+                                "children": [
+                                    {
+                                        "name": "Dibunate",
+                                        "drugbank_id": "DB13796"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zipeprol (R05DB15)",
+                                "atc_code": "R05DB15",
+                                "children": [
+                                    {
+                                        "name": "Zipeprol",
+                                        "drugbank_id": "DB13564"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fedrilate (R05DB14)",
+                                "atc_code": "R05DB14",
+                                "children": [
+                                    {
+                                        "name": "Fedrilate",
+                                        "drugbank_id": "DB13825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butamirate (R05DB13)",
+                                "atc_code": "R05DB13",
+                                "children": [
+                                    {
+                                        "name": "Butamirate",
+                                        "drugbank_id": "DB13731"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bibenzonium bromide (R05DB12)",
+                                "atc_code": "R05DB12",
+                                "children": [
+                                    {
+                                        "name": "Bibenzonium",
+                                        "drugbank_id": "DB13630"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipazetate (R05DB11)",
+                                "atc_code": "R05DB11",
+                                "children": [
+                                    {
+                                        "name": "Pipazethate",
+                                        "drugbank_id": "DB08796"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofedanol (R05DB10)",
+                                "atc_code": "R05DB10",
+                                "children": [
+                                    {
+                                        "name": "Clofedanol",
+                                        "drugbank_id": "DB04837"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxeladin (R05DB09)",
+                                "atc_code": "R05DB09",
+                                "children": [
+                                    {
+                                        "name": "Oxeladin",
+                                        "drugbank_id": "DB04822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxolamine (R05DB07)",
+                                "atc_code": "R05DB07",
+                                "children": [
+                                    {
+                                        "name": "Oxolamine",
+                                        "drugbank_id": "DB13216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentoxyverine (R05DB05)",
+                                "atc_code": "R05DB05",
+                                "children": [
+                                    {
+                                        "name": "Pentoxyverine",
+                                        "drugbank_id": "DB11186"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoaminile (R05DB04)",
+                                "atc_code": "R05DB04",
+                                "children": [
+                                    {
+                                        "name": "Isoaminile",
+                                        "drugbank_id": "DB08944"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clobutinol (R05DB03)",
+                                "atc_code": "R05DB03",
+                                "children": [
+                                    {
+                                        "name": "Clobutinol",
+                                        "drugbank_id": "DB09004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benproperine (R05DB02)",
+                                "atc_code": "R05DB02",
+                                "children": [
+                                    {
+                                        "name": "Benproperine",
+                                        "drugbank_id": "DB13309"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzonatate (R05DB01)",
+                                "atc_code": "R05DB01",
+                                "children": [
+                                    {
+                                        "name": "Benzonatate",
+                                        "drugbank_id": "DB00868"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opium alkaloids and derivatives (R05DA)",
+                        "atc_code": "R05DA",
+                        "children": [
+                            {
+                                "name": "Combinations (R05DA20)",
+                                "atc_code": "R05DA20"
+                            },
+                            {
+                                "name": "Acetyldihydrocodeine (R05DA12)",
+                                "atc_code": "R05DA12",
+                                "children": [
+                                    {
+                                        "name": "Acetyldihydrocodeine",
+                                        "drugbank_id": "DB01538"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimemorfan (R05DA11)",
+                                "atc_code": "R05DA11",
+                                "children": [
+                                    {
+                                        "name": "Dimemorfan",
+                                        "drugbank_id": "DB13810"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thebacon (R05DA10)",
+                                "atc_code": "R05DA10",
+                                "children": [
+                                    {
+                                        "name": "Thebacon",
+                                        "drugbank_id": "DB13458"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextromethorphan (R05DA09)",
+                                "atc_code": "R05DA09",
+                                "children": [
+                                    {
+                                        "name": "Dextromethorphan",
+                                        "drugbank_id": "DB00514"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pholcodine (R05DA08)",
+                                "atc_code": "R05DA08",
+                                "children": [
+                                    {
+                                        "name": "Pholcodine",
+                                        "drugbank_id": "DB09209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Noscapine (R05DA07)",
+                                "atc_code": "R05DA07",
+                                "children": [
+                                    {
+                                        "name": "Noscapine",
+                                        "drugbank_id": "DB06174"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Normethadone (R05DA06)",
+                                "atc_code": "R05DA06",
+                                "children": [
+                                    {
+                                        "name": "Normethadone",
+                                        "drugbank_id": "DB11609"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opium alkaloids with morphine (R05DA05)",
+                                "atc_code": "R05DA05"
+                            },
+                            {
+                                "name": "Codeine (R05DA04)",
+                                "atc_code": "R05DA04",
+                                "children": [
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocodone (R05DA03)",
+                                "atc_code": "R05DA03",
+                                "children": [
+                                    {
+                                        "name": "Hydrocodone",
+                                        "drugbank_id": "DB00956"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethylmorphine (R05DA01)",
+                                "atc_code": "R05DA01",
+                                "children": [
+                                    {
+                                        "name": "Ethylmorphine",
+                                        "drugbank_id": "DB01466"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Expectorants, excl. combinations with cough suppressants (R05C)",
+                "atc_code": "R05C",
+                "children": [
+                    {
+                        "name": "Mucolytics (R05CB)",
+                        "atc_code": "R05CB",
+                        "children": [
+                            {
+                                "name": "Mannitol (R05CB16)",
+                                "atc_code": "R05CB16",
+                                "children": [
+                                    {
+                                        "name": "Mannitol",
+                                        "drugbank_id": "DB00742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erdosteine (R05CB15)",
+                                "atc_code": "R05CB15",
+                                "children": [
+                                    {
+                                        "name": "Erdosteine",
+                                        "drugbank_id": "DB05057"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neltenexine (R05CB14)",
+                                "atc_code": "R05CB14",
+                                "children": [
+                                    {
+                                        "name": "Neltenexine",
+                                        "drugbank_id": "DB13239"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dornase alfa (desoxyribonuclease) (R05CB13)",
+                                "atc_code": "R05CB13",
+                                "children": [
+                                    {
+                                        "name": "Dornase alfa",
+                                        "drugbank_id": "DB00003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stepronin (R05CB11)",
+                                "atc_code": "R05CB11",
+                                "children": [
+                                    {
+                                        "name": "Stepronin",
+                                        "drugbank_id": "DB01423"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (R05CB10)",
+                                "atc_code": "R05CB10"
+                            },
+                            {
+                                "name": "Letosteine (R05CB09)",
+                                "atc_code": "R05CB09",
+                                "children": [
+                                    {
+                                        "name": "Letosteine",
+                                        "drugbank_id": "DB08939"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Domiodol (R05CB08)",
+                                "atc_code": "R05CB08",
+                                "children": [
+                                    {
+                                        "name": "Domiodol",
+                                        "drugbank_id": "DB13768"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sobrerol (R05CB07)",
+                                "atc_code": "R05CB07",
+                                "children": [
+                                    {
+                                        "name": "Sobrerol",
+                                        "drugbank_id": "DB13315"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambroxol (R05CB06)",
+                                "atc_code": "R05CB06",
+                                "children": [
+                                    {
+                                        "name": "Ambroxol",
+                                        "drugbank_id": "DB06742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesna (R05CB05)",
+                                "atc_code": "R05CB05",
+                                "children": [
+                                    {
+                                        "name": "Coenzyme M",
+                                        "drugbank_id": "DB09110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eprazinone (R05CB04)",
+                                "atc_code": "R05CB04",
+                                "children": [
+                                    {
+                                        "name": "Eprazinone",
+                                        "drugbank_id": "DB08990"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbocisteine (R05CB03)",
+                                "atc_code": "R05CB03",
+                                "children": [
+                                    {
+                                        "name": "Carbocisteine",
+                                        "drugbank_id": "DB04339"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromhexine (R05CB02)",
+                                "atc_code": "R05CB02",
+                                "children": [
+                                    {
+                                        "name": "Bromhexine",
+                                        "drugbank_id": "DB09019"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylcysteine (R05CB01)",
+                                "atc_code": "R05CB01",
+                                "children": [
+                                    {
+                                        "name": "Acetylcysteine",
+                                        "drugbank_id": "DB06151"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Expectorants (R05CA)",
+                        "atc_code": "R05CA",
+                        "children": [
+                            {
+                                "name": "Cineole (R05CA13)",
+                                "atc_code": "R05CA13",
+                                "children": [
+                                    {
+                                        "name": "Eucalyptol",
+                                        "drugbank_id": "DB03852"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hederae helicis folium (R05CA12)",
+                                "atc_code": "R05CA12",
+                                "children": [
+                                    {
+                                        "name": "Hedera helix leaf extract",
+                                        "drugbank_id": "DB13194"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levoverbenone (R05CA11)",
+                                "atc_code": "R05CA11",
+                                "children": [
+                                    {
+                                        "name": "Levoverbenone",
+                                        "drugbank_id": "DB13391"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (R05CA10)",
+                                "atc_code": "R05CA10"
+                            },
+                            {
+                                "name": "Guaiacolsulfonate (R05CA09)",
+                                "atc_code": "R05CA09"
+                            },
+                            {
+                                "name": "Creosote (R05CA08)",
+                                "atc_code": "R05CA08",
+                                "children": [
+                                    {
+                                        "name": "Wood creosote",
+                                        "drugbank_id": "DB13271"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antimony pentasulfide (R05CA07)",
+                                "atc_code": "R05CA07",
+                                "children": [
+                                    {
+                                        "name": "Antimony pentasulfide",
+                                        "drugbank_id": "DB13473"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Senega (R05CA06)",
+                                "atc_code": "R05CA06",
+                                "children": [
+                                    {
+                                        "name": "Polygala senega root",
+                                        "drugbank_id": "DB14749"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Altheae radix (R05CA05)",
+                                "atc_code": "R05CA05"
+                            },
+                            {
+                                "name": "Ipecacuanha (R05CA04)",
+                                "atc_code": "R05CA04",
+                                "children": [
+                                    {
+                                        "name": "Ipecac",
+                                        "drugbank_id": "DB13293"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guaifenesin (R05CA03)",
+                                "atc_code": "R05CA03",
+                                "children": [
+                                    {
+                                        "name": "Guaifenesin",
+                                        "drugbank_id": "DB00874"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium iodide (R05CA02)",
+                                "atc_code": "R05CA02",
+                                "children": [
+                                    {
+                                        "name": "Potassium Iodide",
+                                        "drugbank_id": "DB06715"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tyloxapol (R05CA01)",
+                                "atc_code": "R05CA01",
+                                "children": [
+                                    {
+                                        "name": "Tyloxapol",
+                                        "drugbank_id": "DB06439"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,678 @@
+[
+    {
+        "name": "Nasal preparations (R01)",
+        "atc_code": "R01",
+        "children": [
+            {
+                "name": "Nasal decongestants for systemic use (R01B)",
+                "atc_code": "R01B",
+                "children": [
+                    {
+                        "name": "Sympathomimetics (R01BA)",
+                        "atc_code": "R01BA",
+                        "children": [
+                            {
+                                "name": "Phenylephrine, combinations (R01BA53)",
+                                "atc_code": "R01BA53",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pseudoephedrine, combinations (R01BA52)",
+                                "atc_code": "R01BA52",
+                                "children": [
+                                    {
+                                        "name": "Pseudoephedrine",
+                                        "drugbank_id": "DB00852"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylpropanolamine, combinations (R01BA51)",
+                                "atc_code": "R01BA51",
+                                "children": [
+                                    {
+                                        "name": "Phenylpropanolamine",
+                                        "drugbank_id": "DB00397"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylephrine (R01BA03)",
+                                "atc_code": "R01BA03",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pseudoephedrine (R01BA02)",
+                                "atc_code": "R01BA02",
+                                "children": [
+                                    {
+                                        "name": "Pseudoephedrine",
+                                        "drugbank_id": "DB00852"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylpropanolamine (R01BA01)",
+                                "atc_code": "R01BA01",
+                                "children": [
+                                    {
+                                        "name": "Phenylpropanolamine",
+                                        "drugbank_id": "DB00397"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Decongestants and other nasal preparations for topical use (R01A)",
+                "atc_code": "R01A",
+                "children": [
+                    {
+                        "name": "Other nasal preparations (R01AX)",
+                        "atc_code": "R01AX",
+                        "children": [
+                            {
+                                "name": "Combinations (R01AX30)",
+                                "atc_code": "R01AX30"
+                            },
+                            {
+                                "name": "Various (R01AX10)",
+                                "atc_code": "R01AX10"
+                            },
+                            {
+                                "name": "Hyaluronic acid (R01AX09)",
+                                "atc_code": "R01AX09",
+                                "children": [
+                                    {
+                                        "name": "Hyaluronic acid",
+                                        "drugbank_id": "DB08818"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Framycetin (R01AX08)",
+                                "atc_code": "R01AX08",
+                                "children": [
+                                    {
+                                        "name": "Framycetin",
+                                        "drugbank_id": "DB00452"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexamidine (R01AX07)",
+                                "atc_code": "R01AX07",
+                                "children": [
+                                    {
+                                        "name": "Hexamidine",
+                                        "drugbank_id": "DB03808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mupirocin (R01AX06)",
+                                "atc_code": "R01AX06",
+                                "children": [
+                                    {
+                                        "name": "Mupirocin",
+                                        "drugbank_id": "DB00410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ritiometan (R01AX05)",
+                                "atc_code": "R01AX05",
+                                "children": [
+                                    {
+                                        "name": "Ritiometan",
+                                        "drugbank_id": "DB13267"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ipratropium bromide (R01AX03)",
+                                "atc_code": "R01AX03",
+                                "children": [
+                                    {
+                                        "name": "Ipratropium",
+                                        "drugbank_id": "DB00332"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Retinol (R01AX02)",
+                                "atc_code": "R01AX02",
+                                "children": [
+                                    {
+                                        "name": "Vitamin A",
+                                        "drugbank_id": "DB00162"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium hexamine thiocyanate (R01AX01)",
+                                "atc_code": "R01AX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids (R01AD)",
+                        "atc_code": "R01AD",
+                        "children": [
+                            {
+                                "name": "Mometasone, combinations (R01AD59)",
+                                "atc_code": "R01AD59",
+                                "children": [
+                                    {
+                                        "name": "Mometasone",
+                                        "drugbank_id": "DB00764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone, combinations (R01AD60)",
+                                "atc_code": "R01AD60",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluticasone, combinations (R01AD58)",
+                                "atc_code": "R01AD58",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tixocortol, combinations (R01AD57)",
+                                "atc_code": "R01AD57",
+                                "children": [
+                                    {
+                                        "name": "Tixocortol",
+                                        "drugbank_id": "DB09091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone, combinations (R01AD53)",
+                                "atc_code": "R01AD53",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone, combinations (R01AD52)",
+                                "atc_code": "R01AD52",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclesonide (R01AD13)",
+                                "atc_code": "R01AD13",
+                                "children": [
+                                    {
+                                        "name": "Ciclesonide",
+                                        "drugbank_id": "DB01410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluticasone furoate (R01AD12)",
+                                "atc_code": "R01AD12",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone furoate",
+                                        "drugbank_id": "DB08906"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (R01AD11)",
+                                "atc_code": "R01AD11",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mometasone (R01AD09)",
+                                "atc_code": "R01AD09",
+                                "children": [
+                                    {
+                                        "name": "Mometasone furoate",
+                                        "drugbank_id": "DB14512"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluticasone (R01AD08)",
+                                "atc_code": "R01AD08",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tixocortol (R01AD07)",
+                                "atc_code": "R01AD07",
+                                "children": [
+                                    {
+                                        "name": "Tixocortol",
+                                        "drugbank_id": "DB09091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (R01AD06)",
+                                "atc_code": "R01AD06",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Budesonide (R01AD05)",
+                                "atc_code": "R01AD05",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flunisolide (R01AD04)",
+                                "atc_code": "R01AD04",
+                                "children": [
+                                    {
+                                        "name": "Flunisolide",
+                                        "drugbank_id": "DB00180"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (R01AD03)",
+                                "atc_code": "R01AD03",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone (R01AD02)",
+                                "atc_code": "R01AD02",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beclometasone (R01AD01)",
+                                "atc_code": "R01AD01",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiallergic agents, excl. corticosteroids (R01AC)",
+                        "atc_code": "R01AC",
+                        "children": [
+                            {
+                                "name": "Cromoglicic acid, combinations (R01AC51)",
+                                "atc_code": "R01AC51",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olopatadine (R01AC08)",
+                                "atc_code": "R01AC08",
+                                "children": [
+                                    {
+                                        "name": "Olopatadine",
+                                        "drugbank_id": "DB00768"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nedocromil (R01AC07)",
+                                "atc_code": "R01AC07",
+                                "children": [
+                                    {
+                                        "name": "Nedocromil",
+                                        "drugbank_id": "DB00716"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thonzylamine (R01AC06)",
+                                "atc_code": "R01AC06",
+                                "children": [
+                                    {
+                                        "name": "Thonzylamine",
+                                        "drugbank_id": "DB11235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spaglumic acid (R01AC05)",
+                                "atc_code": "R01AC05",
+                                "children": [
+                                    {
+                                        "name": "Spaglumic acid",
+                                        "drugbank_id": "DB08835"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antazoline (R01AC04)",
+                                "atc_code": "R01AC04",
+                                "children": [
+                                    {
+                                        "name": "Antazoline",
+                                        "drugbank_id": "DB08799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azelastine (R01AC03)",
+                                "atc_code": "R01AC03",
+                                "children": [
+                                    {
+                                        "name": "Azelastine",
+                                        "drugbank_id": "DB00972"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levocabastine (R01AC02)",
+                                "atc_code": "R01AC02",
+                                "children": [
+                                    {
+                                        "name": "Levocabastine",
+                                        "drugbank_id": "DB01106"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cromoglicic acid (R01AC01)",
+                                "atc_code": "R01AC01",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sympathomimetics, combinations excl. corticosteroids (R01AB)",
+                        "atc_code": "R01AB",
+                        "children": [
+                            {
+                                "name": "Tuaminoheptane (R01AB08)",
+                                "atc_code": "R01AB08",
+                                "children": [
+                                    {
+                                        "name": "Tuaminoheptane",
+                                        "drugbank_id": "DB13238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxymetazoline (R01AB07)",
+                                "atc_code": "R01AB07",
+                                "children": [
+                                    {
+                                        "name": "Oxymetazoline",
+                                        "drugbank_id": "DB00935"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xylometazoline (R01AB06)",
+                                "atc_code": "R01AB06",
+                                "children": [
+                                    {
+                                        "name": "Xylometazoline",
+                                        "drugbank_id": "DB06694"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ephedrine (R01AB05)",
+                                "atc_code": "R01AB05",
+                                "children": [
+                                    {
+                                        "name": "Ephedrine",
+                                        "drugbank_id": "DB01364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetryzoline (R01AB03)",
+                                "atc_code": "R01AB03",
+                                "children": [
+                                    {
+                                        "name": "Tetryzoline",
+                                        "drugbank_id": "DB06764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naphazoline (R01AB02)",
+                                "atc_code": "R01AB02",
+                                "children": [
+                                    {
+                                        "name": "Naphazoline",
+                                        "drugbank_id": "DB06711"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylephrine (R01AB01)",
+                                "atc_code": "R01AB01",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sympathomimetics, plain (R01AA)",
+                        "atc_code": "R01AA",
+                        "children": [
+                            {
+                                "name": "Indanazoline (R01AA15)",
+                                "atc_code": "R01AA15",
+                                "children": [
+                                    {
+                                        "name": "Indanazoline",
+                                        "drugbank_id": "DB13827"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epinephrine (R01AA14)",
+                                "atc_code": "R01AA14",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tymazoline (R01AA13)",
+                                "atc_code": "R01AA13",
+                                "children": [
+                                    {
+                                        "name": "Tymazoline",
+                                        "drugbank_id": "DB08803"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoxazoline (R01AA12)",
+                                "atc_code": "R01AA12",
+                                "children": [
+                                    {
+                                        "name": "Fenoxazoline",
+                                        "drugbank_id": "DB13736"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tuaminoheptane (R01AA11)",
+                                "atc_code": "R01AA11",
+                                "children": [
+                                    {
+                                        "name": "Tuaminoheptane",
+                                        "drugbank_id": "DB13238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metizoline (R01AA10)",
+                                "atc_code": "R01AA10",
+                                "children": [
+                                    {
+                                        "name": "Metizoline",
+                                        "drugbank_id": "DB13614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tramazoline (R01AA09)",
+                                "atc_code": "R01AA09",
+                                "children": [
+                                    {
+                                        "name": "Tramazoline",
+                                        "drugbank_id": "DB13064"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naphazoline (R01AA08)",
+                                "atc_code": "R01AA08",
+                                "children": [
+                                    {
+                                        "name": "Naphazoline",
+                                        "drugbank_id": "DB06711"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xylometazoline (R01AA07)",
+                                "atc_code": "R01AA07",
+                                "children": [
+                                    {
+                                        "name": "Xylometazoline",
+                                        "drugbank_id": "DB06694"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetryzoline (R01AA06)",
+                                "atc_code": "R01AA06",
+                                "children": [
+                                    {
+                                        "name": "Tetryzoline",
+                                        "drugbank_id": "DB06764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxymetazoline (R01AA05)",
+                                "atc_code": "R01AA05",
+                                "children": [
+                                    {
+                                        "name": "Oxymetazoline",
+                                        "drugbank_id": "DB00935"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylephrine (R01AA04)",
+                                "atc_code": "R01AA04",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ephedrine (R01AA03)",
+                                "atc_code": "R01AA03",
+                                "children": [
+                                    {
+                                        "name": "Ephedrine",
+                                        "drugbank_id": "DB01364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclopentamine (R01AA02)",
+                                "atc_code": "R01AA02",
+                                "children": [
+                                    {
+                                        "name": "Cyclopentamine",
+                                        "drugbank_id": "DB08999"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

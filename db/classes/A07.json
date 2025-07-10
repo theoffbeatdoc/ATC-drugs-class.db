@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Antidiarrheals, intestinal antiinflammatory/antiinfective agents (A07)",
+        "atc_code": "A07",
+        "children": [
+            {
+                "name": "Other antidiarrheals (A07X)",
+                "atc_code": "A07X",
+                "children": [
+                    {
+                        "name": "Other antidiarrheals (A07XA)",
+                        "atc_code": "A07XA",
+                        "children": [
+                            {
+                                "name": "Crofelemer (A07XA06)",
+                                "atc_code": "A07XA06",
+                                "children": [
+                                    {
+                                        "name": "Crofelemer",
+                                        "drugbank_id": "DB04941"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Albumin tannate, combinations (A07XA51)",
+                                "atc_code": "A07XA51"
+                            },
+                            {
+                                "name": "Racecadotril (A07XA04)",
+                                "atc_code": "A07XA04",
+                                "children": [
+                                    {
+                                        "name": "Racecadotril",
+                                        "drugbank_id": "DB11696"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium compounds (A07XA03)",
+                                "atc_code": "A07XA03"
+                            },
+                            {
+                                "name": "Ceratonia (A07XA02)",
+                                "atc_code": "A07XA02"
+                            },
+                            {
+                                "name": "Albumin tannate (A07XA01)",
+                                "atc_code": "A07XA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antidiarrheal microorganisms (A07F)",
+                "atc_code": "A07F",
+                "children": [
+                    {
+                        "name": "Antidiarrheal microorganisms (A07FA)",
+                        "atc_code": "A07FA",
+                        "children": [
+                            {
+                                "name": "Escherichia coli (A07FA03)",
+                                "atc_code": "A07FA03",
+                                "children": [
+                                    {
+                                        "name": "Escherichia coli",
+                                        "drugbank_id": "DB16539"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactic acid producing organisms, combinations (A07FA51)",
+                                "atc_code": "A07FA51"
+                            },
+                            {
+                                "name": "Saccharomyces boulardii (A07FA02)",
+                                "atc_code": "A07FA02",
+                                "children": [
+                                    {
+                                        "name": "Yeast",
+                                        "drugbank_id": "DB11017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactic acid producing organisms (A07FA01)",
+                                "atc_code": "A07FA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Intestinal antiinflammatory agents (A07E)",
+                "atc_code": "A07E",
+                "children": [
+                    {
+                        "name": "Aminosalicylic acid and similar agents (A07EC)",
+                        "atc_code": "A07EC",
+                        "children": [
+                            {
+                                "name": "Balsalazide (A07EC04)",
+                                "atc_code": "A07EC04",
+                                "children": [
+                                    {
+                                        "name": "Balsalazide",
+                                        "drugbank_id": "DB01014"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olsalazine (A07EC03)",
+                                "atc_code": "A07EC03",
+                                "children": [
+                                    {
+                                        "name": "Olsalazine",
+                                        "drugbank_id": "DB01250"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesalazine (A07EC02)",
+                                "atc_code": "A07EC02",
+                                "children": [
+                                    {
+                                        "name": "Mesalazine",
+                                        "drugbank_id": "DB00244"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfasalazine (A07EC01)",
+                                "atc_code": "A07EC01",
+                                "children": [
+                                    {
+                                        "name": "Sulfasalazine",
+                                        "drugbank_id": "DB00795"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiallergic agents, excl. corticosteroids (A07EB)",
+                        "atc_code": "A07EB",
+                        "children": [
+                            {
+                                "name": "Cromoglicic acid (A07EB01)",
+                                "atc_code": "A07EB01",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids acting locally (A07EA)",
+                        "atc_code": "A07EA",
+                        "children": [
+                            {
+                                "name": "Beclometasone (A07EA07)",
+                                "atc_code": "A07EA07",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Budesonide (A07EA06)",
+                                "atc_code": "A07EA06",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tixocortol (A07EA05)",
+                                "atc_code": "A07EA05",
+                                "children": [
+                                    {
+                                        "name": "Tixocortol",
+                                        "drugbank_id": "DB09091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (A07EA04)",
+                                "atc_code": "A07EA04",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisone (A07EA03)",
+                                "atc_code": "A07EA03",
+                                "children": [
+                                    {
+                                        "name": "Prednisone",
+                                        "drugbank_id": "DB00635"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (A07EA02)",
+                                "atc_code": "A07EA02",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone (A07EA01)",
+                                "atc_code": "A07EA01",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antipropulsives (A07D)",
+                "atc_code": "A07D",
+                "children": [
+                    {
+                        "name": "Antipropulsives (A07DA)",
+                        "atc_code": "A07DA",
+                        "children": [
+                            {
+                                "name": "Eluxadoline (A07DA06)",
+                                "atc_code": "A07DA06",
+                                "children": [
+                                    {
+                                        "name": "Eluxadoline",
+                                        "drugbank_id": "DB09272"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loperamide, combinations (A07DA53)",
+                                "atc_code": "A07DA53",
+                                "children": [
+                                    {
+                                        "name": "Loperamide",
+                                        "drugbank_id": "DB00836"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morphine, combinations (A07DA52)",
+                                "atc_code": "A07DA52",
+                                "children": [
+                                    {
+                                        "name": "Morphine",
+                                        "drugbank_id": "DB00295"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loperamide oxide (A07DA05)",
+                                "atc_code": "A07DA05",
+                                "children": [
+                                    {
+                                        "name": "Loperamide oxide",
+                                        "drugbank_id": "DB14661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Difenoxin (A07DA04)",
+                                "atc_code": "A07DA04",
+                                "children": [
+                                    {
+                                        "name": "Difenoxin",
+                                        "drugbank_id": "DB01501"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loperamide (A07DA03)",
+                                "atc_code": "A07DA03",
+                                "children": [
+                                    {
+                                        "name": "Loperamide",
+                                        "drugbank_id": "DB00836"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opium (A07DA02)",
+                                "atc_code": "A07DA02",
+                                "children": [
+                                    {
+                                        "name": "Opium",
+                                        "drugbank_id": "DB11130"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenoxylate (A07DA01)",
+                                "atc_code": "A07DA01",
+                                "children": [
+                                    {
+                                        "name": "Diphenoxylate",
+                                        "drugbank_id": "DB01081"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electrolytes with carbohydrates (A07C)",
+                "atc_code": "A07C",
+                "children": [
+                    {
+                        "name": "Oral rehydration salt formulations (A07CA)",
+                        "atc_code": "A07CA"
+                    }
+                ]
+            },
+            {
+                "name": "Intestinal adsorbents (A07B)",
+                "atc_code": "A07B",
+                "children": [
+                    {
+                        "name": "Other intestinal adsorbents (A07BC)",
+                        "atc_code": "A07BC",
+                        "children": [
+                            {
+                                "name": "Attapulgite, combinations (A07BC54)",
+                                "atc_code": "A07BC54",
+                                "children": [
+                                    {
+                                        "name": "Attapulgite",
+                                        "drugbank_id": "DB01574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (A07BC30)",
+                                "atc_code": "A07BC30"
+                            },
+                            {
+                                "name": "Diosmectite (A07BC05)",
+                                "atc_code": "A07BC05",
+                                "children": [
+                                    {
+                                        "name": "Montmorillonite",
+                                        "drugbank_id": "DB13654"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Attapulgite (A07BC04)",
+                                "atc_code": "A07BC04",
+                                "children": [
+                                    {
+                                        "name": "Attapulgite",
+                                        "drugbank_id": "DB01574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crospovidone (A07BC03)",
+                                "atc_code": "A07BC03"
+                            },
+                            {
+                                "name": "Kaolin (A07BC02)",
+                                "atc_code": "A07BC02",
+                                "children": [
+                                    {
+                                        "name": "Kaolin",
+                                        "drugbank_id": "DB01575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pectin (A07BC01)",
+                                "atc_code": "A07BC01",
+                                "children": [
+                                    {
+                                        "name": "Pectin",
+                                        "drugbank_id": "DB11158"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bismuth preparations (A07BB)",
+                        "atc_code": "A07BB"
+                    },
+                    {
+                        "name": "Charcoal preparations (A07BA)",
+                        "atc_code": "A07BA",
+                        "children": [
+                            {
+                                "name": "Medicinal charcoal, combinations (A07BA51)",
+                                "atc_code": "A07BA51",
+                                "children": [
+                                    {
+                                        "name": "Activated charcoal",
+                                        "drugbank_id": "DB09278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medicinal charcoal (A07BA01)",
+                                "atc_code": "A07BA01",
+                                "children": [
+                                    {
+                                        "name": "Activated charcoal",
+                                        "drugbank_id": "DB09278"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Intestinal antiinfectives (A07A)",
+                "atc_code": "A07A",
+                "children": [
+                    {
+                        "name": "Other intestinal antiinfectives (A07AX)",
+                        "atc_code": "A07AX",
+                        "children": [
+                            {
+                                "name": "Nifurzide (A07AX04)",
+                                "atc_code": "A07AX04",
+                                "children": [
+                                    {
+                                        "name": "Nifurzide",
+                                        "drugbank_id": "DB13325"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifuroxazide (A07AX03)",
+                                "atc_code": "A07AX03",
+                                "children": [
+                                    {
+                                        "name": "Nifuroxazide",
+                                        "drugbank_id": "DB13855"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetarsol (A07AX02)",
+                                "atc_code": "A07AX02",
+                                "children": [
+                                    {
+                                        "name": "Acetarsol",
+                                        "drugbank_id": "DB13268"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Broxyquinoline (A07AX01)",
+                                "atc_code": "A07AX01",
+                                "children": [
+                                    {
+                                        "name": "Broxyquinoline",
+                                        "drugbank_id": "DB13536"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazole derivatives (A07AC)",
+                        "atc_code": "A07AC",
+                        "children": [
+                            {
+                                "name": "Miconazole (A07AC01)",
+                                "atc_code": "A07AC01",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides (A07AB)",
+                        "atc_code": "A07AB",
+                        "children": [
+                            {
+                                "name": "Succinylsulfathiazole (A07AB04)",
+                                "atc_code": "A07AB04",
+                                "children": [
+                                    {
+                                        "name": "Succinylsulfathiazole",
+                                        "drugbank_id": "DB13580"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfaguanidine (A07AB03)",
+                                "atc_code": "A07AB03",
+                                "children": [
+                                    {
+                                        "name": "Sulfaguanidine",
+                                        "drugbank_id": "DB13726"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phthalylsulfathiazole (A07AB02)",
+                                "atc_code": "A07AB02",
+                                "children": [
+                                    {
+                                        "name": "Phthalylsulfathiazole",
+                                        "drugbank_id": "DB13248"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (A07AA)",
+                        "atc_code": "A07AA",
+                        "children": [
+                            {
+                                "name": "Rifamycin (A07AA13)",
+                                "atc_code": "A07AA13",
+                                "children": [
+                                    {
+                                        "name": "Rifamycin",
+                                        "drugbank_id": "DB11753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Streptomycin, combinations (A07AA54)",
+                                "atc_code": "A07AA54",
+                                "children": [
+                                    {
+                                        "name": "Streptomycin",
+                                        "drugbank_id": "DB01082"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin, combinations (A07AA51)",
+                                "atc_code": "A07AA51",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fidaxomicin (A07AA12)",
+                                "atc_code": "A07AA12",
+                                "children": [
+                                    {
+                                        "name": "Fidaxomicin",
+                                        "drugbank_id": "DB08874"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifaximin (A07AA11)",
+                                "atc_code": "A07AA11",
+                                "children": [
+                                    {
+                                        "name": "Rifaximin",
+                                        "drugbank_id": "DB01220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colistin (A07AA10)",
+                                "atc_code": "A07AA10",
+                                "children": [
+                                    {
+                                        "name": "Colistin",
+                                        "drugbank_id": "DB00803"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vancomycin (A07AA09)",
+                                "atc_code": "A07AA09",
+                                "children": [
+                                    {
+                                        "name": "Vancomycin",
+                                        "drugbank_id": "DB00512"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Kanamycin (A07AA08)",
+                                "atc_code": "A07AA08",
+                                "children": [
+                                    {
+                                        "name": "Kanamycin",
+                                        "drugbank_id": "DB01172"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amphotericin b (A07AA07)",
+                                "atc_code": "A07AA07",
+                                "children": [
+                                    {
+                                        "name": "Amphotericin B",
+                                        "drugbank_id": "DB00681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paromomycin (A07AA06)",
+                                "atc_code": "A07AA06",
+                                "children": [
+                                    {
+                                        "name": "Paromomycin",
+                                        "drugbank_id": "DB01421"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polymyxin b (A07AA05)",
+                                "atc_code": "A07AA05",
+                                "children": [
+                                    {
+                                        "name": "Polymyxin B",
+                                        "drugbank_id": "DB00781"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Streptomycin (A07AA04)",
+                                "atc_code": "A07AA04",
+                                "children": [
+                                    {
+                                        "name": "Streptomycin",
+                                        "drugbank_id": "DB01082"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Natamycin (A07AA03)",
+                                "atc_code": "A07AA03",
+                                "children": [
+                                    {
+                                        "name": "Natamycin",
+                                        "drugbank_id": "DB00826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nystatin (A07AA02)",
+                                "atc_code": "A07AA02",
+                                "children": [
+                                    {
+                                        "name": "Nystatin",
+                                        "drugbank_id": "DB00646"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (A07AA01)",
+                                "atc_code": "A07AA01",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

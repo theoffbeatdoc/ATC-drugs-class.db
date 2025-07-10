@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Ophthalmological and otological preparations (S03)",
+        "atc_code": "S03",
+        "children": [
+            {
+                "name": "Other ophthalmological and otological preparations (S03D)",
+                "atc_code": "S03D"
+            },
+            {
+                "name": "Corticosteroids and antiinfectives in combination (S03C)",
+                "atc_code": "S03C",
+                "children": [
+                    {
+                        "name": "Corticosteroids and antiinfectives in combination (S03CA)",
+                        "atc_code": "S03CA",
+                        "children": [
+                            {
+                                "name": "Methylprednisolone and antiinfectives (S03CA07)",
+                                "atc_code": "S03CA07",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone and antiinfectives (S03CA06)",
+                                "atc_code": "S03CA06",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludrocortisone and antiinfectives (S03CA05)",
+                                "atc_code": "S03CA05",
+                                "children": [
+                                    {
+                                        "name": "Fludrocortisone",
+                                        "drugbank_id": "DB00687"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone and antiinfectives (S03CA04)",
+                                "atc_code": "S03CA04",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone and antiinfectives (S03CA02)",
+                                "atc_code": "S03CA02",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone and antiinfectives (S03CA01)",
+                                "atc_code": "S03CA01",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids (S03B)",
+                "atc_code": "S03B",
+                "children": [
+                    {
+                        "name": "Corticosteroids (S03BA)",
+                        "atc_code": "S03BA",
+                        "children": [
+                            {
+                                "name": "Betamethasone (S03BA03)",
+                                "atc_code": "S03BA03",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone (S03BA02)",
+                                "atc_code": "S03BA02",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (S03BA01)",
+                                "atc_code": "S03BA01",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiinfectives (S03A)",
+                "atc_code": "S03A",
+                "children": [
+                    {
+                        "name": "Antiinfectives (S03AA)",
+                        "atc_code": "S03AA",
+                        "children": [
+                            {
+                                "name": "Antiinfectives, combinations (S03AA30)",
+                                "atc_code": "S03AA30"
+                            },
+                            {
+                                "name": "Chloramphenicol (S03AA08)",
+                                "atc_code": "S03AA08",
+                                "children": [
+                                    {
+                                        "name": "Chloramphenicol",
+                                        "drugbank_id": "DB00446"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofloxacin (S03AA07)",
+                                "atc_code": "S03AA07",
+                                "children": [
+                                    {
+                                        "name": "Ciprofloxacin",
+                                        "drugbank_id": "DB00537"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gentamicin (S03AA06)",
+                                "atc_code": "S03AA06",
+                                "children": [
+                                    {
+                                        "name": "Gentamicin",
+                                        "drugbank_id": "DB00798"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexamidine (S03AA05)",
+                                "atc_code": "S03AA05",
+                                "children": [
+                                    {
+                                        "name": "Hexamidine",
+                                        "drugbank_id": "DB03808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (S03AA04)",
+                                "atc_code": "S03AA04",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polymyxin b (S03AA03)",
+                                "atc_code": "S03AA03",
+                                "children": [
+                                    {
+                                        "name": "Polymyxin B",
+                                        "drugbank_id": "DB00781"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracycline (S03AA02)",
+                                "atc_code": "S03AA02",
+                                "children": [
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (S03AA01)",
+                                "atc_code": "S03AA01",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

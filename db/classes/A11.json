@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Vitamins (A11)",
+        "atc_code": "A11",
+        "children": [
+            {
+                "name": "Other vitamin products, combinations (A11J)",
+                "atc_code": "A11J",
+                "children": [
+                    {
+                        "name": "Vitamins, other combinations (A11JC)",
+                        "atc_code": "A11JC"
+                    },
+                    {
+                        "name": "Vitamins with minerals (A11JB)",
+                        "atc_code": "A11JB"
+                    },
+                    {
+                        "name": "Combinations of vitamins (A11JA)",
+                        "atc_code": "A11JA"
+                    }
+                ]
+            },
+            {
+                "name": "Other plain vitamin preparations (A11H)",
+                "atc_code": "A11H",
+                "children": [
+                    {
+                        "name": "Other plain vitamin preparations (A11HA)",
+                        "atc_code": "A11HA",
+                        "children": [
+                            {
+                                "name": "Pantethine (A11HA32)",
+                                "atc_code": "A11HA32",
+                                "children": [
+                                    {
+                                        "name": "Pantethine",
+                                        "drugbank_id": "DB11190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium pantothenate (A11HA31)",
+                                "atc_code": "A11HA31",
+                                "children": [
+                                    {
+                                        "name": "Pantothenic acid",
+                                        "drugbank_id": "DB01783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexpanthenol (A11HA30)",
+                                "atc_code": "A11HA30",
+                                "children": [
+                                    {
+                                        "name": "Dexpanthenol",
+                                        "drugbank_id": "DB09357"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tocofersolan (A11HA08)",
+                                "atc_code": "A11HA08",
+                                "children": [
+                                    {
+                                        "name": "Tocofersolan",
+                                        "drugbank_id": "DB11635"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inositol (A11HA07)",
+                                "atc_code": "A11HA07",
+                                "children": [
+                                    {
+                                        "name": "Inositol",
+                                        "drugbank_id": "DB13178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyridoxal phosphate (A11HA06)",
+                                "atc_code": "A11HA06",
+                                "children": [
+                                    {
+                                        "name": "Pyridoxal phosphate",
+                                        "drugbank_id": "DB00114"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Biotin (A11HA05)",
+                                "atc_code": "A11HA05",
+                                "children": [
+                                    {
+                                        "name": "Biotin",
+                                        "drugbank_id": "DB00121"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Riboflavin (vit b2) (A11HA04)",
+                                "atc_code": "A11HA04",
+                                "children": [
+                                    {
+                                        "name": "Riboflavin",
+                                        "drugbank_id": "DB00140"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tocopherol (vit e) (A11HA03)",
+                                "atc_code": "A11HA03",
+                                "children": [
+                                    {
+                                        "name": "Tocopherol",
+                                        "drugbank_id": "DB11251"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyridoxine (vit b6) (A11HA02)",
+                                "atc_code": "A11HA02",
+                                "children": [
+                                    {
+                                        "name": "Pyridoxine",
+                                        "drugbank_id": "DB00165"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotinamide (A11HA01)",
+                                "atc_code": "A11HA01",
+                                "children": [
+                                    {
+                                        "name": "Nicotinamide",
+                                        "drugbank_id": "DB02701"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ascorbic acid (vitamin c), incl. combinations (A11G)",
+                "atc_code": "A11G",
+                "children": [
+                    {
+                        "name": "Ascorbic acid (vitamin c), combinations (A11GB)",
+                        "atc_code": "A11GB",
+                        "children": [
+                            {
+                                "name": "Ascorbic acid (vit c) and calcium (A11GB01)",
+                                "atc_code": "A11GB01",
+                                "children": [
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    },
+                                    {
+                                        "name": "Calcium chloride",
+                                        "drugbank_id": "DB01164"
+                                    },
+                                    {
+                                        "name": "Calcium Phosphate",
+                                        "drugbank_id": "DB11348"
+                                    },
+                                    {
+                                        "name": "Calcium carbonate",
+                                        "drugbank_id": "DB06724"
+                                    },
+                                    {
+                                        "name": "Calcium acetate",
+                                        "drugbank_id": "DB00258"
+                                    },
+                                    {
+                                        "name": "Calcium citrate",
+                                        "drugbank_id": "DB11093"
+                                    },
+                                    {
+                                        "name": "Ascorbic acid",
+                                        "drugbank_id": "DB00126"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ascorbic acid (vitamin c), plain (A11GA)",
+                        "atc_code": "A11GA",
+                        "children": [
+                            {
+                                "name": "Ascorbic acid (vit c) (A11GA01)",
+                                "atc_code": "A11GA01",
+                                "children": [
+                                    {
+                                        "name": "Ascorbic acid",
+                                        "drugbank_id": "DB00126"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vitamin b-complex, incl. combinations (A11E)",
+                "atc_code": "A11E",
+                "children": [
+                    {
+                        "name": "Vitamin b-complex, other combinations (A11EX)",
+                        "atc_code": "A11EX"
+                    },
+                    {
+                        "name": "Vitamin b-complex with anabolic steroids (A11ED)",
+                        "atc_code": "A11ED"
+                    },
+                    {
+                        "name": "Vitamin b-complex with minerals (A11EC)",
+                        "atc_code": "A11EC"
+                    },
+                    {
+                        "name": "Vitamin b-complex with vitamin c (A11EB)",
+                        "atc_code": "A11EB"
+                    },
+                    {
+                        "name": "Vitamin b-complex, plain (A11EA)",
+                        "atc_code": "A11EA"
+                    }
+                ]
+            },
+            {
+                "name": "Vitamin b1, plain and in combination with vitamin b6 and b12 (A11D)",
+                "atc_code": "A11D",
+                "children": [
+                    {
+                        "name": "Vitamin b1 in combination with vitamin b6 and/or vitamin b12 (A11DB)",
+                        "atc_code": "A11DB"
+                    },
+                    {
+                        "name": "Vitamin b1, plain (A11DA)",
+                        "atc_code": "A11DA",
+                        "children": [
+                            {
+                                "name": "Benfotiamine (A11DA03)",
+                                "atc_code": "A11DA03",
+                                "children": [
+                                    {
+                                        "name": "Benfotiamine",
+                                        "drugbank_id": "DB11748"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulbutiamine (A11DA02)",
+                                "atc_code": "A11DA02",
+                                "children": [
+                                    {
+                                        "name": "Sulbutiamine",
+                                        "drugbank_id": "DB13416"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiamine (vit b1) (A11DA01)",
+                                "atc_code": "A11DA01",
+                                "children": [
+                                    {
+                                        "name": "Thiamine",
+                                        "drugbank_id": "DB00152"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vitamin a and d, incl. combinations of the two (A11C)",
+                "atc_code": "A11C",
+                "children": [
+                    {
+                        "name": "Vitamin d and analogues (A11CC)",
+                        "atc_code": "A11CC",
+                        "children": [
+                            {
+                                "name": "Colecalciferol, combinations (A11CC55)",
+                                "atc_code": "A11CC55",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (A11CC20)",
+                                "atc_code": "A11CC20"
+                            },
+                            {
+                                "name": "Calcifediol (A11CC06)",
+                                "atc_code": "A11CC06",
+                                "children": [
+                                    {
+                                        "name": "Calcifediol",
+                                        "drugbank_id": "DB00146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colecalciferol (A11CC05)",
+                                "atc_code": "A11CC05",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcitriol (A11CC04)",
+                                "atc_code": "A11CC04",
+                                "children": [
+                                    {
+                                        "name": "Calcitriol",
+                                        "drugbank_id": "DB00136"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfacalcidol (A11CC03)",
+                                "atc_code": "A11CC03",
+                                "children": [
+                                    {
+                                        "name": "Alfacalcidol",
+                                        "drugbank_id": "DB01436"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydrotachysterol (A11CC02)",
+                                "atc_code": "A11CC02",
+                                "children": [
+                                    {
+                                        "name": "Dihydrotachysterol",
+                                        "drugbank_id": "DB01070"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergocalciferol (A11CC01)",
+                                "atc_code": "A11CC01",
+                                "children": [
+                                    {
+                                        "name": "Ergocalciferol",
+                                        "drugbank_id": "DB00153"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitamin a and d in combination (A11CB)",
+                        "atc_code": "A11CB"
+                    },
+                    {
+                        "name": "Vitamin a, plain (A11CA)",
+                        "atc_code": "A11CA",
+                        "children": [
+                            {
+                                "name": "Betacarotene (A11CA02)",
+                                "atc_code": "A11CA02",
+                                "children": [
+                                    {
+                                        "name": "Beta carotene",
+                                        "drugbank_id": "DB06755"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Retinol (vit a) (A11CA01)",
+                                "atc_code": "A11CA01",
+                                "children": [
+                                    {
+                                        "name": "Vitamin A",
+                                        "drugbank_id": "DB00162"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Multivitamins, plain (A11B)",
+                "atc_code": "A11B",
+                "children": [
+                    {
+                        "name": "Multivitamins, plain (A11BA)",
+                        "atc_code": "A11BA"
+                    }
+                ]
+            },
+            {
+                "name": "Multivitamins, combinations (A11A)",
+                "atc_code": "A11A",
+                "children": [
+                    {
+                        "name": "Multivitamins, other combinations (A11AB)",
+                        "atc_code": "A11AB"
+                    },
+                    {
+                        "name": "Multivitamins with minerals (A11AA)",
+                        "atc_code": "A11AA",
+                        "children": [
+                            {
+                                "name": "Multivitamins and trace elements (A11AA04)",
+                                "atc_code": "A11AA04"
+                            },
+                            {
+                                "name": "Multivitamins and other minerals, incl. combinations (A11AA03)",
+                                "atc_code": "A11AA03"
+                            },
+                            {
+                                "name": "Multivitamins and calcium (A11AA02)",
+                                "atc_code": "A11AA02",
+                                "children": [
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Multivitamins and iron (A11AA01)",
+                                "atc_code": "A11AA01",
+                                "children": [
+                                    {
+                                        "name": "Iron",
+                                        "drugbank_id": "DB01592"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

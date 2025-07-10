@@ -1,0 +1,510 @@
+[
+    {
+        "name": "Antimycobacterials (J04)",
+        "atc_code": "J04",
+        "children": [
+            {
+                "name": "Drugs for treatment of lepra (J04B)",
+                "atc_code": "J04B",
+                "children": [
+                    {
+                        "name": "Drugs for treatment of lepra (J04BA)",
+                        "atc_code": "J04BA"
+                    }
+                ]
+            },
+            {
+                "name": "Drugs for treatment of tuberculosis (J04A)",
+                "atc_code": "J04A",
+                "children": [
+                    {
+                        "name": "Combinations of drugs for treatment of tuberculosis (J04AM)",
+                        "atc_code": "J04AM",
+                        "children": [
+                            {
+                                "name": "Rifampicin, pyrazinamide, isoniazid and levofloxacin (J04AM12)",
+                                "atc_code": "J04AM12",
+                                "children": [
+                                    {
+                                        "name": "Levofloxacin",
+                                        "drugbank_id": "DB01137"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    },
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifabutin, pyrazinamide and protionamide (J04AM11)",
+                                "atc_code": "J04AM11",
+                                "children": [
+                                    {
+                                        "name": "Protionamide",
+                                        "drugbank_id": "DB12667"
+                                    },
+                                    {
+                                        "name": "Rifabutin",
+                                        "drugbank_id": "DB00615"
+                                    },
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrazinamide, ethambutol, protionamide and lomefloxacin (J04AM10)",
+                                "atc_code": "J04AM10",
+                                "children": [
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    },
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    },
+                                    {
+                                        "name": "Lomefloxacin",
+                                        "drugbank_id": "DB00978"
+                                    },
+                                    {
+                                        "name": "Protionamide",
+                                        "drugbank_id": "DB12667"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrazinamide, ethambutol, isoniazid and lomefloxacin (J04AM09)",
+                                "atc_code": "J04AM09",
+                                "children": [
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    },
+                                    {
+                                        "name": "Lomefloxacin",
+                                        "drugbank_id": "DB00978"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoniazid, sulfamethoxazole and trimethoprim (J04AM08)",
+                                "atc_code": "J04AM08",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Sulfamethoxazole",
+                                        "drugbank_id": "DB01015"
+                                    },
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifampicin, ethambutol and isoniazid (J04AM07)",
+                                "atc_code": "J04AM07",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    },
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifampicin, pyrazinamide, ethambutol and isoniazid (J04AM06)",
+                                "atc_code": "J04AM06",
+                                "children": [
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    },
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifampicin, pyrazinamide and isoniazid (J04AM05)",
+                                "atc_code": "J04AM05",
+                                "children": [
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    },
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thioacetazone and isoniazid (J04AM04)",
+                                "atc_code": "J04AM04",
+                                "children": [
+                                    {
+                                        "name": "Amithiozone",
+                                        "drugbank_id": "DB12829"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethambutol and isoniazid (J04AM03)",
+                                "atc_code": "J04AM03",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifampicin and isoniazid (J04AM02)",
+                                "atc_code": "J04AM02",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    },
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Streptomycin and isoniazid (J04AM01)",
+                                "atc_code": "J04AM01",
+                                "children": [
+                                    {
+                                        "name": "Streptomycin",
+                                        "drugbank_id": "DB01082"
+                                    },
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other drugs for treatment of tuberculosis (J04AK)",
+                        "atc_code": "J04AK",
+                        "children": [
+                            {
+                                "name": "Pretomanid (J04AK08)",
+                                "atc_code": "J04AK08",
+                                "children": [
+                                    {
+                                        "name": "Pretomanid",
+                                        "drugbank_id": "DB05154"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thioacetazone (J04AK07)",
+                                "atc_code": "J04AK07",
+                                "children": [
+                                    {
+                                        "name": "Amithiozone",
+                                        "drugbank_id": "DB12829"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delamanid (J04AK06)",
+                                "atc_code": "J04AK06",
+                                "children": [
+                                    {
+                                        "name": "Delamanid",
+                                        "drugbank_id": "DB11637"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bedaquiline (J04AK05)",
+                                "atc_code": "J04AK05",
+                                "children": [
+                                    {
+                                        "name": "Bedaquiline",
+                                        "drugbank_id": "DB08903"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morinamide (J04AK04)",
+                                "atc_code": "J04AK04",
+                                "children": [
+                                    {
+                                        "name": "Morinamide",
+                                        "drugbank_id": "DB13417"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terizidone (J04AK03)",
+                                "atc_code": "J04AK03",
+                                "children": [
+                                    {
+                                        "name": "Terizidone",
+                                        "drugbank_id": "DB12954"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethambutol (J04AK02)",
+                                "atc_code": "J04AK02",
+                                "children": [
+                                    {
+                                        "name": "Ethambutol",
+                                        "drugbank_id": "DB00330"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrazinamide (J04AK01)",
+                                "atc_code": "J04AK01",
+                                "children": [
+                                    {
+                                        "name": "Pyrazinamide",
+                                        "drugbank_id": "DB00339"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiocarbamide derivatives (J04AD)",
+                        "atc_code": "J04AD",
+                        "children": [
+                            {
+                                "name": "Ethionamide (J04AD03)",
+                                "atc_code": "J04AD03",
+                                "children": [
+                                    {
+                                        "name": "Ethionamide",
+                                        "drugbank_id": "DB00609"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiocarlide (J04AD02)",
+                                "atc_code": "J04AD02",
+                                "children": [
+                                    {
+                                        "name": "Tiocarlide",
+                                        "drugbank_id": "DB13608"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Protionamide (J04AD01)",
+                                "atc_code": "J04AD01",
+                                "children": [
+                                    {
+                                        "name": "Protionamide",
+                                        "drugbank_id": "DB12667"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydrazides (J04AC)",
+                        "atc_code": "J04AC",
+                        "children": [
+                            {
+                                "name": "Ftivazide (J04AC02)",
+                                "atc_code": "J04AC02"
+                            },
+                            {
+                                "name": "Isoniazid, combinations (J04AC51)",
+                                "atc_code": "J04AC51",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoniazid (J04AC01)",
+                                "atc_code": "J04AC01",
+                                "children": [
+                                    {
+                                        "name": "Isoniazid",
+                                        "drugbank_id": "DB00951"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (J04AB)",
+                        "atc_code": "J04AB",
+                        "children": [
+                            {
+                                "name": "Enviomycin (J04AB06)",
+                                "atc_code": "J04AB06",
+                                "children": [
+                                    {
+                                        "name": "Enviomycin",
+                                        "drugbank_id": "DB08993"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Capreomycin (J04AB30)",
+                                "atc_code": "J04AB30",
+                                "children": [
+                                    {
+                                        "name": "Capreomycin",
+                                        "drugbank_id": "DB00314"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifapentine (J04AB05)",
+                                "atc_code": "J04AB05",
+                                "children": [
+                                    {
+                                        "name": "Rifapentine",
+                                        "drugbank_id": "DB01201"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifabutin (J04AB04)",
+                                "atc_code": "J04AB04",
+                                "children": [
+                                    {
+                                        "name": "Rifabutin",
+                                        "drugbank_id": "DB00615"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifamycin (J04AB03)",
+                                "atc_code": "J04AB03",
+                                "children": [
+                                    {
+                                        "name": "Rifamycin",
+                                        "drugbank_id": "DB11753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifampicin (J04AB02)",
+                                "atc_code": "J04AB02",
+                                "children": [
+                                    {
+                                        "name": "Rifampin",
+                                        "drugbank_id": "DB01045"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cycloserine (J04AB01)",
+                                "atc_code": "J04AB01",
+                                "children": [
+                                    {
+                                        "name": "Cycloserine",
+                                        "drugbank_id": "DB00260"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aminosalicylic acid and derivatives (J04AA)",
+                        "atc_code": "J04AA",
+                        "children": [
+                            {
+                                "name": "Calcium aminosalicylate (J04AA03)",
+                                "atc_code": "J04AA03",
+                                "children": [
+                                    {
+                                        "name": "Aminosalicylic acid",
+                                        "drugbank_id": "DB00233"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium aminosalicylate (J04AA02)",
+                                "atc_code": "J04AA02",
+                                "children": [
+                                    {
+                                        "name": "Aminosalicylic acid",
+                                        "drugbank_id": "DB00233"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "4-aminosalicylic acid (J04AA01)",
+                                "atc_code": "J04AA01",
+                                "children": [
+                                    {
+                                        "name": "Aminosalicylic acid",
+                                        "drugbank_id": "DB00233"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

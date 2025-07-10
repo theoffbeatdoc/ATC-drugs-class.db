@@ -1,0 +1,544 @@
+[
+    {
+        "name": "Antianemic preparations (B03)",
+        "atc_code": "B03",
+        "children": [
+            {
+                "name": "Other antianemic preparations (B03X)",
+                "atc_code": "B03X",
+                "children": [
+                    {
+                        "name": "Other antianemic preparations (B03XA)",
+                        "atc_code": "B03XA",
+                        "children": [
+                            {
+                                "name": "Efepoetin alfa (B03XA10)",
+                                "atc_code": "B03XA10",
+                                "children": [
+                                    {
+                                        "name": "Efepoetin alfa",
+                                        "drugbank_id": "DB19197"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Molidustat (B03XA09)",
+                                "atc_code": "B03XA09",
+                                "children": [
+                                    {
+                                        "name": "Molidustat",
+                                        "drugbank_id": "DB15642"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vadadustat (B03XA08)",
+                                "atc_code": "B03XA08",
+                                "children": [
+                                    {
+                                        "name": "Vadadustat",
+                                        "drugbank_id": "DB12255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Daprodustat (B03XA07)",
+                                "atc_code": "B03XA07",
+                                "children": [
+                                    {
+                                        "name": "Daprodustat",
+                                        "drugbank_id": "DB11682"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Luspatercept (B03XA06)",
+                                "atc_code": "B03XA06",
+                                "children": [
+                                    {
+                                        "name": "Luspatercept",
+                                        "drugbank_id": "DB12281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roxadustat (B03XA05)",
+                                "atc_code": "B03XA05",
+                                "children": [
+                                    {
+                                        "name": "Roxadustat",
+                                        "drugbank_id": "DB04847"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginesatide (B03XA04)",
+                                "atc_code": "B03XA04",
+                                "children": [
+                                    {
+                                        "name": "Peginesatide",
+                                        "drugbank_id": "DB08894"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoxy polyethylene glycol-epoetin beta (B03XA03)",
+                                "atc_code": "B03XA03",
+                                "children": [
+                                    {
+                                        "name": "Methoxy polyethylene glycol-epoetin beta",
+                                        "drugbank_id": "DB09107"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darbepoetin alfa (B03XA02)",
+                                "atc_code": "B03XA02",
+                                "children": [
+                                    {
+                                        "name": "Darbepoetin alfa",
+                                        "drugbank_id": "DB00012"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erythropoietin (B03XA01)",
+                                "atc_code": "B03XA01",
+                                "children": [
+                                    {
+                                        "name": "Erythropoietin",
+                                        "drugbank_id": "DB00016"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vitamin b12 and folic acid (B03B)",
+                "atc_code": "B03B",
+                "children": [
+                    {
+                        "name": "Folic acid and derivatives (B03BB)",
+                        "atc_code": "B03BB",
+                        "children": [
+                            {
+                                "name": "Folic acid, combinations (B03BB51)",
+                                "atc_code": "B03BB51",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Folic acid (B03BB01)",
+                                "atc_code": "B03BB01",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitamin b12 (cyanocobalamin and analogues) (B03BA)",
+                        "atc_code": "B03BA",
+                        "children": [
+                            {
+                                "name": "Hydroxocobalamin, combinations (B03BA53)",
+                                "atc_code": "B03BA53",
+                                "children": [
+                                    {
+                                        "name": "Hydroxocobalamin",
+                                        "drugbank_id": "DB00200"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyanocobalamin, combinations (B03BA51)",
+                                "atc_code": "B03BA51",
+                                "children": [
+                                    {
+                                        "name": "Cyanocobalamin",
+                                        "drugbank_id": "DB00115"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mecobalamin (B03BA05)",
+                                "atc_code": "B03BA05",
+                                "children": [
+                                    {
+                                        "name": "Mecobalamin",
+                                        "drugbank_id": "DB03614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cobamamide (B03BA04)",
+                                "atc_code": "B03BA04",
+                                "children": [
+                                    {
+                                        "name": "Cobamamide",
+                                        "drugbank_id": "DB11191"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroxocobalamin (B03BA03)",
+                                "atc_code": "B03BA03",
+                                "children": [
+                                    {
+                                        "name": "Hydroxocobalamin",
+                                        "drugbank_id": "DB00200"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyanocobalamin tannin complex (B03BA02)",
+                                "atc_code": "B03BA02"
+                            },
+                            {
+                                "name": "Cyanocobalamin (B03BA01)",
+                                "atc_code": "B03BA01",
+                                "children": [
+                                    {
+                                        "name": "Cyanocobalamin",
+                                        "drugbank_id": "DB00115"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Iron preparations (B03A)",
+                "atc_code": "B03A",
+                "children": [
+                    {
+                        "name": "Iron in other combinations (B03AE)",
+                        "atc_code": "B03AE",
+                        "children": [
+                            {
+                                "name": "Various combinations (B03AE10)",
+                                "atc_code": "B03AE10"
+                            },
+                            {
+                                "name": "Iron, multivitamins and minerals (B03AE04)",
+                                "atc_code": "B03AE04",
+                                "children": [
+                                    {
+                                        "name": "Iron",
+                                        "drugbank_id": "DB01592"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iron and multivitamins (B03AE03)",
+                                "atc_code": "B03AE03",
+                                "children": [
+                                    {
+                                        "name": "Iron",
+                                        "drugbank_id": "DB01592"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iron, multivitamins and folic acid (B03AE02)",
+                                "atc_code": "B03AE02",
+                                "children": [
+                                    {
+                                        "name": "Iron",
+                                        "drugbank_id": "DB01592"
+                                    },
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iron, vitamin b12 and folic acid (B03AE01)",
+                                "atc_code": "B03AE01",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    },
+                                    {
+                                        "name": "Cyanocobalamin",
+                                        "drugbank_id": "DB00115"
+                                    },
+                                    {
+                                        "name": "Iron",
+                                        "drugbank_id": "DB01592"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iron in combination with folic acid (B03AD)",
+                        "atc_code": "B03AD",
+                        "children": [
+                            {
+                                "name": "Ferrous gluconate and folic acid (B03AD05)",
+                                "atc_code": "B03AD05",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    },
+                                    {
+                                        "name": "Ferrous gluconate",
+                                        "drugbank_id": "DB14488"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferric oxide polymaltose complexes and folic acid (B03AD04)",
+                                "atc_code": "B03AD04",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous sulfate and folic acid (B03AD03)",
+                                "atc_code": "B03AD03",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous fumarate and folic acid (B03AD02)",
+                                "atc_code": "B03AD02",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    },
+                                    {
+                                        "name": "Ferrous fumarate",
+                                        "drugbank_id": "DB14491"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous amino acid complex and folic acid (B03AD01)",
+                                "atc_code": "B03AD01",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iron, parenteral preparations (B03AC)",
+                        "atc_code": "B03AC"
+                    },
+                    {
+                        "name": "Iron trivalent, oral preparations (B03AB)",
+                        "atc_code": "B03AB",
+                        "children": [
+                            {
+                                "name": "Ferric maltol (B03AB10)",
+                                "atc_code": "B03AB10",
+                                "children": [
+                                    {
+                                        "name": "Ferric maltol",
+                                        "drugbank_id": "DB15598"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferric proteinsuccinylate (B03AB09)",
+                                "atc_code": "B03AB09",
+                                "children": [
+                                    {
+                                        "name": "Iron protein succinylate",
+                                        "drugbank_id": "DB11209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferric acetyl transferrin (B03AB08)",
+                                "atc_code": "B03AB08"
+                            },
+                            {
+                                "name": "Chondroitin sulfate-iron complex (B03AB07)",
+                                "atc_code": "B03AB07"
+                            },
+                            {
+                                "name": "Ferric oxide polymaltose complexes (B03AB05)",
+                                "atc_code": "B03AB05"
+                            },
+                            {
+                                "name": "Ferric hydroxide (B03AB04)",
+                                "atc_code": "B03AB04",
+                                "children": [
+                                    {
+                                        "name": "Ferric hydroxide",
+                                        "drugbank_id": "DB13423"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium feredetate (B03AB03)",
+                                "atc_code": "B03AB03",
+                                "children": [
+                                    {
+                                        "name": "Sodium feredetate",
+                                        "drugbank_id": "DB13381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saccharated iron oxide (B03AB02)",
+                                "atc_code": "B03AB02",
+                                "children": [
+                                    {
+                                        "name": "Iron sucrose",
+                                        "drugbank_id": "DB09146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferric sodium citrate (B03AB01)",
+                                "atc_code": "B03AB01",
+                                "children": [
+                                    {
+                                        "name": "Ferric sodium citrate",
+                                        "drugbank_id": "DB13771"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iron bivalent, oral preparations (B03AA)",
+                        "atc_code": "B03AA",
+                        "children": [
+                            {
+                                "name": "Ferrous sodium citrate (B03AA12)",
+                                "atc_code": "B03AA12"
+                            },
+                            {
+                                "name": "Ferrous iodine (B03AA11)",
+                                "atc_code": "B03AA11"
+                            },
+                            {
+                                "name": "Ferrous ascorbate (B03AA10)",
+                                "atc_code": "B03AA10",
+                                "children": [
+                                    {
+                                        "name": "Ferrous ascorbate",
+                                        "drugbank_id": "DB14490"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous aspartate (B03AA09)",
+                                "atc_code": "B03AA09",
+                                "children": [
+                                    {
+                                        "name": "Ferrous aspartate",
+                                        "drugbank_id": "DB13220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous tartrate (B03AA08)",
+                                "atc_code": "B03AA08",
+                                "children": [
+                                    {
+                                        "name": "Ferrous tartrate",
+                                        "drugbank_id": "DB13639"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous sulfate (B03AA07)",
+                                "atc_code": "B03AA07"
+                            },
+                            {
+                                "name": "Ferrous succinate (B03AA06)",
+                                "atc_code": "B03AA06",
+                                "children": [
+                                    {
+                                        "name": "Ferrous succinate",
+                                        "drugbank_id": "DB14489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous chloride (B03AA05)",
+                                "atc_code": "B03AA05",
+                                "children": [
+                                    {
+                                        "name": "Ferrous chloride",
+                                        "drugbank_id": "DB13569"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous carbonate (B03AA04)",
+                                "atc_code": "B03AA04",
+                                "children": [
+                                    {
+                                        "name": "Ferrous carbonate",
+                                        "drugbank_id": "DB13698"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous gluconate (B03AA03)",
+                                "atc_code": "B03AA03",
+                                "children": [
+                                    {
+                                        "name": "Ferrous gluconate",
+                                        "drugbank_id": "DB14488"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous fumarate (B03AA02)",
+                                "atc_code": "B03AA02",
+                                "children": [
+                                    {
+                                        "name": "Ferrous fumarate",
+                                        "drugbank_id": "DB14491"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferrous glycine sulfate (B03AA01)",
+                                "atc_code": "B03AA01",
+                                "children": [
+                                    {
+                                        "name": "Ferrous glycine sulfate",
+                                        "drugbank_id": "DB14501"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

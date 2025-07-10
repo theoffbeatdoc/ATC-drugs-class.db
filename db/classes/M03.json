@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Muscle relaxants (M03)",
+        "atc_code": "M03",
+        "children": [
+            {
+                "name": "Muscle relaxants, directly acting agents (M03C)",
+                "atc_code": "M03C",
+                "children": [
+                    {
+                        "name": "Dantrolene and derivatives (M03CA)",
+                        "atc_code": "M03CA",
+                        "children": [
+                            {
+                                "name": "Dantrolene (M03CA01)",
+                                "atc_code": "M03CA01",
+                                "children": [
+                                    {
+                                        "name": "Dantrolene",
+                                        "drugbank_id": "DB01219"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Muscle relaxants, centrally acting agents (M03B)",
+                "atc_code": "M03B",
+                "children": [
+                    {
+                        "name": "Other centrally acting agents (M03BX)",
+                        "atc_code": "M03BX",
+                        "children": [
+                            {
+                                "name": "Pridinol, combinations (M03BX53)",
+                                "atc_code": "M03BX53",
+                                "children": [
+                                    {
+                                        "name": "Pridinol",
+                                        "drugbank_id": "DB13642"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiocolchicoside, combinations (M03BX55)",
+                                "atc_code": "M03BX55",
+                                "children": [
+                                    {
+                                        "name": "Thiocolchicoside",
+                                        "drugbank_id": "DB11582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenyramidol (M03BX30)",
+                                "atc_code": "M03BX30",
+                                "children": [
+                                    {
+                                        "name": "Fenyramidol",
+                                        "drugbank_id": "DB13414"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eperisone (M03BX09)",
+                                "atc_code": "M03BX09",
+                                "children": [
+                                    {
+                                        "name": "Eperisone",
+                                        "drugbank_id": "DB08992"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclobenzaprine (M03BX08)",
+                                "atc_code": "M03BX08",
+                                "children": [
+                                    {
+                                        "name": "Cyclobenzaprine",
+                                        "drugbank_id": "DB00924"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetrazepam (M03BX07)",
+                                "atc_code": "M03BX07",
+                                "children": [
+                                    {
+                                        "name": "Tetrazepam",
+                                        "drugbank_id": "DB13324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mephenesin (M03BX06)",
+                                "atc_code": "M03BX06",
+                                "children": [
+                                    {
+                                        "name": "Mephenesin",
+                                        "drugbank_id": "DB13583"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiocolchicoside (M03BX05)",
+                                "atc_code": "M03BX05",
+                                "children": [
+                                    {
+                                        "name": "Thiocolchicoside",
+                                        "drugbank_id": "DB11582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolperisone (M03BX04)",
+                                "atc_code": "M03BX04",
+                                "children": [
+                                    {
+                                        "name": "Tolperisone",
+                                        "drugbank_id": "DB06264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pridinol (M03BX03)",
+                                "atc_code": "M03BX03",
+                                "children": [
+                                    {
+                                        "name": "Pridinol",
+                                        "drugbank_id": "DB13642"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tizanidine (M03BX02)",
+                                "atc_code": "M03BX02",
+                                "children": [
+                                    {
+                                        "name": "Tizanidine",
+                                        "drugbank_id": "DB00697"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Baclofen (M03BX01)",
+                                "atc_code": "M03BX01",
+                                "children": [
+                                    {
+                                        "name": "Baclofen",
+                                        "drugbank_id": "DB00181"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ethers, chemically close to antihistamines (M03BC)",
+                        "atc_code": "M03BC",
+                        "children": [
+                            {
+                                "name": "Orphenadrine, combinations (M03BC51)",
+                                "atc_code": "M03BC51",
+                                "children": [
+                                    {
+                                        "name": "Orphenadrine",
+                                        "drugbank_id": "DB01173"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Orphenadrine (citrate) (M03BC01)",
+                                "atc_code": "M03BC01",
+                                "children": [
+                                    {
+                                        "name": "Orphenadrine",
+                                        "drugbank_id": "DB01173"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oxazol, thiazine, and triazine derivatives (M03BB)",
+                        "atc_code": "M03BB",
+                        "children": [
+                            {
+                                "name": "Chlorzoxazone, combinations with psycholeptics (M03BB73)",
+                                "atc_code": "M03BB73",
+                                "children": [
+                                    {
+                                        "name": "Chlorzoxazone",
+                                        "drugbank_id": "DB00356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlormezanone, combinations with psycholeptics (M03BB72)",
+                                "atc_code": "M03BB72",
+                                "children": [
+                                    {
+                                        "name": "Chlormezanone",
+                                        "drugbank_id": "DB01178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorzoxazone, combinations excl. psycholeptics (M03BB53)",
+                                "atc_code": "M03BB53",
+                                "children": [
+                                    {
+                                        "name": "Chlorzoxazone",
+                                        "drugbank_id": "DB00356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlormezanone, combinations excl. psycholeptics (M03BB52)",
+                                "atc_code": "M03BB52",
+                                "children": [
+                                    {
+                                        "name": "Chlormezanone",
+                                        "drugbank_id": "DB01178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorzoxazone (M03BB03)",
+                                "atc_code": "M03BB03",
+                                "children": [
+                                    {
+                                        "name": "Chlorzoxazone",
+                                        "drugbank_id": "DB00356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlormezanone (M03BB02)",
+                                "atc_code": "M03BB02",
+                                "children": [
+                                    {
+                                        "name": "Chlormezanone",
+                                        "drugbank_id": "DB01178"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carbamic acid esters (M03BA)",
+                        "atc_code": "M03BA",
+                        "children": [
+                            {
+                                "name": "Methocarbamol, combinations with psycholeptics (M03BA73)",
+                                "atc_code": "M03BA73",
+                                "children": [
+                                    {
+                                        "name": "Methocarbamol",
+                                        "drugbank_id": "DB00423"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carisoprodol, combinations with psycholeptics (M03BA72)",
+                                "atc_code": "M03BA72",
+                                "children": [
+                                    {
+                                        "name": "Carisoprodol",
+                                        "drugbank_id": "DB00395"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenprobamate, combinations with psycholeptics (M03BA71)",
+                                "atc_code": "M03BA71",
+                                "children": [
+                                    {
+                                        "name": "Phenprobamate",
+                                        "drugbank_id": "DB13354"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methocarbamol, combinations excl. psycholeptics (M03BA53)",
+                                "atc_code": "M03BA53",
+                                "children": [
+                                    {
+                                        "name": "Methocarbamol",
+                                        "drugbank_id": "DB00423"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carisoprodol, combinations excl. psycholeptics (M03BA52)",
+                                "atc_code": "M03BA52",
+                                "children": [
+                                    {
+                                        "name": "Carisoprodol",
+                                        "drugbank_id": "DB00395"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenprobamate, combinations excl. psycholeptics (M03BA51)",
+                                "atc_code": "M03BA51",
+                                "children": [
+                                    {
+                                        "name": "Phenprobamate",
+                                        "drugbank_id": "DB13354"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Febarbamate (M03BA05)",
+                                "atc_code": "M03BA05",
+                                "children": [
+                                    {
+                                        "name": "Febarbamate",
+                                        "drugbank_id": "DB13303"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Styramate (M03BA04)",
+                                "atc_code": "M03BA04",
+                                "children": [
+                                    {
+                                        "name": "Styramate",
+                                        "drugbank_id": "DB13357"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methocarbamol (M03BA03)",
+                                "atc_code": "M03BA03",
+                                "children": [
+                                    {
+                                        "name": "Methocarbamol",
+                                        "drugbank_id": "DB00423"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carisoprodol (M03BA02)",
+                                "atc_code": "M03BA02",
+                                "children": [
+                                    {
+                                        "name": "Carisoprodol",
+                                        "drugbank_id": "DB00395"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenprobamate (M03BA01)",
+                                "atc_code": "M03BA01",
+                                "children": [
+                                    {
+                                        "name": "Phenprobamate",
+                                        "drugbank_id": "DB13354"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Muscle relaxants, peripherally acting agents (M03A)",
+                "atc_code": "M03A",
+                "children": [
+                    {
+                        "name": "Other muscle relaxants, peripherally acting agents (M03AX)",
+                        "atc_code": "M03AX",
+                        "children": [
+                            {
+                                "name": "Botulinum toxin (M03AX01)",
+                                "atc_code": "M03AX01",
+                                "children": [
+                                    {
+                                        "name": "Botulinum toxin type A",
+                                        "drugbank_id": "DB00083"
+                                    },
+                                    {
+                                        "name": "Botulinum toxin type B",
+                                        "drugbank_id": "DB00042"
+                                    },
+                                    {
+                                        "name": "DaxibotulinumtoxinA",
+                                        "drugbank_id": "DB17929"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other quaternary ammonium compounds (M03AC)",
+                        "atc_code": "M03AC",
+                        "children": [
+                            {
+                                "name": "Cisatracurium (M03AC11)",
+                                "atc_code": "M03AC11",
+                                "children": [
+                                    {
+                                        "name": "Cisatracurium",
+                                        "drugbank_id": "DB00565"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mivacurium chloride (M03AC10)",
+                                "atc_code": "M03AC10",
+                                "children": [
+                                    {
+                                        "name": "Mivacurium",
+                                        "drugbank_id": "DB01226"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rocuronium bromide (M03AC09)",
+                                "atc_code": "M03AC09",
+                                "children": [
+                                    {
+                                        "name": "Rocuronium",
+                                        "drugbank_id": "DB00728"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fazadinium bromide (M03AC08)",
+                                "atc_code": "M03AC08",
+                                "children": [
+                                    {
+                                        "name": "Fazadinium bromide",
+                                        "drugbank_id": "DB13745"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxacurium chloride (M03AC07)",
+                                "atc_code": "M03AC07",
+                                "children": [
+                                    {
+                                        "name": "Doxacurium",
+                                        "drugbank_id": "DB01135"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipecuronium bromide (M03AC06)",
+                                "atc_code": "M03AC06",
+                                "children": [
+                                    {
+                                        "name": "Pipecuronium",
+                                        "drugbank_id": "DB01338"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexafluronium (M03AC05)",
+                                "atc_code": "M03AC05",
+                                "children": [
+                                    {
+                                        "name": "Hexafluronium",
+                                        "drugbank_id": "DB00941"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atracurium (M03AC04)",
+                                "atc_code": "M03AC04",
+                                "children": [
+                                    {
+                                        "name": "Atracurium",
+                                        "drugbank_id": "DB13295"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vecuronium (M03AC03)",
+                                "atc_code": "M03AC03",
+                                "children": [
+                                    {
+                                        "name": "Vecuronium",
+                                        "drugbank_id": "DB01339"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gallamine (M03AC02)",
+                                "atc_code": "M03AC02",
+                                "children": [
+                                    {
+                                        "name": "Gallamine",
+                                        "drugbank_id": "DB13584"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pancuronium (M03AC01)",
+                                "atc_code": "M03AC01",
+                                "children": [
+                                    {
+                                        "name": "Pancuronium",
+                                        "drugbank_id": "DB01337"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choline derivatives (M03AB)",
+                        "atc_code": "M03AB",
+                        "children": [
+                            {
+                                "name": "Suxamethonium (M03AB01)",
+                                "atc_code": "M03AB01",
+                                "children": [
+                                    {
+                                        "name": "Succinylcholine",
+                                        "drugbank_id": "DB00202"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Curare alkaloids (M03AA)",
+                        "atc_code": "M03AA",
+                        "children": [
+                            {
+                                "name": "Dimethyltubocurarine (M03AA04)",
+                                "atc_code": "M03AA04"
+                            },
+                            {
+                                "name": "Tubocurarine (M03AA02)",
+                                "atc_code": "M03AA02",
+                                "children": [
+                                    {
+                                        "name": "Tubocurarine",
+                                        "drugbank_id": "DB01199"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alcuronium (M03AA01)",
+                                "atc_code": "M03AA01",
+                                "children": [
+                                    {
+                                        "name": "Alcuronium",
+                                        "drugbank_id": "DB13648"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

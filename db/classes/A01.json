@@ -1,0 +1,438 @@
+[
+    {
+        "name": "Stomatological preparations (A01)",
+        "atc_code": "A01",
+        "children": [
+            {
+                "name": "Stomatological preparations (A01A)",
+                "atc_code": "A01A",
+                "children": [
+                    {
+                        "name": "Other agents for local oral treatment (A01AD)",
+                        "atc_code": "A01AD",
+                        "children": [
+                            {
+                                "name": "Various (A01AD11)",
+                                "atc_code": "A01AD11"
+                            },
+                            {
+                                "name": "Becaplermin (A01AD08)",
+                                "atc_code": "A01AD08",
+                                "children": [
+                                    {
+                                        "name": "Becaplermin",
+                                        "drugbank_id": "DB00102"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amlexanox (A01AD07)",
+                                "atc_code": "A01AD07",
+                                "children": [
+                                    {
+                                        "name": "Amlexanox",
+                                        "drugbank_id": "DB01025"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adrenalone (A01AD06)",
+                                "atc_code": "A01AD06",
+                                "children": [
+                                    {
+                                        "name": "Adrenalone",
+                                        "drugbank_id": "DB13394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid (A01AD05)",
+                                "atc_code": "A01AD05",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzydamine (A01AD02)",
+                                "atc_code": "A01AD02",
+                                "children": [
+                                    {
+                                        "name": "Benzydamine",
+                                        "drugbank_id": "DB09084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epinephrine (A01AD01)",
+                                "atc_code": "A01AD01",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids for local oral treatment (A01AC)",
+                        "atc_code": "A01AC",
+                        "children": [
+                            {
+                                "name": "Prednisolone (A01AC04)",
+                                "atc_code": "A01AC04",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone, combinations (A01AC54)",
+                                "atc_code": "A01AC54",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (A01AC03)",
+                                "atc_code": "A01AC03",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (A01AC02)",
+                                "atc_code": "A01AC02",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (A01AC01)",
+                                "atc_code": "A01AC01",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinfectives and antiseptics for local oral treatment (A01AB)",
+                        "atc_code": "A01AB",
+                        "children": [
+                            {
+                                "name": "Chlorhexidine and cetylpyridinium (A01AB53)",
+                                "atc_code": "A01AB53",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    },
+                                    {
+                                        "name": "Cetylpyridinium",
+                                        "drugbank_id": "DB11073"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytetracycline (A01AB25)",
+                                "atc_code": "A01AB25",
+                                "children": [
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Octenidine (A01AB24)",
+                                "atc_code": "A01AB24",
+                                "children": [
+                                    {
+                                        "name": "Octenidine",
+                                        "drugbank_id": "DB12624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Minocycline (A01AB23)",
+                                "atc_code": "A01AB23",
+                                "children": [
+                                    {
+                                        "name": "Minocycline",
+                                        "drugbank_id": "DB01017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxycycline (A01AB22)",
+                                "atc_code": "A01AB22",
+                                "children": [
+                                    {
+                                        "name": "Doxycycline",
+                                        "drugbank_id": "DB00254"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortetracycline (A01AB21)",
+                                "atc_code": "A01AB21",
+                                "children": [
+                                    {
+                                        "name": "Chlortetracycline",
+                                        "drugbank_id": "DB09093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium perborate (A01AB19)",
+                                "atc_code": "A01AB19",
+                                "children": [
+                                    {
+                                        "name": "Perboric acid",
+                                        "drugbank_id": "DB13235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clotrimazole (A01AB18)",
+                                "atc_code": "A01AB18",
+                                "children": [
+                                    {
+                                        "name": "Clotrimazole",
+                                        "drugbank_id": "DB00257"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metronidazole (A01AB17)",
+                                "atc_code": "A01AB17",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepartricin (A01AB16)",
+                                "atc_code": "A01AB16",
+                                "children": [
+                                    {
+                                        "name": "Mepartricin",
+                                        "drugbank_id": "DB13633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tibezonium iodide (A01AB15)",
+                                "atc_code": "A01AB15",
+                                "children": [
+                                    {
+                                        "name": "Tibezonium iodide",
+                                        "drugbank_id": "DB13702"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzoxonium chloride (A01AB14)",
+                                "atc_code": "A01AB14",
+                                "children": [
+                                    {
+                                        "name": "Benzoxonium",
+                                        "drugbank_id": "DB13565"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracycline (A01AB13)",
+                                "atc_code": "A01AB13",
+                                "children": [
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexetidine (A01AB12)",
+                                "atc_code": "A01AB12",
+                                "children": [
+                                    {
+                                        "name": "Hexetidine",
+                                        "drugbank_id": "DB08958"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Various (A01AB11)",
+                                "atc_code": "A01AB11"
+                            },
+                            {
+                                "name": "Natamycin (A01AB10)",
+                                "atc_code": "A01AB10",
+                                "children": [
+                                    {
+                                        "name": "Natamycin",
+                                        "drugbank_id": "DB00826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miconazole (A01AB09)",
+                                "atc_code": "A01AB09",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (A01AB08)",
+                                "atc_code": "A01AB08",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyquinoline (A01AB07)",
+                                "atc_code": "A01AB07",
+                                "children": [
+                                    {
+                                        "name": "Oxyquinoline",
+                                        "drugbank_id": "DB11145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Domiphen (A01AB06)",
+                                "atc_code": "A01AB06",
+                                "children": [
+                                    {
+                                        "name": "Domiphen",
+                                        "drugbank_id": "DB11594"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polynoxylin (A01AB05)",
+                                "atc_code": "A01AB05"
+                            },
+                            {
+                                "name": "Amphotericin b (A01AB04)",
+                                "atc_code": "A01AB04",
+                                "children": [
+                                    {
+                                        "name": "Amphotericin B",
+                                        "drugbank_id": "DB00681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (A01AB03)",
+                                "atc_code": "A01AB03",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrogen peroxide (A01AB02)",
+                                "atc_code": "A01AB02",
+                                "children": [
+                                    {
+                                        "name": "Hydrogen peroxide",
+                                        "drugbank_id": "DB11091"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caries prophylactic agents (A01AA)",
+                        "atc_code": "A01AA",
+                        "children": [
+                            {
+                                "name": "Sodium fluoride, combinations (A01AA51)",
+                                "atc_code": "A01AA51",
+                                "children": [
+                                    {
+                                        "name": "Sodium fluoride",
+                                        "drugbank_id": "DB09325"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (A01AA30)",
+                                "atc_code": "A01AA30"
+                            },
+                            {
+                                "name": "Stannous fluoride (A01AA04)",
+                                "atc_code": "A01AA04",
+                                "children": [
+                                    {
+                                        "name": "Stannous fluoride",
+                                        "drugbank_id": "DB11092"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olaflur (A01AA03)",
+                                "atc_code": "A01AA03",
+                                "children": [
+                                    {
+                                        "name": "Olaflur",
+                                        "drugbank_id": "DB13290"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium monofluorophosphate (A01AA02)",
+                                "atc_code": "A01AA02",
+                                "children": [
+                                    {
+                                        "name": "Sodium fluorophosphate",
+                                        "drugbank_id": "DB09484"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium fluoride (A01AA01)",
+                                "atc_code": "A01AA01",
+                                "children": [
+                                    {
+                                        "name": "Sodium fluoride",
+                                        "drugbank_id": "DB09325"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

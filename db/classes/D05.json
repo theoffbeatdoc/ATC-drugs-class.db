@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Antipsoriatics (D05)",
+        "atc_code": "D05",
+        "children": [
+            {
+                "name": "Antipsoriatics for systemic use (D05B)",
+                "atc_code": "D05B",
+                "children": [
+                    {
+                        "name": "Other antipsoriatics for systemic use (D05BX)",
+                        "atc_code": "D05BX",
+                        "children": [
+                            {
+                                "name": "Fumaric acid derivatives, combinations (D05BX51)",
+                                "atc_code": "D05BX51"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Retinoids for treatment of psoriasis (D05BB)",
+                        "atc_code": "D05BB",
+                        "children": [
+                            {
+                                "name": "Acitretin (D05BB02)",
+                                "atc_code": "D05BB02",
+                                "children": [
+                                    {
+                                        "name": "Acitretin",
+                                        "drugbank_id": "DB00459"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etretinate (D05BB01)",
+                                "atc_code": "D05BB01",
+                                "children": [
+                                    {
+                                        "name": "Etretinate",
+                                        "drugbank_id": "DB00926"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psoralens for systemic use (D05BA)",
+                        "atc_code": "D05BA",
+                        "children": [
+                            {
+                                "name": "Bergapten (D05BA03)",
+                                "atc_code": "D05BA03",
+                                "children": [
+                                    {
+                                        "name": "Bergapten",
+                                        "drugbank_id": "DB12216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoxsalen (D05BA02)",
+                                "atc_code": "D05BA02",
+                                "children": [
+                                    {
+                                        "name": "Methoxsalen",
+                                        "drugbank_id": "DB00553"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trioxysalen (D05BA01)",
+                                "atc_code": "D05BA01",
+                                "children": [
+                                    {
+                                        "name": "Trioxsalen",
+                                        "drugbank_id": "DB04571"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antipsoriatics for topical use (D05A)",
+                "atc_code": "D05A",
+                "children": [
+                    {
+                        "name": "Other antipsoriatics for topical use (D05AX)",
+                        "atc_code": "D05AX",
+                        "children": [
+                            {
+                                "name": "Tapinarof (D05AX07)",
+                                "atc_code": "D05AX07",
+                                "children": [
+                                    {
+                                        "name": "Tapinarof",
+                                        "drugbank_id": "DB06083"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roflumilast (D05AX06)",
+                                "atc_code": "D05AX06",
+                                "children": [
+                                    {
+                                        "name": "Roflumilast",
+                                        "drugbank_id": "DB01656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tazarotene and ulobetasol (D05AX55)",
+                                "atc_code": "D05AX55",
+                                "children": [
+                                    {
+                                        "name": "Ulobetasol",
+                                        "drugbank_id": "DB00596"
+                                    },
+                                    {
+                                        "name": "Tazarotene",
+                                        "drugbank_id": "DB00799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcipotriol, combinations (D05AX52)",
+                                "atc_code": "D05AX52",
+                                "children": [
+                                    {
+                                        "name": "Calcipotriol",
+                                        "drugbank_id": "DB02300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tazarotene (D05AX05)",
+                                "atc_code": "D05AX05",
+                                "children": [
+                                    {
+                                        "name": "Tazarotene",
+                                        "drugbank_id": "DB00799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tacalcitol (D05AX04)",
+                                "atc_code": "D05AX04",
+                                "children": [
+                                    {
+                                        "name": "Tacalcitol",
+                                        "drugbank_id": "DB13689"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcitriol (D05AX03)",
+                                "atc_code": "D05AX03",
+                                "children": [
+                                    {
+                                        "name": "Calcitriol",
+                                        "drugbank_id": "DB00136"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcipotriol (D05AX02)",
+                                "atc_code": "D05AX02",
+                                "children": [
+                                    {
+                                        "name": "Calcipotriol",
+                                        "drugbank_id": "DB02300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fumaric acid (D05AX01)",
+                                "atc_code": "D05AX01",
+                                "children": [
+                                    {
+                                        "name": "Fumaric acid",
+                                        "drugbank_id": "DB01677"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psoralens for topical use (D05AD)",
+                        "atc_code": "D05AD",
+                        "children": [
+                            {
+                                "name": "Methoxsalen (D05AD02)",
+                                "atc_code": "D05AD02",
+                                "children": [
+                                    {
+                                        "name": "Methoxsalen",
+                                        "drugbank_id": "DB00553"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trioxysalen (D05AD01)",
+                                "atc_code": "D05AD01",
+                                "children": [
+                                    {
+                                        "name": "Trioxsalen",
+                                        "drugbank_id": "DB04571"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antracen derivatives (D05AC)",
+                        "atc_code": "D05AC",
+                        "children": [
+                            {
+                                "name": "Dithranol, combinations (D05AC51)",
+                                "atc_code": "D05AC51",
+                                "children": [
+                                    {
+                                        "name": "Anthralin",
+                                        "drugbank_id": "DB11157"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dithranol (D05AC01)",
+                                "atc_code": "D05AC01",
+                                "children": [
+                                    {
+                                        "name": "Anthralin",
+                                        "drugbank_id": "DB11157"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tars (D05AA)",
+                        "atc_code": "D05AA"
+                    }
+                ]
+            }
+        ]
+    }
+]

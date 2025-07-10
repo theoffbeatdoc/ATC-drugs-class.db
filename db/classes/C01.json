@@ -1,0 +1,1558 @@
+[
+    {
+        "name": "Cardiac therapy (C01)",
+        "atc_code": "C01",
+        "children": [
+            {
+                "name": "Other cardiac preparations (C01E)",
+                "atc_code": "C01E",
+                "children": [
+                    {
+                        "name": "Other cardiac combination products (C01EX)",
+                        "atc_code": "C01EX"
+                    },
+                    {
+                        "name": "Other cardiac preparations (C01EB)",
+                        "atc_code": "C01EB",
+                        "children": [
+                            {
+                                "name": "Acoramidis (C01EB25)",
+                                "atc_code": "C01EB25",
+                                "children": [
+                                    {
+                                        "name": "Acoramidis",
+                                        "drugbank_id": "DB17999"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mavacamten (C01EB24)",
+                                "atc_code": "C01EB24",
+                                "children": [
+                                    {
+                                        "name": "Mavacamten",
+                                        "drugbank_id": "DB14921"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiazotic acid (C01EB23)",
+                                "atc_code": "C01EB23"
+                            },
+                            {
+                                "name": "Meldonium (C01EB22)",
+                                "atc_code": "C01EB22",
+                                "children": [
+                                    {
+                                        "name": "Meldonium",
+                                        "drugbank_id": "DB13723"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Regadenoson (C01EB21)",
+                                "atc_code": "C01EB21",
+                                "children": [
+                                    {
+                                        "name": "Regadenoson",
+                                        "drugbank_id": "DB06213"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ranolazine (C01EB18)",
+                                "atc_code": "C01EB18",
+                                "children": [
+                                    {
+                                        "name": "Ranolazine",
+                                        "drugbank_id": "DB00243"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivabradine (C01EB17)",
+                                "atc_code": "C01EB17",
+                                "children": [
+                                    {
+                                        "name": "Ivabradine",
+                                        "drugbank_id": "DB09083"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibuprofen (C01EB16)",
+                                "atc_code": "C01EB16",
+                                "children": [
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimetazidine (C01EB15)",
+                                "atc_code": "C01EB15",
+                                "children": [
+                                    {
+                                        "name": "Trimetazidine",
+                                        "drugbank_id": "DB09069"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acadesine (C01EB13)",
+                                "atc_code": "C01EB13",
+                                "children": [
+                                    {
+                                        "name": "Acadesine",
+                                        "drugbank_id": "DB04944"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiracizine (C01EB11)",
+                                "atc_code": "C01EB11",
+                                "children": [
+                                    {
+                                        "name": "Tiracizine",
+                                        "drugbank_id": "DB13635"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adenosine (C01EB10)",
+                                "atc_code": "C01EB10",
+                                "children": [
+                                    {
+                                        "name": "Adenosine",
+                                        "drugbank_id": "DB00640"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ubidecarenone (C01EB09)",
+                                "atc_code": "C01EB09",
+                                "children": [
+                                    {
+                                        "name": "Ubidecarenone",
+                                        "drugbank_id": "DB09270"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fructose 1,6-diphosphate (C01EB07)",
+                                "atc_code": "C01EB07",
+                                "children": [
+                                    {
+                                        "name": "Fosfructose",
+                                        "drugbank_id": "DB13863"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosfocreatine (C01EB06)",
+                                "atc_code": "C01EB06",
+                                "children": [
+                                    {
+                                        "name": "Phosphocreatine",
+                                        "drugbank_id": "DB13191"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Creatinolfosfate (C01EB05)",
+                                "atc_code": "C01EB05",
+                                "children": [
+                                    {
+                                        "name": "Creatinolfosfate",
+                                        "drugbank_id": "DB13071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crataegus glycosides (C01EB04)",
+                                "atc_code": "C01EB04"
+                            },
+                            {
+                                "name": "Indometacin (C01EB03)",
+                                "atc_code": "C01EB03",
+                                "children": [
+                                    {
+                                        "name": "Indomethacin",
+                                        "drugbank_id": "DB00328"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camphora (C01EB02)",
+                                "atc_code": "C01EB02",
+                                "children": [
+                                    {
+                                        "name": "Camphor",
+                                        "drugbank_id": "DB01744"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prostaglandins (C01EA)",
+                        "atc_code": "C01EA",
+                        "children": [
+                            {
+                                "name": "Alprostadil (C01EA01)",
+                                "atc_code": "C01EA01",
+                                "children": [
+                                    {
+                                        "name": "Alprostadil",
+                                        "drugbank_id": "DB00770"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vasodilators used in cardiac diseases (C01D)",
+                "atc_code": "C01D",
+                "children": [
+                    {
+                        "name": "Other vasodilators used in cardiac diseases (C01DX)",
+                        "atc_code": "C01DX",
+                        "children": [
+                            {
+                                "name": "Vericiguat (C01DX22)",
+                                "atc_code": "C01DX22",
+                                "children": [
+                                    {
+                                        "name": "Vericiguat",
+                                        "drugbank_id": "DB15456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benziodarone, combinations (C01DX54)",
+                                "atc_code": "C01DX54",
+                                "children": [
+                                    {
+                                        "name": "Benziodarone",
+                                        "drugbank_id": "DB13277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyfedrine, combinations (C01DX53)",
+                                "atc_code": "C01DX53",
+                                "children": [
+                                    {
+                                        "name": "Oxyfedrine",
+                                        "drugbank_id": "DB13398"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prenylamine, combinations (C01DX52)",
+                                "atc_code": "C01DX52",
+                                "children": [
+                                    {
+                                        "name": "Prenylamine",
+                                        "drugbank_id": "DB04825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Itramin tosilate, combinations (C01DX51)",
+                                "atc_code": "C01DX51",
+                                "children": [
+                                    {
+                                        "name": "Aminoethyl nitrate",
+                                        "drugbank_id": "DB13585"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Serelaxin (C01DX21)",
+                                "atc_code": "C01DX21",
+                                "children": [
+                                    {
+                                        "name": "Serelaxin",
+                                        "drugbank_id": "DB05794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nesiritide (C01DX19)",
+                                "atc_code": "C01DX19",
+                                "children": [
+                                    {
+                                        "name": "Nesiritide",
+                                        "drugbank_id": "DB04899"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linsidomine (C01DX18)",
+                                "atc_code": "C01DX18",
+                                "children": [
+                                    {
+                                        "name": "Linsidomine",
+                                        "drugbank_id": "DB13400"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicorandil (C01DX16)",
+                                "atc_code": "C01DX16",
+                                "children": [
+                                    {
+                                        "name": "Nicorandil",
+                                        "drugbank_id": "DB09220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloridarol (C01DX15)",
+                                "atc_code": "C01DX15",
+                                "children": [
+                                    {
+                                        "name": "Cloridarol",
+                                        "drugbank_id": "DB13291"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinepazet (C01DX14)",
+                                "atc_code": "C01DX14",
+                                "children": [
+                                    {
+                                        "name": "Cinepazet",
+                                        "drugbank_id": "DB13342"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Efloxate (C01DX13)",
+                                "atc_code": "C01DX13",
+                                "children": [
+                                    {
+                                        "name": "Efloxate",
+                                        "drugbank_id": "DB13333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Molsidomine (C01DX12)",
+                                "atc_code": "C01DX12",
+                                "children": [
+                                    {
+                                        "name": "Molsidomine",
+                                        "drugbank_id": "DB09282"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trapidil (C01DX11)",
+                                "atc_code": "C01DX11",
+                                "children": [
+                                    {
+                                        "name": "Trapidil",
+                                        "drugbank_id": "DB09283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dilazep (C01DX10)",
+                                "atc_code": "C01DX10",
+                                "children": [
+                                    {
+                                        "name": "Dilazep",
+                                        "drugbank_id": "DB13715"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imolamine (C01DX09)",
+                                "atc_code": "C01DX09",
+                                "children": [
+                                    {
+                                        "name": "Imolamine",
+                                        "drugbank_id": "DB09284"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Heptaminol (C01DX08)",
+                                "atc_code": "C01DX08",
+                                "children": [
+                                    {
+                                        "name": "Heptaminol",
+                                        "drugbank_id": "DB13574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etafenone (C01DX07)",
+                                "atc_code": "C01DX07",
+                                "children": [
+                                    {
+                                        "name": "Etafenone",
+                                        "drugbank_id": "DB13845"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexobendine (C01DX06)",
+                                "atc_code": "C01DX06",
+                                "children": [
+                                    {
+                                        "name": "Hexobendine",
+                                        "drugbank_id": "DB13265"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbocromen (C01DX05)",
+                                "atc_code": "C01DX05",
+                                "children": [
+                                    {
+                                        "name": "Carbocromen",
+                                        "drugbank_id": "DB13279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benziodarone (C01DX04)",
+                                "atc_code": "C01DX04",
+                                "children": [
+                                    {
+                                        "name": "Benziodarone",
+                                        "drugbank_id": "DB13277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyfedrine (C01DX03)",
+                                "atc_code": "C01DX03",
+                                "children": [
+                                    {
+                                        "name": "Oxyfedrine",
+                                        "drugbank_id": "DB13398"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prenylamine (C01DX02)",
+                                "atc_code": "C01DX02",
+                                "children": [
+                                    {
+                                        "name": "Prenylamine",
+                                        "drugbank_id": "DB04825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Itramin tosilate (C01DX01)",
+                                "atc_code": "C01DX01",
+                                "children": [
+                                    {
+                                        "name": "Aminoethyl nitrate",
+                                        "drugbank_id": "DB13585"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quinolone vasodilators (C01DB)",
+                        "atc_code": "C01DB",
+                        "children": [
+                            {
+                                "name": "Flosequinan (C01DB01)",
+                                "atc_code": "C01DB01",
+                                "children": [
+                                    {
+                                        "name": "Flosequinan",
+                                        "drugbank_id": "DB13228"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Organic nitrates (C01DA)",
+                        "atc_code": "C01DA",
+                        "children": [
+                            {
+                                "name": "Organic nitrates in combination with psycholeptics (C01DA70)",
+                                "atc_code": "C01DA70"
+                            },
+                            {
+                                "name": "Eritrityl tetranitrate, combinations (C01DA63)",
+                                "atc_code": "C01DA63",
+                                "children": [
+                                    {
+                                        "name": "Erythrityl tetranitrate",
+                                        "drugbank_id": "DB01613"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trolnitrate, combinations (C01DA59)",
+                                "atc_code": "C01DA59",
+                                "children": [
+                                    {
+                                        "name": "Trolnitrate",
+                                        "drugbank_id": "DB13719"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isosorbide dinitrate, combinations (C01DA58)",
+                                "atc_code": "C01DA58",
+                                "children": [
+                                    {
+                                        "name": "Isosorbide dinitrate",
+                                        "drugbank_id": "DB00883"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propatylnitrate, combinations (C01DA57)",
+                                "atc_code": "C01DA57",
+                                "children": [
+                                    {
+                                        "name": "Propatyl nitrate",
+                                        "drugbank_id": "DB13255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentaerithrityl tetranitrate, combinations (C01DA55)",
+                                "atc_code": "C01DA55",
+                                "children": [
+                                    {
+                                        "name": "Pentaerythritol tetranitrate",
+                                        "drugbank_id": "DB06154"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylpropylpropanediol dinitrate, combinations (C01DA54)",
+                                "atc_code": "C01DA54",
+                                "children": [
+                                    {
+                                        "name": "Methylpropylpropanediol dinitrate",
+                                        "drugbank_id": "DB13408"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glyceryl trinitrate, combinations (C01DA52)",
+                                "atc_code": "C01DA52",
+                                "children": [
+                                    {
+                                        "name": "Nitroglycerin",
+                                        "drugbank_id": "DB00727"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tenitramine (C01DA38)",
+                                "atc_code": "C01DA38",
+                                "children": [
+                                    {
+                                        "name": "Tenitramine",
+                                        "drugbank_id": "DB13637"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Organic nitrates in combination (C01DA20)",
+                                "atc_code": "C01DA20"
+                            },
+                            {
+                                "name": "Isosorbide mononitrate (C01DA14)",
+                                "atc_code": "C01DA14",
+                                "children": [
+                                    {
+                                        "name": "Isosorbide mononitrate",
+                                        "drugbank_id": "DB01020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eritrityl tetranitrate (C01DA13)",
+                                "atc_code": "C01DA13",
+                                "children": [
+                                    {
+                                        "name": "Erythrityl tetranitrate",
+                                        "drugbank_id": "DB01613"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trolnitrate (C01DA09)",
+                                "atc_code": "C01DA09",
+                                "children": [
+                                    {
+                                        "name": "Trolnitrate",
+                                        "drugbank_id": "DB13719"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isosorbide dinitrate (C01DA08)",
+                                "atc_code": "C01DA08",
+                                "children": [
+                                    {
+                                        "name": "Isosorbide dinitrate",
+                                        "drugbank_id": "DB00883"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propatylnitrate (C01DA07)",
+                                "atc_code": "C01DA07",
+                                "children": [
+                                    {
+                                        "name": "Propatyl nitrate",
+                                        "drugbank_id": "DB13255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentaerithrityl tetranitrate (C01DA05)",
+                                "atc_code": "C01DA05",
+                                "children": [
+                                    {
+                                        "name": "Pentaerythritol tetranitrate",
+                                        "drugbank_id": "DB06154"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylpropylpropanediol dinitrate (C01DA04)",
+                                "atc_code": "C01DA04",
+                                "children": [
+                                    {
+                                        "name": "Methylpropylpropanediol dinitrate",
+                                        "drugbank_id": "DB13408"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glyceryl trinitrate (C01DA02)",
+                                "atc_code": "C01DA02",
+                                "children": [
+                                    {
+                                        "name": "Nitroglycerin",
+                                        "drugbank_id": "DB00727"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cardiac stimulants excl. cardiac glycosides (C01C)",
+                "atc_code": "C01C",
+                "children": [
+                    {
+                        "name": "Other cardiac stimulants (C01CX)",
+                        "atc_code": "C01CX",
+                        "children": [
+                            {
+                                "name": "Omecamtiv mecarbil (C01CX10)",
+                                "atc_code": "C01CX10",
+                                "children": [
+                                    {
+                                        "name": "Omecamtiv Mecarbil",
+                                        "drugbank_id": "DB11816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Angiotensin ii (C01CX09)",
+                                "atc_code": "C01CX09",
+                                "children": [
+                                    {
+                                        "name": "Angiotensin II",
+                                        "drugbank_id": "DB11842"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levosimendan (C01CX08)",
+                                "atc_code": "C01CX08",
+                                "children": [
+                                    {
+                                        "name": "Levosimendan",
+                                        "drugbank_id": "DB00922"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xamoterol (C01CX07)",
+                                "atc_code": "C01CX07",
+                                "children": [
+                                    {
+                                        "name": "Xamoterol",
+                                        "drugbank_id": "DB13781"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Angiotensinamide (C01CX06)",
+                                "atc_code": "C01CX06",
+                                "children": [
+                                    {
+                                        "name": "Angiotensinamide",
+                                        "drugbank_id": "DB13517"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phosphodiesterase inhibitors (C01CE)",
+                        "atc_code": "C01CE",
+                        "children": [
+                            {
+                                "name": "Bucladesine (C01CE04)",
+                                "atc_code": "C01CE04",
+                                "children": [
+                                    {
+                                        "name": "Bucladesine",
+                                        "drugbank_id": "DB13242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enoximone (C01CE03)",
+                                "atc_code": "C01CE03",
+                                "children": [
+                                    {
+                                        "name": "Enoximone",
+                                        "drugbank_id": "DB04880"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Milrinone (C01CE02)",
+                                "atc_code": "C01CE02",
+                                "children": [
+                                    {
+                                        "name": "Milrinone",
+                                        "drugbank_id": "DB00235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amrinone (C01CE01)",
+                                "atc_code": "C01CE01",
+                                "children": [
+                                    {
+                                        "name": "Amrinone",
+                                        "drugbank_id": "DB01427"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Adrenergic and dopaminergic agents (C01CA)",
+                        "atc_code": "C01CA",
+                        "children": [
+                            {
+                                "name": "Centhaquine (C01CA28)",
+                                "atc_code": "C01CA28",
+                                "children": [
+                                    {
+                                        "name": "Centhaquine",
+                                        "drugbank_id": "DB16122"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etilefrine, combinations (C01CA51)",
+                                "atc_code": "C01CA51",
+                                "children": [
+                                    {
+                                        "name": "Etilefrine",
+                                        "drugbank_id": "DB08985"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (C01CA30)",
+                                "atc_code": "C01CA30"
+                            },
+                            {
+                                "name": "Droxidopa (C01CA27)",
+                                "atc_code": "C01CA27",
+                                "children": [
+                                    {
+                                        "name": "Droxidopa",
+                                        "drugbank_id": "DB06262"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ephedrine (C01CA26)",
+                                "atc_code": "C01CA26",
+                                "children": [
+                                    {
+                                        "name": "Ephedrine",
+                                        "drugbank_id": "DB01364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amezinium metilsulfate (C01CA25)",
+                                "atc_code": "C01CA25",
+                                "children": [
+                                    {
+                                        "name": "Amezinium metilsulfate",
+                                        "drugbank_id": "DB13330"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epinephrine (C01CA24)",
+                                "atc_code": "C01CA24",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theodrenaline (C01CA23)",
+                                "atc_code": "C01CA23",
+                                "children": [
+                                    {
+                                        "name": "Theodrenaline",
+                                        "drugbank_id": "DB12927"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arbutamine (C01CA22)",
+                                "atc_code": "C01CA22",
+                                "children": [
+                                    {
+                                        "name": "Arbutamine",
+                                        "drugbank_id": "DB01102"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cafedrine (C01CA21)",
+                                "atc_code": "C01CA21",
+                                "children": [
+                                    {
+                                        "name": "Cafedrine",
+                                        "drugbank_id": "DB12926"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoldopam (C01CA19)",
+                                "atc_code": "C01CA19",
+                                "children": [
+                                    {
+                                        "name": "Fenoldopam",
+                                        "drugbank_id": "DB00800"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Octopamine (C01CA18)",
+                                "atc_code": "C01CA18",
+                                "children": [
+                                    {
+                                        "name": "Octopamine",
+                                        "drugbank_id": "DB13251"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Midodrine (C01CA17)",
+                                "atc_code": "C01CA17",
+                                "children": [
+                                    {
+                                        "name": "Midodrine",
+                                        "drugbank_id": "DB00211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibopamine (C01CA16)",
+                                "atc_code": "C01CA16",
+                                "children": [
+                                    {
+                                        "name": "Ibopamine",
+                                        "drugbank_id": "DB13316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gepefrine (C01CA15)",
+                                "atc_code": "C01CA15",
+                                "children": [
+                                    {
+                                        "name": "Gepefrine",
+                                        "drugbank_id": "DB13703"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dopexamine (C01CA14)",
+                                "atc_code": "C01CA14",
+                                "children": [
+                                    {
+                                        "name": "Dopexamine",
+                                        "drugbank_id": "DB12313"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prenalterol (C01CA13)",
+                                "atc_code": "C01CA13",
+                                "children": [
+                                    {
+                                        "name": "Prenalterol",
+                                        "drugbank_id": "DB13777"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimetofrine (C01CA12)",
+                                "atc_code": "C01CA12",
+                                "children": [
+                                    {
+                                        "name": "Dimetofrine",
+                                        "drugbank_id": "DB13494"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mephentermine (C01CA11)",
+                                "atc_code": "C01CA11",
+                                "children": [
+                                    {
+                                        "name": "Mephentermine",
+                                        "drugbank_id": "DB01365"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoxamine (C01CA10)",
+                                "atc_code": "C01CA10",
+                                "children": [
+                                    {
+                                        "name": "Methoxamine",
+                                        "drugbank_id": "DB00723"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metaraminol (C01CA09)",
+                                "atc_code": "C01CA09",
+                                "children": [
+                                    {
+                                        "name": "Metaraminol",
+                                        "drugbank_id": "DB00610"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxedrine (C01CA08)",
+                                "atc_code": "C01CA08",
+                                "children": [
+                                    {
+                                        "name": "Synephrine",
+                                        "drugbank_id": "DB09203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dobutamine (C01CA07)",
+                                "atc_code": "C01CA07",
+                                "children": [
+                                    {
+                                        "name": "Dobutamine",
+                                        "drugbank_id": "DB00841"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylephrine (C01CA06)",
+                                "atc_code": "C01CA06",
+                                "children": [
+                                    {
+                                        "name": "Phenylephrine",
+                                        "drugbank_id": "DB00388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Norfenefrine (C01CA05)",
+                                "atc_code": "C01CA05",
+                                "children": [
+                                    {
+                                        "name": "Norfenefrine",
+                                        "drugbank_id": "DB13378"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dopamine (C01CA04)",
+                                "atc_code": "C01CA04",
+                                "children": [
+                                    {
+                                        "name": "Dopamine",
+                                        "drugbank_id": "DB00988"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Norepinephrine (C01CA03)",
+                                "atc_code": "C01CA03",
+                                "children": [
+                                    {
+                                        "name": "Norepinephrine",
+                                        "drugbank_id": "DB00368"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoprenaline (C01CA02)",
+                                "atc_code": "C01CA02",
+                                "children": [
+                                    {
+                                        "name": "Isoprenaline",
+                                        "drugbank_id": "DB01064"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etilefrine (C01CA01)",
+                                "atc_code": "C01CA01",
+                                "children": [
+                                    {
+                                        "name": "Etilefrine",
+                                        "drugbank_id": "DB08985"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiarrhythmics, class i and iii (C01B)",
+                "atc_code": "C01B",
+                "children": [
+                    {
+                        "name": "Other antiarrhythmics, class i and iii (C01BG)",
+                        "atc_code": "C01BG",
+                        "children": [
+                            {
+                                "name": "Vernakalant (C01BG11)",
+                                "atc_code": "C01BG11",
+                                "children": [
+                                    {
+                                        "name": "Vernakalant",
+                                        "drugbank_id": "DB06217"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cibenzoline (C01BG07)",
+                                "atc_code": "C01BG07",
+                                "children": [
+                                    {
+                                        "name": "Cibenzoline",
+                                        "drugbank_id": "DB13358"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moracizine (C01BG01)",
+                                "atc_code": "C01BG01",
+                                "children": [
+                                    {
+                                        "name": "Moricizine",
+                                        "drugbank_id": "DB00680"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiarrhythmics, class iii (C01BD)",
+                        "atc_code": "C01BD",
+                        "children": [
+                            {
+                                "name": "Dronedarone (C01BD07)",
+                                "atc_code": "C01BD07",
+                                "children": [
+                                    {
+                                        "name": "Dronedarone",
+                                        "drugbank_id": "DB04855"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tedisamil (C01BD06)",
+                                "atc_code": "C01BD06",
+                                "children": [
+                                    {
+                                        "name": "Tedisamil",
+                                        "drugbank_id": "DB06200"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibutilide (C01BD05)",
+                                "atc_code": "C01BD05",
+                                "children": [
+                                    {
+                                        "name": "Ibutilide",
+                                        "drugbank_id": "DB00308"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dofetilide (C01BD04)",
+                                "atc_code": "C01BD04",
+                                "children": [
+                                    {
+                                        "name": "Dofetilide",
+                                        "drugbank_id": "DB00204"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bunaftine (C01BD03)",
+                                "atc_code": "C01BD03",
+                                "children": [
+                                    {
+                                        "name": "Bunaftine",
+                                        "drugbank_id": "DB13652"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bretylium tosilate (C01BD02)",
+                                "atc_code": "C01BD02",
+                                "children": [
+                                    {
+                                        "name": "Bretylium",
+                                        "drugbank_id": "DB01158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amiodarone (C01BD01)",
+                                "atc_code": "C01BD01",
+                                "children": [
+                                    {
+                                        "name": "Amiodarone",
+                                        "drugbank_id": "DB01118"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiarrhythmics, class ic (C01BC)",
+                        "atc_code": "C01BC",
+                        "children": [
+                            {
+                                "name": "Ethacizine (C01BC09)",
+                                "atc_code": "C01BC09",
+                                "children": [
+                                    {
+                                        "name": "Ethacizine",
+                                        "drugbank_id": "DB13645"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Encainide (C01BC08)",
+                                "atc_code": "C01BC08",
+                                "children": [
+                                    {
+                                        "name": "Encainide",
+                                        "drugbank_id": "DB01228"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lorcainide (C01BC07)",
+                                "atc_code": "C01BC07",
+                                "children": [
+                                    {
+                                        "name": "Lorcainide",
+                                        "drugbank_id": "DB13653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flecainide (C01BC04)",
+                                "atc_code": "C01BC04",
+                                "children": [
+                                    {
+                                        "name": "Flecainide",
+                                        "drugbank_id": "DB01195"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propafenone (C01BC03)",
+                                "atc_code": "C01BC03",
+                                "children": [
+                                    {
+                                        "name": "Propafenone",
+                                        "drugbank_id": "DB01182"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiarrhythmics, class ib (C01BB)",
+                        "atc_code": "C01BB",
+                        "children": [
+                            {
+                                "name": "Aprindine (C01BB04)",
+                                "atc_code": "C01BB04",
+                                "children": [
+                                    {
+                                        "name": "Aprindine",
+                                        "drugbank_id": "DB01429"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tocainide (C01BB03)",
+                                "atc_code": "C01BB03",
+                                "children": [
+                                    {
+                                        "name": "Tocainide",
+                                        "drugbank_id": "DB01056"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mexiletine (C01BB02)",
+                                "atc_code": "C01BB02",
+                                "children": [
+                                    {
+                                        "name": "Mexiletine",
+                                        "drugbank_id": "DB00379"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine (C01BB01)",
+                                "atc_code": "C01BB01",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiarrhythmics, class ia (C01BA)",
+                        "atc_code": "C01BA",
+                        "children": [
+                            {
+                                "name": "Hydroquinidine (C01BA13)",
+                                "atc_code": "C01BA13",
+                                "children": [
+                                    {
+                                        "name": "Hydroquinidine",
+                                        "drugbank_id": "DB15300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinidine, combinations with psycholeptics (C01BA71)",
+                                "atc_code": "C01BA71",
+                                "children": [
+                                    {
+                                        "name": "Quinidine",
+                                        "drugbank_id": "DB00908"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinidine, combinations excl. psycholeptics (C01BA51)",
+                                "atc_code": "C01BA51",
+                                "children": [
+                                    {
+                                        "name": "Quinidine",
+                                        "drugbank_id": "DB00908"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lorajmine (C01BA12)",
+                                "atc_code": "C01BA12",
+                                "children": [
+                                    {
+                                        "name": "Lorajmine",
+                                        "drugbank_id": "DB13651"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prajmaline (C01BA08)",
+                                "atc_code": "C01BA08",
+                                "children": [
+                                    {
+                                        "name": "Prajmaline",
+                                        "drugbank_id": "DB13555"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ajmaline (C01BA05)",
+                                "atc_code": "C01BA05",
+                                "children": [
+                                    {
+                                        "name": "Ajmaline",
+                                        "drugbank_id": "DB01426"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sparteine (C01BA04)",
+                                "atc_code": "C01BA04",
+                                "children": [
+                                    {
+                                        "name": "Sparteine",
+                                        "drugbank_id": "DB06727"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Disopyramide (C01BA03)",
+                                "atc_code": "C01BA03",
+                                "children": [
+                                    {
+                                        "name": "Disopyramide",
+                                        "drugbank_id": "DB00280"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procainamide (C01BA02)",
+                                "atc_code": "C01BA02",
+                                "children": [
+                                    {
+                                        "name": "Procainamide",
+                                        "drugbank_id": "DB01035"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinidine (C01BA01)",
+                                "atc_code": "C01BA01",
+                                "children": [
+                                    {
+                                        "name": "Quinidine",
+                                        "drugbank_id": "DB00908"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cardiac glycosides (C01A)",
+                "atc_code": "C01A",
+                "children": [
+                    {
+                        "name": "Other cardiac glycosides (C01AX)",
+                        "atc_code": "C01AX",
+                        "children": [
+                            {
+                                "name": "Peruvoside (C01AX02)",
+                                "atc_code": "C01AX02",
+                                "children": [
+                                    {
+                                        "name": "Peruvoside",
+                                        "drugbank_id": "DB13756"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Strophanthus glycosides (C01AC)",
+                        "atc_code": "C01AC",
+                        "children": [
+                            {
+                                "name": "Cymarin (C01AC03)",
+                                "atc_code": "C01AC03",
+                                "children": [
+                                    {
+                                        "name": "Cymarin",
+                                        "drugbank_id": "DB13240"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "G-strophanthin (C01AC01)",
+                                "atc_code": "C01AC01",
+                                "children": [
+                                    {
+                                        "name": "Ouabain",
+                                        "drugbank_id": "DB01092"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scilla glycosides (C01AB)",
+                        "atc_code": "C01AB",
+                        "children": [
+                            {
+                                "name": "Proscillaridin, combinations (C01AB51)",
+                                "atc_code": "C01AB51",
+                                "children": [
+                                    {
+                                        "name": "Proscillaridin",
+                                        "drugbank_id": "DB13307"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Proscillaridin (C01AB01)",
+                                "atc_code": "C01AB01",
+                                "children": [
+                                    {
+                                        "name": "Proscillaridin",
+                                        "drugbank_id": "DB13307"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Digitalis glycosides (C01AA)",
+                        "atc_code": "C01AA",
+                        "children": [
+                            {
+                                "name": "Acetyldigoxin, combinations (C01AA52)",
+                                "atc_code": "C01AA52",
+                                "children": [
+                                    {
+                                        "name": "Acetyldigoxin",
+                                        "drugbank_id": "DB13691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gitoformate (C01AA09)",
+                                "atc_code": "C01AA09",
+                                "children": [
+                                    {
+                                        "name": "Gitoformate",
+                                        "drugbank_id": "DB13537"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metildigoxin (C01AA08)",
+                                "atc_code": "C01AA08",
+                                "children": [
+                                    {
+                                        "name": "Metildigoxin",
+                                        "drugbank_id": "DB13401"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deslanoside (C01AA07)",
+                                "atc_code": "C01AA07",
+                                "children": [
+                                    {
+                                        "name": "Deslanoside",
+                                        "drugbank_id": "DB01078"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lanatoside c (C01AA06)",
+                                "atc_code": "C01AA06",
+                                "children": [
+                                    {
+                                        "name": "Lanatoside C",
+                                        "drugbank_id": "DB13467"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Digoxin (C01AA05)",
+                                "atc_code": "C01AA05",
+                                "children": [
+                                    {
+                                        "name": "Digoxin",
+                                        "drugbank_id": "DB00390"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Digitoxin (C01AA04)",
+                                "atc_code": "C01AA04",
+                                "children": [
+                                    {
+                                        "name": "Digitoxin",
+                                        "drugbank_id": "DB01396"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Digitalis leaves (C01AA03)",
+                                "atc_code": "C01AA03"
+                            },
+                            {
+                                "name": "Acetyldigoxin (C01AA02)",
+                                "atc_code": "C01AA02",
+                                "children": [
+                                    {
+                                        "name": "Acetyldigoxin",
+                                        "drugbank_id": "DB13691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetyldigitoxin (C01AA01)",
+                                "atc_code": "C01AA01",
+                                "children": [
+                                    {
+                                        "name": "Acetyldigitoxin",
+                                        "drugbank_id": "DB00511"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

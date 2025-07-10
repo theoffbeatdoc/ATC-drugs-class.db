@@ -1,0 +1,982 @@
+[
+    {
+        "name": "Gynecological antiinfectives and antiseptics (G01)",
+        "atc_code": "G01",
+        "children": [
+            {
+                "name": "Antiinfectives/antiseptics in combination with corticosteroids (G01B)",
+                "atc_code": "G01B",
+                "children": [
+                    {
+                        "name": "Imidazole derivatives and corticosteroids (G01BF)",
+                        "atc_code": "G01BF"
+                    },
+                    {
+                        "name": "Sulfonamides and corticosteroids (G01BE)",
+                        "atc_code": "G01BE"
+                    },
+                    {
+                        "name": "Antiseptics and corticosteroids (G01BD)",
+                        "atc_code": "G01BD"
+                    },
+                    {
+                        "name": "Quinoline derivatives and corticosteroids (G01BC)",
+                        "atc_code": "G01BC"
+                    },
+                    {
+                        "name": "Antibiotics and corticosteroids (G01BA)",
+                        "atc_code": "G01BA"
+                    }
+                ]
+            },
+            {
+                "name": "Antiinfectives and antiseptics, excl. combinations with corticosteroids (G01A)",
+                "atc_code": "G01A",
+                "children": [
+                    {
+                        "name": "Other antiinfectives and antiseptics (G01AX)",
+                        "atc_code": "G01AX",
+                        "children": [
+                            {
+                                "name": "Dapivirine (G01AX17)",
+                                "atc_code": "G01AX17",
+                                "children": [
+                                    {
+                                        "name": "Dapivirine",
+                                        "drugbank_id": "DB08639"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Octenidine, combinations (G01AX66)",
+                                "atc_code": "G01AX66",
+                                "children": [
+                                    {
+                                        "name": "Octenidine",
+                                        "drugbank_id": "DB12624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexetidine (G01AX16)",
+                                "atc_code": "G01AX16",
+                                "children": [
+                                    {
+                                        "name": "Hexetidine",
+                                        "drugbank_id": "DB08958"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Copper usnate (G01AX15)",
+                                "atc_code": "G01AX15",
+                                "children": [
+                                    {
+                                        "name": "Copper usnate",
+                                        "drugbank_id": "DB13830"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactobacillus (G01AX14)",
+                                "atc_code": "G01AX14"
+                            },
+                            {
+                                "name": "Protiofate (G01AX13)",
+                                "atc_code": "G01AX13",
+                                "children": [
+                                    {
+                                        "name": "Protiofate",
+                                        "drugbank_id": "DB13632"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclopirox (G01AX12)",
+                                "atc_code": "G01AX12",
+                                "children": [
+                                    {
+                                        "name": "Ciclopirox",
+                                        "drugbank_id": "DB01188"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Povidone-iodine (G01AX11)",
+                                "atc_code": "G01AX11",
+                                "children": [
+                                    {
+                                        "name": "Povidone-iodine",
+                                        "drugbank_id": "DB06812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylrosaniline (G01AX09)",
+                                "atc_code": "G01AX09",
+                                "children": [
+                                    {
+                                        "name": "Gentian violet cation",
+                                        "drugbank_id": "DB00406"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Furazolidone (G01AX06)",
+                                "atc_code": "G01AX06",
+                                "children": [
+                                    {
+                                        "name": "Furazolidone",
+                                        "drugbank_id": "DB00614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifuratel (G01AX05)",
+                                "atc_code": "G01AX05",
+                                "children": [
+                                    {
+                                        "name": "Nifuratel",
+                                        "drugbank_id": "DB13724"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Policresulen (G01AX03)",
+                                "atc_code": "G01AX03",
+                                "children": [
+                                    {
+                                        "name": "Policresulen",
+                                        "drugbank_id": "DB13492"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inosine (G01AX02)",
+                                "atc_code": "G01AX02",
+                                "children": [
+                                    {
+                                        "name": "Inosine",
+                                        "drugbank_id": "DB04335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clodantoin (G01AX01)",
+                                "atc_code": "G01AX01",
+                                "children": [
+                                    {
+                                        "name": "Clodantoin",
+                                        "drugbank_id": "DB13516"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triazole derivatives (G01AG)",
+                        "atc_code": "G01AG",
+                        "children": [
+                            {
+                                "name": "Terconazole (G01AG02)",
+                                "atc_code": "G01AG02",
+                                "children": [
+                                    {
+                                        "name": "Terconazole",
+                                        "drugbank_id": "DB00251"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazole derivatives (G01AF)",
+                        "atc_code": "G01AF",
+                        "children": [
+                            {
+                                "name": "Tinidazole (G01AF21)",
+                                "atc_code": "G01AF21",
+                                "children": [
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Econazole, combinations (G01AF55)",
+                                "atc_code": "G01AF55",
+                                "children": [
+                                    {
+                                        "name": "Econazole",
+                                        "drugbank_id": "DB01127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations of imidazole derivatives (G01AF20)",
+                                "atc_code": "G01AF20",
+                                "children": [
+                                    {
+                                        "name": "Ketoconazole",
+                                        "drugbank_id": "DB01026"
+                                    },
+                                    {
+                                        "name": "Butoconazole",
+                                        "drugbank_id": "DB00639"
+                                    },
+                                    {
+                                        "name": "Sertaconazole",
+                                        "drugbank_id": "DB01153"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Tioconazole",
+                                        "drugbank_id": "DB01007"
+                                    },
+                                    {
+                                        "name": "Clotrimazole",
+                                        "drugbank_id": "DB00257"
+                                    },
+                                    {
+                                        "name": "Econazole",
+                                        "drugbank_id": "DB01127"
+                                    },
+                                    {
+                                        "name": "Isoconazole",
+                                        "drugbank_id": "DB08943"
+                                    },
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    },
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    },
+                                    {
+                                        "name": "Oxiconazole",
+                                        "drugbank_id": "DB00239"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sertaconazole (G01AF19)",
+                                "atc_code": "G01AF19",
+                                "children": [
+                                    {
+                                        "name": "Sertaconazole",
+                                        "drugbank_id": "DB01153"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flutrimazole (G01AF18)",
+                                "atc_code": "G01AF18",
+                                "children": [
+                                    {
+                                        "name": "Flutrimazole",
+                                        "drugbank_id": "DB13425"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxiconazole (G01AF17)",
+                                "atc_code": "G01AF17",
+                                "children": [
+                                    {
+                                        "name": "Oxiconazole",
+                                        "drugbank_id": "DB00239"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omoconazole (G01AF16)",
+                                "atc_code": "G01AF16",
+                                "children": [
+                                    {
+                                        "name": "Omoconazole",
+                                        "drugbank_id": "DB13684"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butoconazole (G01AF15)",
+                                "atc_code": "G01AF15",
+                                "children": [
+                                    {
+                                        "name": "Butoconazole",
+                                        "drugbank_id": "DB00639"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propenidazole (G01AF14)",
+                                "atc_code": "G01AF14",
+                                "children": [
+                                    {
+                                        "name": "Propenidazole",
+                                        "drugbank_id": "DB13319"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azanidazole (G01AF13)",
+                                "atc_code": "G01AF13",
+                                "children": [
+                                    {
+                                        "name": "Azanidazole",
+                                        "drugbank_id": "DB13350"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenticonazole (G01AF12)",
+                                "atc_code": "G01AF12",
+                                "children": [
+                                    {
+                                        "name": "Fenticonazole",
+                                        "drugbank_id": "DB13434"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketoconazole (G01AF11)",
+                                "atc_code": "G01AF11",
+                                "children": [
+                                    {
+                                        "name": "Ketoconazole",
+                                        "drugbank_id": "DB01026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tioconazole (G01AF08)",
+                                "atc_code": "G01AF08",
+                                "children": [
+                                    {
+                                        "name": "Tioconazole",
+                                        "drugbank_id": "DB01007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoconazole (G01AF07)",
+                                "atc_code": "G01AF07",
+                                "children": [
+                                    {
+                                        "name": "Isoconazole",
+                                        "drugbank_id": "DB08943"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ornidazole (G01AF06)",
+                                "atc_code": "G01AF06",
+                                "children": [
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Econazole (G01AF05)",
+                                "atc_code": "G01AF05",
+                                "children": [
+                                    {
+                                        "name": "Econazole",
+                                        "drugbank_id": "DB01127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miconazole (G01AF04)",
+                                "atc_code": "G01AF04",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clotrimazole (G01AF02)",
+                                "atc_code": "G01AF02",
+                                "children": [
+                                    {
+                                        "name": "Clotrimazole",
+                                        "drugbank_id": "DB00257"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metronidazole (G01AF01)",
+                                "atc_code": "G01AF01",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides (G01AE)",
+                        "atc_code": "G01AE",
+                        "children": [
+                            {
+                                "name": "Combinations of sulfonamides (G01AE10)",
+                                "atc_code": "G01AE10",
+                                "children": [
+                                    {
+                                        "name": "Sulfametopyrazine",
+                                        "drugbank_id": "DB00664"
+                                    },
+                                    {
+                                        "name": "Sulfamethizole",
+                                        "drugbank_id": "DB00576"
+                                    },
+                                    {
+                                        "name": "Gefapixant",
+                                        "drugbank_id": "DB15097"
+                                    },
+                                    {
+                                        "name": "Hydroflumethiazide",
+                                        "drugbank_id": "DB00774"
+                                    },
+                                    {
+                                        "name": "Brinzolamide",
+                                        "drugbank_id": "DB01194"
+                                    },
+                                    {
+                                        "name": "Tamsulosin",
+                                        "drugbank_id": "DB00706"
+                                    },
+                                    {
+                                        "name": "Bumetanide",
+                                        "drugbank_id": "DB00887"
+                                    },
+                                    {
+                                        "name": "Sulfamethazine",
+                                        "drugbank_id": "DB01582"
+                                    },
+                                    {
+                                        "name": "Udenafil",
+                                        "drugbank_id": "DB06267"
+                                    },
+                                    {
+                                        "name": "Torasemide",
+                                        "drugbank_id": "DB00214"
+                                    },
+                                    {
+                                        "name": "Sildenafil",
+                                        "drugbank_id": "DB00203"
+                                    },
+                                    {
+                                        "name": "Sumatriptan",
+                                        "drugbank_id": "DB00669"
+                                    },
+                                    {
+                                        "name": "Indapamide",
+                                        "drugbank_id": "DB00808"
+                                    },
+                                    {
+                                        "name": "Sulfasalazine",
+                                        "drugbank_id": "DB00795"
+                                    },
+                                    {
+                                        "name": "Sulfanilamide",
+                                        "drugbank_id": "DB00259"
+                                    },
+                                    {
+                                        "name": "Tolbutamide",
+                                        "drugbank_id": "DB01124"
+                                    },
+                                    {
+                                        "name": "Sulfisoxazole",
+                                        "drugbank_id": "DB00263"
+                                    },
+                                    {
+                                        "name": "Celecoxib",
+                                        "drugbank_id": "DB00482"
+                                    },
+                                    {
+                                        "name": "Furosemide",
+                                        "drugbank_id": "DB00695"
+                                    },
+                                    {
+                                        "name": "Sulfadoxine",
+                                        "drugbank_id": "DB01299"
+                                    },
+                                    {
+                                        "name": "Diazoxide",
+                                        "drugbank_id": "DB01119"
+                                    },
+                                    {
+                                        "name": "Mitapivat",
+                                        "drugbank_id": "DB16236"
+                                    },
+                                    {
+                                        "name": "Chlorthalidone",
+                                        "drugbank_id": "DB00310"
+                                    },
+                                    {
+                                        "name": "Diclofenamide",
+                                        "drugbank_id": "DB01144"
+                                    },
+                                    {
+                                        "name": "Acetazolamide",
+                                        "drugbank_id": "DB00819"
+                                    },
+                                    {
+                                        "name": "Sulfathiazole",
+                                        "drugbank_id": "DB06147"
+                                    },
+                                    {
+                                        "name": "Chlorothiazide",
+                                        "drugbank_id": "DB00880"
+                                    },
+                                    {
+                                        "name": "Cyclothiazide",
+                                        "drugbank_id": "DB00606"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Rosuvastatin",
+                                        "drugbank_id": "DB01098"
+                                    },
+                                    {
+                                        "name": "Chlorpropamide",
+                                        "drugbank_id": "DB00672"
+                                    },
+                                    {
+                                        "name": "Glymidine",
+                                        "drugbank_id": "DB01382"
+                                    },
+                                    {
+                                        "name": "Sulfamerazine",
+                                        "drugbank_id": "DB01581"
+                                    },
+                                    {
+                                        "name": "Piretanide",
+                                        "drugbank_id": "DB02925"
+                                    },
+                                    {
+                                        "name": "Fedratinib",
+                                        "drugbank_id": "DB12500"
+                                    },
+                                    {
+                                        "name": "Methazolamide",
+                                        "drugbank_id": "DB00703"
+                                    },
+                                    {
+                                        "name": "Acetohexamide",
+                                        "drugbank_id": "DB00414"
+                                    },
+                                    {
+                                        "name": "Mafenide",
+                                        "drugbank_id": "DB06795"
+                                    },
+                                    {
+                                        "name": "Valdecoxib",
+                                        "drugbank_id": "DB00580"
+                                    },
+                                    {
+                                        "name": "Quinethazone",
+                                        "drugbank_id": "DB01325"
+                                    },
+                                    {
+                                        "name": "Acetyl sulfisoxazole",
+                                        "drugbank_id": "DB14033"
+                                    },
+                                    {
+                                        "name": "Bendroflumethiazide",
+                                        "drugbank_id": "DB00436"
+                                    },
+                                    {
+                                        "name": "Vemurafenib",
+                                        "drugbank_id": "DB08881"
+                                    },
+                                    {
+                                        "name": "Metolazone",
+                                        "drugbank_id": "DB00524"
+                                    },
+                                    {
+                                        "name": "Phthalylsulfathiazole",
+                                        "drugbank_id": "DB13248"
+                                    },
+                                    {
+                                        "name": "Zonisamide",
+                                        "drugbank_id": "DB00909"
+                                    },
+                                    {
+                                        "name": "Sulfacytine",
+                                        "drugbank_id": "DB01298"
+                                    },
+                                    {
+                                        "name": "Polythiazide",
+                                        "drugbank_id": "DB01324"
+                                    },
+                                    {
+                                        "name": "Tolazamide",
+                                        "drugbank_id": "DB00839"
+                                    },
+                                    {
+                                        "name": "Sulfadiazine",
+                                        "drugbank_id": "DB00359"
+                                    },
+                                    {
+                                        "name": "Benzthiazide",
+                                        "drugbank_id": "DB00562"
+                                    },
+                                    {
+                                        "name": "Sulthiame",
+                                        "drugbank_id": "DB08329"
+                                    },
+                                    {
+                                        "name": "Cyclopenthiazide",
+                                        "drugbank_id": "DB13532"
+                                    },
+                                    {
+                                        "name": "Sulfacetamide",
+                                        "drugbank_id": "DB00634"
+                                    },
+                                    {
+                                        "name": "Darunavir",
+                                        "drugbank_id": "DB01264"
+                                    },
+                                    {
+                                        "name": "Dorzolamide",
+                                        "drugbank_id": "DB00869"
+                                    },
+                                    {
+                                        "name": "Silver sulfadiazine",
+                                        "drugbank_id": "DB05245"
+                                    },
+                                    {
+                                        "name": "Sulfameter",
+                                        "drugbank_id": "DB06821"
+                                    },
+                                    {
+                                        "name": "Methyclothiazide",
+                                        "drugbank_id": "DB00232"
+                                    },
+                                    {
+                                        "name": "Sulfapyridine",
+                                        "drugbank_id": "DB00891"
+                                    },
+                                    {
+                                        "name": "Omidenepag isopropyl",
+                                        "drugbank_id": "DB15071"
+                                    },
+                                    {
+                                        "name": "Simeprevir",
+                                        "drugbank_id": "DB06290"
+                                    },
+                                    {
+                                        "name": "Meticrane",
+                                        "drugbank_id": "DB13284"
+                                    },
+                                    {
+                                        "name": "Trichlormethiazide",
+                                        "drugbank_id": "DB01021"
+                                    },
+                                    {
+                                        "name": "Sulfadimethoxine",
+                                        "drugbank_id": "DB06150"
+                                    },
+                                    {
+                                        "name": "Gliclazide",
+                                        "drugbank_id": "DB01120"
+                                    },
+                                    {
+                                        "name": "Ethoxzolamide",
+                                        "drugbank_id": "DB00311"
+                                    },
+                                    {
+                                        "name": "Sulfamethoxazole",
+                                        "drugbank_id": "DB01015"
+                                    },
+                                    {
+                                        "name": "Bosentan",
+                                        "drugbank_id": "DB00559"
+                                    },
+                                    {
+                                        "name": "Probenecid",
+                                        "drugbank_id": "DB01032"
+                                    },
+                                    {
+                                        "name": "Sulfaphenazole",
+                                        "drugbank_id": "DB06729"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfatolamide (G01AE01)",
+                                "atc_code": "G01AE01",
+                                "children": [
+                                    {
+                                        "name": "Sulfatolamide",
+                                        "drugbank_id": "DB13547"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Organic acids (G01AD)",
+                        "atc_code": "G01AD",
+                        "children": [
+                            {
+                                "name": "Ascorbic acid (G01AD03)",
+                                "atc_code": "G01AD03",
+                                "children": [
+                                    {
+                                        "name": "Ascorbic acid",
+                                        "drugbank_id": "DB00126"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetic acid (G01AD02)",
+                                "atc_code": "G01AD02",
+                                "children": [
+                                    {
+                                        "name": "Acetic acid",
+                                        "drugbank_id": "DB03166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lactic acid (G01AD01)",
+                                "atc_code": "G01AD01",
+                                "children": [
+                                    {
+                                        "name": "Lactic acid",
+                                        "drugbank_id": "DB04398"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quinoline derivatives (G01AC)",
+                        "atc_code": "G01AC",
+                        "children": [
+                            {
+                                "name": "Oxyquinoline (G01AC30)",
+                                "atc_code": "G01AC30",
+                                "children": [
+                                    {
+                                        "name": "Oxyquinoline",
+                                        "drugbank_id": "DB11145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Broxyquinoline (G01AC06)",
+                                "atc_code": "G01AC06",
+                                "children": [
+                                    {
+                                        "name": "Broxyquinoline",
+                                        "drugbank_id": "DB13536"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dequalinium (G01AC05)",
+                                "atc_code": "G01AC05",
+                                "children": [
+                                    {
+                                        "name": "Dequalinium",
+                                        "drugbank_id": "DB04209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorquinaldol (G01AC03)",
+                                "atc_code": "G01AC03",
+                                "children": [
+                                    {
+                                        "name": "Chlorquinaldol",
+                                        "drugbank_id": "DB13306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clioquinol (G01AC02)",
+                                "atc_code": "G01AC02",
+                                "children": [
+                                    {
+                                        "name": "Clioquinol",
+                                        "drugbank_id": "DB04815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diiodohydroxyquinoline (G01AC01)",
+                                "atc_code": "G01AC01",
+                                "children": [
+                                    {
+                                        "name": "Diiodohydroxyquinoline",
+                                        "drugbank_id": "DB09115"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Arsenic compounds (G01AB)",
+                        "atc_code": "G01AB",
+                        "children": [
+                            {
+                                "name": "Acetarsol (G01AB01)",
+                                "atc_code": "G01AB01",
+                                "children": [
+                                    {
+                                        "name": "Acetarsol",
+                                        "drugbank_id": "DB13268"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (G01AA)",
+                        "atc_code": "G01AA",
+                        "children": [
+                            {
+                                "name": "Nystatin, combinations (G01AA51)",
+                                "atc_code": "G01AA51",
+                                "children": [
+                                    {
+                                        "name": "Nystatin",
+                                        "drugbank_id": "DB00646"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentamycin (G01AA11)",
+                                "atc_code": "G01AA11",
+                                "children": [
+                                    {
+                                        "name": "Pentamycin",
+                                        "drugbank_id": "DB13571"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clindamycin (G01AA10)",
+                                "atc_code": "G01AA10",
+                                "children": [
+                                    {
+                                        "name": "Clindamycin",
+                                        "drugbank_id": "DB01190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepartricin (G01AA09)",
+                                "atc_code": "G01AA09",
+                                "children": [
+                                    {
+                                        "name": "Mepartricin",
+                                        "drugbank_id": "DB13633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carfecillin (G01AA08)",
+                                "atc_code": "G01AA08",
+                                "children": [
+                                    {
+                                        "name": "Carfecillin",
+                                        "drugbank_id": "DB13506"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytetracycline (G01AA07)",
+                                "atc_code": "G01AA07",
+                                "children": [
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hachimycin (G01AA06)",
+                                "atc_code": "G01AA06",
+                                "children": [
+                                    {
+                                        "name": "Hachimycin",
+                                        "drugbank_id": "DB13302"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloramphenicol (G01AA05)",
+                                "atc_code": "G01AA05",
+                                "children": [
+                                    {
+                                        "name": "Chloramphenicol",
+                                        "drugbank_id": "DB00446"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Candicidin (G01AA04)",
+                                "atc_code": "G01AA04",
+                                "children": [
+                                    {
+                                        "name": "Candicidin",
+                                        "drugbank_id": "DB01152"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amphotericin b (G01AA03)",
+                                "atc_code": "G01AA03",
+                                "children": [
+                                    {
+                                        "name": "Amphotericin B",
+                                        "drugbank_id": "DB00681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Natamycin (G01AA02)",
+                                "atc_code": "G01AA02",
+                                "children": [
+                                    {
+                                        "name": "Natamycin",
+                                        "drugbank_id": "DB00826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nystatin (G01AA01)",
+                                "atc_code": "G01AA01",
+                                "children": [
+                                    {
+                                        "name": "Nystatin",
+                                        "drugbank_id": "DB00646"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

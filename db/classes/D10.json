@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Anti-acne preparations (D10)",
+        "atc_code": "D10",
+        "children": [
+            {
+                "name": "Anti-acne preparations for systemic use (D10B)",
+                "atc_code": "D10B",
+                "children": [
+                    {
+                        "name": "Other anti-acne preparations for systemic use (D10BX)",
+                        "atc_code": "D10BX",
+                        "children": [
+                            {
+                                "name": "Ichtasol (D10BX01)",
+                                "atc_code": "D10BX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Retinoids for treatment of acne (D10BA)",
+                        "atc_code": "D10BA",
+                        "children": [
+                            {
+                                "name": "Isotretinoin (D10BA01)",
+                                "atc_code": "D10BA01",
+                                "children": [
+                                    {
+                                        "name": "Isotretinoin",
+                                        "drugbank_id": "DB00982"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anti-acne preparations for topical use (D10A)",
+                "atc_code": "D10A",
+                "children": [
+                    {
+                        "name": "Other anti-acne preparations for topical use (D10AX)",
+                        "atc_code": "D10AX",
+                        "children": [
+                            {
+                                "name": "Clascoterone (D10AX06)",
+                                "atc_code": "D10AX06",
+                                "children": [
+                                    {
+                                        "name": "Clascoterone",
+                                        "drugbank_id": "DB12499"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Various combinations (D10AX30)",
+                                "atc_code": "D10AX30"
+                            },
+                            {
+                                "name": "Dapsone (D10AX05)",
+                                "atc_code": "D10AX05",
+                                "children": [
+                                    {
+                                        "name": "Dapsone",
+                                        "drugbank_id": "DB00250"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium oxide (D10AX04)",
+                                "atc_code": "D10AX04",
+                                "children": [
+                                    {
+                                        "name": "Aluminum oxide",
+                                        "drugbank_id": "DB11342"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azelaic acid (D10AX03)",
+                                "atc_code": "D10AX03",
+                                "children": [
+                                    {
+                                        "name": "Azelaic acid",
+                                        "drugbank_id": "DB00548"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Resorcinol (D10AX02)",
+                                "atc_code": "D10AX02",
+                                "children": [
+                                    {
+                                        "name": "Resorcinol",
+                                        "drugbank_id": "DB11085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium chloride (D10AX01)",
+                                "atc_code": "D10AX01",
+                                "children": [
+                                    {
+                                        "name": "Aluminum chloride",
+                                        "drugbank_id": "DB11081"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinfectives for treatment of acne (D10AF)",
+                        "atc_code": "D10AF",
+                        "children": [
+                            {
+                                "name": "Minocycline (D10AF07)",
+                                "atc_code": "D10AF07",
+                                "children": [
+                                    {
+                                        "name": "Minocycline",
+                                        "drugbank_id": "DB01017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erythromycin, combinations (D10AF52)",
+                                "atc_code": "D10AF52",
+                                "children": [
+                                    {
+                                        "name": "Erythromycin",
+                                        "drugbank_id": "DB00199"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clindamycin, combinations (D10AF51)",
+                                "atc_code": "D10AF51",
+                                "children": [
+                                    {
+                                        "name": "Clindamycin",
+                                        "drugbank_id": "DB01190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfacetamide (D10AF06)",
+                                "atc_code": "D10AF06",
+                                "children": [
+                                    {
+                                        "name": "Sulfacetamide",
+                                        "drugbank_id": "DB00634"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nadifloxacin (D10AF05)",
+                                "atc_code": "D10AF05",
+                                "children": [
+                                    {
+                                        "name": "Nadifloxacin",
+                                        "drugbank_id": "DB12447"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meclocycline (D10AF04)",
+                                "atc_code": "D10AF04",
+                                "children": [
+                                    {
+                                        "name": "Meclocycline",
+                                        "drugbank_id": "DB13092"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloramphenicol (D10AF03)",
+                                "atc_code": "D10AF03",
+                                "children": [
+                                    {
+                                        "name": "Chloramphenicol",
+                                        "drugbank_id": "DB00446"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erythromycin (D10AF02)",
+                                "atc_code": "D10AF02",
+                                "children": [
+                                    {
+                                        "name": "Erythromycin",
+                                        "drugbank_id": "DB00199"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clindamycin (D10AF01)",
+                                "atc_code": "D10AF01",
+                                "children": [
+                                    {
+                                        "name": "Clindamycin",
+                                        "drugbank_id": "DB01190"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peroxides (D10AE)",
+                        "atc_code": "D10AE",
+                        "children": [
+                            {
+                                "name": "Benzoyl peroxide, combinations (D10AE51)",
+                                "atc_code": "D10AE51",
+                                "children": [
+                                    {
+                                        "name": "Benzoyl peroxide",
+                                        "drugbank_id": "DB09096"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzoyl peroxide (D10AE01)",
+                                "atc_code": "D10AE01",
+                                "children": [
+                                    {
+                                        "name": "Benzoyl peroxide",
+                                        "drugbank_id": "DB09096"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Retinoids for topical use in acne (D10AD)",
+                        "atc_code": "D10AD",
+                        "children": [
+                            {
+                                "name": "Trifarotene (D10AD06)",
+                                "atc_code": "D10AD06",
+                                "children": [
+                                    {
+                                        "name": "Trifarotene",
+                                        "drugbank_id": "DB12808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isotretinoin, combinations (D10AD54)",
+                                "atc_code": "D10AD54",
+                                "children": [
+                                    {
+                                        "name": "Isotretinoin",
+                                        "drugbank_id": "DB00982"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adapalene, combinations (D10AD53)",
+                                "atc_code": "D10AD53",
+                                "children": [
+                                    {
+                                        "name": "Adapalene",
+                                        "drugbank_id": "DB00210"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tretinoin, combinations (D10AD51)",
+                                "atc_code": "D10AD51",
+                                "children": [
+                                    {
+                                        "name": "Tretinoin",
+                                        "drugbank_id": "DB00755"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Motretinide (D10AD05)",
+                                "atc_code": "D10AD05",
+                                "children": [
+                                    {
+                                        "name": "Motretinide",
+                                        "drugbank_id": "DB13368"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isotretinoin (D10AD04)",
+                                "atc_code": "D10AD04",
+                                "children": [
+                                    {
+                                        "name": "Isotretinoin",
+                                        "drugbank_id": "DB00982"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adapalene (D10AD03)",
+                                "atc_code": "D10AD03",
+                                "children": [
+                                    {
+                                        "name": "Adapalene",
+                                        "drugbank_id": "DB00210"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Retinol (D10AD02)",
+                                "atc_code": "D10AD02",
+                                "children": [
+                                    {
+                                        "name": "Vitamin A",
+                                        "drugbank_id": "DB00162"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tretinoin (D10AD01)",
+                                "atc_code": "D10AD01",
+                                "children": [
+                                    {
+                                        "name": "Tretinoin",
+                                        "drugbank_id": "DB00755"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations containing sulfur (D10AB)",
+                        "atc_code": "D10AB",
+                        "children": [
+                            {
+                                "name": "Mesulfen (D10AB05)",
+                                "atc_code": "D10AB05",
+                                "children": [
+                                    {
+                                        "name": "Mesulfen",
+                                        "drugbank_id": "DB13356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tioxolone (D10AB03)",
+                                "atc_code": "D10AB03",
+                                "children": [
+                                    {
+                                        "name": "Tioxolone",
+                                        "drugbank_id": "DB13343"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfur (D10AB02)",
+                                "atc_code": "D10AB02"
+                            },
+                            {
+                                "name": "Bithionol (D10AB01)",
+                                "atc_code": "D10AB01",
+                                "children": [
+                                    {
+                                        "name": "Bithionol",
+                                        "drugbank_id": "DB04813"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, combinations for treatment of acne (D10AA)",
+                        "atc_code": "D10AA",
+                        "children": [
+                            {
+                                "name": "Dexamethasone (D10AA03)",
+                                "atc_code": "D10AA03",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylprednisolone (D10AA02)",
+                                "atc_code": "D10AA02",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorometholone (D10AA01)",
+                                "atc_code": "D10AA01",
+                                "children": [
+                                    {
+                                        "name": "Fluorometholone",
+                                        "drugbank_id": "DB00324"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

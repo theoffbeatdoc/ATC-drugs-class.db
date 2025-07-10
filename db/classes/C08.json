@@ -1,0 +1,388 @@
+[
+    {
+        "name": "Calcium channel blockers (C08)",
+        "atc_code": "C08",
+        "children": [
+            {
+                "name": "Calcium channel blockers and diuretics (C08G)",
+                "atc_code": "C08G",
+                "children": [
+                    {
+                        "name": "Calcium channel blockers and diuretics (C08GA)",
+                        "atc_code": "C08GA",
+                        "children": [
+                            {
+                                "name": "Amlodipine and diuretics (C08GA02)",
+                                "atc_code": "C08GA02",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifedipine and diuretics (C08GA01)",
+                                "atc_code": "C08GA01",
+                                "children": [
+                                    {
+                                        "name": "Nifedipine",
+                                        "drugbank_id": "DB01115"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Non-selective calcium channel blockers (C08E)",
+                "atc_code": "C08E",
+                "children": [
+                    {
+                        "name": "Other non-selective calcium channel blockers (C08EX)",
+                        "atc_code": "C08EX",
+                        "children": [
+                            {
+                                "name": "Perhexiline (C08EX02)",
+                                "atc_code": "C08EX02",
+                                "children": [
+                                    {
+                                        "name": "Perhexiline",
+                                        "drugbank_id": "DB01074"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidoflazine (C08EX01)",
+                                "atc_code": "C08EX01",
+                                "children": [
+                                    {
+                                        "name": "Lidoflazine",
+                                        "drugbank_id": "DB13766"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenylalkylamine derivatives (C08EA)",
+                        "atc_code": "C08EA",
+                        "children": [
+                            {
+                                "name": "Bepridil (C08EA02)",
+                                "atc_code": "C08EA02",
+                                "children": [
+                                    {
+                                        "name": "Bepridil",
+                                        "drugbank_id": "DB01244"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fendiline (C08EA01)",
+                                "atc_code": "C08EA01",
+                                "children": [
+                                    {
+                                        "name": "Fendiline",
+                                        "drugbank_id": "DB08980"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Selective calcium channel blockers with direct cardiac effects (C08D)",
+                "atc_code": "C08D",
+                "children": [
+                    {
+                        "name": "Benzothiazepine derivatives (C08DB)",
+                        "atc_code": "C08DB",
+                        "children": [
+                            {
+                                "name": "Diltiazem (C08DB01)",
+                                "atc_code": "C08DB01",
+                                "children": [
+                                    {
+                                        "name": "Diltiazem",
+                                        "drugbank_id": "DB00343"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenylalkylamine derivatives (C08DA)",
+                        "atc_code": "C08DA",
+                        "children": [
+                            {
+                                "name": "Etripamil (C08DA03)",
+                                "atc_code": "C08DA03",
+                                "children": [
+                                    {
+                                        "name": "Etripamil",
+                                        "drugbank_id": "DB12605"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Verapamil, combinations (C08DA51)",
+                                "atc_code": "C08DA51",
+                                "children": [
+                                    {
+                                        "name": "Verapamil",
+                                        "drugbank_id": "DB00661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gallopamil (C08DA02)",
+                                "atc_code": "C08DA02",
+                                "children": [
+                                    {
+                                        "name": "Gallopamil",
+                                        "drugbank_id": "DB12923"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Verapamil (C08DA01)",
+                                "atc_code": "C08DA01",
+                                "children": [
+                                    {
+                                        "name": "Verapamil",
+                                        "drugbank_id": "DB00661"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Selective calcium channel blockers with mainly vascular effects (C08C)",
+                "atc_code": "C08C",
+                "children": [
+                    {
+                        "name": "Other selective calcium channel blockers with mainly vascular effects (C08CX)",
+                        "atc_code": "C08CX",
+                        "children": [
+                            {
+                                "name": "Mibefradil (C08CX01)",
+                                "atc_code": "C08CX01",
+                                "children": [
+                                    {
+                                        "name": "Mibefradil",
+                                        "drugbank_id": "DB01388"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dihydropyridine derivatives (C08CA)",
+                        "atc_code": "C08CA",
+                        "children": [
+                            {
+                                "name": "Levamlodipine (C08CA17)",
+                                "atc_code": "C08CA17",
+                                "children": [
+                                    {
+                                        "name": "Levamlodipine",
+                                        "drugbank_id": "DB09237"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amlodipine and celecoxib (C08CA51)",
+                                "atc_code": "C08CA51",
+                                "children": [
+                                    {
+                                        "name": "Celecoxib",
+                                        "drugbank_id": "DB00482"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifedipine, combinations (C08CA55)",
+                                "atc_code": "C08CA55",
+                                "children": [
+                                    {
+                                        "name": "Nifedipine",
+                                        "drugbank_id": "DB01115"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clevidipine (C08CA16)",
+                                "atc_code": "C08CA16",
+                                "children": [
+                                    {
+                                        "name": "Clevidipine",
+                                        "drugbank_id": "DB04920"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benidipine (C08CA15)",
+                                "atc_code": "C08CA15",
+                                "children": [
+                                    {
+                                        "name": "Benidipine",
+                                        "drugbank_id": "DB09231"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cilnidipine (C08CA14)",
+                                "atc_code": "C08CA14",
+                                "children": [
+                                    {
+                                        "name": "Cilnidipine",
+                                        "drugbank_id": "DB09232"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lercanidipine (C08CA13)",
+                                "atc_code": "C08CA13",
+                                "children": [
+                                    {
+                                        "name": "Lercanidipine",
+                                        "drugbank_id": "DB00528"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Barnidipine (C08CA12)",
+                                "atc_code": "C08CA12",
+                                "children": [
+                                    {
+                                        "name": "Barnidipine",
+                                        "drugbank_id": "DB09227"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Manidipine (C08CA11)",
+                                "atc_code": "C08CA11",
+                                "children": [
+                                    {
+                                        "name": "Manidipine",
+                                        "drugbank_id": "DB09238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nilvadipine (C08CA10)",
+                                "atc_code": "C08CA10",
+                                "children": [
+                                    {
+                                        "name": "Nilvadipine",
+                                        "drugbank_id": "DB06712"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lacidipine (C08CA09)",
+                                "atc_code": "C08CA09",
+                                "children": [
+                                    {
+                                        "name": "Lacidipine",
+                                        "drugbank_id": "DB09236"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrendipine (C08CA08)",
+                                "atc_code": "C08CA08",
+                                "children": [
+                                    {
+                                        "name": "Nitrendipine",
+                                        "drugbank_id": "DB01054"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nisoldipine (C08CA07)",
+                                "atc_code": "C08CA07",
+                                "children": [
+                                    {
+                                        "name": "Nisoldipine",
+                                        "drugbank_id": "DB00401"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nimodipine (C08CA06)",
+                                "atc_code": "C08CA06",
+                                "children": [
+                                    {
+                                        "name": "Nimodipine",
+                                        "drugbank_id": "DB00393"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifedipine (C08CA05)",
+                                "atc_code": "C08CA05",
+                                "children": [
+                                    {
+                                        "name": "Nifedipine",
+                                        "drugbank_id": "DB01115"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicardipine (C08CA04)",
+                                "atc_code": "C08CA04",
+                                "children": [
+                                    {
+                                        "name": "Nicardipine",
+                                        "drugbank_id": "DB00622"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isradipine (C08CA03)",
+                                "atc_code": "C08CA03",
+                                "children": [
+                                    {
+                                        "name": "Isradipine",
+                                        "drugbank_id": "DB00270"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Felodipine (C08CA02)",
+                                "atc_code": "C08CA02",
+                                "children": [
+                                    {
+                                        "name": "Felodipine",
+                                        "drugbank_id": "DB01023"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amlodipine (C08CA01)",
+                                "atc_code": "C08CA01",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

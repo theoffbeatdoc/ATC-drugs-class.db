@@ -1,0 +1,1132 @@
+[
+    {
+        "name": "Agents acting on the renin-angiotensin system (C09)",
+        "atc_code": "C09",
+        "children": [
+            {
+                "name": "Other agents acting on the renin-angiotensin system (C09X)",
+                "atc_code": "C09X",
+                "children": [
+                    {
+                        "name": "Other agents acting on the renin-angiotensin system (C09XX)",
+                        "atc_code": "C09XX",
+                        "children": [
+                            {
+                                "name": "Sparsentan (C09XX01)",
+                                "atc_code": "C09XX01",
+                                "children": [
+                                    {
+                                        "name": "Sparsentan",
+                                        "drugbank_id": "DB12548"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Renin-inhibitors (C09XA)",
+                        "atc_code": "C09XA",
+                        "children": [
+                            {
+                                "name": "Aliskiren, amlodipine and hydrochlorothiazide (C09XA54)",
+                                "atc_code": "C09XA54",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Aliskiren",
+                                        "drugbank_id": "DB09026"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aliskiren and amlodipine (C09XA53)",
+                                "atc_code": "C09XA53",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Aliskiren",
+                                        "drugbank_id": "DB09026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aliskiren and hydrochlorothiazide (C09XA52)",
+                                "atc_code": "C09XA52",
+                                "children": [
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Aliskiren",
+                                        "drugbank_id": "DB09026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aliskiren (C09XA02)",
+                                "atc_code": "C09XA02",
+                                "children": [
+                                    {
+                                        "name": "Aliskiren",
+                                        "drugbank_id": "DB09026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Remikiren (C09XA01)",
+                                "atc_code": "C09XA01",
+                                "children": [
+                                    {
+                                        "name": "Remikiren",
+                                        "drugbank_id": "DB00212"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Angiotensin ii receptor blockers (arbs), combinations (C09D)",
+                "atc_code": "C09D",
+                "children": [
+                    {
+                        "name": "Angiotensin ii receptor blockers (arbs), other combinations (C09DX)",
+                        "atc_code": "C09DX",
+                        "children": [
+                            {
+                                "name": "Telmisartan, amlodipine and hydrochlorothiazide (C09DX08)",
+                                "atc_code": "C09DX08",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Telmisartan",
+                                        "drugbank_id": "DB00966"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Irbesartan, amlodipine and hydrochlorothiazide (C09DX07)",
+                                "atc_code": "C09DX07",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Irbesartan",
+                                        "drugbank_id": "DB01029"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Candesartan, amlodipine and hydrochlorothiazide (C09DX06)",
+                                "atc_code": "C09DX06",
+                                "children": [
+                                    {
+                                        "name": "Candesartan",
+                                        "drugbank_id": "DB13919"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and nebivolol (C09DX05)",
+                                "atc_code": "C09DX05",
+                                "children": [
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    },
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and sacubitril (C09DX04)",
+                                "atc_code": "C09DX04",
+                                "children": [
+                                    {
+                                        "name": "Sacubitril",
+                                        "drugbank_id": "DB09292"
+                                    },
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olmesartan medoxomil, amlodipine and hydrochlorothiazide (C09DX03)",
+                                "atc_code": "C09DX03",
+                                "children": [
+                                    {
+                                        "name": "Olmesartan",
+                                        "drugbank_id": "DB00275"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and aliskiren (C09DX02)",
+                                "atc_code": "C09DX02",
+                                "children": [
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    },
+                                    {
+                                        "name": "Aliskiren",
+                                        "drugbank_id": "DB09026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan, amlodipine and hydrochlorothiazide (C09DX01)",
+                                "atc_code": "C09DX01",
+                                "children": [
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Angiotensin ii receptor blockers (arbs) and calcium channel blockers (C09DB)",
+                        "atc_code": "C09DB",
+                        "children": [
+                            {
+                                "name": "Fimasartan and amlodipine (C09DB09)",
+                                "atc_code": "C09DB09",
+                                "children": [
+                                    {
+                                        "name": "Fimasartan",
+                                        "drugbank_id": "DB09279"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and lercanidipine (C09DB08)",
+                                "atc_code": "C09DB08",
+                                "children": [
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    },
+                                    {
+                                        "name": "Lercanidipine",
+                                        "drugbank_id": "DB00528"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Candesartan and amlodipine (C09DB07)",
+                                "atc_code": "C09DB07",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Candesartan",
+                                        "drugbank_id": "DB13919"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Losartan and amlodipine (C09DB06)",
+                                "atc_code": "C09DB06",
+                                "children": [
+                                    {
+                                        "name": "Losartan",
+                                        "drugbank_id": "DB00678"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Irbesartan and amlodipine (C09DB05)",
+                                "atc_code": "C09DB05",
+                                "children": [
+                                    {
+                                        "name": "Irbesartan",
+                                        "drugbank_id": "DB01029"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telmisartan and amlodipine (C09DB04)",
+                                "atc_code": "C09DB04",
+                                "children": [
+                                    {
+                                        "name": "Telmisartan",
+                                        "drugbank_id": "DB00966"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olmesartan medoxomil and amlodipine (C09DB02)",
+                                "atc_code": "C09DB02",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Olmesartan",
+                                        "drugbank_id": "DB00275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and amlodipine (C09DB01)",
+                                "atc_code": "C09DB01",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Angiotensin ii receptor blockers (arbs) and diuretics (C09DA)",
+                        "atc_code": "C09DA",
+                        "children": [
+                            {
+                                "name": "Fimasartan and diuretics (C09DA10)",
+                                "atc_code": "C09DA10",
+                                "children": [
+                                    {
+                                        "name": "Fimasartan",
+                                        "drugbank_id": "DB09279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azilsartan medoxomil and diuretics (C09DA09)",
+                                "atc_code": "C09DA09",
+                                "children": [
+                                    {
+                                        "name": "Azilsartan medoxomil",
+                                        "drugbank_id": "DB08822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olmesartan medoxomil and diuretics (C09DA08)",
+                                "atc_code": "C09DA08",
+                                "children": [
+                                    {
+                                        "name": "Olmesartan",
+                                        "drugbank_id": "DB00275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telmisartan and diuretics (C09DA07)",
+                                "atc_code": "C09DA07",
+                                "children": [
+                                    {
+                                        "name": "Telmisartan",
+                                        "drugbank_id": "DB00966"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Candesartan and diuretics (C09DA06)",
+                                "atc_code": "C09DA06",
+                                "children": [
+                                    {
+                                        "name": "Candesartan",
+                                        "drugbank_id": "DB13919"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Irbesartan and diuretics (C09DA04)",
+                                "atc_code": "C09DA04",
+                                "children": [
+                                    {
+                                        "name": "Irbesartan",
+                                        "drugbank_id": "DB01029"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan and diuretics (C09DA03)",
+                                "atc_code": "C09DA03",
+                                "children": [
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eprosartan and diuretics (C09DA02)",
+                                "atc_code": "C09DA02",
+                                "children": [
+                                    {
+                                        "name": "Eprosartan",
+                                        "drugbank_id": "DB00876"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Losartan and diuretics (C09DA01)",
+                                "atc_code": "C09DA01",
+                                "children": [
+                                    {
+                                        "name": "Losartan",
+                                        "drugbank_id": "DB00678"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Angiotensin ii receptor blockers (arbs), plain (C09C)",
+                "atc_code": "C09C",
+                "children": [
+                    {
+                        "name": "Angiotensin ii receptor blockers (arbs), plain (C09CA)",
+                        "atc_code": "C09CA",
+                        "children": [
+                            {
+                                "name": "Fimasartan (C09CA10)",
+                                "atc_code": "C09CA10",
+                                "children": [
+                                    {
+                                        "name": "Fimasartan",
+                                        "drugbank_id": "DB09279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azilsartan medoxomil (C09CA09)",
+                                "atc_code": "C09CA09",
+                                "children": [
+                                    {
+                                        "name": "Azilsartan medoxomil",
+                                        "drugbank_id": "DB08822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olmesartan medoxomil (C09CA08)",
+                                "atc_code": "C09CA08",
+                                "children": [
+                                    {
+                                        "name": "Olmesartan",
+                                        "drugbank_id": "DB00275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telmisartan (C09CA07)",
+                                "atc_code": "C09CA07",
+                                "children": [
+                                    {
+                                        "name": "Telmisartan",
+                                        "drugbank_id": "DB00966"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Candesartan (C09CA06)",
+                                "atc_code": "C09CA06",
+                                "children": [
+                                    {
+                                        "name": "Candesartan",
+                                        "drugbank_id": "DB13919"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tasosartan (C09CA05)",
+                                "atc_code": "C09CA05",
+                                "children": [
+                                    {
+                                        "name": "Tasosartan",
+                                        "drugbank_id": "DB01349"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Irbesartan (C09CA04)",
+                                "atc_code": "C09CA04",
+                                "children": [
+                                    {
+                                        "name": "Irbesartan",
+                                        "drugbank_id": "DB01029"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valsartan (C09CA03)",
+                                "atc_code": "C09CA03",
+                                "children": [
+                                    {
+                                        "name": "Valsartan",
+                                        "drugbank_id": "DB00177"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eprosartan (C09CA02)",
+                                "atc_code": "C09CA02",
+                                "children": [
+                                    {
+                                        "name": "Eprosartan",
+                                        "drugbank_id": "DB00876"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Losartan (C09CA01)",
+                                "atc_code": "C09CA01",
+                                "children": [
+                                    {
+                                        "name": "Losartan",
+                                        "drugbank_id": "DB00678"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ace inhibitors, combinations (C09B)",
+                "atc_code": "C09B",
+                "children": [
+                    {
+                        "name": "Ace inhibitors, other combinations (C09BX)",
+                        "atc_code": "C09BX",
+                        "children": [
+                            {
+                                "name": "Zofenopril and nebivolol (C09BX07)",
+                                "atc_code": "C09BX07",
+                                "children": [
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    },
+                                    {
+                                        "name": "Zofenopril",
+                                        "drugbank_id": "DB13166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril, bisoprolol, amlodipine and indapamide (C09BX06)",
+                                "atc_code": "C09BX06",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    },
+                                    {
+                                        "name": "Indapamide",
+                                        "drugbank_id": "DB00808"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril and bisoprolol (C09BX05)",
+                                "atc_code": "C09BX05",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril, bisoprolol and amlodipine (C09BX04)",
+                                "atc_code": "C09BX04",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril, amlodipine and hydrochlorothiazide (C09BX03)",
+                                "atc_code": "C09BX03",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril and bisoprolol (C09BX02)",
+                                "atc_code": "C09BX02",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril, amlodipine and indapamide (C09BX01)",
+                                "atc_code": "C09BX01",
+                                "children": [
+                                    {
+                                        "name": "Indapamide",
+                                        "drugbank_id": "DB00808"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ace inhibitors and calcium channel blockers (C09BB)",
+                        "atc_code": "C09BB",
+                        "children": [
+                            {
+                                "name": "Benazepril and amlodipine (C09BB13)",
+                                "atc_code": "C09BB13",
+                                "children": [
+                                    {
+                                        "name": "Benazepril",
+                                        "drugbank_id": "DB00542"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delapril and manidipine (C09BB12)",
+                                "atc_code": "C09BB12",
+                                "children": [
+                                    {
+                                        "name": "Delapril",
+                                        "drugbank_id": "DB13312"
+                                    },
+                                    {
+                                        "name": "Manidipine",
+                                        "drugbank_id": "DB09238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trandolapril and verapamil (C09BB10)",
+                                "atc_code": "C09BB10",
+                                "children": [
+                                    {
+                                        "name": "Trandolapril",
+                                        "drugbank_id": "DB00519"
+                                    },
+                                    {
+                                        "name": "Verapamil",
+                                        "drugbank_id": "DB00661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril and amlodipine (C09BB07)",
+                                "atc_code": "C09BB07",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enalapril and nitrendipine (C09BB06)",
+                                "atc_code": "C09BB06",
+                                "children": [
+                                    {
+                                        "name": "Nitrendipine",
+                                        "drugbank_id": "DB01054"
+                                    },
+                                    {
+                                        "name": "Enalapril",
+                                        "drugbank_id": "DB00584"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril and felodipine (C09BB05)",
+                                "atc_code": "C09BB05",
+                                "children": [
+                                    {
+                                        "name": "Felodipine",
+                                        "drugbank_id": "DB01023"
+                                    },
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril and amlodipine (C09BB04)",
+                                "atc_code": "C09BB04",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisinopril and amlodipine (C09BB03)",
+                                "atc_code": "C09BB03",
+                                "children": [
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    },
+                                    {
+                                        "name": "Lisinopril",
+                                        "drugbank_id": "DB00722"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enalapril and lercanidipine (C09BB02)",
+                                "atc_code": "C09BB02",
+                                "children": [
+                                    {
+                                        "name": "Enalapril",
+                                        "drugbank_id": "DB00584"
+                                    },
+                                    {
+                                        "name": "Lercanidipine",
+                                        "drugbank_id": "DB00528"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ace inhibitors and diuretics (C09BA)",
+                        "atc_code": "C09BA",
+                        "children": [
+                            {
+                                "name": "Zofenopril and diuretics (C09BA15)",
+                                "atc_code": "C09BA15",
+                                "children": [
+                                    {
+                                        "name": "Zofenopril",
+                                        "drugbank_id": "DB13166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moexipril and diuretics (C09BA13)",
+                                "atc_code": "C09BA13",
+                                "children": [
+                                    {
+                                        "name": "Moexipril",
+                                        "drugbank_id": "DB00691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delapril and diuretics (C09BA12)",
+                                "atc_code": "C09BA12",
+                                "children": [
+                                    {
+                                        "name": "Delapril",
+                                        "drugbank_id": "DB13312"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosinopril and diuretics (C09BA09)",
+                                "atc_code": "C09BA09",
+                                "children": [
+                                    {
+                                        "name": "Fosinopril",
+                                        "drugbank_id": "DB00492"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cilazapril and diuretics (C09BA08)",
+                                "atc_code": "C09BA08",
+                                "children": [
+                                    {
+                                        "name": "Cilazapril",
+                                        "drugbank_id": "DB01340"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benazepril and diuretics (C09BA07)",
+                                "atc_code": "C09BA07",
+                                "children": [
+                                    {
+                                        "name": "Benazepril",
+                                        "drugbank_id": "DB00542"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinapril and diuretics (C09BA06)",
+                                "atc_code": "C09BA06",
+                                "children": [
+                                    {
+                                        "name": "Quinapril",
+                                        "drugbank_id": "DB00881"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril and diuretics (C09BA05)",
+                                "atc_code": "C09BA05",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril and diuretics (C09BA04)",
+                                "atc_code": "C09BA04",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisinopril and diuretics (C09BA03)",
+                                "atc_code": "C09BA03",
+                                "children": [
+                                    {
+                                        "name": "Lisinopril",
+                                        "drugbank_id": "DB00722"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enalapril and diuretics (C09BA02)",
+                                "atc_code": "C09BA02",
+                                "children": [
+                                    {
+                                        "name": "Enalapril",
+                                        "drugbank_id": "DB00584"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Captopril and diuretics (C09BA01)",
+                                "atc_code": "C09BA01",
+                                "children": [
+                                    {
+                                        "name": "Captopril",
+                                        "drugbank_id": "DB01197"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ace inhibitors, plain (C09A)",
+                "atc_code": "C09A",
+                "children": [
+                    {
+                        "name": "Ace inhibitors, plain (C09AA)",
+                        "atc_code": "C09AA",
+                        "children": [
+                            {
+                                "name": "Imidapril (C09AA16)",
+                                "atc_code": "C09AA16",
+                                "children": [
+                                    {
+                                        "name": "Imidapril",
+                                        "drugbank_id": "DB11783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zofenopril (C09AA15)",
+                                "atc_code": "C09AA15",
+                                "children": [
+                                    {
+                                        "name": "Zofenopril",
+                                        "drugbank_id": "DB13166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Temocapril (C09AA14)",
+                                "atc_code": "C09AA14",
+                                "children": [
+                                    {
+                                        "name": "Temocapril",
+                                        "drugbank_id": "DB08836"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moexipril (C09AA13)",
+                                "atc_code": "C09AA13",
+                                "children": [
+                                    {
+                                        "name": "Moexipril",
+                                        "drugbank_id": "DB00691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delapril (C09AA12)",
+                                "atc_code": "C09AA12",
+                                "children": [
+                                    {
+                                        "name": "Delapril",
+                                        "drugbank_id": "DB13312"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spirapril (C09AA11)",
+                                "atc_code": "C09AA11",
+                                "children": [
+                                    {
+                                        "name": "Spirapril",
+                                        "drugbank_id": "DB01348"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trandolapril (C09AA10)",
+                                "atc_code": "C09AA10",
+                                "children": [
+                                    {
+                                        "name": "Trandolapril",
+                                        "drugbank_id": "DB00519"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosinopril (C09AA09)",
+                                "atc_code": "C09AA09",
+                                "children": [
+                                    {
+                                        "name": "Fosinopril",
+                                        "drugbank_id": "DB00492"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cilazapril (C09AA08)",
+                                "atc_code": "C09AA08",
+                                "children": [
+                                    {
+                                        "name": "Cilazapril",
+                                        "drugbank_id": "DB01340"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benazepril (C09AA07)",
+                                "atc_code": "C09AA07",
+                                "children": [
+                                    {
+                                        "name": "Benazepril",
+                                        "drugbank_id": "DB00542"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinapril (C09AA06)",
+                                "atc_code": "C09AA06",
+                                "children": [
+                                    {
+                                        "name": "Quinapril",
+                                        "drugbank_id": "DB00881"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ramipril (C09AA05)",
+                                "atc_code": "C09AA05",
+                                "children": [
+                                    {
+                                        "name": "Ramipril",
+                                        "drugbank_id": "DB00178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perindopril (C09AA04)",
+                                "atc_code": "C09AA04",
+                                "children": [
+                                    {
+                                        "name": "Perindopril",
+                                        "drugbank_id": "DB00790"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisinopril (C09AA03)",
+                                "atc_code": "C09AA03",
+                                "children": [
+                                    {
+                                        "name": "Lisinopril",
+                                        "drugbank_id": "DB00722"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enalapril (C09AA02)",
+                                "atc_code": "C09AA02",
+                                "children": [
+                                    {
+                                        "name": "Enalapril",
+                                        "drugbank_id": "DB00584"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Captopril (C09AA01)",
+                                "atc_code": "C09AA01",
+                                "children": [
+                                    {
+                                        "name": "Captopril",
+                                        "drugbank_id": "DB01197"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

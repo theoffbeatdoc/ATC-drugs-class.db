@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Other gynecologicals (G02)",
+        "atc_code": "G02",
+        "children": [
+            {
+                "name": "Other gynecologicals (G02C)",
+                "atc_code": "G02C",
+                "children": [
+                    {
+                        "name": "Other gynecologicals (G02CX)",
+                        "atc_code": "G02CX",
+                        "children": [
+                            {
+                                "name": "Fezolinetant (G02CX06)",
+                                "atc_code": "G02CX06",
+                                "children": [
+                                    {
+                                        "name": "Fezolinetant",
+                                        "drugbank_id": "DB15669"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bremelanotide (G02CX05)",
+                                "atc_code": "G02CX05",
+                                "children": [
+                                    {
+                                        "name": "Bremelanotide",
+                                        "drugbank_id": "DB11653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cimicifugae rhizoma (G02CX04)",
+                                "atc_code": "G02CX04",
+                                "children": [
+                                    {
+                                        "name": "Black cohosh",
+                                        "drugbank_id": "DB13975"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Agni casti fructus (G02CX03)",
+                                "atc_code": "G02CX03",
+                                "children": [
+                                    {
+                                        "name": "Vitex agnus-castus fruit extract",
+                                        "drugbank_id": "DB13193"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flibanserin (G02CX02)",
+                                "atc_code": "G02CX02",
+                                "children": [
+                                    {
+                                        "name": "Flibanserin",
+                                        "drugbank_id": "DB04908"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atosiban (G02CX01)",
+                                "atc_code": "G02CX01",
+                                "children": [
+                                    {
+                                        "name": "Atosiban",
+                                        "drugbank_id": "DB09059"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinflammatory products for vaginal administration (G02CC)",
+                        "atc_code": "G02CC",
+                        "children": [
+                            {
+                                "name": "Flunoxaprofen (G02CC04)",
+                                "atc_code": "G02CC04",
+                                "children": [
+                                    {
+                                        "name": "Flunoxaprofen",
+                                        "drugbank_id": "DB13317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzydamine (G02CC03)",
+                                "atc_code": "G02CC03",
+                                "children": [
+                                    {
+                                        "name": "Benzydamine",
+                                        "drugbank_id": "DB09084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naproxen (G02CC02)",
+                                "atc_code": "G02CC02",
+                                "children": [
+                                    {
+                                        "name": "Naproxen",
+                                        "drugbank_id": "DB00788"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibuprofen (G02CC01)",
+                                "atc_code": "G02CC01",
+                                "children": [
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prolactine inhibitors (G02CB)",
+                        "atc_code": "G02CB",
+                        "children": [
+                            {
+                                "name": "Terguride (G02CB06)",
+                                "atc_code": "G02CB06",
+                                "children": [
+                                    {
+                                        "name": "Terguride",
+                                        "drugbank_id": "DB13399"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metergoline (G02CB05)",
+                                "atc_code": "G02CB05",
+                                "children": [
+                                    {
+                                        "name": "Metergoline",
+                                        "drugbank_id": "DB13520"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinagolide (G02CB04)",
+                                "atc_code": "G02CB04",
+                                "children": [
+                                    {
+                                        "name": "Quinagolide",
+                                        "drugbank_id": "DB09097"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cabergoline (G02CB03)",
+                                "atc_code": "G02CB03",
+                                "children": [
+                                    {
+                                        "name": "Cabergoline",
+                                        "drugbank_id": "DB00248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisuride (G02CB02)",
+                                "atc_code": "G02CB02",
+                                "children": [
+                                    {
+                                        "name": "Lisuride",
+                                        "drugbank_id": "DB00589"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromocriptine (G02CB01)",
+                                "atc_code": "G02CB01",
+                                "children": [
+                                    {
+                                        "name": "Bromocriptine",
+                                        "drugbank_id": "DB01200"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sympathomimetics, labour repressants (G02CA)",
+                        "atc_code": "G02CA",
+                        "children": [
+                            {
+                                "name": "Fenoterol (G02CA03)",
+                                "atc_code": "G02CA03",
+                                "children": [
+                                    {
+                                        "name": "Fenoterol",
+                                        "drugbank_id": "DB01288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buphenine (G02CA02)",
+                                "atc_code": "G02CA02",
+                                "children": [
+                                    {
+                                        "name": "Nylidrin",
+                                        "drugbank_id": "DB06152"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ritodrine (G02CA01)",
+                                "atc_code": "G02CA01",
+                                "children": [
+                                    {
+                                        "name": "Ritodrine",
+                                        "drugbank_id": "DB00867"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Contraceptives for topical use (G02B)",
+                "atc_code": "G02B",
+                "children": [
+                    {
+                        "name": "Intravaginal contraceptives (G02BB)",
+                        "atc_code": "G02BB",
+                        "children": [
+                            {
+                                "name": "Vaginal ring with progestogen (G02BB02)",
+                                "atc_code": "G02BB02"
+                            },
+                            {
+                                "name": "Vaginal ring with progestogen and estrogen (G02BB01)",
+                                "atc_code": "G02BB01",
+                                "children": [
+                                    {
+                                        "name": "Estradiol",
+                                        "drugbank_id": "DB00783"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Intrauterine contraceptives (G02BA)",
+                        "atc_code": "G02BA",
+                        "children": [
+                            {
+                                "name": "Plastic iud with progestogen (G02BA03)",
+                                "atc_code": "G02BA03"
+                            },
+                            {
+                                "name": "Plastic iud with copper (G02BA02)",
+                                "atc_code": "G02BA02"
+                            },
+                            {
+                                "name": "Plastic iud (G02BA01)",
+                                "atc_code": "G02BA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Uterotonics (G02A)",
+                "atc_code": "G02A",
+                "children": [
+                    {
+                        "name": "Other uterotonics (G02AX)",
+                        "atc_code": "G02AX"
+                    },
+                    {
+                        "name": "Prostaglandins (G02AD)",
+                        "atc_code": "G02AD",
+                        "children": [
+                            {
+                                "name": "Misoprostol (G02AD06)",
+                                "atc_code": "G02AD06",
+                                "children": [
+                                    {
+                                        "name": "Misoprostol",
+                                        "drugbank_id": "DB00929"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulprostone (G02AD05)",
+                                "atc_code": "G02AD05",
+                                "children": [
+                                    {
+                                        "name": "Sulprostone",
+                                        "drugbank_id": "DB12708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carboprost (G02AD04)",
+                                "atc_code": "G02AD04",
+                                "children": [
+                                    {
+                                        "name": "Carboprost",
+                                        "drugbank_id": "DB19356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gemeprost (G02AD03)",
+                                "atc_code": "G02AD03",
+                                "children": [
+                                    {
+                                        "name": "Gemeprost",
+                                        "drugbank_id": "DB08964"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dinoprostone (G02AD02)",
+                                "atc_code": "G02AD02",
+                                "children": [
+                                    {
+                                        "name": "Dinoprostone",
+                                        "drugbank_id": "DB00917"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dinoprost (G02AD01)",
+                                "atc_code": "G02AD01",
+                                "children": [
+                                    {
+                                        "name": "Dinoprost",
+                                        "drugbank_id": "DB12789"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ergot alkaloids and oxytocin incl. analogues, in combination (G02AC)",
+                        "atc_code": "G02AC",
+                        "children": [
+                            {
+                                "name": "Methylergometrine and oxytocin (G02AC01)",
+                                "atc_code": "G02AC01",
+                                "children": [
+                                    {
+                                        "name": "Methylergometrine",
+                                        "drugbank_id": "DB00353"
+                                    },
+                                    {
+                                        "name": "Oxytocin",
+                                        "drugbank_id": "DB00107"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ergot alkaloids (G02AB)",
+                        "atc_code": "G02AB",
+                        "children": [
+                            {
+                                "name": "Ergometrine (G02AB03)",
+                                "atc_code": "G02AB03",
+                                "children": [
+                                    {
+                                        "name": "Ergometrine",
+                                        "drugbank_id": "DB01253"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergot alkaloids (G02AB02)",
+                                "atc_code": "G02AB02"
+                            },
+                            {
+                                "name": "Methylergometrine (G02AB01)",
+                                "atc_code": "G02AB01",
+                                "children": [
+                                    {
+                                        "name": "Methylergometrine",
+                                        "drugbank_id": "DB00353"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

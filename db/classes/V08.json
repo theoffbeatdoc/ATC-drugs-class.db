@@ -1,0 +1,656 @@
+[
+    {
+        "name": "Contrast media (V08)",
+        "atc_code": "V08",
+        "children": [
+            {
+                "name": "Ultrasound contrast media (V08D)",
+                "atc_code": "V08D",
+                "children": [
+                    {
+                        "name": "Ultrasound contrast media (V08DA)",
+                        "atc_code": "V08DA",
+                        "children": [
+                            {
+                                "name": "Perflubutane, phospholipid microspheres (V08DA06)",
+                                "atc_code": "V08DA06"
+                            },
+                            {
+                                "name": "Sulfur hexafluoride, phospholipid microspheres (V08DA05)",
+                                "atc_code": "V08DA05"
+                            },
+                            {
+                                "name": "Perflutren, phospholipid microspheres (V08DA04)",
+                                "atc_code": "V08DA04"
+                            },
+                            {
+                                "name": "Perflenapent (V08DA03)",
+                                "atc_code": "V08DA03",
+                                "children": [
+                                    {
+                                        "name": "Perflenapent",
+                                        "drugbank_id": "DB11625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Microparticles of galactose (V08DA02)",
+                                "atc_code": "V08DA02",
+                                "children": [
+                                    {
+                                        "name": "Galactose",
+                                        "drugbank_id": "DB11735"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Perflutren, human albumin microspheres (V08DA01)",
+                                "atc_code": "V08DA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magnetic resonance imaging contrast media (V08C)",
+                "atc_code": "V08C",
+                "children": [
+                    {
+                        "name": "Other magnetic resonance imaging contrast media (V08CX)",
+                        "atc_code": "V08CX",
+                        "children": [
+                            {
+                                "name": "Perflubron (V08CX01)",
+                                "atc_code": "V08CX01",
+                                "children": [
+                                    {
+                                        "name": "Perflubron",
+                                        "drugbank_id": "DB05791"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Superparamagnetic contrast media (V08CB)",
+                        "atc_code": "V08CB",
+                        "children": [
+                            {
+                                "name": "Iron oxide, nanoparticles (V08CB03)",
+                                "atc_code": "V08CB03",
+                                "children": [
+                                    {
+                                        "name": "Ferric oxide",
+                                        "drugbank_id": "DB11576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferristene (V08CB02)",
+                                "atc_code": "V08CB02"
+                            },
+                            {
+                                "name": "Ferumoxsil (V08CB01)",
+                                "atc_code": "V08CB01",
+                                "children": [
+                                    {
+                                        "name": "Ferumoxsil",
+                                        "drugbank_id": "DB09507"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Paramagnetic contrast media (V08CA)",
+                        "atc_code": "V08CA",
+                        "children": [
+                            {
+                                "name": "Gadopiclenol (V08CA12)",
+                                "atc_code": "V08CA12",
+                                "children": [
+                                    {
+                                        "name": "Gadopiclenol",
+                                        "drugbank_id": "DB17084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadofosveset (V08CA11)",
+                                "atc_code": "V08CA11",
+                                "children": [
+                                    {
+                                        "name": "Gadofosveset trisodium",
+                                        "drugbank_id": "DB06705"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadoxetic acid (V08CA10)",
+                                "atc_code": "V08CA10",
+                                "children": [
+                                    {
+                                        "name": "Gadoxetic acid",
+                                        "drugbank_id": "DB08884"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadobutrol (V08CA09)",
+                                "atc_code": "V08CA09",
+                                "children": [
+                                    {
+                                        "name": "Gadobutrol",
+                                        "drugbank_id": "DB06703"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadobenic acid (V08CA08)",
+                                "atc_code": "V08CA08",
+                                "children": [
+                                    {
+                                        "name": "Gadobenic acid",
+                                        "drugbank_id": "DB00743"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ferric ammonium citrate (V08CA07)",
+                                "atc_code": "V08CA07",
+                                "children": [
+                                    {
+                                        "name": "Ferric ammonium citrate",
+                                        "drugbank_id": "DB09501"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadoversetamide (V08CA06)",
+                                "atc_code": "V08CA06",
+                                "children": [
+                                    {
+                                        "name": "Gadoversetamide",
+                                        "drugbank_id": "DB00538"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mangafodipir (V08CA05)",
+                                "atc_code": "V08CA05",
+                                "children": [
+                                    {
+                                        "name": "Mangafodipir",
+                                        "drugbank_id": "DB06796"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadoteridol (V08CA04)",
+                                "atc_code": "V08CA04",
+                                "children": [
+                                    {
+                                        "name": "Gadoteridol",
+                                        "drugbank_id": "DB00597"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadodiamide (V08CA03)",
+                                "atc_code": "V08CA03",
+                                "children": [
+                                    {
+                                        "name": "Gadodiamide",
+                                        "drugbank_id": "DB00225"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadoteric acid (V08CA02)",
+                                "atc_code": "V08CA02",
+                                "children": [
+                                    {
+                                        "name": "Gadoteric acid",
+                                        "drugbank_id": "DB09132"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gadopentetic acid (V08CA01)",
+                                "atc_code": "V08CA01",
+                                "children": [
+                                    {
+                                        "name": "Gadopentetic acid",
+                                        "drugbank_id": "DB00789"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "X-ray contrast media, non-iodinated (V08B)",
+                "atc_code": "V08B",
+                "children": [
+                    {
+                        "name": "Barium sulfate containing x-ray contrast media (V08BA)",
+                        "atc_code": "V08BA",
+                        "children": [
+                            {
+                                "name": "Barium sulfate without suspending agents (V08BA02)",
+                                "atc_code": "V08BA02",
+                                "children": [
+                                    {
+                                        "name": "Barium sulfate",
+                                        "drugbank_id": "DB11150"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Barium sulfate with suspending agents (V08BA01)",
+                                "atc_code": "V08BA01",
+                                "children": [
+                                    {
+                                        "name": "Barium sulfate",
+                                        "drugbank_id": "DB11150"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "X-ray contrast media, iodinated (V08A)",
+                "atc_code": "V08A",
+                "children": [
+                    {
+                        "name": "Non-watersoluble x-ray contrast media (V08AD)",
+                        "atc_code": "V08AD",
+                        "children": [
+                            {
+                                "name": "Iofendylate (V08AD04)",
+                                "atc_code": "V08AD04",
+                                "children": [
+                                    {
+                                        "name": "Iophendylate",
+                                        "drugbank_id": "DB01187"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propyliodone (V08AD03)",
+                                "atc_code": "V08AD03",
+                                "children": [
+                                    {
+                                        "name": "Propyliodone",
+                                        "drugbank_id": "DB09366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iopydol (V08AD02)",
+                                "atc_code": "V08AD02",
+                                "children": [
+                                    {
+                                        "name": "Iopydol",
+                                        "drugbank_id": "DB13389"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethyl esters of iodised fatty acids (V08AD01)",
+                                "atc_code": "V08AD01",
+                                "children": [
+                                    {
+                                        "name": "Ethiodized oil",
+                                        "drugbank_id": "DB00965"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Watersoluble, hepatotropic x-ray contrast media (V08AC)",
+                        "atc_code": "V08AC",
+                        "children": [
+                            {
+                                "name": "Calcium iopodate (V08AC10)",
+                                "atc_code": "V08AC10",
+                                "children": [
+                                    {
+                                        "name": "Iopodic acid",
+                                        "drugbank_id": "DB09333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tyropanoic acid (V08AC09)",
+                                "atc_code": "V08AC09",
+                                "children": [
+                                    {
+                                        "name": "Tyropanoic acid",
+                                        "drugbank_id": "DB09340"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium iopodate (V08AC08)",
+                                "atc_code": "V08AC08",
+                                "children": [
+                                    {
+                                        "name": "Iopodic acid",
+                                        "drugbank_id": "DB09333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iocetamic acid (V08AC07)",
+                                "atc_code": "V08AC07",
+                                "children": [
+                                    {
+                                        "name": "Iocetamic acid",
+                                        "drugbank_id": "DB09403"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iopanoic acid (V08AC06)",
+                                "atc_code": "V08AC06",
+                                "children": [
+                                    {
+                                        "name": "Iopanoic acid",
+                                        "drugbank_id": "DB08946"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iobenzamic acid (V08AC05)",
+                                "atc_code": "V08AC05",
+                                "children": [
+                                    {
+                                        "name": "Iobenzamic acid",
+                                        "drugbank_id": "DB13428"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adipiodone (V08AC04)",
+                                "atc_code": "V08AC04",
+                                "children": [
+                                    {
+                                        "name": "Iodipamide",
+                                        "drugbank_id": "DB04711"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ioglycamic acid (V08AC03)",
+                                "atc_code": "V08AC03",
+                                "children": [
+                                    {
+                                        "name": "Ioglycamic acid",
+                                        "drugbank_id": "DB13741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iotroxic acid (V08AC02)",
+                                "atc_code": "V08AC02",
+                                "children": [
+                                    {
+                                        "name": "Iotroxic acid",
+                                        "drugbank_id": "DB08945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodoxamic acid (V08AC01)",
+                                "atc_code": "V08AC01",
+                                "children": [
+                                    {
+                                        "name": "Iodoxamic acid",
+                                        "drugbank_id": "DB13539"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Watersoluble, nephrotropic, low osmolar x-ray contrast media (V08AB)",
+                        "atc_code": "V08AB",
+                        "children": [
+                            {
+                                "name": "Ioxilan (V08AB12)",
+                                "atc_code": "V08AB12",
+                                "children": [
+                                    {
+                                        "name": "Ioxilan",
+                                        "drugbank_id": "DB09135"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iobitridol (V08AB11)",
+                                "atc_code": "V08AB11",
+                                "children": [
+                                    {
+                                        "name": "Iobitridol",
+                                        "drugbank_id": "DB12407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iomeprol (V08AB10)",
+                                "atc_code": "V08AB10",
+                                "children": [
+                                    {
+                                        "name": "Iomeprol",
+                                        "drugbank_id": "DB11705"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodixanol (V08AB09)",
+                                "atc_code": "V08AB09",
+                                "children": [
+                                    {
+                                        "name": "Iodixanol",
+                                        "drugbank_id": "DB01249"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iopentol (V08AB08)",
+                                "atc_code": "V08AB08",
+                                "children": [
+                                    {
+                                        "name": "Iopentol",
+                                        "drugbank_id": "DB13861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ioversol (V08AB07)",
+                                "atc_code": "V08AB07",
+                                "children": [
+                                    {
+                                        "name": "Ioversol",
+                                        "drugbank_id": "DB09134"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iotrolan (V08AB06)",
+                                "atc_code": "V08AB06",
+                                "children": [
+                                    {
+                                        "name": "Iotrolan",
+                                        "drugbank_id": "DB09487"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iopromide (V08AB05)",
+                                "atc_code": "V08AB05",
+                                "children": [
+                                    {
+                                        "name": "Iopromide",
+                                        "drugbank_id": "DB09156"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iopamidol (V08AB04)",
+                                "atc_code": "V08AB04",
+                                "children": [
+                                    {
+                                        "name": "Iopamidol",
+                                        "drugbank_id": "DB08947"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ioxaglic acid (V08AB03)",
+                                "atc_code": "V08AB03",
+                                "children": [
+                                    {
+                                        "name": "Ioxaglic acid",
+                                        "drugbank_id": "DB09313"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iohexol (V08AB02)",
+                                "atc_code": "V08AB02",
+                                "children": [
+                                    {
+                                        "name": "Iohexol",
+                                        "drugbank_id": "DB01362"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metrizamide (V08AB01)",
+                                "atc_code": "V08AB01",
+                                "children": [
+                                    {
+                                        "name": "Metrizamide",
+                                        "drugbank_id": "DB01578"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Watersoluble, nephrotropic, high osmolar x-ray contrast media (V08AA)",
+                        "atc_code": "V08AA",
+                        "children": [
+                            {
+                                "name": "Diodone (V08AA10)",
+                                "atc_code": "V08AA10",
+                                "children": [
+                                    {
+                                        "name": "Diodone",
+                                        "drugbank_id": "DB13568"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methiodal (V08AA09)",
+                                "atc_code": "V08AA09",
+                                "children": [
+                                    {
+                                        "name": "Methiodal",
+                                        "drugbank_id": "DB13321"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iocarmic acid (V08AA08)",
+                                "atc_code": "V08AA08",
+                                "children": [
+                                    {
+                                        "name": "Iocarmic acid",
+                                        "drugbank_id": "DB13755"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetrizoic acid (V08AA07)",
+                                "atc_code": "V08AA07",
+                                "children": [
+                                    {
+                                        "name": "Acetrizoic acid",
+                                        "drugbank_id": "DB09347"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ioglicic acid (V08AA06)",
+                                "atc_code": "V08AA06",
+                                "children": [
+                                    {
+                                        "name": "Ioglicic acid",
+                                        "drugbank_id": "DB13701"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ioxitalamic acid (V08AA05)",
+                                "atc_code": "V08AA05",
+                                "children": [
+                                    {
+                                        "name": "Ioxitalamic acid",
+                                        "drugbank_id": "DB13444"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iotalamic acid (V08AA04)",
+                                "atc_code": "V08AA04",
+                                "children": [
+                                    {
+                                        "name": "Iothalamic acid",
+                                        "drugbank_id": "DB09133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodamide (V08AA03)",
+                                "atc_code": "V08AA03",
+                                "children": [
+                                    {
+                                        "name": "Iodamide",
+                                        "drugbank_id": "DB08948"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metrizoic acid (V08AA02)",
+                                "atc_code": "V08AA02",
+                                "children": [
+                                    {
+                                        "name": "Metrizoic acid",
+                                        "drugbank_id": "DB09346"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diatrizoic acid (V08AA01)",
+                                "atc_code": "V08AA01",
+                                "children": [
+                                    {
+                                        "name": "Diatrizoate",
+                                        "drugbank_id": "DB00271"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Antiseptics and disinfectants (D08)",
+        "atc_code": "D08",
+        "children": [
+            {
+                "name": "Antiseptics and disinfectants (D08A)",
+                "atc_code": "D08A",
+                "children": [
+                    {
+                        "name": "Other antiseptics and disinfectants (D08AX)",
+                        "atc_code": "D08AX",
+                        "children": [
+                            {
+                                "name": "Propanol, combinations (D08AX53)",
+                                "atc_code": "D08AX53",
+                                "children": [
+                                    {
+                                        "name": "Propyl alcohol",
+                                        "drugbank_id": "DB03175"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethanol (D08AX08)",
+                                "atc_code": "D08AX08",
+                                "children": [
+                                    {
+                                        "name": "Ethanol",
+                                        "drugbank_id": "DB00898"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium hypochlorite (D08AX07)",
+                                "atc_code": "D08AX07",
+                                "children": [
+                                    {
+                                        "name": "Hypochlorite",
+                                        "drugbank_id": "DB11123"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium permanganate (D08AX06)",
+                                "atc_code": "D08AX06",
+                                "children": [
+                                    {
+                                        "name": "Potassium permanganate",
+                                        "drugbank_id": "DB13831"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isopropanol (D08AX05)",
+                                "atc_code": "D08AX05",
+                                "children": [
+                                    {
+                                        "name": "Isopropyl alcohol",
+                                        "drugbank_id": "DB02325"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tosylchloramide sodium (D08AX04)",
+                                "atc_code": "D08AX04",
+                                "children": [
+                                    {
+                                        "name": "Tosylchloramide",
+                                        "drugbank_id": "DB14708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propanol (D08AX03)",
+                                "atc_code": "D08AX03",
+                                "children": [
+                                    {
+                                        "name": "Propyl alcohol",
+                                        "drugbank_id": "DB03175"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eosin (D08AX02)",
+                                "atc_code": "D08AX02",
+                                "children": [
+                                    {
+                                        "name": "Eosin",
+                                        "drugbank_id": "DB13706"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrogen peroxide (D08AX01)",
+                                "atc_code": "D08AX01",
+                                "children": [
+                                    {
+                                        "name": "Hydrogen peroxide",
+                                        "drugbank_id": "DB11091"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Silver compounds (D08AL)",
+                        "atc_code": "D08AL",
+                        "children": [
+                            {
+                                "name": "Silver (D08AL30)",
+                                "atc_code": "D08AL30",
+                                "children": [
+                                    {
+                                        "name": "Silver",
+                                        "drugbank_id": "DB12965"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Silver nitrate (D08AL01)",
+                                "atc_code": "D08AL01",
+                                "children": [
+                                    {
+                                        "name": "Silver nitrate",
+                                        "drugbank_id": "DB11080"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mercurial products (D08AK)",
+                        "atc_code": "D08AK",
+                        "children": [
+                            {
+                                "name": "Mercuric iodide (D08AK30)",
+                                "atc_code": "D08AK30",
+                                "children": [
+                                    {
+                                        "name": "Mercuric iodide",
+                                        "drugbank_id": "DB04445"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiomersal (D08AK06)",
+                                "atc_code": "D08AK06",
+                                "children": [
+                                    {
+                                        "name": "Thimerosal",
+                                        "drugbank_id": "DB11590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mercury, metallic (D08AK05)",
+                                "atc_code": "D08AK05"
+                            },
+                            {
+                                "name": "Merbromin (D08AK04)",
+                                "atc_code": "D08AK04",
+                                "children": [
+                                    {
+                                        "name": "Merbromin",
+                                        "drugbank_id": "DB13392"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mercuric chloride (D08AK03)",
+                                "atc_code": "D08AK03",
+                                "children": [
+                                    {
+                                        "name": "Mercuric chloride",
+                                        "drugbank_id": "DB13765"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylmercuric borate (D08AK02)",
+                                "atc_code": "D08AK02",
+                                "children": [
+                                    {
+                                        "name": "Phenylmercuric borate",
+                                        "drugbank_id": "DB13834"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mercuric amidochloride (D08AK01)",
+                                "atc_code": "D08AK01",
+                                "children": [
+                                    {
+                                        "name": "Mercuric amidochloride",
+                                        "drugbank_id": "DB13344"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quaternary ammonium compounds (D08AJ)",
+                        "atc_code": "D08AJ",
+                        "children": [
+                            {
+                                "name": "Dodeclonium bromide, combinations (D08AJ59)",
+                                "atc_code": "D08AJ59"
+                            },
+                            {
+                                "name": "Benzethonium chloride, combinations (D08AJ58)",
+                                "atc_code": "D08AJ58",
+                                "children": [
+                                    {
+                                        "name": "Benzethonium",
+                                        "drugbank_id": "DB11125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Octenidine, combinations (D08AJ57)",
+                                "atc_code": "D08AJ57",
+                                "children": [
+                                    {
+                                        "name": "Octenidine",
+                                        "drugbank_id": "DB12624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Decamethoxine (D08AJ10)",
+                                "atc_code": "D08AJ10",
+                                "children": [
+                                    {
+                                        "name": "Decamethoxine",
+                                        "drugbank_id": "DB13705"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzethonium chloride (D08AJ08)",
+                                "atc_code": "D08AJ08",
+                                "children": [
+                                    {
+                                        "name": "Benzethonium",
+                                        "drugbank_id": "DB11125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Didecyldimethylammonium chloride (D08AJ06)",
+                                "atc_code": "D08AJ06",
+                                "children": [
+                                    {
+                                        "name": "Didecyldimethylammonium",
+                                        "drugbank_id": "DB04221"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzoxonium chloride (D08AJ05)",
+                                "atc_code": "D08AJ05",
+                                "children": [
+                                    {
+                                        "name": "Benzoxonium",
+                                        "drugbank_id": "DB13565"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetrimide (D08AJ04)",
+                                "atc_code": "D08AJ04",
+                                "children": [
+                                    {
+                                        "name": "Cetrimonium",
+                                        "drugbank_id": "DB01718"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetylpyridinium (D08AJ03)",
+                                "atc_code": "D08AJ03",
+                                "children": [
+                                    {
+                                        "name": "Cetylpyridinium",
+                                        "drugbank_id": "DB11073"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetrimonium (D08AJ02)",
+                                "atc_code": "D08AJ02",
+                                "children": [
+                                    {
+                                        "name": "Cetrimonium",
+                                        "drugbank_id": "DB01718"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzalkonium (D08AJ01)",
+                                "atc_code": "D08AJ01",
+                                "children": [
+                                    {
+                                        "name": "Benzalkonium",
+                                        "drugbank_id": "DB11105"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quinoline derivatives (D08AH)",
+                        "atc_code": "D08AH",
+                        "children": [
+                            {
+                                "name": "Clioquinol (D08AH30)",
+                                "atc_code": "D08AH30",
+                                "children": [
+                                    {
+                                        "name": "Clioquinol",
+                                        "drugbank_id": "DB04815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyquinoline (D08AH03)",
+                                "atc_code": "D08AH03",
+                                "children": [
+                                    {
+                                        "name": "Oxyquinoline",
+                                        "drugbank_id": "DB11145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorquinaldol (D08AH02)",
+                                "atc_code": "D08AH02",
+                                "children": [
+                                    {
+                                        "name": "Chlorquinaldol",
+                                        "drugbank_id": "DB13306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dequalinium (D08AH01)",
+                                "atc_code": "D08AH01",
+                                "children": [
+                                    {
+                                        "name": "Dequalinium",
+                                        "drugbank_id": "DB04209"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iodine products (D08AG)",
+                        "atc_code": "D08AG",
+                        "children": [
+                            {
+                                "name": "Diiodohydroxypropane (D08AG04)",
+                                "atc_code": "D08AG04",
+                                "children": [
+                                    {
+                                        "name": "Diiodohydroxypropane",
+                                        "drugbank_id": "DB13383"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (D08AG03)",
+                                "atc_code": "D08AG03",
+                                "children": [
+                                    {
+                                        "name": "Iodine",
+                                        "drugbank_id": "DB05382"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Povidone-iodine (D08AG02)",
+                                "atc_code": "D08AG02",
+                                "children": [
+                                    {
+                                        "name": "Povidone-iodine",
+                                        "drugbank_id": "DB06812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine/octylphenoxypolyglycolether (D08AG01)",
+                                "atc_code": "D08AG01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nitrofuran derivatives (D08AF)",
+                        "atc_code": "D08AF",
+                        "children": [
+                            {
+                                "name": "Nitrofural (D08AF01)",
+                                "atc_code": "D08AF01",
+                                "children": [
+                                    {
+                                        "name": "Nitrofural",
+                                        "drugbank_id": "DB00336"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenol and derivatives (D08AE)",
+                        "atc_code": "D08AE",
+                        "children": [
+                            {
+                                "name": "Biphenylol (D08AE06)",
+                                "atc_code": "D08AE06",
+                                "children": [
+                                    {
+                                        "name": "Biphenylol",
+                                        "drugbank_id": "DB13734"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloroxylenol (D08AE05)",
+                                "atc_code": "D08AE05",
+                                "children": [
+                                    {
+                                        "name": "Chloroxylenol",
+                                        "drugbank_id": "DB11121"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triclosan (D08AE04)",
+                                "atc_code": "D08AE04",
+                                "children": [
+                                    {
+                                        "name": "Triclosan",
+                                        "drugbank_id": "DB08604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenol (D08AE03)",
+                                "atc_code": "D08AE03",
+                                "children": [
+                                    {
+                                        "name": "Phenol",
+                                        "drugbank_id": "DB03255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Policresulen (D08AE02)",
+                                "atc_code": "D08AE02",
+                                "children": [
+                                    {
+                                        "name": "Policresulen",
+                                        "drugbank_id": "DB13492"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexachlorophene (D08AE01)",
+                                "atc_code": "D08AE01",
+                                "children": [
+                                    {
+                                        "name": "Hexachlorophene",
+                                        "drugbank_id": "DB00756"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Boric acid products (D08AD)",
+                        "atc_code": "D08AD"
+                    },
+                    {
+                        "name": "Biguanides and amidines (D08AC)",
+                        "atc_code": "D08AC",
+                        "children": [
+                            {
+                                "name": "Chlorhexidine, combinations (D08AC52)",
+                                "atc_code": "D08AC52",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polihexanide (D08AC05)",
+                                "atc_code": "D08AC05",
+                                "children": [
+                                    {
+                                        "name": "Polihexanide",
+                                        "drugbank_id": "DB12277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexamidine (D08AC04)",
+                                "atc_code": "D08AC04",
+                                "children": [
+                                    {
+                                        "name": "Hexamidine",
+                                        "drugbank_id": "DB03808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propamidine (D08AC03)",
+                                "atc_code": "D08AC03",
+                                "children": [
+                                    {
+                                        "name": "Propamidine",
+                                        "drugbank_id": "DB13296"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (D08AC02)",
+                                "atc_code": "D08AC02",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibrompropamidine (D08AC01)",
+                                "atc_code": "D08AC01",
+                                "children": [
+                                    {
+                                        "name": "Dibrompropamidine",
+                                        "drugbank_id": "DB13548"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aluminium agents (D08AB)",
+                        "atc_code": "D08AB"
+                    },
+                    {
+                        "name": "Acridine derivatives (D08AA)",
+                        "atc_code": "D08AA",
+                        "children": [
+                            {
+                                "name": "Euflavine (D08AA03)",
+                                "atc_code": "D08AA03",
+                                "children": [
+                                    {
+                                        "name": "Euflavine",
+                                        "drugbank_id": "DB13326"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminoacridine (D08AA02)",
+                                "atc_code": "D08AA02",
+                                "children": [
+                                    {
+                                        "name": "Aminacrine",
+                                        "drugbank_id": "DB11561"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethacridine lactate (D08AA01)",
+                                "atc_code": "D08AA01",
+                                "children": [
+                                    {
+                                        "name": "Ethacridine",
+                                        "drugbank_id": "DB13190"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

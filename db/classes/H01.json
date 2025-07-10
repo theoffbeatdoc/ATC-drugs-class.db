@@ -1,0 +1,430 @@
+[
+    {
+        "name": "Pituitary and hypothalamic hormones and analogues (H01)",
+        "atc_code": "H01",
+        "children": [
+            {
+                "name": "Hypothalamic hormones (H01C)",
+                "atc_code": "H01C",
+                "children": [
+                    {
+                        "name": "Anti-gonadotropin-releasing hormones (H01CC)",
+                        "atc_code": "H01CC",
+                        "children": [
+                            {
+                                "name": "Elagolix, estradiol and norethisterone (H01CC53)",
+                                "atc_code": "H01CC53",
+                                "children": [
+                                    {
+                                        "name": "Estradiol",
+                                        "drugbank_id": "DB00783"
+                                    },
+                                    {
+                                        "name": "Norethisterone",
+                                        "drugbank_id": "DB00717"
+                                    },
+                                    {
+                                        "name": "Elagolix",
+                                        "drugbank_id": "DB11979"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Relugolix, estradiol and norethisterone (H01CC54)",
+                                "atc_code": "H01CC54",
+                                "children": [
+                                    {
+                                        "name": "Relugolix",
+                                        "drugbank_id": "DB11853"
+                                    },
+                                    {
+                                        "name": "Estradiol",
+                                        "drugbank_id": "DB00783"
+                                    },
+                                    {
+                                        "name": "Norethisterone",
+                                        "drugbank_id": "DB00717"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linzagolix (H01CC04)",
+                                "atc_code": "H01CC04",
+                                "children": [
+                                    {
+                                        "name": "Linzagolix",
+                                        "drugbank_id": "DB17083"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elagolix (H01CC03)",
+                                "atc_code": "H01CC03",
+                                "children": [
+                                    {
+                                        "name": "Elagolix",
+                                        "drugbank_id": "DB11979"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetrorelix (H01CC02)",
+                                "atc_code": "H01CC02",
+                                "children": [
+                                    {
+                                        "name": "Cetrorelix",
+                                        "drugbank_id": "DB00050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ganirelix (H01CC01)",
+                                "atc_code": "H01CC01",
+                                "children": [
+                                    {
+                                        "name": "Ganirelix",
+                                        "drugbank_id": "DB06785"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Somatostatin and analogues (H01CB)",
+                        "atc_code": "H01CB",
+                        "children": [
+                            {
+                                "name": "Pasireotide (H01CB05)",
+                                "atc_code": "H01CB05",
+                                "children": [
+                                    {
+                                        "name": "Pasireotide",
+                                        "drugbank_id": "DB06663"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vapreotide (H01CB04)",
+                                "atc_code": "H01CB04",
+                                "children": [
+                                    {
+                                        "name": "Vapreotide",
+                                        "drugbank_id": "DB04894"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lanreotide (H01CB03)",
+                                "atc_code": "H01CB03",
+                                "children": [
+                                    {
+                                        "name": "Lanreotide",
+                                        "drugbank_id": "DB06791"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Octreotide (H01CB02)",
+                                "atc_code": "H01CB02",
+                                "children": [
+                                    {
+                                        "name": "Octreotide",
+                                        "drugbank_id": "DB00104"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somatostatin (H01CB01)",
+                                "atc_code": "H01CB01",
+                                "children": [
+                                    {
+                                        "name": "Somatostatin",
+                                        "drugbank_id": "DB09099"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gonadotropin-releasing hormones (H01CA)",
+                        "atc_code": "H01CA",
+                        "children": [
+                            {
+                                "name": "Nafarelin (H01CA02)",
+                                "atc_code": "H01CA02",
+                                "children": [
+                                    {
+                                        "name": "Nafarelin",
+                                        "drugbank_id": "DB00666"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gonadorelin (H01CA01)",
+                                "atc_code": "H01CA01",
+                                "children": [
+                                    {
+                                        "name": "Gonadorelin",
+                                        "drugbank_id": "DB00644"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Posterior pituitary lobe hormones (H01B)",
+                "atc_code": "H01B",
+                "children": [
+                    {
+                        "name": "Oxytocin and analogues (H01BB)",
+                        "atc_code": "H01BB",
+                        "children": [
+                            {
+                                "name": "Carbetocin (H01BB03)",
+                                "atc_code": "H01BB03",
+                                "children": [
+                                    {
+                                        "name": "Carbetocin",
+                                        "drugbank_id": "DB01282"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytocin (H01BB02)",
+                                "atc_code": "H01BB02",
+                                "children": [
+                                    {
+                                        "name": "Oxytocin",
+                                        "drugbank_id": "DB00107"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Demoxytocin (H01BB01)",
+                                "atc_code": "H01BB01",
+                                "children": [
+                                    {
+                                        "name": "Demoxytocin",
+                                        "drugbank_id": "DB13798"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vasopressin and analogues (H01BA)",
+                        "atc_code": "H01BA",
+                        "children": [
+                            {
+                                "name": "Ornipressin (H01BA05)",
+                                "atc_code": "H01BA05",
+                                "children": [
+                                    {
+                                        "name": "Ornipressin",
+                                        "drugbank_id": "DB13464"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terlipressin (H01BA04)",
+                                "atc_code": "H01BA04",
+                                "children": [
+                                    {
+                                        "name": "Terlipressin",
+                                        "drugbank_id": "DB02638"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lypressin (H01BA03)",
+                                "atc_code": "H01BA03",
+                                "children": [
+                                    {
+                                        "name": "Lypressin",
+                                        "drugbank_id": "DB14642"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desmopressin (H01BA02)",
+                                "atc_code": "H01BA02",
+                                "children": [
+                                    {
+                                        "name": "Desmopressin",
+                                        "drugbank_id": "DB00035"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vasopressin (argipressin) (H01BA01)",
+                                "atc_code": "H01BA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anterior pituitary lobe hormones and analogues (H01A)",
+                "atc_code": "H01A",
+                "children": [
+                    {
+                        "name": "Other anterior pituitary lobe hormones and analogues (H01AX)",
+                        "atc_code": "H01AX",
+                        "children": [
+                            {
+                                "name": "Pegvisomant (H01AX01)",
+                                "atc_code": "H01AX01",
+                                "children": [
+                                    {
+                                        "name": "Pegvisomant",
+                                        "drugbank_id": "DB00082"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Somatropin and somatropin agonists (H01AC)",
+                        "atc_code": "H01AC",
+                        "children": [
+                            {
+                                "name": "Lonapegsomatropin (H01AC09)",
+                                "atc_code": "H01AC09",
+                                "children": [
+                                    {
+                                        "name": "Lonapegsomatropin",
+                                        "drugbank_id": "DB16220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somatrogon (H01AC08)",
+                                "atc_code": "H01AC08",
+                                "children": [
+                                    {
+                                        "name": "Somatrogon",
+                                        "drugbank_id": "DB14960"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somapacitan (H01AC07)",
+                                "atc_code": "H01AC07",
+                                "children": [
+                                    {
+                                        "name": "Somapacitan",
+                                        "drugbank_id": "DB15093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tesamorelin (H01AC06)",
+                                "atc_code": "H01AC06",
+                                "children": [
+                                    {
+                                        "name": "Tesamorelin",
+                                        "drugbank_id": "DB08869"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mecasermin rinfabate (H01AC05)",
+                                "atc_code": "H01AC05",
+                                "children": [
+                                    {
+                                        "name": "Mecasermin rinfabate",
+                                        "drugbank_id": "DB14751"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sermorelin (H01AC04)",
+                                "atc_code": "H01AC04",
+                                "children": [
+                                    {
+                                        "name": "Sermorelin",
+                                        "drugbank_id": "DB00010"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mecasermin (H01AC03)",
+                                "atc_code": "H01AC03",
+                                "children": [
+                                    {
+                                        "name": "Mecasermin",
+                                        "drugbank_id": "DB01277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somatrem (H01AC02)",
+                                "atc_code": "H01AC02",
+                                "children": [
+                                    {
+                                        "name": "Somatrem",
+                                        "drugbank_id": "DB09098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somatropin (H01AC01)",
+                                "atc_code": "H01AC01",
+                                "children": [
+                                    {
+                                        "name": "Somatotropin",
+                                        "drugbank_id": "DB00052"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thyrotropin (H01AB)",
+                        "atc_code": "H01AB",
+                        "children": [
+                            {
+                                "name": "Thyrotropin alfa (H01AB01)",
+                                "atc_code": "H01AB01",
+                                "children": [
+                                    {
+                                        "name": "Thyrotropin alfa",
+                                        "drugbank_id": "DB00024"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Acth (H01AA)",
+                        "atc_code": "H01AA",
+                        "children": [
+                            {
+                                "name": "Tetracosactide (H01AA02)",
+                                "atc_code": "H01AA02",
+                                "children": [
+                                    {
+                                        "name": "Tetracosactide",
+                                        "drugbank_id": "DB01284"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Corticotropin (H01AA01)",
+                                "atc_code": "H01AA01",
+                                "children": [
+                                    {
+                                        "name": "Corticotropin",
+                                        "drugbank_id": "DB01285"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

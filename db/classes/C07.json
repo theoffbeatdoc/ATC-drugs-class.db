@@ -1,0 +1,820 @@
+[
+    {
+        "name": "Beta blocking agents (C07)",
+        "atc_code": "C07",
+        "children": [
+            {
+                "name": "Beta blocking agents, other combinations (C07F)",
+                "atc_code": "C07F",
+                "children": [
+                    {
+                        "name": "Beta blocking agents, other combinations (C07FX)",
+                        "atc_code": "C07FX",
+                        "children": [
+                            {
+                                "name": "Carvedilol and ivabradine (C07FX06)",
+                                "atc_code": "C07FX06",
+                                "children": [
+                                    {
+                                        "name": "Ivabradine",
+                                        "drugbank_id": "DB09083"
+                                    },
+                                    {
+                                        "name": "Carvedilol",
+                                        "drugbank_id": "DB01136"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol and ivabradine (C07FX05)",
+                                "atc_code": "C07FX05",
+                                "children": [
+                                    {
+                                        "name": "Ivabradine",
+                                        "drugbank_id": "DB09083"
+                                    },
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisoprolol and acetylsalicylic acid (C07FX04)",
+                                "atc_code": "C07FX04",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol and acetylsalicylic acid (C07FX03)",
+                                "atc_code": "C07FX03",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sotalol and acetylsalicylic acid (C07FX02)",
+                                "atc_code": "C07FX02",
+                                "children": [
+                                    {
+                                        "name": "Sotalol",
+                                        "drugbank_id": "DB00489"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propranolol and other combinations (C07FX01)",
+                                "atc_code": "C07FX01",
+                                "children": [
+                                    {
+                                        "name": "Propranolol",
+                                        "drugbank_id": "DB00571"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents and calcium channel blockers (C07FB)",
+                        "atc_code": "C07FB",
+                        "children": [
+                            {
+                                "name": "Metoprolol and amlodipine (C07FB13)",
+                                "atc_code": "C07FB13",
+                                "children": [
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nebivolol and amlodipine (C07FB12)",
+                                "atc_code": "C07FB12",
+                                "children": [
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisoprolol and amlodipine (C07FB07)",
+                                "atc_code": "C07FB07",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    },
+                                    {
+                                        "name": "Amlodipine",
+                                        "drugbank_id": "DB00381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atenolol and nifedipine (C07FB03)",
+                                "atc_code": "C07FB03",
+                                "children": [
+                                    {
+                                        "name": "Nifedipine",
+                                        "drugbank_id": "DB01115"
+                                    },
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol and felodipine (C07FB02)",
+                                "atc_code": "C07FB02",
+                                "children": [
+                                    {
+                                        "name": "Felodipine",
+                                        "drugbank_id": "DB01023"
+                                    },
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beta blocking agents and vasodilators (C07E)",
+                "atc_code": "C07E",
+                "children": [
+                    {
+                        "name": "Beta blocking agents, selective, and vasodilators (C07EB)",
+                        "atc_code": "C07EB"
+                    },
+                    {
+                        "name": "Beta blocking agents, non-selective, and vasodilators (C07EA)",
+                        "atc_code": "C07EA"
+                    }
+                ]
+            },
+            {
+                "name": "Beta blocking agents, thiazides and other diuretics (C07D)",
+                "atc_code": "C07D",
+                "children": [
+                    {
+                        "name": "Beta blocking agents, selective, thiazides and other diuretics (C07DB)",
+                        "atc_code": "C07DB",
+                        "children": [
+                            {
+                                "name": "Atenolol, thiazides and other diuretics (C07DB01)",
+                                "atc_code": "C07DB01",
+                                "children": [
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, non-selective, thiazides and other diuretics (C07DA)",
+                        "atc_code": "C07DA",
+                        "children": [
+                            {
+                                "name": "Timolol, thiazides and other diuretics (C07DA06)",
+                                "atc_code": "C07DA06",
+                                "children": [
+                                    {
+                                        "name": "Timolol",
+                                        "drugbank_id": "DB00373"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beta blocking agents and other diuretics (C07C)",
+                "atc_code": "C07C",
+                "children": [
+                    {
+                        "name": "Alpha and beta blocking agents and other diuretics (C07CG)",
+                        "atc_code": "C07CG",
+                        "children": [
+                            {
+                                "name": "Labetalol and other diuretics (C07CG01)",
+                                "atc_code": "C07CG01",
+                                "children": [
+                                    {
+                                        "name": "Labetalol",
+                                        "drugbank_id": "DB00598"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, selective, and other diuretics (C07CB)",
+                        "atc_code": "C07CB",
+                        "children": [
+                            {
+                                "name": "Atenolol and other diuretics, combinations (C07CB53)",
+                                "atc_code": "C07CB53",
+                                "children": [
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atenolol and other diuretics (C07CB03)",
+                                "atc_code": "C07CB03",
+                                "children": [
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol and other diuretics (C07CB02)",
+                                "atc_code": "C07CB02",
+                                "children": [
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, non-selective, and other diuretics (C07CA)",
+                        "atc_code": "C07CA",
+                        "children": [
+                            {
+                                "name": "Penbutolol and other diuretics (C07CA23)",
+                                "atc_code": "C07CA23",
+                                "children": [
+                                    {
+                                        "name": "Penbutolol",
+                                        "drugbank_id": "DB01359"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bopindolol and other diuretics (C07CA17)",
+                                "atc_code": "C07CA17",
+                                "children": [
+                                    {
+                                        "name": "Bopindolol",
+                                        "drugbank_id": "DB08807"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pindolol and other diuretics (C07CA03)",
+                                "atc_code": "C07CA03",
+                                "children": [
+                                    {
+                                        "name": "Pindolol",
+                                        "drugbank_id": "DB00960"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxprenolol and other diuretics (C07CA02)",
+                                "atc_code": "C07CA02",
+                                "children": [
+                                    {
+                                        "name": "Oxprenolol",
+                                        "drugbank_id": "DB01580"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beta blocking agents and thiazides (C07B)",
+                "atc_code": "C07B",
+                "children": [
+                    {
+                        "name": "Alpha and beta blocking agents and thiazides (C07BG)",
+                        "atc_code": "C07BG",
+                        "children": [
+                            {
+                                "name": "Labetalol and thiazides (C07BG01)",
+                                "atc_code": "C07BG01",
+                                "children": [
+                                    {
+                                        "name": "Labetalol",
+                                        "drugbank_id": "DB00598"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, selective, and thiazides (C07BB)",
+                        "atc_code": "C07BB",
+                        "children": [
+                            {
+                                "name": "Metoprolol and thiazides, combinations (C07BB52)",
+                                "atc_code": "C07BB52",
+                                "children": [
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nebivolol and thiazides (C07BB12)",
+                                "atc_code": "C07BB12",
+                                "children": [
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisoprolol and thiazides (C07BB07)",
+                                "atc_code": "C07BB07",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bevantolol and thiazides (C07BB06)",
+                                "atc_code": "C07BB06",
+                                "children": [
+                                    {
+                                        "name": "Bevantolol",
+                                        "drugbank_id": "DB01295"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acebutolol and thiazides (C07BB04)",
+                                "atc_code": "C07BB04",
+                                "children": [
+                                    {
+                                        "name": "Acebutolol",
+                                        "drugbank_id": "DB01193"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atenolol and thiazides (C07BB03)",
+                                "atc_code": "C07BB03",
+                                "children": [
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol and thiazides (C07BB02)",
+                                "atc_code": "C07BB02",
+                                "children": [
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, non-selective, and thiazides (C07BA)",
+                        "atc_code": "C07BA",
+                        "children": [
+                            {
+                                "name": "Metipranolol and thiazides, combinations (C07BA68)",
+                                "atc_code": "C07BA68",
+                                "children": [
+                                    {
+                                        "name": "Metipranolol",
+                                        "drugbank_id": "DB01214"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nadolol and thiazides (C07BA12)",
+                                "atc_code": "C07BA12",
+                                "children": [
+                                    {
+                                        "name": "Nadolol",
+                                        "drugbank_id": "DB01203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sotalol and thiazides (C07BA07)",
+                                "atc_code": "C07BA07",
+                                "children": [
+                                    {
+                                        "name": "Sotalol",
+                                        "drugbank_id": "DB00489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Timolol and thiazides (C07BA06)",
+                                "atc_code": "C07BA06",
+                                "children": [
+                                    {
+                                        "name": "Timolol",
+                                        "drugbank_id": "DB00373"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propranolol and thiazides (C07BA05)",
+                                "atc_code": "C07BA05",
+                                "children": [
+                                    {
+                                        "name": "Propranolol",
+                                        "drugbank_id": "DB00571"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxprenolol and thiazides (C07BA02)",
+                                "atc_code": "C07BA02",
+                                "children": [
+                                    {
+                                        "name": "Oxprenolol",
+                                        "drugbank_id": "DB01580"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beta blocking agents (C07A)",
+                "atc_code": "C07A",
+                "children": [
+                    {
+                        "name": "Alpha and beta blocking agents (C07AG)",
+                        "atc_code": "C07AG",
+                        "children": [
+                            {
+                                "name": "Carvedilol (C07AG02)",
+                                "atc_code": "C07AG02",
+                                "children": [
+                                    {
+                                        "name": "Carvedilol",
+                                        "drugbank_id": "DB01136"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Labetalol (C07AG01)",
+                                "atc_code": "C07AG01",
+                                "children": [
+                                    {
+                                        "name": "Labetalol",
+                                        "drugbank_id": "DB00598"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, selective (C07AB)",
+                        "atc_code": "C07AB",
+                        "children": [
+                            {
+                                "name": "Landiolol (C07AB14)",
+                                "atc_code": "C07AB14",
+                                "children": [
+                                    {
+                                        "name": "Landiolol",
+                                        "drugbank_id": "DB12212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Talinolol (C07AB13)",
+                                "atc_code": "C07AB13",
+                                "children": [
+                                    {
+                                        "name": "Talinolol",
+                                        "drugbank_id": "DB11770"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nebivolol (C07AB12)",
+                                "atc_code": "C07AB12",
+                                "children": [
+                                    {
+                                        "name": "Nebivolol",
+                                        "drugbank_id": "DB04861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "S-atenolol (C07AB11)",
+                                "atc_code": "C07AB11",
+                                "children": [
+                                    {
+                                        "name": "Esatenolol",
+                                        "drugbank_id": "DB13443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epanolol (C07AB10)",
+                                "atc_code": "C07AB10",
+                                "children": [
+                                    {
+                                        "name": "Epanolol",
+                                        "drugbank_id": "DB13757"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esmolol (C07AB09)",
+                                "atc_code": "C07AB09",
+                                "children": [
+                                    {
+                                        "name": "Esmolol",
+                                        "drugbank_id": "DB00187"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Celiprolol (C07AB08)",
+                                "atc_code": "C07AB08",
+                                "children": [
+                                    {
+                                        "name": "Celiprolol",
+                                        "drugbank_id": "DB04846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bisoprolol (C07AB07)",
+                                "atc_code": "C07AB07",
+                                "children": [
+                                    {
+                                        "name": "Bisoprolol",
+                                        "drugbank_id": "DB00612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bevantolol (C07AB06)",
+                                "atc_code": "C07AB06",
+                                "children": [
+                                    {
+                                        "name": "Bevantolol",
+                                        "drugbank_id": "DB01295"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betaxolol (C07AB05)",
+                                "atc_code": "C07AB05",
+                                "children": [
+                                    {
+                                        "name": "Betaxolol",
+                                        "drugbank_id": "DB00195"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acebutolol (C07AB04)",
+                                "atc_code": "C07AB04",
+                                "children": [
+                                    {
+                                        "name": "Acebutolol",
+                                        "drugbank_id": "DB01193"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atenolol (C07AB03)",
+                                "atc_code": "C07AB03",
+                                "children": [
+                                    {
+                                        "name": "Atenolol",
+                                        "drugbank_id": "DB00335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoprolol (C07AB02)",
+                                "atc_code": "C07AB02",
+                                "children": [
+                                    {
+                                        "name": "Metoprolol",
+                                        "drugbank_id": "DB00264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Practolol (C07AB01)",
+                                "atc_code": "C07AB01",
+                                "children": [
+                                    {
+                                        "name": "Practolol",
+                                        "drugbank_id": "DB01297"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta blocking agents, non-selective (C07AA)",
+                        "atc_code": "C07AA",
+                        "children": [
+                            {
+                                "name": "Cloranolol (C07AA27)",
+                                "atc_code": "C07AA27",
+                                "children": [
+                                    {
+                                        "name": "Cloranolol",
+                                        "drugbank_id": "DB13508"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penbutolol (C07AA23)",
+                                "atc_code": "C07AA23",
+                                "children": [
+                                    {
+                                        "name": "Penbutolol",
+                                        "drugbank_id": "DB01359"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupranolol (C07AA19)",
+                                "atc_code": "C07AA19",
+                                "children": [
+                                    {
+                                        "name": "Bupranolol",
+                                        "drugbank_id": "DB08808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bopindolol (C07AA17)",
+                                "atc_code": "C07AA17",
+                                "children": [
+                                    {
+                                        "name": "Bopindolol",
+                                        "drugbank_id": "DB08807"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tertatolol (C07AA16)",
+                                "atc_code": "C07AA16",
+                                "children": [
+                                    {
+                                        "name": "Tertatolol",
+                                        "drugbank_id": "DB13775"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carteolol (C07AA15)",
+                                "atc_code": "C07AA15",
+                                "children": [
+                                    {
+                                        "name": "Carteolol",
+                                        "drugbank_id": "DB00521"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepindolol (C07AA14)",
+                                "atc_code": "C07AA14",
+                                "children": [
+                                    {
+                                        "name": "Mepindolol",
+                                        "drugbank_id": "DB13530"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nadolol (C07AA12)",
+                                "atc_code": "C07AA12",
+                                "children": [
+                                    {
+                                        "name": "Nadolol",
+                                        "drugbank_id": "DB01203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sotalol (C07AA07)",
+                                "atc_code": "C07AA07",
+                                "children": [
+                                    {
+                                        "name": "Sotalol",
+                                        "drugbank_id": "DB00489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Timolol (C07AA06)",
+                                "atc_code": "C07AA06",
+                                "children": [
+                                    {
+                                        "name": "Timolol",
+                                        "drugbank_id": "DB00373"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propranolol (C07AA05)",
+                                "atc_code": "C07AA05",
+                                "children": [
+                                    {
+                                        "name": "Propranolol",
+                                        "drugbank_id": "DB00571"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pindolol (C07AA03)",
+                                "atc_code": "C07AA03",
+                                "children": [
+                                    {
+                                        "name": "Pindolol",
+                                        "drugbank_id": "DB00960"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxprenolol (C07AA02)",
+                                "atc_code": "C07AA02",
+                                "children": [
+                                    {
+                                        "name": "Oxprenolol",
+                                        "drugbank_id": "DB01580"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alprenolol (C07AA01)",
+                                "atc_code": "C07AA01",
+                                "children": [
+                                    {
+                                        "name": "Alprenolol",
+                                        "drugbank_id": "DB00866"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

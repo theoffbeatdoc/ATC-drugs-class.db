@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Pancreatic hormones (H04)",
+        "atc_code": "H04",
+        "children": [
+            {
+                "name": "Glycogenolytic hormones (H04A)",
+                "atc_code": "H04A",
+                "children": [
+                    {
+                        "name": "Glycogenolytic hormones (H04AA)",
+                        "atc_code": "H04AA",
+                        "children": [
+                            {
+                                "name": "Dasiglucagon (H04AA02)",
+                                "atc_code": "H04AA02",
+                                "children": [
+                                    {
+                                        "name": "Dasiglucagon",
+                                        "drugbank_id": "DB15226"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glucagon (H04AA01)",
+                                "atc_code": "H04AA01",
+                                "children": [
+                                    {
+                                        "name": "Glucagon",
+                                        "drugbank_id": "DB00040"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Medicated dressings (D09)",
+        "atc_code": "D09",
+        "children": [
+            {
+                "name": "Medicated dressings (D09A)",
+                "atc_code": "D09A",
+                "children": [
+                    {
+                        "name": "Soft paraffin dressings (D09AX)",
+                        "atc_code": "D09AX"
+                    },
+                    {
+                        "name": "Zinc bandages (D09AB)",
+                        "atc_code": "D09AB",
+                        "children": [
+                            {
+                                "name": "Zinc bandage with supplements (D09AB02)",
+                                "atc_code": "D09AB02"
+                            },
+                            {
+                                "name": "Zinc bandage without supplements (D09AB01)",
+                                "atc_code": "D09AB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicated dressings with antiinfectives (D09AA)",
+                        "atc_code": "D09AA",
+                        "children": [
+                            {
+                                "name": "Iodoform (D09AA13)",
+                                "atc_code": "D09AA13",
+                                "children": [
+                                    {
+                                        "name": "Iodoform",
+                                        "drugbank_id": "DB13813"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (D09AA12)",
+                                "atc_code": "D09AA12",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzalkonium (D09AA11)",
+                                "atc_code": "D09AA11",
+                                "children": [
+                                    {
+                                        "name": "Benzalkonium",
+                                        "drugbank_id": "DB11105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clioquinol (D09AA10)",
+                                "atc_code": "D09AA10",
+                                "children": [
+                                    {
+                                        "name": "Clioquinol",
+                                        "drugbank_id": "DB04815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Povidone-iodine (D09AA09)",
+                                "atc_code": "D09AA09",
+                                "children": [
+                                    {
+                                        "name": "Povidone-iodine",
+                                        "drugbank_id": "DB06812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium chlorohydrate (D09AA08)",
+                                "atc_code": "D09AA08",
+                                "children": [
+                                    {
+                                        "name": "Aluminum chlorohydrate",
+                                        "drugbank_id": "DB11573"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetylpyridinium (D09AA07)",
+                                "atc_code": "D09AA07",
+                                "children": [
+                                    {
+                                        "name": "Cetylpyridinium",
+                                        "drugbank_id": "DB11073"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triclosan (D09AA06)",
+                                "atc_code": "D09AA06",
+                                "children": [
+                                    {
+                                        "name": "Triclosan",
+                                        "drugbank_id": "DB08604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzododecinium (D09AA05)",
+                                "atc_code": "D09AA05",
+                                "children": [
+                                    {
+                                        "name": "Benzododecinium",
+                                        "drugbank_id": "DB13282"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenylmercuric nitrate (D09AA04)",
+                                "atc_code": "D09AA04",
+                                "children": [
+                                    {
+                                        "name": "Phenylmercuric nitrate",
+                                        "drugbank_id": "DB13388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrofural (D09AA03)",
+                                "atc_code": "D09AA03",
+                                "children": [
+                                    {
+                                        "name": "Nitrofural",
+                                        "drugbank_id": "DB00336"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fusidic acid (D09AA02)",
+                                "atc_code": "D09AA02",
+                                "children": [
+                                    {
+                                        "name": "Fusidic acid",
+                                        "drugbank_id": "DB02703"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Framycetin (D09AA01)",
+                                "atc_code": "D09AA01",
+                                "children": [
+                                    {
+                                        "name": "Framycetin",
+                                        "drugbank_id": "DB00452"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

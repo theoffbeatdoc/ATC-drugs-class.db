@@ -1,0 +1,1040 @@
+[
+    {
+        "name": "Drugs for acid related disorders (A02)",
+        "atc_code": "A02",
+        "children": [
+            {
+                "name": "Other drugs for acid related disorders (A02X)",
+                "atc_code": "A02X"
+            },
+            {
+                "name": "Drugs for peptic ulcer and gastro-oesophageal reflux disease (gord) (A02B)",
+                "atc_code": "A02B",
+                "children": [
+                    {
+                        "name": "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (gord) (A02BX)",
+                        "atc_code": "A02BX",
+                        "children": [
+                            {
+                                "name": "Irsogladine (A02BX16)",
+                                "atc_code": "A02BX16",
+                                "children": [
+                                    {
+                                        "name": "Irsogladine",
+                                        "drugbank_id": "DB13056"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teprenone (A02BX15)",
+                                "atc_code": "A02BX15",
+                                "children": [
+                                    {
+                                        "name": "Teprenone",
+                                        "drugbank_id": "DB15955"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rebamipide (A02BX14)",
+                                "atc_code": "A02BX14",
+                                "children": [
+                                    {
+                                        "name": "Rebamipide",
+                                        "drugbank_id": "DB11656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gefarnate, combinations with psycholeptics (A02BX77)",
+                                "atc_code": "A02BX77",
+                                "children": [
+                                    {
+                                        "name": "Gefarnate",
+                                        "drugbank_id": "DB12079"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbenoxolone, combinations with psycholeptics (A02BX71)",
+                                "atc_code": "A02BX71",
+                                "children": [
+                                    {
+                                        "name": "Carbenoxolone",
+                                        "drugbank_id": "DB02329"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbenoxolone, combinations excl. psycholeptics (A02BX51)",
+                                "atc_code": "A02BX51",
+                                "children": [
+                                    {
+                                        "name": "Carbenoxolone",
+                                        "drugbank_id": "DB02329"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alginic acid (A02BX13)",
+                                "atc_code": "A02BX13",
+                                "children": [
+                                    {
+                                        "name": "Alginic acid",
+                                        "drugbank_id": "DB13518"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bismuth subnitrate (A02BX12)",
+                                "atc_code": "A02BX12",
+                                "children": [
+                                    {
+                                        "name": "Bismuth subnitrate",
+                                        "drugbank_id": "DB13209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Troxipide (A02BX11)",
+                                "atc_code": "A02BX11",
+                                "children": [
+                                    {
+                                        "name": "Troxipide",
+                                        "drugbank_id": "DB13419"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zolimidine (A02BX10)",
+                                "atc_code": "A02BX10",
+                                "children": [
+                                    {
+                                        "name": "Zolimidine",
+                                        "drugbank_id": "DB13593"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetoxolone (A02BX09)",
+                                "atc_code": "A02BX09",
+                                "children": [
+                                    {
+                                        "name": "Acetoxolone",
+                                        "drugbank_id": "DB13640"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulglicotide (A02BX08)",
+                                "atc_code": "A02BX08",
+                                "children": [
+                                    {
+                                        "name": "Sulglicotide",
+                                        "drugbank_id": "DB13299"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gefarnate (A02BX07)",
+                                "atc_code": "A02BX07",
+                                "children": [
+                                    {
+                                        "name": "Gefarnate",
+                                        "drugbank_id": "DB12079"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Proglumide (A02BX06)",
+                                "atc_code": "A02BX06",
+                                "children": [
+                                    {
+                                        "name": "Proglumide",
+                                        "drugbank_id": "DB13431"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bismuth subcitrate (A02BX05)",
+                                "atc_code": "A02BX05"
+                            },
+                            {
+                                "name": "Methiosulfonium chloride (A02BX04)",
+                                "atc_code": "A02BX04",
+                                "children": [
+                                    {
+                                        "name": "Methylmethionine chloride",
+                                        "drugbank_id": "DB13250"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pirenzepine (A02BX03)",
+                                "atc_code": "A02BX03",
+                                "children": [
+                                    {
+                                        "name": "Pirenzepine",
+                                        "drugbank_id": "DB00670"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sucralfate (A02BX02)",
+                                "atc_code": "A02BX02",
+                                "children": [
+                                    {
+                                        "name": "Sucralfate",
+                                        "drugbank_id": "DB00364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbenoxolone (A02BX01)",
+                                "atc_code": "A02BX01",
+                                "children": [
+                                    {
+                                        "name": "Carbenoxolone",
+                                        "drugbank_id": "DB02329"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations for eradication of helicobacter pylori (A02BD)",
+                        "atc_code": "A02BD",
+                        "children": [
+                            {
+                                "name": "Vonoprazan and amoxicillin (A02BD17)",
+                                "atc_code": "A02BD17",
+                                "children": [
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Vonoprazan",
+                                        "drugbank_id": "DB11739"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omeprazole, amoxicillin and rifabutin (A02BD16)",
+                                "atc_code": "A02BD16",
+                                "children": [
+                                    {
+                                        "name": "Rifabutin",
+                                        "drugbank_id": "DB00615"
+                                    },
+                                    {
+                                        "name": "Omeprazole",
+                                        "drugbank_id": "DB00338"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vonoprazan, amoxicillin and metronidazole (A02BD15)",
+                                "atc_code": "A02BD15",
+                                "children": [
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Vonoprazan",
+                                        "drugbank_id": "DB11739"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vonoprazan, amoxicillin and clarithromycin (A02BD14)",
+                                "atc_code": "A02BD14",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    },
+                                    {
+                                        "name": "Vonoprazan",
+                                        "drugbank_id": "DB11739"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rabeprazole, amoxicillin and metronidazole (A02BD13)",
+                                "atc_code": "A02BD13",
+                                "children": [
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Rabeprazole",
+                                        "drugbank_id": "DB01129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rabeprazole, amoxicillin and clarithromycin (A02BD12)",
+                                "atc_code": "A02BD12",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Rabeprazole",
+                                        "drugbank_id": "DB01129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pantoprazole, amoxicillin, clarithromycin and metronidazole (A02BD11)",
+                                "atc_code": "A02BD11",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Pantoprazole",
+                                        "drugbank_id": "DB00213"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, amoxicillin and levofloxacin (A02BD10)",
+                                "atc_code": "A02BD10",
+                                "children": [
+                                    {
+                                        "name": "Levofloxacin",
+                                        "drugbank_id": "DB01137"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, clarithromycin and tinidazole (A02BD09)",
+                                "atc_code": "A02BD09",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    },
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    },
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bismuth subcitrate, tetracycline and metronidazole (A02BD08)",
+                                "atc_code": "A02BD08",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, amoxicillin and clarithromycin (A02BD07)",
+                                "atc_code": "A02BD07",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    },
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esomeprazole, amoxicillin and clarithromycin (A02BD06)",
+                                "atc_code": "A02BD06",
+                                "children": [
+                                    {
+                                        "name": "Esomeprazole",
+                                        "drugbank_id": "DB00736"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omeprazole, amoxicillin and clarithromycin (A02BD05)",
+                                "atc_code": "A02BD05",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    },
+                                    {
+                                        "name": "Omeprazole",
+                                        "drugbank_id": "DB00338"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pantoprazole, amoxicillin and clarithromycin (A02BD04)",
+                                "atc_code": "A02BD04",
+                                "children": [
+                                    {
+                                        "name": "Pantoprazole",
+                                        "drugbank_id": "DB00213"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, amoxicillin and metronidazole (A02BD03)",
+                                "atc_code": "A02BD03",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, tetracycline and metronidazole (A02BD02)",
+                                "atc_code": "A02BD02",
+                                "children": [
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    },
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omeprazole, amoxicillin and metronidazole (A02BD01)",
+                                "atc_code": "A02BD01",
+                                "children": [
+                                    {
+                                        "name": "Omeprazole",
+                                        "drugbank_id": "DB00338"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Proton pump inhibitors (A02BC)",
+                        "atc_code": "A02BC",
+                        "children": [
+                            {
+                                "name": "Ilaprazole (A02BC11)",
+                                "atc_code": "A02BC11",
+                                "children": [
+                                    {
+                                        "name": "Ilaprazole",
+                                        "drugbank_id": "DB11964"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fexuprazan (A02BC10)",
+                                "atc_code": "A02BC10"
+                            },
+                            {
+                                "name": "Omeprazole, combinations (A02BC51)",
+                                "atc_code": "A02BC51",
+                                "children": [
+                                    {
+                                        "name": "Omeprazole",
+                                        "drugbank_id": "DB00338"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tegoprazan (A02BC09)",
+                                "atc_code": "A02BC09",
+                                "children": [
+                                    {
+                                        "name": "Tegoprazan",
+                                        "drugbank_id": "DB16690"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vonoprazan (A02BC08)",
+                                "atc_code": "A02BC08",
+                                "children": [
+                                    {
+                                        "name": "Vonoprazan",
+                                        "drugbank_id": "DB11739"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rabeprazole, combinations (A02BC54)",
+                                "atc_code": "A02BC54",
+                                "children": [
+                                    {
+                                        "name": "Rabeprazole",
+                                        "drugbank_id": "DB01129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole, combinations (A02BC53)",
+                                "atc_code": "A02BC53",
+                                "children": [
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexrabeprazole (A02BC07)",
+                                "atc_code": "A02BC07",
+                                "children": [
+                                    {
+                                        "name": "Dexrabeprazole",
+                                        "drugbank_id": "DB13762"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexlansoprazole (A02BC06)",
+                                "atc_code": "A02BC06",
+                                "children": [
+                                    {
+                                        "name": "Dexlansoprazole",
+                                        "drugbank_id": "DB05351"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esomeprazole (A02BC05)",
+                                "atc_code": "A02BC05",
+                                "children": [
+                                    {
+                                        "name": "Esomeprazole",
+                                        "drugbank_id": "DB00736"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rabeprazole (A02BC04)",
+                                "atc_code": "A02BC04",
+                                "children": [
+                                    {
+                                        "name": "Rabeprazole",
+                                        "drugbank_id": "DB01129"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lansoprazole (A02BC03)",
+                                "atc_code": "A02BC03",
+                                "children": [
+                                    {
+                                        "name": "Lansoprazole",
+                                        "drugbank_id": "DB00448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pantoprazole (A02BC02)",
+                                "atc_code": "A02BC02",
+                                "children": [
+                                    {
+                                        "name": "Pantoprazole",
+                                        "drugbank_id": "DB00213"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omeprazole (A02BC01)",
+                                "atc_code": "A02BC01",
+                                "children": [
+                                    {
+                                        "name": "Omeprazole",
+                                        "drugbank_id": "DB00338"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prostaglandins (A02BB)",
+                        "atc_code": "A02BB",
+                        "children": [
+                            {
+                                "name": "Enprostil (A02BB02)",
+                                "atc_code": "A02BB02",
+                                "children": [
+                                    {
+                                        "name": "Enprostil",
+                                        "drugbank_id": "DB13824"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Misoprostol (A02BB01)",
+                                "atc_code": "A02BB01",
+                                "children": [
+                                    {
+                                        "name": "Misoprostol",
+                                        "drugbank_id": "DB00929"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "H2-receptor antagonists (A02BA)",
+                        "atc_code": "A02BA",
+                        "children": [
+                            {
+                                "name": "Famotidine, combinations (A02BA53)",
+                                "atc_code": "A02BA53",
+                                "children": [
+                                    {
+                                        "name": "Famotidine",
+                                        "drugbank_id": "DB00927"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cimetidine, combinations (A02BA51)",
+                                "atc_code": "A02BA51",
+                                "children": [
+                                    {
+                                        "name": "Cimetidine",
+                                        "drugbank_id": "DB00501"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lafutidine (A02BA08)",
+                                "atc_code": "A02BA08",
+                                "children": [
+                                    {
+                                        "name": "Lafutidine",
+                                        "drugbank_id": "DB12770"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ranitidine bismuth citrate (A02BA07)",
+                                "atc_code": "A02BA07",
+                                "children": [
+                                    {
+                                        "name": "Ranitidine",
+                                        "drugbank_id": "DB00863"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roxatidine (A02BA06)",
+                                "atc_code": "A02BA06",
+                                "children": [
+                                    {
+                                        "name": "Roxatidine acetate",
+                                        "drugbank_id": "DB08806"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Niperotidine (A02BA05)",
+                                "atc_code": "A02BA05",
+                                "children": [
+                                    {
+                                        "name": "Niperotidine",
+                                        "drugbank_id": "DB13760"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nizatidine (A02BA04)",
+                                "atc_code": "A02BA04",
+                                "children": [
+                                    {
+                                        "name": "Nizatidine",
+                                        "drugbank_id": "DB00585"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Famotidine (A02BA03)",
+                                "atc_code": "A02BA03",
+                                "children": [
+                                    {
+                                        "name": "Famotidine",
+                                        "drugbank_id": "DB00927"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ranitidine (A02BA02)",
+                                "atc_code": "A02BA02",
+                                "children": [
+                                    {
+                                        "name": "Ranitidine",
+                                        "drugbank_id": "DB00863"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cimetidine (A02BA01)",
+                                "atc_code": "A02BA01",
+                                "children": [
+                                    {
+                                        "name": "Cimetidine",
+                                        "drugbank_id": "DB00501"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antacids (A02A)",
+                "atc_code": "A02A",
+                "children": [
+                    {
+                        "name": "Antacids, other combinations (A02AX)",
+                        "atc_code": "A02AX"
+                    },
+                    {
+                        "name": "Antacids with sodium bicarbonate (A02AH)",
+                        "atc_code": "A02AH"
+                    },
+                    {
+                        "name": "Antacids with antispasmodics (A02AG)",
+                        "atc_code": "A02AG"
+                    },
+                    {
+                        "name": "Antacids with antiflatulents (A02AF)",
+                        "atc_code": "A02AF",
+                        "children": [
+                            {
+                                "name": "Ordinary salt combinations and antiflatulents (A02AF02)",
+                                "atc_code": "A02AF02"
+                            },
+                            {
+                                "name": "Magaldrate and antiflatulents (A02AF01)",
+                                "atc_code": "A02AF01",
+                                "children": [
+                                    {
+                                        "name": "Magaldrate",
+                                        "drugbank_id": "DB08938"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations and complexes of aluminium, calcium and magnesium compounds (A02AD)",
+                        "atc_code": "A02AD",
+                        "children": [
+                            {
+                                "name": "Almasilate (A02AD05)",
+                                "atc_code": "A02AD05",
+                                "children": [
+                                    {
+                                        "name": "Almasilate",
+                                        "drugbank_id": "DB13595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrotalcite (A02AD04)",
+                                "atc_code": "A02AD04",
+                                "children": [
+                                    {
+                                        "name": "Hydrotalcite",
+                                        "drugbank_id": "DB13322"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Almagate (A02AD03)",
+                                "atc_code": "A02AD03",
+                                "children": [
+                                    {
+                                        "name": "Aluminum hydroxide",
+                                        "drugbank_id": "DB06723"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magaldrate (A02AD02)",
+                                "atc_code": "A02AD02",
+                                "children": [
+                                    {
+                                        "name": "Magaldrate",
+                                        "drugbank_id": "DB08938"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ordinary salt combinations (A02AD01)",
+                                "atc_code": "A02AD01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Calcium compounds (A02AC)",
+                        "atc_code": "A02AC",
+                        "children": [
+                            {
+                                "name": "Combinations (A02AC10)",
+                                "atc_code": "A02AC10"
+                            },
+                            {
+                                "name": "Calcium silicate (A02AC02)",
+                                "atc_code": "A02AC02",
+                                "children": [
+                                    {
+                                        "name": "Calcium silicate",
+                                        "drugbank_id": "DB13829"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium carbonate (A02AC01)",
+                                "atc_code": "A02AC01",
+                                "children": [
+                                    {
+                                        "name": "Calcium carbonate",
+                                        "drugbank_id": "DB06724"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aluminium compounds (A02AB)",
+                        "atc_code": "A02AB",
+                        "children": [
+                            {
+                                "name": "Combinations (A02AB10)",
+                                "atc_code": "A02AB10"
+                            },
+                            {
+                                "name": "Aluminium glycinate (A02AB07)",
+                                "atc_code": "A02AB07",
+                                "children": [
+                                    {
+                                        "name": "Aluminium glycinate",
+                                        "drugbank_id": "DB13626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aloglutamol (A02AB06)",
+                                "atc_code": "A02AB06",
+                                "children": [
+                                    {
+                                        "name": "Aloglutamol",
+                                        "drugbank_id": "DB13650"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium acetoacetate (A02AB05)",
+                                "atc_code": "A02AB05",
+                                "children": [
+                                    {
+                                        "name": "Aluminium acetoacetate",
+                                        "drugbank_id": "DB13280"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydroxialumini sodium carbonate (A02AB04)",
+                                "atc_code": "A02AB04"
+                            },
+                            {
+                                "name": "Aluminium phosphate (A02AB03)",
+                                "atc_code": "A02AB03",
+                                "children": [
+                                    {
+                                        "name": "Aluminium phosphate",
+                                        "drugbank_id": "DB14517"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Algeldrate (A02AB02)",
+                                "atc_code": "A02AB02",
+                                "children": [
+                                    {
+                                        "name": "Aluminum hydroxide",
+                                        "drugbank_id": "DB06723"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium hydroxide (A02AB01)",
+                                "atc_code": "A02AB01",
+                                "children": [
+                                    {
+                                        "name": "Aluminum hydroxide",
+                                        "drugbank_id": "DB06723"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magnesium compounds (A02AA)",
+                        "atc_code": "A02AA",
+                        "children": [
+                            {
+                                "name": "Combinations (A02AA10)",
+                                "atc_code": "A02AA10"
+                            },
+                            {
+                                "name": "Magnesium silicate (A02AA05)",
+                                "atc_code": "A02AA05",
+                                "children": [
+                                    {
+                                        "name": "Magnesium silicate",
+                                        "drugbank_id": "DB13249"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium hydroxide (A02AA04)",
+                                "atc_code": "A02AA04",
+                                "children": [
+                                    {
+                                        "name": "Magnesium hydroxide",
+                                        "drugbank_id": "DB09104"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium peroxide (A02AA03)",
+                                "atc_code": "A02AA03",
+                                "children": [
+                                    {
+                                        "name": "Magnesium peroxide",
+                                        "drugbank_id": "DB13486"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium oxide (A02AA02)",
+                                "atc_code": "A02AA02",
+                                "children": [
+                                    {
+                                        "name": "Magnesium oxide",
+                                        "drugbank_id": "DB01377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium carbonate (A02AA01)",
+                                "atc_code": "A02AA01",
+                                "children": [
+                                    {
+                                        "name": "Magnesium carbonate",
+                                        "drugbank_id": "DB09481"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "name": "Immunostimulants (L03)",
+        "atc_code": "L03",
+        "children": [
+            {
+                "name": "Immunostimulants (L03A)",
+                "atc_code": "L03A",
+                "children": [
+                    {
+                        "name": "Other immunostimulants (L03AX)",
+                        "atc_code": "L03AX",
+                        "children": [
+                            {
+                                "name": "Mavorixafor (L03AX24)",
+                                "atc_code": "L03AX24",
+                                "children": [
+                                    {
+                                        "name": "Mavorixafor",
+                                        "drugbank_id": "DB05501"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Motixafortide (L03AX23)",
+                                "atc_code": "L03AX23",
+                                "children": [
+                                    {
+                                        "name": "Motixafortide",
+                                        "drugbank_id": "DB14939"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Leniolisib (L03AX22)",
+                                "atc_code": "L03AX22",
+                                "children": [
+                                    {
+                                        "name": "Leniolisib",
+                                        "drugbank_id": "DB16217"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elapegademase (L03AX21)",
+                                "atc_code": "L03AX21",
+                                "children": [
+                                    {
+                                        "name": "Elapegademase",
+                                        "drugbank_id": "DB14712"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dasiprotimut-t (L03AX19)",
+                                "atc_code": "L03AX19",
+                                "children": [
+                                    {
+                                        "name": "Dasiprotimut-T",
+                                        "drugbank_id": "DB17287"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cridanimod (L03AX18)",
+                                "atc_code": "L03AX18",
+                                "children": [
+                                    {
+                                        "name": "Cridanimod",
+                                        "drugbank_id": "DB13674"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sipuleucel-t (L03AX17)",
+                                "atc_code": "L03AX17",
+                                "children": [
+                                    {
+                                        "name": "Sipuleucel-T",
+                                        "drugbank_id": "DB06688"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Plerixafor (L03AX16)",
+                                "atc_code": "L03AX16",
+                                "children": [
+                                    {
+                                        "name": "Plerixafor",
+                                        "drugbank_id": "DB06809"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mifamurtide (L03AX15)",
+                                "atc_code": "L03AX15",
+                                "children": [
+                                    {
+                                        "name": "Mifamurtide",
+                                        "drugbank_id": "DB13615"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Histamine dihydrochloride (L03AX14)",
+                                "atc_code": "L03AX14",
+                                "children": [
+                                    {
+                                        "name": "Histamine",
+                                        "drugbank_id": "DB05381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glatiramer acetate (L03AX13)",
+                                "atc_code": "L03AX13",
+                                "children": [
+                                    {
+                                        "name": "Glatiramer",
+                                        "drugbank_id": "DB05259"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melanoma vaccine (L03AX12)",
+                                "atc_code": "L03AX12"
+                            },
+                            {
+                                "name": "Tasonermin (L03AX11)",
+                                "atc_code": "L03AX11",
+                                "children": [
+                                    {
+                                        "name": "Tasonermin",
+                                        "drugbank_id": "DB11626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Immunocyanin (L03AX10)",
+                                "atc_code": "L03AX10"
+                            },
+                            {
+                                "name": "Thymopentin (L03AX09)",
+                                "atc_code": "L03AX09",
+                                "children": [
+                                    {
+                                        "name": "Thymopentin",
+                                        "drugbank_id": "DB11996"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poly iclc (L03AX08)",
+                                "atc_code": "L03AX08",
+                                "children": [
+                                    {
+                                        "name": "Hiltonol",
+                                        "drugbank_id": "DB17293"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poly i:c (L03AX07)",
+                                "atc_code": "L03AX07"
+                            },
+                            {
+                                "name": "Pidotimod (L03AX05)",
+                                "atc_code": "L03AX05",
+                                "children": [
+                                    {
+                                        "name": "Pidotimod",
+                                        "drugbank_id": "DB11364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegademase (L03AX04)",
+                                "atc_code": "L03AX04",
+                                "children": [
+                                    {
+                                        "name": "Pegademase",
+                                        "drugbank_id": "DB00061"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bcg vaccine (L03AX03)",
+                                "atc_code": "L03AX03",
+                                "children": [
+                                    {
+                                        "name": "BCG vaccine",
+                                        "drugbank_id": "DB12768"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roquinimex (L03AX02)",
+                                "atc_code": "L03AX02",
+                                "children": [
+                                    {
+                                        "name": "Roquinimex",
+                                        "drugbank_id": "DB11366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lentinan (L03AX01)",
+                                "atc_code": "L03AX01",
+                                "children": [
+                                    {
+                                        "name": "Lentinan",
+                                        "drugbank_id": "DB13480"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interleukins (L03AC)",
+                        "atc_code": "L03AC",
+                        "children": [
+                            {
+                                "name": "Oprelvekin (L03AC02)",
+                                "atc_code": "L03AC02",
+                                "children": [
+                                    {
+                                        "name": "Oprelvekin",
+                                        "drugbank_id": "DB00038"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aldesleukin (L03AC01)",
+                                "atc_code": "L03AC01",
+                                "children": [
+                                    {
+                                        "name": "Aldesleukin",
+                                        "drugbank_id": "DB00041"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interferons (L03AB)",
+                        "atc_code": "L03AB",
+                        "children": [
+                            {
+                                "name": "Sampeginterferon beta-1a (L03AB17)",
+                                "atc_code": "L03AB17"
+                            },
+                            {
+                                "name": "Peginterferon alfacon-2 (L03AB16)",
+                                "atc_code": "L03AB16",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon Alfacon-2",
+                                        "drugbank_id": "DB19335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ropeginterferon alfa-2b (L03AB15)",
+                                "atc_code": "L03AB15",
+                                "children": [
+                                    {
+                                        "name": "Ropeginterferon alfa-2b",
+                                        "drugbank_id": "DB15119"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginterferon alfa-2a, combinations (L03AB61)",
+                                "atc_code": "L03AB61",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon alfa-2a",
+                                        "drugbank_id": "DB00008"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginterferon alfa-2b, combinations (L03AB60)",
+                                "atc_code": "L03AB60",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon alfa-2b",
+                                        "drugbank_id": "DB00022"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cepeginterferon alfa-2b (L03AB14)",
+                                "atc_code": "L03AB14",
+                                "children": [
+                                    {
+                                        "name": "Cepeginterferon alfa-2B",
+                                        "drugbank_id": "DB12814"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginterferon beta-1a (L03AB13)",
+                                "atc_code": "L03AB13",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon beta-1a",
+                                        "drugbank_id": "DB09122"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Albinterferon alfa-2b (L03AB12)",
+                                "atc_code": "L03AB12",
+                                "children": [
+                                    {
+                                        "name": "Albinterferon Alfa-2B",
+                                        "drugbank_id": "DB05396"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginterferon alfa-2a (L03AB11)",
+                                "atc_code": "L03AB11",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon alfa-2a",
+                                        "drugbank_id": "DB00008"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peginterferon alfa-2b (L03AB10)",
+                                "atc_code": "L03AB10",
+                                "children": [
+                                    {
+                                        "name": "Peginterferon alfa-2b",
+                                        "drugbank_id": "DB00022"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon alfacon-1 (L03AB09)",
+                                "atc_code": "L03AB09",
+                                "children": [
+                                    {
+                                        "name": "Interferon alfacon-1",
+                                        "drugbank_id": "DB00069"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon beta-1b (L03AB08)",
+                                "atc_code": "L03AB08",
+                                "children": [
+                                    {
+                                        "name": "Interferon beta-1b",
+                                        "drugbank_id": "DB00068"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon beta-1a (L03AB07)",
+                                "atc_code": "L03AB07",
+                                "children": [
+                                    {
+                                        "name": "Interferon beta-1a",
+                                        "drugbank_id": "DB00060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon alfa-n1 (L03AB06)",
+                                "atc_code": "L03AB06",
+                                "children": [
+                                    {
+                                        "name": "Interferon alfa-n1",
+                                        "drugbank_id": "DB00011"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon alfa-2b (L03AB05)",
+                                "atc_code": "L03AB05",
+                                "children": [
+                                    {
+                                        "name": "Interferon alfa-2b",
+                                        "drugbank_id": "DB00105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon alfa-2a (L03AB04)",
+                                "atc_code": "L03AB04",
+                                "children": [
+                                    {
+                                        "name": "Interferon alfa-2a",
+                                        "drugbank_id": "DB00034"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon gamma (L03AB03)",
+                                "atc_code": "L03AB03",
+                                "children": [
+                                    {
+                                        "name": "Interferon Gamma",
+                                        "drugbank_id": "DB15753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Interferon beta natural (L03AB02)",
+                                "atc_code": "L03AB02"
+                            },
+                            {
+                                "name": "Interferon alfa natural (L03AB01)",
+                                "atc_code": "L03AB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Colony stimulating factors (L03AA)",
+                        "atc_code": "L03AA",
+                        "children": [
+                            {
+                                "name": "Eflapegrastim (L03AA19)",
+                                "atc_code": "L03AA19",
+                                "children": [
+                                    {
+                                        "name": "Eflapegrastim",
+                                        "drugbank_id": "DB15001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Efbemalenograstim alfa (L03AA18)",
+                                "atc_code": "L03AA18",
+                                "children": [
+                                    {
+                                        "name": "Efbemalenograstim alfa",
+                                        "drugbank_id": "DB18704"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegteograstim (L03AA17)",
+                                "atc_code": "L03AA17",
+                                "children": [
+                                    {
+                                        "name": "Pegteograstim",
+                                        "drugbank_id": "DB15290"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Empegfilgrastim (L03AA16)",
+                                "atc_code": "L03AA16",
+                                "children": [
+                                    {
+                                        "name": "Empegfilgrastim",
+                                        "drugbank_id": "DB16155"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Balugrastim (L03AA15)",
+                                "atc_code": "L03AA15",
+                                "children": [
+                                    {
+                                        "name": "Balugrastim",
+                                        "drugbank_id": "DB12699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lipegfilgrastim (L03AA14)",
+                                "atc_code": "L03AA14",
+                                "children": [
+                                    {
+                                        "name": "Lipegfilgrastim",
+                                        "drugbank_id": "DB13200"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegfilgrastim (L03AA13)",
+                                "atc_code": "L03AA13",
+                                "children": [
+                                    {
+                                        "name": "Pegfilgrastim",
+                                        "drugbank_id": "DB00019"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ancestim (L03AA12)",
+                                "atc_code": "L03AA12",
+                                "children": [
+                                    {
+                                        "name": "Ancestim",
+                                        "drugbank_id": "DB09103"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lenograstim (L03AA10)",
+                                "atc_code": "L03AA10",
+                                "children": [
+                                    {
+                                        "name": "Lenograstim",
+                                        "drugbank_id": "DB13144"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sargramostim (L03AA09)",
+                                "atc_code": "L03AA09",
+                                "children": [
+                                    {
+                                        "name": "Sargramostim",
+                                        "drugbank_id": "DB00020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Molgramostim (L03AA03)",
+                                "atc_code": "L03AA03",
+                                "children": [
+                                    {
+                                        "name": "Molgramostim",
+                                        "drugbank_id": "DB12525"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Filgrastim (L03AA02)",
+                                "atc_code": "L03AA02",
+                                "children": [
+                                    {
+                                        "name": "Filgrastim",
+                                        "drugbank_id": "DB00099"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

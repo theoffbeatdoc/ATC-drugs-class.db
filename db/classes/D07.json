@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Corticosteroids, dermatological preparations (D07)",
+        "atc_code": "D07",
+        "children": [
+            {
+                "name": "Corticosteroids, other combinations (D07X)",
+                "atc_code": "D07X",
+                "children": [
+                    {
+                        "name": "Corticosteroids, very potent, other combinations (D07XD)",
+                        "atc_code": "D07XD"
+                    },
+                    {
+                        "name": "Corticosteroids, potent, other combinations (D07XC)",
+                        "atc_code": "D07XC",
+                        "children": [
+                            {
+                                "name": "Fluocortolone (D07XC05)",
+                                "atc_code": "D07XC05",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diflucortolone (D07XC04)",
+                                "atc_code": "D07XC04",
+                                "children": [
+                                    {
+                                        "name": "Difluocortolone",
+                                        "drugbank_id": "DB09095"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mometasone (D07XC03)",
+                                "atc_code": "D07XC03",
+                                "children": [
+                                    {
+                                        "name": "Mometasone furoate",
+                                        "drugbank_id": "DB14512"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desoximetasone (D07XC02)",
+                                "atc_code": "D07XC02",
+                                "children": [
+                                    {
+                                        "name": "Desoximetasone",
+                                        "drugbank_id": "DB00547"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (D07XC01)",
+                                "atc_code": "D07XC01",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, moderately potent, other combinations (D07XB)",
+                        "atc_code": "D07XB",
+                        "children": [
+                            {
+                                "name": "Combinations of corticosteroids (D07XB30)",
+                                "atc_code": "D07XB30"
+                            },
+                            {
+                                "name": "Dexamethasone (D07XB05)",
+                                "atc_code": "D07XB05",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorometholone (D07XB04)",
+                                "atc_code": "D07XB04",
+                                "children": [
+                                    {
+                                        "name": "Fluorometholone",
+                                        "drugbank_id": "DB00324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluprednidene (D07XB03)",
+                                "atc_code": "D07XB03",
+                                "children": [
+                                    {
+                                        "name": "Fluprednidene",
+                                        "drugbank_id": "DB08970"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (D07XB02)",
+                                "atc_code": "D07XB02",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flumetasone (D07XB01)",
+                                "atc_code": "D07XB01",
+                                "children": [
+                                    {
+                                        "name": "Flumethasone",
+                                        "drugbank_id": "DB00663"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, weak, other combinations (D07XA)",
+                        "atc_code": "D07XA",
+                        "children": [
+                            {
+                                "name": "Prednisolone (D07XA02)",
+                                "atc_code": "D07XA02",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (D07XA01)",
+                                "atc_code": "D07XA01",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids, combinations with antibiotics (D07C)",
+                "atc_code": "D07C",
+                "children": [
+                    {
+                        "name": "Corticosteroids, very potent, combinations with antibiotics (D07CD)",
+                        "atc_code": "D07CD",
+                        "children": [
+                            {
+                                "name": "Clobetasol and antibiotics (D07CD01)",
+                                "atc_code": "D07CD01",
+                                "children": [
+                                    {
+                                        "name": "Clobetasol",
+                                        "drugbank_id": "DB11750"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, potent, combinations with antibiotics (D07CC)",
+                        "atc_code": "D07CC",
+                        "children": [
+                            {
+                                "name": "Fluocortolone and antibiotics (D07CC06)",
+                                "atc_code": "D07CC06",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinonide and antibiotics (D07CC05)",
+                                "atc_code": "D07CC05",
+                                "children": [
+                                    {
+                                        "name": "Fluocinonide",
+                                        "drugbank_id": "DB01047"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beclometasone and antibiotics (D07CC04)",
+                                "atc_code": "D07CC04",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludroxycortide and antibiotics (D07CC03)",
+                                "atc_code": "D07CC03",
+                                "children": [
+                                    {
+                                        "name": "Flurandrenolide",
+                                        "drugbank_id": "DB00846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinolone acetonide and antibiotics (D07CC02)",
+                                "atc_code": "D07CC02",
+                                "children": [
+                                    {
+                                        "name": "Fluocinolone acetonide",
+                                        "drugbank_id": "DB00591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone and antibiotics (D07CC01)",
+                                "atc_code": "D07CC01",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, moderately potent, combinations with antibiotics (D07CB)",
+                        "atc_code": "D07CB",
+                        "children": [
+                            {
+                                "name": "Flumetasone and antibiotics (D07CB05)",
+                                "atc_code": "D07CB05",
+                                "children": [
+                                    {
+                                        "name": "Flumethasone",
+                                        "drugbank_id": "DB00663"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone and antibiotics (D07CB04)",
+                                "atc_code": "D07CB04",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorometholone and antibiotics (D07CB03)",
+                                "atc_code": "D07CB03",
+                                "children": [
+                                    {
+                                        "name": "Fluorometholone",
+                                        "drugbank_id": "DB00324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluprednidene and antibiotics (D07CB02)",
+                                "atc_code": "D07CB02",
+                                "children": [
+                                    {
+                                        "name": "Fluprednidene",
+                                        "drugbank_id": "DB08970"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone and antibiotics (D07CB01)",
+                                "atc_code": "D07CB01",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, weak, combinations with antibiotics (D07CA)",
+                        "atc_code": "D07CA",
+                        "children": [
+                            {
+                                "name": "Prednisolone and antibiotics (D07CA03)",
+                                "atc_code": "D07CA03",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylprednisolone and antibiotics (D07CA02)",
+                                "atc_code": "D07CA02",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone and antibiotics (D07CA01)",
+                                "atc_code": "D07CA01",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids, combinations with antiseptics (D07B)",
+                "atc_code": "D07B",
+                "children": [
+                    {
+                        "name": "Corticosteroids, very potent, combinations with antiseptics (D07BD)",
+                        "atc_code": "D07BD"
+                    },
+                    {
+                        "name": "Corticosteroids, potent, combinations with antiseptics (D07BC)",
+                        "atc_code": "D07BC",
+                        "children": [
+                            {
+                                "name": "Diflucortolone and antiseptics (D07BC04)",
+                                "atc_code": "D07BC04",
+                                "children": [
+                                    {
+                                        "name": "Difluocortolone",
+                                        "drugbank_id": "DB09095"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocortolone and antiseptics (D07BC03)",
+                                "atc_code": "D07BC03",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinolone acetonide and antiseptics (D07BC02)",
+                                "atc_code": "D07BC02",
+                                "children": [
+                                    {
+                                        "name": "Fluocinolone acetonide",
+                                        "drugbank_id": "DB00591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone and antiseptics (D07BC01)",
+                                "atc_code": "D07BC01",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, moderately potent, combinations with antiseptics (D07BB)",
+                        "atc_code": "D07BB",
+                        "children": [
+                            {
+                                "name": "Hydrocortisone butyrate and antiseptics (D07BB04)",
+                                "atc_code": "D07BB04",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone butyrate",
+                                        "drugbank_id": "DB14540"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone and antiseptics (D07BB03)",
+                                "atc_code": "D07BB03",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desonide and antiseptics (D07BB02)",
+                                "atc_code": "D07BB02",
+                                "children": [
+                                    {
+                                        "name": "Desonide",
+                                        "drugbank_id": "DB01260"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flumetasone and antiseptics (D07BB01)",
+                                "atc_code": "D07BB01",
+                                "children": [
+                                    {
+                                        "name": "Flumethasone",
+                                        "drugbank_id": "DB00663"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, weak, combinations with antiseptics (D07BA)",
+                        "atc_code": "D07BA",
+                        "children": [
+                            {
+                                "name": "Hydrocortisone and antiseptics (D07BA04)",
+                                "atc_code": "D07BA04",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednisolone and antiseptics (D07BA01)",
+                                "atc_code": "D07BA01",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corticosteroids, plain (D07A)",
+                "atc_code": "D07A",
+                "children": [
+                    {
+                        "name": "Corticosteroids, very potent (group iv) (D07AD)",
+                        "atc_code": "D07AD",
+                        "children": [
+                            {
+                                "name": "Halcinonide (D07AD02)",
+                                "atc_code": "D07AD02",
+                                "children": [
+                                    {
+                                        "name": "Halcinonide",
+                                        "drugbank_id": "DB06786"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clobetasol (D07AD01)",
+                                "atc_code": "D07AD01",
+                                "children": [
+                                    {
+                                        "name": "Clobetasol",
+                                        "drugbank_id": "DB11750"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, potent (group iii) (D07AC)",
+                        "atc_code": "D07AC",
+                        "children": [
+                            {
+                                "name": "Ulobetasol (D07AC21)",
+                                "atc_code": "D07AC21",
+                                "children": [
+                                    {
+                                        "name": "Ulobetasol",
+                                        "drugbank_id": "DB00596"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Difluprednate (D07AC19)",
+                                "atc_code": "D07AC19",
+                                "children": [
+                                    {
+                                        "name": "Difluprednate",
+                                        "drugbank_id": "DB06781"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prednicarbate (D07AC18)",
+                                "atc_code": "D07AC18",
+                                "children": [
+                                    {
+                                        "name": "Prednicarbate",
+                                        "drugbank_id": "DB01130"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluticasone (D07AC17)",
+                                "atc_code": "D07AC17",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone aceponate (D07AC16)",
+                                "atc_code": "D07AC16",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone aceponate",
+                                        "drugbank_id": "DB14538"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beclometasone (D07AC15)",
+                                "atc_code": "D07AC15",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylprednisolone aceponate (D07AC14)",
+                                "atc_code": "D07AC14",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone aceponate",
+                                        "drugbank_id": "DB14643"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mometasone (D07AC13)",
+                                "atc_code": "D07AC13",
+                                "children": [
+                                    {
+                                        "name": "Mometasone furoate",
+                                        "drugbank_id": "DB14512"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Halometasone (D07AC12)",
+                                "atc_code": "D07AC12",
+                                "children": [
+                                    {
+                                        "name": "Halometasone",
+                                        "drugbank_id": "DB13728"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amcinonide (D07AC11)",
+                                "atc_code": "D07AC11",
+                                "children": [
+                                    {
+                                        "name": "Amcinonide",
+                                        "drugbank_id": "DB00288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diflorasone (D07AC10)",
+                                "atc_code": "D07AC10",
+                                "children": [
+                                    {
+                                        "name": "Diflorasone",
+                                        "drugbank_id": "DB00223"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Budesonide (D07AC09)",
+                                "atc_code": "D07AC09",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinonide (D07AC08)",
+                                "atc_code": "D07AC08",
+                                "children": [
+                                    {
+                                        "name": "Fluocinonide",
+                                        "drugbank_id": "DB01047"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fludroxycortide (D07AC07)",
+                                "atc_code": "D07AC07",
+                                "children": [
+                                    {
+                                        "name": "Flurandrenolide",
+                                        "drugbank_id": "DB00846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diflucortolone (D07AC06)",
+                                "atc_code": "D07AC06",
+                                "children": [
+                                    {
+                                        "name": "Difluocortolone",
+                                        "drugbank_id": "DB09095"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocortolone (D07AC05)",
+                                "atc_code": "D07AC05",
+                                "children": [
+                                    {
+                                        "name": "Fluocortolone",
+                                        "drugbank_id": "DB08971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocinolone acetonide (D07AC04)",
+                                "atc_code": "D07AC04",
+                                "children": [
+                                    {
+                                        "name": "Fluocinolone acetonide",
+                                        "drugbank_id": "DB00591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desoximetasone (D07AC03)",
+                                "atc_code": "D07AC03",
+                                "children": [
+                                    {
+                                        "name": "Desoximetasone",
+                                        "drugbank_id": "DB00547"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluclorolone (D07AC02)",
+                                "atc_code": "D07AC02",
+                                "children": [
+                                    {
+                                        "name": "Fluclorolone",
+                                        "drugbank_id": "DB13856"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (D07AC01)",
+                                "atc_code": "D07AC01",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, moderately potent (group ii) (D07AB)",
+                        "atc_code": "D07AB",
+                        "children": [
+                            {
+                                "name": "Combinations of corticosteroids (D07AB30)",
+                                "atc_code": "D07AB30"
+                            },
+                            {
+                                "name": "Clocortolone (D07AB21)",
+                                "atc_code": "D07AB21",
+                                "children": [
+                                    {
+                                        "name": "Clocortolone",
+                                        "drugbank_id": "DB00838"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexamethasone (D07AB19)",
+                                "atc_code": "D07AB19",
+                                "children": [
+                                    {
+                                        "name": "Dexamethasone",
+                                        "drugbank_id": "DB01234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone buteprate (D07AB11)",
+                                "atc_code": "D07AB11",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone probutate",
+                                        "drugbank_id": "DB14543"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alclometasone (D07AB10)",
+                                "atc_code": "D07AB10",
+                                "children": [
+                                    {
+                                        "name": "Alclometasone",
+                                        "drugbank_id": "DB00240"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (D07AB09)",
+                                "atc_code": "D07AB09",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desonide (D07AB08)",
+                                "atc_code": "D07AB08",
+                                "children": [
+                                    {
+                                        "name": "Desonide",
+                                        "drugbank_id": "DB01260"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluprednidene (D07AB07)",
+                                "atc_code": "D07AB07",
+                                "children": [
+                                    {
+                                        "name": "Fluprednidene",
+                                        "drugbank_id": "DB08970"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorometholone (D07AB06)",
+                                "atc_code": "D07AB06",
+                                "children": [
+                                    {
+                                        "name": "Fluorometholone",
+                                        "drugbank_id": "DB00324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluperolone (D07AB05)",
+                                "atc_code": "D07AB05",
+                                "children": [
+                                    {
+                                        "name": "Fluperolone",
+                                        "drugbank_id": "DB13491"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluocortin (D07AB04)",
+                                "atc_code": "D07AB04",
+                                "children": [
+                                    {
+                                        "name": "Fluocortin",
+                                        "drugbank_id": "DB13223"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flumetasone (D07AB03)",
+                                "atc_code": "D07AB03",
+                                "children": [
+                                    {
+                                        "name": "Flumethasone",
+                                        "drugbank_id": "DB00663"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone butyrate (D07AB02)",
+                                "atc_code": "D07AB02",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone butyrate",
+                                        "drugbank_id": "DB14540"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clobetasone (D07AB01)",
+                                "atc_code": "D07AB01",
+                                "children": [
+                                    {
+                                        "name": "Clobetasone",
+                                        "drugbank_id": "DB13158"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroids, weak (group i) (D07AA)",
+                        "atc_code": "D07AA",
+                        "children": [
+                            {
+                                "name": "Prednisolone (D07AA03)",
+                                "atc_code": "D07AA03",
+                                "children": [
+                                    {
+                                        "name": "Prednisolone",
+                                        "drugbank_id": "DB00860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocortisone (D07AA02)",
+                                "atc_code": "D07AA02",
+                                "children": [
+                                    {
+                                        "name": "Hydrocortisone",
+                                        "drugbank_id": "DB00741"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylprednisolone (D07AA01)",
+                                "atc_code": "D07AA01",
+                                "children": [
+                                    {
+                                        "name": "Methylprednisolone",
+                                        "drugbank_id": "DB00959"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

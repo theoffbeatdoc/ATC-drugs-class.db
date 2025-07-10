@@ -1,0 +1,1562 @@
+[
+    {
+        "name": "Drugs for obstructive airway diseases (R03)",
+        "atc_code": "R03",
+        "children": [
+            {
+                "name": "Other systemic drugs for obstructive airway diseases (R03D)",
+                "atc_code": "R03D",
+                "children": [
+                    {
+                        "name": "Other systemic drugs for obstructive airway diseases (R03DX)",
+                        "atc_code": "R03DX",
+                        "children": [
+                            {
+                                "name": "Tezepelumab (R03DX11)",
+                                "atc_code": "R03DX11",
+                                "children": [
+                                    {
+                                        "name": "Tezepelumab",
+                                        "drugbank_id": "DB15090"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benralizumab (R03DX10)",
+                                "atc_code": "R03DX10",
+                                "children": [
+                                    {
+                                        "name": "Benralizumab",
+                                        "drugbank_id": "DB12023"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepolizumab (R03DX09)",
+                                "atc_code": "R03DX09",
+                                "children": [
+                                    {
+                                        "name": "Mepolizumab",
+                                        "drugbank_id": "DB06612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reslizumab (R03DX08)",
+                                "atc_code": "R03DX08",
+                                "children": [
+                                    {
+                                        "name": "Reslizumab",
+                                        "drugbank_id": "DB06602"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roflumilast (R03DX07)",
+                                "atc_code": "R03DX07",
+                                "children": [
+                                    {
+                                        "name": "Roflumilast",
+                                        "drugbank_id": "DB01656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Seratrodast (R03DX06)",
+                                "atc_code": "R03DX06",
+                                "children": [
+                                    {
+                                        "name": "Seratrodast",
+                                        "drugbank_id": "DB06739"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omalizumab (R03DX05)",
+                                "atc_code": "R03DX05",
+                                "children": [
+                                    {
+                                        "name": "Omalizumab",
+                                        "drugbank_id": "DB00043"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenspiride (R03DX03)",
+                                "atc_code": "R03DX03",
+                                "children": [
+                                    {
+                                        "name": "Fenspiride",
+                                        "drugbank_id": "DB08979"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eprozinol (R03DX02)",
+                                "atc_code": "R03DX02",
+                                "children": [
+                                    {
+                                        "name": "Eprozinol",
+                                        "drugbank_id": "DB13395"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amlexanox (R03DX01)",
+                                "atc_code": "R03DX01",
+                                "children": [
+                                    {
+                                        "name": "Amlexanox",
+                                        "drugbank_id": "DB01025"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leukotriene receptor antagonists (R03DC)",
+                        "atc_code": "R03DC",
+                        "children": [
+                            {
+                                "name": "Montelukast, combinations (R03DC53)",
+                                "atc_code": "R03DC53",
+                                "children": [
+                                    {
+                                        "name": "Montelukast",
+                                        "drugbank_id": "DB00471"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibudilast (R03DC04)",
+                                "atc_code": "R03DC04",
+                                "children": [
+                                    {
+                                        "name": "Ibudilast",
+                                        "drugbank_id": "DB05266"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Montelukast (R03DC03)",
+                                "atc_code": "R03DC03",
+                                "children": [
+                                    {
+                                        "name": "Montelukast",
+                                        "drugbank_id": "DB00471"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pranlukast (R03DC02)",
+                                "atc_code": "R03DC02",
+                                "children": [
+                                    {
+                                        "name": "Pranlukast",
+                                        "drugbank_id": "DB01411"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zafirlukast (R03DC01)",
+                                "atc_code": "R03DC01",
+                                "children": [
+                                    {
+                                        "name": "Zafirlukast",
+                                        "drugbank_id": "DB00549"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Xanthines and adrenergics (R03DB)",
+                        "atc_code": "R03DB",
+                        "children": [
+                            {
+                                "name": "Etamiphylline and adrenergics (R03DB06)",
+                                "atc_code": "R03DB06",
+                                "children": [
+                                    {
+                                        "name": "Etamiphylline",
+                                        "drugbank_id": "DB13592"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophylline and adrenergics (R03DB05)",
+                                "atc_code": "R03DB05",
+                                "children": [
+                                    {
+                                        "name": "Aminophylline",
+                                        "drugbank_id": "DB01223"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theophylline and adrenergics (R03DB04)",
+                                "atc_code": "R03DB04",
+                                "children": [
+                                    {
+                                        "name": "Theophylline",
+                                        "drugbank_id": "DB00277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Proxyphylline and adrenergics (R03DB03)",
+                                "atc_code": "R03DB03",
+                                "children": [
+                                    {
+                                        "name": "Proxyphylline",
+                                        "drugbank_id": "DB13449"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Choline theophyllinate and adrenergics (R03DB02)",
+                                "atc_code": "R03DB02",
+                                "children": [
+                                    {
+                                        "name": "Oxtriphylline",
+                                        "drugbank_id": "DB01303"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diprophylline and adrenergics (R03DB01)",
+                                "atc_code": "R03DB01",
+                                "children": [
+                                    {
+                                        "name": "Dyphylline",
+                                        "drugbank_id": "DB00651"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Xanthines (R03DA)",
+                        "atc_code": "R03DA",
+                        "children": [
+                            {
+                                "name": "Mepyramine theophyllinacetate (R03DA12)",
+                                "atc_code": "R03DA12"
+                            },
+                            {
+                                "name": "Theophylline, combinations with psycholeptics (R03DA74)",
+                                "atc_code": "R03DA74",
+                                "children": [
+                                    {
+                                        "name": "Theophylline",
+                                        "drugbank_id": "DB00277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theobromine, combinations (R03DA57)",
+                                "atc_code": "R03DA57",
+                                "children": [
+                                    {
+                                        "name": "Theobromine",
+                                        "drugbank_id": "DB01412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophylline, combinations (R03DA55)",
+                                "atc_code": "R03DA55",
+                                "children": [
+                                    {
+                                        "name": "Aminophylline",
+                                        "drugbank_id": "DB01223"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theophylline, combinations excl. psycholeptics (R03DA54)",
+                                "atc_code": "R03DA54",
+                                "children": [
+                                    {
+                                        "name": "Theophylline",
+                                        "drugbank_id": "DB00277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diprophylline, combinations (R03DA51)",
+                                "atc_code": "R03DA51",
+                                "children": [
+                                    {
+                                        "name": "Dyphylline",
+                                        "drugbank_id": "DB00651"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations of xanthines (R03DA20)",
+                                "atc_code": "R03DA20",
+                                "children": [
+                                    {
+                                        "name": "Bromotheophylline",
+                                        "drugbank_id": "DB14018"
+                                    },
+                                    {
+                                        "name": "Oxtriphylline",
+                                        "drugbank_id": "DB01303"
+                                    },
+                                    {
+                                        "name": "Pentoxifylline",
+                                        "drugbank_id": "DB00806"
+                                    },
+                                    {
+                                        "name": "Mercaptopurine",
+                                        "drugbank_id": "DB01033"
+                                    },
+                                    {
+                                        "name": "Aminophylline",
+                                        "drugbank_id": "DB01223"
+                                    },
+                                    {
+                                        "name": "Caffeine",
+                                        "drugbank_id": "DB00201"
+                                    },
+                                    {
+                                        "name": "Lomifylline",
+                                        "drugbank_id": "DB18002"
+                                    },
+                                    {
+                                        "name": "Dyphylline",
+                                        "drugbank_id": "DB00651"
+                                    },
+                                    {
+                                        "name": "Theophylline",
+                                        "drugbank_id": "DB00277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxofylline (R03DA11)",
+                                "atc_code": "R03DA11",
+                                "children": [
+                                    {
+                                        "name": "Doxofylline",
+                                        "drugbank_id": "DB09273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bufylline (R03DA10)",
+                                "atc_code": "R03DA10",
+                                "children": [
+                                    {
+                                        "name": "Bufylline",
+                                        "drugbank_id": "DB13812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acefylline piperazine (R03DA09)",
+                                "atc_code": "R03DA09",
+                                "children": [
+                                    {
+                                        "name": "Acefylline",
+                                        "drugbank_id": "DB13573"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bamifylline (R03DA08)",
+                                "atc_code": "R03DA08",
+                                "children": [
+                                    {
+                                        "name": "Bamifylline",
+                                        "drugbank_id": "DB13203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theobromine (R03DA07)",
+                                "atc_code": "R03DA07",
+                                "children": [
+                                    {
+                                        "name": "Theobromine",
+                                        "drugbank_id": "DB01412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etamiphylline (R03DA06)",
+                                "atc_code": "R03DA06",
+                                "children": [
+                                    {
+                                        "name": "Etamiphylline",
+                                        "drugbank_id": "DB13592"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophylline (R03DA05)",
+                                "atc_code": "R03DA05",
+                                "children": [
+                                    {
+                                        "name": "Aminophylline",
+                                        "drugbank_id": "DB01223"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Theophylline (R03DA04)",
+                                "atc_code": "R03DA04",
+                                "children": [
+                                    {
+                                        "name": "Theophylline",
+                                        "drugbank_id": "DB00277"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Proxyphylline (R03DA03)",
+                                "atc_code": "R03DA03",
+                                "children": [
+                                    {
+                                        "name": "Proxyphylline",
+                                        "drugbank_id": "DB13449"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Choline theophyllinate (R03DA02)",
+                                "atc_code": "R03DA02",
+                                "children": [
+                                    {
+                                        "name": "Oxtriphylline",
+                                        "drugbank_id": "DB01303"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diprophylline (R03DA01)",
+                                "atc_code": "R03DA01",
+                                "children": [
+                                    {
+                                        "name": "Dyphylline",
+                                        "drugbank_id": "DB00651"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Adrenergics for systemic use (R03C)",
+                "atc_code": "R03C",
+                "children": [
+                    {
+                        "name": "Adrenergics and other drugs for obstructive airway diseases (R03CK)",
+                        "atc_code": "R03CK"
+                    },
+                    {
+                        "name": "Selective beta-2-adrenoreceptor agonists (R03CC)",
+                        "atc_code": "R03CC",
+                        "children": [
+                            {
+                                "name": "Formoterol (R03CC15)",
+                                "atc_code": "R03CC15",
+                                "children": [
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clenbuterol and ambroxol (R03CC63)",
+                                "atc_code": "R03CC63",
+                                "children": [
+                                    {
+                                        "name": "Ambroxol",
+                                        "drugbank_id": "DB06742"
+                                    },
+                                    {
+                                        "name": "Clenbuterol",
+                                        "drugbank_id": "DB01407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terbutaline, combinations (R03CC53)",
+                                "atc_code": "R03CC53",
+                                "children": [
+                                    {
+                                        "name": "Terbutaline",
+                                        "drugbank_id": "DB00871"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reproterol (R03CC14)",
+                                "atc_code": "R03CC14",
+                                "children": [
+                                    {
+                                        "name": "Reproterol",
+                                        "drugbank_id": "DB12846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clenbuterol (R03CC13)",
+                                "atc_code": "R03CC13",
+                                "children": [
+                                    {
+                                        "name": "Clenbuterol",
+                                        "drugbank_id": "DB01407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bambuterol (R03CC12)",
+                                "atc_code": "R03CC12",
+                                "children": [
+                                    {
+                                        "name": "Bambuterol",
+                                        "drugbank_id": "DB01408"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tulobuterol (R03CC11)",
+                                "atc_code": "R03CC11",
+                                "children": [
+                                    {
+                                        "name": "Tulobuterol",
+                                        "drugbank_id": "DB12248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbuterol (R03CC10)",
+                                "atc_code": "R03CC10",
+                                "children": [
+                                    {
+                                        "name": "Carbuterol",
+                                        "drugbank_id": "DB13625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tretoquinol (R03CC09)",
+                                "atc_code": "R03CC09",
+                                "children": [
+                                    {
+                                        "name": "Tretoquinol",
+                                        "drugbank_id": "DB13692"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaterol (R03CC08)",
+                                "atc_code": "R03CC08",
+                                "children": [
+                                    {
+                                        "name": "Procaterol",
+                                        "drugbank_id": "DB01366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pirbuterol (R03CC07)",
+                                "atc_code": "R03CC07",
+                                "children": [
+                                    {
+                                        "name": "Pirbuterol",
+                                        "drugbank_id": "DB01291"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoetarine (R03CC06)",
+                                "atc_code": "R03CC06",
+                                "children": [
+                                    {
+                                        "name": "Isoetharine",
+                                        "drugbank_id": "DB00221"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexoprenaline (R03CC05)",
+                                "atc_code": "R03CC05",
+                                "children": [
+                                    {
+                                        "name": "Hexoprenaline",
+                                        "drugbank_id": "DB08957"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoterol (R03CC04)",
+                                "atc_code": "R03CC04",
+                                "children": [
+                                    {
+                                        "name": "Fenoterol",
+                                        "drugbank_id": "DB01288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terbutaline (R03CC03)",
+                                "atc_code": "R03CC03",
+                                "children": [
+                                    {
+                                        "name": "Terbutaline",
+                                        "drugbank_id": "DB00871"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salbutamol (R03CC02)",
+                                "atc_code": "R03CC02",
+                                "children": [
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-selective beta-adrenoreceptor agonists (R03CB)",
+                        "atc_code": "R03CB",
+                        "children": [
+                            {
+                                "name": "Orciprenaline, combinations (R03CB53)",
+                                "atc_code": "R03CB53",
+                                "children": [
+                                    {
+                                        "name": "Orciprenaline",
+                                        "drugbank_id": "DB00816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoprenaline, combinations (R03CB51)",
+                                "atc_code": "R03CB51",
+                                "children": [
+                                    {
+                                        "name": "Isoprenaline",
+                                        "drugbank_id": "DB01064"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Orciprenaline (R03CB03)",
+                                "atc_code": "R03CB03",
+                                "children": [
+                                    {
+                                        "name": "Orciprenaline",
+                                        "drugbank_id": "DB00816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methoxyphenamine (R03CB02)",
+                                "atc_code": "R03CB02",
+                                "children": [
+                                    {
+                                        "name": "Methoxyphenamine",
+                                        "drugbank_id": "DB13624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoprenaline (R03CB01)",
+                                "atc_code": "R03CB01",
+                                "children": [
+                                    {
+                                        "name": "Isoprenaline",
+                                        "drugbank_id": "DB01064"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha- and beta-adrenoreceptor agonists (R03CA)",
+                        "atc_code": "R03CA",
+                        "children": [
+                            {
+                                "name": "Ephedrine (R03CA02)",
+                                "atc_code": "R03CA02",
+                                "children": [
+                                    {
+                                        "name": "Ephedrine",
+                                        "drugbank_id": "DB01364"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other drugs for obstructive airway diseases, inhalants (R03B)",
+                "atc_code": "R03B",
+                "children": [
+                    {
+                        "name": "Other drugs for obstructive airway diseases, inhalants (R03BX)",
+                        "atc_code": "R03BX",
+                        "children": [
+                            {
+                                "name": "Fenspiride (R03BX01)",
+                                "atc_code": "R03BX01",
+                                "children": [
+                                    {
+                                        "name": "Fenspiride",
+                                        "drugbank_id": "DB08979"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiallergic agents, excl. corticosteroids (R03BC)",
+                        "atc_code": "R03BC",
+                        "children": [
+                            {
+                                "name": "Nedocromil (R03BC03)",
+                                "atc_code": "R03BC03",
+                                "children": [
+                                    {
+                                        "name": "Nedocromil",
+                                        "drugbank_id": "DB00716"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cromoglicic acid (R03BC01)",
+                                "atc_code": "R03BC01",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anticholinergics (R03BB)",
+                        "atc_code": "R03BB",
+                        "children": [
+                            {
+                                "name": "Revefenacin (R03BB08)",
+                                "atc_code": "R03BB08",
+                                "children": [
+                                    {
+                                        "name": "Revefenacin",
+                                        "drugbank_id": "DB11855"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiotropium bromide, combinations (R03BB54)",
+                                "atc_code": "R03BB54",
+                                "children": [
+                                    {
+                                        "name": "Tiotropium",
+                                        "drugbank_id": "DB01409"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Umeclidinium bromide (R03BB07)",
+                                "atc_code": "R03BB07",
+                                "children": [
+                                    {
+                                        "name": "Umeclidinium",
+                                        "drugbank_id": "DB09076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycopyrronium bromide (R03BB06)",
+                                "atc_code": "R03BB06",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aclidinium bromide (R03BB05)",
+                                "atc_code": "R03BB05",
+                                "children": [
+                                    {
+                                        "name": "Aclidinium",
+                                        "drugbank_id": "DB08897"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiotropium bromide (R03BB04)",
+                                "atc_code": "R03BB04",
+                                "children": [
+                                    {
+                                        "name": "Tiotropium",
+                                        "drugbank_id": "DB01409"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stramoni preparations (R03BB03)",
+                                "atc_code": "R03BB03"
+                            },
+                            {
+                                "name": "Oxitropium bromide (R03BB02)",
+                                "atc_code": "R03BB02",
+                                "children": [
+                                    {
+                                        "name": "Oxitropium",
+                                        "drugbank_id": "DB12086"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ipratropium bromide (R03BB01)",
+                                "atc_code": "R03BB01",
+                                "children": [
+                                    {
+                                        "name": "Ipratropium",
+                                        "drugbank_id": "DB00332"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glucocorticoids (R03BA)",
+                        "atc_code": "R03BA",
+                        "children": [
+                            {
+                                "name": "Fluticasone furoate (R03BA09)",
+                                "atc_code": "R03BA09",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone furoate",
+                                        "drugbank_id": "DB08906"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclesonide (R03BA08)",
+                                "atc_code": "R03BA08",
+                                "children": [
+                                    {
+                                        "name": "Ciclesonide",
+                                        "drugbank_id": "DB01410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mometasone (R03BA07)",
+                                "atc_code": "R03BA07",
+                                "children": [
+                                    {
+                                        "name": "Mometasone furoate",
+                                        "drugbank_id": "DB14512"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triamcinolone (R03BA06)",
+                                "atc_code": "R03BA06",
+                                "children": [
+                                    {
+                                        "name": "Triamcinolone",
+                                        "drugbank_id": "DB00620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluticasone (R03BA05)",
+                                "atc_code": "R03BA05",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betamethasone (R03BA04)",
+                                "atc_code": "R03BA04",
+                                "children": [
+                                    {
+                                        "name": "Betamethasone",
+                                        "drugbank_id": "DB00443"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flunisolide (R03BA03)",
+                                "atc_code": "R03BA03",
+                                "children": [
+                                    {
+                                        "name": "Flunisolide",
+                                        "drugbank_id": "DB00180"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Budesonide (R03BA02)",
+                                "atc_code": "R03BA02",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beclometasone (R03BA01)",
+                                "atc_code": "R03BA01",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Adrenergics, inhalants (R03A)",
+                "atc_code": "R03A",
+                "children": [
+                    {
+                        "name": "Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids (R03AL)",
+                        "atc_code": "R03AL",
+                        "children": [
+                            {
+                                "name": "Indacaterol, glycopyrronium bromide and mometasone (R03AL12)",
+                                "atc_code": "R03AL12",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    },
+                                    {
+                                        "name": "Indacaterol",
+                                        "drugbank_id": "DB05039"
+                                    },
+                                    {
+                                        "name": "Mometasone",
+                                        "drugbank_id": "DB00764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol, glycopyrronium bromide and budesonide (R03AL11)",
+                                "atc_code": "R03AL11",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    },
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and tiotropium bromide (R03AL10)",
+                                "atc_code": "R03AL10",
+                                "children": [
+                                    {
+                                        "name": "Tiotropium",
+                                        "drugbank_id": "DB01409"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol, glycopyrronium bromide and beclometasone (R03AL09)",
+                                "atc_code": "R03AL09",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    },
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vilanterol, umeclidinium bromide and fluticasone furoate (R03AL08)",
+                                "atc_code": "R03AL08",
+                                "children": [
+                                    {
+                                        "name": "Umeclidinium",
+                                        "drugbank_id": "DB09076"
+                                    },
+                                    {
+                                        "name": "Fluticasone furoate",
+                                        "drugbank_id": "DB08906"
+                                    },
+                                    {
+                                        "name": "Vilanterol",
+                                        "drugbank_id": "DB09082"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and glycopyrronium bromide (R03AL07)",
+                                "atc_code": "R03AL07",
+                                "children": [
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    },
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olodaterol and tiotropium bromide (R03AL06)",
+                                "atc_code": "R03AL06",
+                                "children": [
+                                    {
+                                        "name": "Olodaterol",
+                                        "drugbank_id": "DB09080"
+                                    },
+                                    {
+                                        "name": "Tiotropium",
+                                        "drugbank_id": "DB01409"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and aclidinium bromide (R03AL05)",
+                                "atc_code": "R03AL05",
+                                "children": [
+                                    {
+                                        "name": "Aclidinium",
+                                        "drugbank_id": "DB08897"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indacaterol and glycopyrronium bromide (R03AL04)",
+                                "atc_code": "R03AL04",
+                                "children": [
+                                    {
+                                        "name": "Indacaterol",
+                                        "drugbank_id": "DB05039"
+                                    },
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vilanterol and umeclidinium bromide (R03AL03)",
+                                "atc_code": "R03AL03",
+                                "children": [
+                                    {
+                                        "name": "Vilanterol",
+                                        "drugbank_id": "DB09082"
+                                    },
+                                    {
+                                        "name": "Umeclidinium",
+                                        "drugbank_id": "DB09076"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salbutamol and ipratropium bromide (R03AL02)",
+                                "atc_code": "R03AL02",
+                                "children": [
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    },
+                                    {
+                                        "name": "Ipratropium",
+                                        "drugbank_id": "DB00332"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoterol and ipratropium bromide (R03AL01)",
+                                "atc_code": "R03AL01",
+                                "children": [
+                                    {
+                                        "name": "Ipratropium",
+                                        "drugbank_id": "DB00332"
+                                    },
+                                    {
+                                        "name": "Fenoterol",
+                                        "drugbank_id": "DB01288"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics (R03AK)",
+                        "atc_code": "R03AK",
+                        "children": [
+                            {
+                                "name": "Salbutamol and budesonide (R03AK15)",
+                                "atc_code": "R03AK15",
+                                "children": [
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    },
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indacaterol and mometasone (R03AK14)",
+                                "atc_code": "R03AK14",
+                                "children": [
+                                    {
+                                        "name": "Indacaterol",
+                                        "drugbank_id": "DB05039"
+                                    },
+                                    {
+                                        "name": "Mometasone",
+                                        "drugbank_id": "DB00764"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salbutamol and beclometasone (R03AK13)",
+                                "atc_code": "R03AK13",
+                                "children": [
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    },
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salmeterol and budesonide (R03AK12)",
+                                "atc_code": "R03AK12",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    },
+                                    {
+                                        "name": "Salmeterol",
+                                        "drugbank_id": "DB00938"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and fluticasone (R03AK11)",
+                                "atc_code": "R03AK11",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vilanterol and fluticasone furoate (R03AK10)",
+                                "atc_code": "R03AK10",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone furoate",
+                                        "drugbank_id": "DB08906"
+                                    },
+                                    {
+                                        "name": "Vilanterol",
+                                        "drugbank_id": "DB09082"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and mometasone (R03AK09)",
+                                "atc_code": "R03AK09",
+                                "children": [
+                                    {
+                                        "name": "Mometasone furoate",
+                                        "drugbank_id": "DB14512"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and beclometasone (R03AK08)",
+                                "atc_code": "R03AK08",
+                                "children": [
+                                    {
+                                        "name": "Beclomethasone dipropionate",
+                                        "drugbank_id": "DB00394"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol and budesonide (R03AK07)",
+                                "atc_code": "R03AK07",
+                                "children": [
+                                    {
+                                        "name": "Budesonide",
+                                        "drugbank_id": "DB01222"
+                                    },
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salmeterol and fluticasone (R03AK06)",
+                                "atc_code": "R03AK06",
+                                "children": [
+                                    {
+                                        "name": "Fluticasone",
+                                        "drugbank_id": "DB13867"
+                                    },
+                                    {
+                                        "name": "Salmeterol",
+                                        "drugbank_id": "DB00938"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reproterol and sodium cromoglicate (R03AK05)",
+                                "atc_code": "R03AK05",
+                                "children": [
+                                    {
+                                        "name": "Reproterol",
+                                        "drugbank_id": "DB12846"
+                                    },
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salbutamol and sodium cromoglicate (R03AK04)",
+                                "atc_code": "R03AK04",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    },
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoprenaline and other drugs for obstructive airway diseases (R03AK02)",
+                                "atc_code": "R03AK02",
+                                "children": [
+                                    {
+                                        "name": "Isoprenaline",
+                                        "drugbank_id": "DB01064"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epinephrine and other drugs for obstructive airway diseases (R03AK01)",
+                                "atc_code": "R03AK01",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations of adrenergics (R03AH)",
+                        "atc_code": "R03AH"
+                    },
+                    {
+                        "name": "Selective beta-2-adrenoreceptor agonists (R03AC)",
+                        "atc_code": "R03AC",
+                        "children": [
+                            {
+                                "name": "Olodaterol (R03AC19)",
+                                "atc_code": "R03AC19",
+                                "children": [
+                                    {
+                                        "name": "Olodaterol",
+                                        "drugbank_id": "DB09080"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indacaterol (R03AC18)",
+                                "atc_code": "R03AC18",
+                                "children": [
+                                    {
+                                        "name": "Indacaterol",
+                                        "drugbank_id": "DB05039"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bitolterol (R03AC17)",
+                                "atc_code": "R03AC17",
+                                "children": [
+                                    {
+                                        "name": "Bitolterol",
+                                        "drugbank_id": "DB00901"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaterol (R03AC16)",
+                                "atc_code": "R03AC16",
+                                "children": [
+                                    {
+                                        "name": "Procaterol",
+                                        "drugbank_id": "DB01366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reproterol (R03AC15)",
+                                "atc_code": "R03AC15",
+                                "children": [
+                                    {
+                                        "name": "Reproterol",
+                                        "drugbank_id": "DB12846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clenbuterol (R03AC14)",
+                                "atc_code": "R03AC14",
+                                "children": [
+                                    {
+                                        "name": "Clenbuterol",
+                                        "drugbank_id": "DB01407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formoterol (R03AC13)",
+                                "atc_code": "R03AC13",
+                                "children": [
+                                    {
+                                        "name": "Formoterol",
+                                        "drugbank_id": "DB00983"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salmeterol (R03AC12)",
+                                "atc_code": "R03AC12",
+                                "children": [
+                                    {
+                                        "name": "Salmeterol",
+                                        "drugbank_id": "DB00938"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tulobuterol (R03AC11)",
+                                "atc_code": "R03AC11",
+                                "children": [
+                                    {
+                                        "name": "Tulobuterol",
+                                        "drugbank_id": "DB12248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbuterol (R03AC10)",
+                                "atc_code": "R03AC10",
+                                "children": [
+                                    {
+                                        "name": "Carbuterol",
+                                        "drugbank_id": "DB13625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tretoquinol (R03AC09)",
+                                "atc_code": "R03AC09",
+                                "children": [
+                                    {
+                                        "name": "Tretoquinol",
+                                        "drugbank_id": "DB13692"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pirbuterol (R03AC08)",
+                                "atc_code": "R03AC08",
+                                "children": [
+                                    {
+                                        "name": "Pirbuterol",
+                                        "drugbank_id": "DB01291"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoetarine (R03AC07)",
+                                "atc_code": "R03AC07",
+                                "children": [
+                                    {
+                                        "name": "Isoetharine",
+                                        "drugbank_id": "DB00221"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexoprenaline (R03AC06)",
+                                "atc_code": "R03AC06",
+                                "children": [
+                                    {
+                                        "name": "Hexoprenaline",
+                                        "drugbank_id": "DB08957"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rimiterol (R03AC05)",
+                                "atc_code": "R03AC05",
+                                "children": [
+                                    {
+                                        "name": "Rimiterol",
+                                        "drugbank_id": "DB13559"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoterol (R03AC04)",
+                                "atc_code": "R03AC04",
+                                "children": [
+                                    {
+                                        "name": "Fenoterol",
+                                        "drugbank_id": "DB01288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terbutaline (R03AC03)",
+                                "atc_code": "R03AC03",
+                                "children": [
+                                    {
+                                        "name": "Terbutaline",
+                                        "drugbank_id": "DB00871"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salbutamol (R03AC02)",
+                                "atc_code": "R03AC02",
+                                "children": [
+                                    {
+                                        "name": "Albuterol",
+                                        "drugbank_id": "DB01001"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-selective beta-adrenoreceptor agonists (R03AB)",
+                        "atc_code": "R03AB",
+                        "children": [
+                            {
+                                "name": "Orciprenaline (R03AB03)",
+                                "atc_code": "R03AB03",
+                                "children": [
+                                    {
+                                        "name": "Orciprenaline",
+                                        "drugbank_id": "DB00816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoprenaline (R03AB02)",
+                                "atc_code": "R03AB02",
+                                "children": [
+                                    {
+                                        "name": "Isoprenaline",
+                                        "drugbank_id": "DB01064"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha- and beta-adrenoreceptor agonists (R03AA)",
+                        "atc_code": "R03AA",
+                        "children": [
+                            {
+                                "name": "Epinephrine (R03AA01)",
+                                "atc_code": "R03AA01",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Other respiratory system products (R07)",
+        "atc_code": "R07",
+        "children": [
+            {
+                "name": "Other respiratory system products (R07A)",
+                "atc_code": "R07A",
+                "children": [
+                    {
+                        "name": "Other respiratory system products (R07AX)",
+                        "atc_code": "R07AX",
+                        "children": [
+                            {
+                                "name": "Deutivacaftor, tezacaftor and vanzacaftor (R07AX33)",
+                                "atc_code": "R07AX33",
+                                "children": [
+                                    {
+                                        "name": "Deutivacaftor",
+                                        "drugbank_id": "DB15141"
+                                    },
+                                    {
+                                        "name": "Vanzacaftor",
+                                        "drugbank_id": "DB18373"
+                                    },
+                                    {
+                                        "name": "Tezacaftor",
+                                        "drugbank_id": "DB11712"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivacaftor, tezacaftor and elexacaftor (R07AX32)",
+                                "atc_code": "R07AX32",
+                                "children": [
+                                    {
+                                        "name": "Tezacaftor",
+                                        "drugbank_id": "DB11712"
+                                    },
+                                    {
+                                        "name": "Ivacaftor",
+                                        "drugbank_id": "DB08820"
+                                    },
+                                    {
+                                        "name": "Elexacaftor",
+                                        "drugbank_id": "DB15444"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivacaftor and tezacaftor (R07AX31)",
+                                "atc_code": "R07AX31",
+                                "children": [
+                                    {
+                                        "name": "Tezacaftor",
+                                        "drugbank_id": "DB11712"
+                                    },
+                                    {
+                                        "name": "Ivacaftor",
+                                        "drugbank_id": "DB08820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivacaftor and lumacaftor (R07AX30)",
+                                "atc_code": "R07AX30",
+                                "children": [
+                                    {
+                                        "name": "Ivacaftor",
+                                        "drugbank_id": "DB08820"
+                                    },
+                                    {
+                                        "name": "Lumacaftor",
+                                        "drugbank_id": "DB09280"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivacaftor (R07AX02)",
+                                "atc_code": "R07AX02",
+                                "children": [
+                                    {
+                                        "name": "Ivacaftor",
+                                        "drugbank_id": "DB08820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitric oxide (R07AX01)",
+                                "atc_code": "R07AX01",
+                                "children": [
+                                    {
+                                        "name": "Nitric Oxide",
+                                        "drugbank_id": "DB00435"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Respiratory stimulants (R07AB)",
+                        "atc_code": "R07AB",
+                        "children": [
+                            {
+                                "name": "Pentetrazol, combinations (R07AB53)",
+                                "atc_code": "R07AB53",
+                                "children": [
+                                    {
+                                        "name": "Pentetrazol",
+                                        "drugbank_id": "DB13415"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nikethamide, combinations (R07AB52)",
+                                "atc_code": "R07AB52",
+                                "children": [
+                                    {
+                                        "name": "Nikethamide",
+                                        "drugbank_id": "DB13655"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepixanox (R07AB09)",
+                                "atc_code": "R07AB09",
+                                "children": [
+                                    {
+                                        "name": "Mepixanox",
+                                        "drugbank_id": "DB13579"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimefline (R07AB08)",
+                                "atc_code": "R07AB08",
+                                "children": [
+                                    {
+                                        "name": "Dimefline",
+                                        "drugbank_id": "DB13482"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Almitrine (R07AB07)",
+                                "atc_code": "R07AB07",
+                                "children": [
+                                    {
+                                        "name": "Almitrine",
+                                        "drugbank_id": "DB01430"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prethcamide (R07AB06)",
+                                "atc_code": "R07AB06",
+                                "children": [
+                                    {
+                                        "name": "Prethcamide",
+                                        "drugbank_id": "DB13447"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bemegride (R07AB05)",
+                                "atc_code": "R07AB05",
+                                "children": [
+                                    {
+                                        "name": "Bemegride",
+                                        "drugbank_id": "DB13740"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etamivan (R07AB04)",
+                                "atc_code": "R07AB04",
+                                "children": [
+                                    {
+                                        "name": "Etamivan",
+                                        "drugbank_id": "DB08989"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentetrazol (R07AB03)",
+                                "atc_code": "R07AB03",
+                                "children": [
+                                    {
+                                        "name": "Pentetrazol",
+                                        "drugbank_id": "DB13415"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nikethamide (R07AB02)",
+                                "atc_code": "R07AB02",
+                                "children": [
+                                    {
+                                        "name": "Nikethamide",
+                                        "drugbank_id": "DB13655"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxapram (R07AB01)",
+                                "atc_code": "R07AB01",
+                                "children": [
+                                    {
+                                        "name": "Doxapram",
+                                        "drugbank_id": "DB00561"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lung surfactants (R07AA)",
+                        "atc_code": "R07AA",
+                        "children": [
+                            {
+                                "name": "Combinations (R07AA30)",
+                                "atc_code": "R07AA30"
+                            },
+                            {
+                                "name": "Natural phospholipids (R07AA02)",
+                                "atc_code": "R07AA02"
+                            },
+                            {
+                                "name": "Colfosceril palmitate (R07AA01)",
+                                "atc_code": "R07AA01",
+                                "children": [
+                                    {
+                                        "name": "Colfosceril palmitate",
+                                        "drugbank_id": "DB09114"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

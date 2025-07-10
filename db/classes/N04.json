@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Anti-parkinson drugs (N04)",
+        "atc_code": "N04",
+        "children": [
+            {
+                "name": "Other antiparkinson drugs (N04C)",
+                "atc_code": "N04C",
+                "children": [
+                    {
+                        "name": "Other antiparkinson drugs (N04CX)",
+                        "atc_code": "N04CX",
+                        "children": [
+                            {
+                                "name": "Istradefylline (N04CX01)",
+                                "atc_code": "N04CX01",
+                                "children": [
+                                    {
+                                        "name": "Istradefylline",
+                                        "drugbank_id": "DB11757"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dopaminergic agents (N04B)",
+                "atc_code": "N04B",
+                "children": [
+                    {
+                        "name": "Other dopaminergic agents (N04BX)",
+                        "atc_code": "N04BX",
+                        "children": [
+                            {
+                                "name": "Opicapone (N04BX04)",
+                                "atc_code": "N04BX04",
+                                "children": [
+                                    {
+                                        "name": "Opicapone",
+                                        "drugbank_id": "DB11632"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Budipine (N04BX03)",
+                                "atc_code": "N04BX03",
+                                "children": [
+                                    {
+                                        "name": "Budipine",
+                                        "drugbank_id": "DB13502"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Entacapone (N04BX02)",
+                                "atc_code": "N04BX02",
+                                "children": [
+                                    {
+                                        "name": "Entacapone",
+                                        "drugbank_id": "DB00494"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolcapone (N04BX01)",
+                                "atc_code": "N04BX01",
+                                "children": [
+                                    {
+                                        "name": "Tolcapone",
+                                        "drugbank_id": "DB00323"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monoamine oxidase b inhibitors (N04BD)",
+                        "atc_code": "N04BD",
+                        "children": [
+                            {
+                                "name": "Safinamide (N04BD03)",
+                                "atc_code": "N04BD03",
+                                "children": [
+                                    {
+                                        "name": "Safinamide",
+                                        "drugbank_id": "DB06654"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rasagiline (N04BD02)",
+                                "atc_code": "N04BD02",
+                                "children": [
+                                    {
+                                        "name": "Rasagiline",
+                                        "drugbank_id": "DB01367"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Selegiline (N04BD01)",
+                                "atc_code": "N04BD01",
+                                "children": [
+                                    {
+                                        "name": "Selegiline",
+                                        "drugbank_id": "DB01037"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dopamine agonists (N04BC)",
+                        "atc_code": "N04BC",
+                        "children": [
+                            {
+                                "name": "Rotigotine (N04BC09)",
+                                "atc_code": "N04BC09",
+                                "children": [
+                                    {
+                                        "name": "Rotigotine",
+                                        "drugbank_id": "DB05271"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piribedil (N04BC08)",
+                                "atc_code": "N04BC08",
+                                "children": [
+                                    {
+                                        "name": "Piribedil",
+                                        "drugbank_id": "DB12478"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apomorphine (N04BC07)",
+                                "atc_code": "N04BC07",
+                                "children": [
+                                    {
+                                        "name": "Apomorphine",
+                                        "drugbank_id": "DB00714"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cabergoline (N04BC06)",
+                                "atc_code": "N04BC06",
+                                "children": [
+                                    {
+                                        "name": "Cabergoline",
+                                        "drugbank_id": "DB00248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pramipexole (N04BC05)",
+                                "atc_code": "N04BC05",
+                                "children": [
+                                    {
+                                        "name": "Pramipexole",
+                                        "drugbank_id": "DB00413"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ropinirole (N04BC04)",
+                                "atc_code": "N04BC04",
+                                "children": [
+                                    {
+                                        "name": "Ropinirole",
+                                        "drugbank_id": "DB00268"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydroergocryptine mesylate (N04BC03)",
+                                "atc_code": "N04BC03",
+                                "children": [
+                                    {
+                                        "name": "Dihydroergocryptine",
+                                        "drugbank_id": "DB13385"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pergolide (N04BC02)",
+                                "atc_code": "N04BC02",
+                                "children": [
+                                    {
+                                        "name": "Pergolide",
+                                        "drugbank_id": "DB01186"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromocriptine (N04BC01)",
+                                "atc_code": "N04BC01",
+                                "children": [
+                                    {
+                                        "name": "Bromocriptine",
+                                        "drugbank_id": "DB01200"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Adamantane derivatives (N04BB)",
+                        "atc_code": "N04BB",
+                        "children": [
+                            {
+                                "name": "Amantadine (N04BB01)",
+                                "atc_code": "N04BB01",
+                                "children": [
+                                    {
+                                        "name": "Amantadine",
+                                        "drugbank_id": "DB00915"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dopa and dopa derivatives (N04BA)",
+                        "atc_code": "N04BA",
+                        "children": [
+                            {
+                                "name": "Foslevodopa and decarboxylase inhibitor (N04BA07)",
+                                "atc_code": "N04BA07",
+                                "children": [
+                                    {
+                                        "name": "Foslevodopa",
+                                        "drugbank_id": "DB16683"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etilevodopa and decarboxylase inhibitor (N04BA06)",
+                                "atc_code": "N04BA06",
+                                "children": [
+                                    {
+                                        "name": "Etilevodopa",
+                                        "drugbank_id": "DB06535"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melevodopa and decarboxylase inhibitor (N04BA05)",
+                                "atc_code": "N04BA05",
+                                "children": [
+                                    {
+                                        "name": "Melevodopa",
+                                        "drugbank_id": "DB13313"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melevodopa (N04BA04)",
+                                "atc_code": "N04BA04",
+                                "children": [
+                                    {
+                                        "name": "Melevodopa",
+                                        "drugbank_id": "DB13313"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levodopa, decarboxylase inhibitor and comt inhibitor (N04BA03)",
+                                "atc_code": "N04BA03",
+                                "children": [
+                                    {
+                                        "name": "Levodopa",
+                                        "drugbank_id": "DB01235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levodopa and decarboxylase inhibitor (N04BA02)",
+                                "atc_code": "N04BA02",
+                                "children": [
+                                    {
+                                        "name": "Levodopa",
+                                        "drugbank_id": "DB01235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levodopa (N04BA01)",
+                                "atc_code": "N04BA01",
+                                "children": [
+                                    {
+                                        "name": "Levodopa",
+                                        "drugbank_id": "DB01235"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anticholinergic agents (N04A)",
+                "atc_code": "N04A",
+                "children": [
+                    {
+                        "name": "Ethers of tropine or tropine derivatives (N04AC)",
+                        "atc_code": "N04AC",
+                        "children": [
+                            {
+                                "name": "Etybenzatropine (N04AC30)",
+                                "atc_code": "N04AC30",
+                                "children": [
+                                    {
+                                        "name": "Etybenzatropine",
+                                        "drugbank_id": "DB13468"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzatropine (N04AC01)",
+                                "atc_code": "N04AC01",
+                                "children": [
+                                    {
+                                        "name": "Benzatropine",
+                                        "drugbank_id": "DB00245"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ethers chemically close to antihistamines (N04AB)",
+                        "atc_code": "N04AB",
+                        "children": [
+                            {
+                                "name": "Orphenadrine (chloride) (N04AB02)",
+                                "atc_code": "N04AB02",
+                                "children": [
+                                    {
+                                        "name": "Orphenadrine",
+                                        "drugbank_id": "DB01173"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etanautine (N04AB01)",
+                                "atc_code": "N04AB01",
+                                "children": [
+                                    {
+                                        "name": "Etanautine",
+                                        "drugbank_id": "DB13636"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tertiary amines (N04AA)",
+                        "atc_code": "N04AA",
+                        "children": [
+                            {
+                                "name": "Tropatepine (N04AA12)",
+                                "atc_code": "N04AA12",
+                                "children": [
+                                    {
+                                        "name": "Tropatepine",
+                                        "drugbank_id": "DB13252"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bornaprine (N04AA11)",
+                                "atc_code": "N04AA11",
+                                "children": [
+                                    {
+                                        "name": "Bornaprine",
+                                        "drugbank_id": "DB13619"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mazaticol (N04AA10)",
+                                "atc_code": "N04AA10",
+                                "children": [
+                                    {
+                                        "name": "Mazaticol",
+                                        "drugbank_id": "DB13448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenglutarimide (N04AA09)",
+                                "atc_code": "N04AA09",
+                                "children": [
+                                    {
+                                        "name": "Phenglutarimide",
+                                        "drugbank_id": "DB13413"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexetimide (N04AA08)",
+                                "atc_code": "N04AA08",
+                                "children": [
+                                    {
+                                        "name": "Dexetimide",
+                                        "drugbank_id": "DB08997"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Profenamine (N04AA05)",
+                                "atc_code": "N04AA05",
+                                "children": [
+                                    {
+                                        "name": "Profenamine",
+                                        "drugbank_id": "DB00392"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procyclidine (N04AA04)",
+                                "atc_code": "N04AA04",
+                                "children": [
+                                    {
+                                        "name": "Procyclidine",
+                                        "drugbank_id": "DB00387"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metixene (N04AA03)",
+                                "atc_code": "N04AA03",
+                                "children": [
+                                    {
+                                        "name": "Metixene",
+                                        "drugbank_id": "DB00340"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Biperiden (N04AA02)",
+                                "atc_code": "N04AA02",
+                                "children": [
+                                    {
+                                        "name": "Biperiden",
+                                        "drugbank_id": "DB00810"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trihexyphenidyl (N04AA01)",
+                                "atc_code": "N04AA01",
+                                "children": [
+                                    {
+                                        "name": "Trihexyphenidyl",
+                                        "drugbank_id": "DB00376"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

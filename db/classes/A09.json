@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Digestives, incl. enzymes (A09)",
+        "atc_code": "A09",
+        "children": [
+            {
+                "name": "Digestives, incl. enzymes (A09A)",
+                "atc_code": "A09A",
+                "children": [
+                    {
+                        "name": "Enzyme and acid preparations, combinations (A09AC)",
+                        "atc_code": "A09AC",
+                        "children": [
+                            {
+                                "name": "Multienzymes and acid preparations (A09AC02)",
+                                "atc_code": "A09AC02"
+                            },
+                            {
+                                "name": "Pepsin and acid preparations (A09AC01)",
+                                "atc_code": "A09AC01",
+                                "children": [
+                                    {
+                                        "name": "Pepsin",
+                                        "drugbank_id": "DB13198"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Acid preparations (A09AB)",
+                        "atc_code": "A09AB",
+                        "children": [
+                            {
+                                "name": "Citric acid (A09AB04)",
+                                "atc_code": "A09AB04",
+                                "children": [
+                                    {
+                                        "name": "Citric acid",
+                                        "drugbank_id": "DB04272"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrochloric acid (A09AB03)",
+                                "atc_code": "A09AB03",
+                                "children": [
+                                    {
+                                        "name": "Hydrochloric acid",
+                                        "drugbank_id": "DB13366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betaine hydrochloride (A09AB02)",
+                                "atc_code": "A09AB02",
+                                "children": [
+                                    {
+                                        "name": "Betaine",
+                                        "drugbank_id": "DB06756"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glutamic acid hydrochloride (A09AB01)",
+                                "atc_code": "A09AB01",
+                                "children": [
+                                    {
+                                        "name": "Glutamic acid",
+                                        "drugbank_id": "DB00142"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzyme preparations (A09AA)",
+                        "atc_code": "A09AA",
+                        "children": [
+                            {
+                                "name": "Tilactase (A09AA04)",
+                                "atc_code": "A09AA04",
+                                "children": [
+                                    {
+                                        "name": "Tilactase",
+                                        "drugbank_id": "DB13761"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pepsin (A09AA03)",
+                                "atc_code": "A09AA03",
+                                "children": [
+                                    {
+                                        "name": "Pepsin",
+                                        "drugbank_id": "DB13198"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Multienzymes (lipase, protease etc.) (A09AA02)",
+                                "atc_code": "A09AA02",
+                                "children": [
+                                    {
+                                        "name": "Pancrelipase",
+                                        "drugbank_id": "DB00085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diastase (A09AA01)",
+                                "atc_code": "A09AA01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

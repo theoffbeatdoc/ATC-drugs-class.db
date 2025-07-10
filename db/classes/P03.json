@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Ectoparasiticides, incl. scabicides, insecticides and repellents (P03)",
+        "atc_code": "P03",
+        "children": [
+            {
+                "name": "Insecticides and repellents (P03B)",
+                "atc_code": "P03B",
+                "children": [
+                    {
+                        "name": "Other insecticides and repellents (P03BX)",
+                        "atc_code": "P03BX",
+                        "children": [
+                            {
+                                "name": "Etohexadiol (P03BX06)",
+                                "atc_code": "P03BX06",
+                                "children": [
+                                    {
+                                        "name": "Etohexadiol",
+                                        "drugbank_id": "DB13826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethylcarbate (P03BX05)",
+                                "atc_code": "P03BX05",
+                                "children": [
+                                    {
+                                        "name": "Dimethyl carbate",
+                                        "drugbank_id": "DB13204"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibutylsuccinate (P03BX04)",
+                                "atc_code": "P03BX04",
+                                "children": [
+                                    {
+                                        "name": "Dibutylsuccinate",
+                                        "drugbank_id": "DB13332"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibutylphthalate (P03BX03)",
+                                "atc_code": "P03BX03",
+                                "children": [
+                                    {
+                                        "name": "Dibutylphthalate",
+                                        "drugbank_id": "DB13716"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethylphthalate (P03BX02)",
+                                "atc_code": "P03BX02",
+                                "children": [
+                                    {
+                                        "name": "Dimethylphthalate",
+                                        "drugbank_id": "DB13336"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diethyltoluamide (P03BX01)",
+                                "atc_code": "P03BX01",
+                                "children": [
+                                    {
+                                        "name": "Diethyltoluamide",
+                                        "drugbank_id": "DB11282"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pyrethrines (P03BA)",
+                        "atc_code": "P03BA",
+                        "children": [
+                            {
+                                "name": "Tetramethrin (P03BA04)",
+                                "atc_code": "P03BA04",
+                                "children": [
+                                    {
+                                        "name": "Tetramethrin",
+                                        "drugbank_id": "DB13752"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Decamethrin (P03BA03)",
+                                "atc_code": "P03BA03",
+                                "children": [
+                                    {
+                                        "name": "Deltamethrin",
+                                        "drugbank_id": "DB13600"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cypermethrin (P03BA02)",
+                                "atc_code": "P03BA02",
+                                "children": [
+                                    {
+                                        "name": "Cypermethrin",
+                                        "drugbank_id": "DB13721"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyfluthrin (P03BA01)",
+                                "atc_code": "P03BA01",
+                                "children": [
+                                    {
+                                        "name": "Cyfluthrin",
+                                        "drugbank_id": "DB13828"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ectoparasiticides, incl. scabicides (P03A)",
+                "atc_code": "P03A",
+                "children": [
+                    {
+                        "name": "Other ectoparasiticides, incl. scabicides (P03AX)",
+                        "atc_code": "P03AX",
+                        "children": [
+                            {
+                                "name": "Abametapir (P03AX07)",
+                                "atc_code": "P03AX07",
+                                "children": [
+                                    {
+                                        "name": "Abametapir",
+                                        "drugbank_id": "DB11932"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzyl alcohol (P03AX06)",
+                                "atc_code": "P03AX06",
+                                "children": [
+                                    {
+                                        "name": "Benzyl alcohol",
+                                        "drugbank_id": "DB06770"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimeticone (P03AX05)",
+                                "atc_code": "P03AX05",
+                                "children": [
+                                    {
+                                        "name": "Dimethicone",
+                                        "drugbank_id": "DB11074"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quassia (P03AX04)",
+                                "atc_code": "P03AX04",
+                                "children": [
+                                    {
+                                        "name": "Quassia",
+                                        "drugbank_id": "DB13263"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Malathion (P03AX03)",
+                                "atc_code": "P03AX03",
+                                "children": [
+                                    {
+                                        "name": "Malathion",
+                                        "drugbank_id": "DB00772"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Copper oleinate (P03AX02)",
+                                "atc_code": "P03AX02"
+                            },
+                            {
+                                "name": "Benzyl benzoate (P03AX01)",
+                                "atc_code": "P03AX01",
+                                "children": [
+                                    {
+                                        "name": "Benzyl benzoate",
+                                        "drugbank_id": "DB00676"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pyrethrines, incl. synthetic compounds (P03AC)",
+                        "atc_code": "P03AC",
+                        "children": [
+                            {
+                                "name": "Permethrin, combinations (P03AC54)",
+                                "atc_code": "P03AC54",
+                                "children": [
+                                    {
+                                        "name": "Permethrin",
+                                        "drugbank_id": "DB04930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenothrin, combinations (P03AC53)",
+                                "atc_code": "P03AC53",
+                                "children": [
+                                    {
+                                        "name": "Phenothrin",
+                                        "drugbank_id": "DB13717"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bioallethrin, combinations (P03AC52)",
+                                "atc_code": "P03AC52",
+                                "children": [
+                                    {
+                                        "name": "Bioallethrin",
+                                        "drugbank_id": "DB13746"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrethrum, combinations (P03AC51)",
+                                "atc_code": "P03AC51"
+                            },
+                            {
+                                "name": "Permethrin (P03AC04)",
+                                "atc_code": "P03AC04",
+                                "children": [
+                                    {
+                                        "name": "Permethrin",
+                                        "drugbank_id": "DB04930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenothrin (P03AC03)",
+                                "atc_code": "P03AC03",
+                                "children": [
+                                    {
+                                        "name": "Phenothrin",
+                                        "drugbank_id": "DB13717"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bioallethrin (P03AC02)",
+                                "atc_code": "P03AC02",
+                                "children": [
+                                    {
+                                        "name": "Bioallethrin",
+                                        "drugbank_id": "DB13746"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrethrum (P03AC01)",
+                                "atc_code": "P03AC01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chlorine containing products (P03AB)",
+                        "atc_code": "P03AB",
+                        "children": [
+                            {
+                                "name": "Clofenotane, combinations (P03AB51)",
+                                "atc_code": "P03AB51",
+                                "children": [
+                                    {
+                                        "name": "Clofenotane",
+                                        "drugbank_id": "DB13424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lindane (P03AB02)",
+                                "atc_code": "P03AB02",
+                                "children": [
+                                    {
+                                        "name": "Lindane",
+                                        "drugbank_id": "DB00431"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofenotane (P03AB01)",
+                                "atc_code": "P03AB01",
+                                "children": [
+                                    {
+                                        "name": "Clofenotane",
+                                        "drugbank_id": "DB13424"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfur containing products (P03AA)",
+                        "atc_code": "P03AA",
+                        "children": [
+                            {
+                                "name": "Disulfiram, combinations (P03AA54)",
+                                "atc_code": "P03AA54",
+                                "children": [
+                                    {
+                                        "name": "Disulfiram",
+                                        "drugbank_id": "DB00822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiram (P03AA05)",
+                                "atc_code": "P03AA05",
+                                "children": [
+                                    {
+                                        "name": "Thiram",
+                                        "drugbank_id": "DB13245"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Disulfiram (P03AA04)",
+                                "atc_code": "P03AA04",
+                                "children": [
+                                    {
+                                        "name": "Disulfiram",
+                                        "drugbank_id": "DB00822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mesulfen (P03AA03)",
+                                "atc_code": "P03AA03",
+                                "children": [
+                                    {
+                                        "name": "Mesulfen",
+                                        "drugbank_id": "DB13356"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium polysulfide (P03AA02)",
+                                "atc_code": "P03AA02"
+                            },
+                            {
+                                "name": "Dixanthogen (P03AA01)",
+                                "atc_code": "P03AA01",
+                                "children": [
+                                    {
+                                        "name": "Dixanthogen",
+                                        "drugbank_id": "DB13712"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

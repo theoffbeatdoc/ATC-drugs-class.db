@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Antifungals for dermatological use (D01)",
+        "atc_code": "D01",
+        "children": [
+            {
+                "name": "Antifungals for systemic use (D01B)",
+                "atc_code": "D01B",
+                "children": [
+                    {
+                        "name": "Antifungals for systemic use (D01BA)",
+                        "atc_code": "D01BA",
+                        "children": [
+                            {
+                                "name": "Fosravuconazole (D01BA03)",
+                                "atc_code": "D01BA03",
+                                "children": [
+                                    {
+                                        "name": "Fosravuconazole",
+                                        "drugbank_id": "DB15204"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terbinafine (D01BA02)",
+                                "atc_code": "D01BA02",
+                                "children": [
+                                    {
+                                        "name": "Terbinafine",
+                                        "drugbank_id": "DB00857"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Griseofulvin (D01BA01)",
+                                "atc_code": "D01BA01",
+                                "children": [
+                                    {
+                                        "name": "Griseofulvin",
+                                        "drugbank_id": "DB00400"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antifungals for topical use (D01A)",
+                "atc_code": "D01A",
+                "children": [
+                    {
+                        "name": "Other antifungals for topical use (D01AE)",
+                        "atc_code": "D01AE",
+                        "children": [
+                            {
+                                "name": "Liranaftate (D01AE25)",
+                                "atc_code": "D01AE25"
+                            },
+                            {
+                                "name": "Tavaborole (D01AE24)",
+                                "atc_code": "D01AE24",
+                                "children": [
+                                    {
+                                        "name": "Tavaborole",
+                                        "drugbank_id": "DB09041"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Undecylenic acid, combinations (D01AE54)",
+                                "atc_code": "D01AE54",
+                                "children": [
+                                    {
+                                        "name": "Undecylenic acid",
+                                        "drugbank_id": "DB11117"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butenafine (D01AE23)",
+                                "atc_code": "D01AE23",
+                                "children": [
+                                    {
+                                        "name": "Butenafine",
+                                        "drugbank_id": "DB01091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naftifine (D01AE22)",
+                                "atc_code": "D01AE22",
+                                "children": [
+                                    {
+                                        "name": "Naftifine",
+                                        "drugbank_id": "DB00735"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flucytosine (D01AE21)",
+                                "atc_code": "D01AE21",
+                                "children": [
+                                    {
+                                        "name": "Flucytosine",
+                                        "drugbank_id": "DB01099"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (D01AE20)",
+                                "atc_code": "D01AE20"
+                            },
+                            {
+                                "name": "Tolciclate (D01AE19)",
+                                "atc_code": "D01AE19",
+                                "children": [
+                                    {
+                                        "name": "Tolciclate",
+                                        "drugbank_id": "DB13360"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolnaftate (D01AE18)",
+                                "atc_code": "D01AE18",
+                                "children": [
+                                    {
+                                        "name": "Tolnaftate",
+                                        "drugbank_id": "DB00525"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimazole (D01AE17)",
+                                "atc_code": "D01AE17",
+                                "children": [
+                                    {
+                                        "name": "Dimazole",
+                                        "drugbank_id": "DB13858"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amorolfine (D01AE16)",
+                                "atc_code": "D01AE16",
+                                "children": [
+                                    {
+                                        "name": "Amorolfine",
+                                        "drugbank_id": "DB09056"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terbinafine (D01AE15)",
+                                "atc_code": "D01AE15",
+                                "children": [
+                                    {
+                                        "name": "Terbinafine",
+                                        "drugbank_id": "DB00857"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclopirox (D01AE14)",
+                                "atc_code": "D01AE14",
+                                "children": [
+                                    {
+                                        "name": "Ciclopirox",
+                                        "drugbank_id": "DB01188"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Selenium sulfide (D01AE13)",
+                                "atc_code": "D01AE13",
+                                "children": [
+                                    {
+                                        "name": "Selenium Sulfide",
+                                        "drugbank_id": "DB00971"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salicylic acid (D01AE12)",
+                                "atc_code": "D01AE12",
+                                "children": [
+                                    {
+                                        "name": "Salicylic acid",
+                                        "drugbank_id": "DB00936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Haloprogin (D01AE11)",
+                                "atc_code": "D01AE11",
+                                "children": [
+                                    {
+                                        "name": "Haloprogin",
+                                        "drugbank_id": "DB00793"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethyl hydroxybenzoate (D01AE10)",
+                                "atc_code": "D01AE10",
+                                "children": [
+                                    {
+                                        "name": "Ethyl hydroxybenzoate",
+                                        "drugbank_id": "DB13628"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulbentine (D01AE09)",
+                                "atc_code": "D01AE09",
+                                "children": [
+                                    {
+                                        "name": "Sulbentine",
+                                        "drugbank_id": "DB13671"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ticlatone (D01AE08)",
+                                "atc_code": "D01AE08",
+                                "children": [
+                                    {
+                                        "name": "Ticlatone",
+                                        "drugbank_id": "DB13613"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorphenesin (D01AE07)",
+                                "atc_code": "D01AE07",
+                                "children": [
+                                    {
+                                        "name": "Chlorphenesin",
+                                        "drugbank_id": "DB00856"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2-(4-chlorphenoxy)-ethanol (D01AE06)",
+                                "atc_code": "D01AE06",
+                                "children": [
+                                    {
+                                        "name": "Chlorophetanol",
+                                        "drugbank_id": "DB11368"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polynoxylin (D01AE05)",
+                                "atc_code": "D01AE05"
+                            },
+                            {
+                                "name": "Undecylenic acid (D01AE04)",
+                                "atc_code": "D01AE04",
+                                "children": [
+                                    {
+                                        "name": "Undecylenic acid",
+                                        "drugbank_id": "DB11117"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tribromometacresol (D01AE03)",
+                                "atc_code": "D01AE03",
+                                "children": [
+                                    {
+                                        "name": "Tribromometacresol",
+                                        "drugbank_id": "DB13513"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylrosaniline (D01AE02)",
+                                "atc_code": "D01AE02",
+                                "children": [
+                                    {
+                                        "name": "Gentian violet cation",
+                                        "drugbank_id": "DB00406"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromochlorosalicylanilide (D01AE01)",
+                                "atc_code": "D01AE01",
+                                "children": [
+                                    {
+                                        "name": "Bromochlorosalicylanilide",
+                                        "drugbank_id": "DB13696"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazole and triazole derivatives (D01AC)",
+                        "atc_code": "D01AC",
+                        "children": [
+                            {
+                                "name": "Lanoconazole (D01AC22)",
+                                "atc_code": "D01AC22"
+                            },
+                            {
+                                "name": "Neticonazole (D01AC21)",
+                                "atc_code": "D01AC21"
+                            },
+                            {
+                                "name": "Bifonazole, combinations (D01AC60)",
+                                "atc_code": "D01AC60",
+                                "children": [
+                                    {
+                                        "name": "Bifonazole",
+                                        "drugbank_id": "DB04794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miconazole, combinations (D01AC52)",
+                                "atc_code": "D01AC52",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imidazoles/triazoles in combination with corticosteroids (D01AC20)",
+                                "atc_code": "D01AC20"
+                            },
+                            {
+                                "name": "Efinaconazole (D01AC19)",
+                                "atc_code": "D01AC19",
+                                "children": [
+                                    {
+                                        "name": "Efinaconazole",
+                                        "drugbank_id": "DB09040"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Luliconazole (D01AC18)",
+                                "atc_code": "D01AC18",
+                                "children": [
+                                    {
+                                        "name": "Luliconazole",
+                                        "drugbank_id": "DB08933"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eberconazole (D01AC17)",
+                                "atc_code": "D01AC17",
+                                "children": [
+                                    {
+                                        "name": "Eberconazole",
+                                        "drugbank_id": "DB13656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flutrimazole (D01AC16)",
+                                "atc_code": "D01AC16",
+                                "children": [
+                                    {
+                                        "name": "Flutrimazole",
+                                        "drugbank_id": "DB13425"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluconazole (D01AC15)",
+                                "atc_code": "D01AC15",
+                                "children": [
+                                    {
+                                        "name": "Fluconazole",
+                                        "drugbank_id": "DB00196"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sertaconazole (D01AC14)",
+                                "atc_code": "D01AC14",
+                                "children": [
+                                    {
+                                        "name": "Sertaconazole",
+                                        "drugbank_id": "DB01153"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Omoconazole (D01AC13)",
+                                "atc_code": "D01AC13",
+                                "children": [
+                                    {
+                                        "name": "Omoconazole",
+                                        "drugbank_id": "DB13684"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenticonazole (D01AC12)",
+                                "atc_code": "D01AC12",
+                                "children": [
+                                    {
+                                        "name": "Fenticonazole",
+                                        "drugbank_id": "DB13434"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxiconazole (D01AC11)",
+                                "atc_code": "D01AC11",
+                                "children": [
+                                    {
+                                        "name": "Oxiconazole",
+                                        "drugbank_id": "DB00239"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bifonazole (D01AC10)",
+                                "atc_code": "D01AC10",
+                                "children": [
+                                    {
+                                        "name": "Bifonazole",
+                                        "drugbank_id": "DB04794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulconazole (D01AC09)",
+                                "atc_code": "D01AC09",
+                                "children": [
+                                    {
+                                        "name": "Sulconazole",
+                                        "drugbank_id": "DB06820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketoconazole (D01AC08)",
+                                "atc_code": "D01AC08",
+                                "children": [
+                                    {
+                                        "name": "Ketoconazole",
+                                        "drugbank_id": "DB01026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tioconazole (D01AC07)",
+                                "atc_code": "D01AC07",
+                                "children": [
+                                    {
+                                        "name": "Tioconazole",
+                                        "drugbank_id": "DB01007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiabendazole (D01AC06)",
+                                "atc_code": "D01AC06",
+                                "children": [
+                                    {
+                                        "name": "Thiabendazole",
+                                        "drugbank_id": "DB00730"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoconazole (D01AC05)",
+                                "atc_code": "D01AC05",
+                                "children": [
+                                    {
+                                        "name": "Isoconazole",
+                                        "drugbank_id": "DB08943"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlormidazole (D01AC04)",
+                                "atc_code": "D01AC04",
+                                "children": [
+                                    {
+                                        "name": "Chlormidazole",
+                                        "drugbank_id": "DB13611"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Econazole (D01AC03)",
+                                "atc_code": "D01AC03",
+                                "children": [
+                                    {
+                                        "name": "Econazole",
+                                        "drugbank_id": "DB01127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miconazole (D01AC02)",
+                                "atc_code": "D01AC02",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clotrimazole (D01AC01)",
+                                "atc_code": "D01AC01",
+                                "children": [
+                                    {
+                                        "name": "Clotrimazole",
+                                        "drugbank_id": "DB00257"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (D01AA)",
+                        "atc_code": "D01AA",
+                        "children": [
+                            {
+                                "name": "Antibiotics in combination with corticosteroids (D01AA20)",
+                                "atc_code": "D01AA20"
+                            },
+                            {
+                                "name": "Griseofulvin (D01AA08)",
+                                "atc_code": "D01AA08",
+                                "children": [
+                                    {
+                                        "name": "Griseofulvin",
+                                        "drugbank_id": "DB00400"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrrolnitrin (D01AA07)",
+                                "atc_code": "D01AA07",
+                                "children": [
+                                    {
+                                        "name": "Pyrrolnitrin",
+                                        "drugbank_id": "DB13603"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepartricin (D01AA06)",
+                                "atc_code": "D01AA06",
+                                "children": [
+                                    {
+                                        "name": "Mepartricin",
+                                        "drugbank_id": "DB13633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pecilocin (D01AA04)",
+                                "atc_code": "D01AA04",
+                                "children": [
+                                    {
+                                        "name": "Pecilocin",
+                                        "drugbank_id": "DB13459"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hachimycin (D01AA03)",
+                                "atc_code": "D01AA03",
+                                "children": [
+                                    {
+                                        "name": "Hachimycin",
+                                        "drugbank_id": "DB13302"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Natamycin (D01AA02)",
+                                "atc_code": "D01AA02",
+                                "children": [
+                                    {
+                                        "name": "Natamycin",
+                                        "drugbank_id": "DB00826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nystatin (D01AA01)",
+                                "atc_code": "D01AA01",
+                                "children": [
+                                    {
+                                        "name": "Nystatin",
+                                        "drugbank_id": "DB00646"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

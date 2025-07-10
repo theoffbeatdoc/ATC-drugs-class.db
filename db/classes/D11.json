@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Other dermatological preparations (D11)",
+        "atc_code": "D11",
+        "children": [
+            {
+                "name": "Other dermatological preparations (D11A)",
+                "atc_code": "D11A",
+                "children": [
+                    {
+                        "name": "Other dermatologicals (D11AX)",
+                        "atc_code": "D11AX",
+                        "children": [
+                            {
+                                "name": "Oxymetazoline (D11AX27)",
+                                "atc_code": "D11AX27",
+                                "children": [
+                                    {
+                                        "name": "Oxymetazoline",
+                                        "drugbank_id": "DB00935"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Caffeine (D11AX26)",
+                                "atc_code": "D11AX26",
+                                "children": [
+                                    {
+                                        "name": "Caffeine",
+                                        "drugbank_id": "DB00201"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrogen peroxide (D11AX25)",
+                                "atc_code": "D11AX25",
+                                "children": [
+                                    {
+                                        "name": "Hydrogen peroxide",
+                                        "drugbank_id": "DB11091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deoxycholic acid (D11AX24)",
+                                "atc_code": "D11AX24",
+                                "children": [
+                                    {
+                                        "name": "Deoxycholic acid",
+                                        "drugbank_id": "DB03619"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminobenzoate potassium (D11AX23)",
+                                "atc_code": "D11AX23",
+                                "children": [
+                                    {
+                                        "name": "Aminobenzoic acid",
+                                        "drugbank_id": "DB02362"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Collagen, combinations (D11AX57)",
+                                "atc_code": "D11AX57"
+                            },
+                            {
+                                "name": "Gamolenic acid, combinations (D11AX52)",
+                                "atc_code": "D11AX52",
+                                "children": [
+                                    {
+                                        "name": "Gamolenic acid",
+                                        "drugbank_id": "DB13854"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ivermectin (D11AX22)",
+                                "atc_code": "D11AX22",
+                                "children": [
+                                    {
+                                        "name": "Ivermectin",
+                                        "drugbank_id": "DB00602"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brimonidine (D11AX21)",
+                                "atc_code": "D11AX21",
+                                "children": [
+                                    {
+                                        "name": "Brimonidine",
+                                        "drugbank_id": "DB00484"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diclofenac (D11AX18)",
+                                "atc_code": "D11AX18",
+                                "children": [
+                                    {
+                                        "name": "Diclofenac",
+                                        "drugbank_id": "DB00586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eflornithine (D11AX16)",
+                                "atc_code": "D11AX16",
+                                "children": [
+                                    {
+                                        "name": "Eflornithine",
+                                        "drugbank_id": "DB06243"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monobenzone (D11AX13)",
+                                "atc_code": "D11AX13",
+                                "children": [
+                                    {
+                                        "name": "Monobenzone",
+                                        "drugbank_id": "DB00600"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrithione zinc (D11AX12)",
+                                "atc_code": "D11AX12",
+                                "children": [
+                                    {
+                                        "name": "Pyrithione",
+                                        "drugbank_id": "DB06815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroquinone (D11AX11)",
+                                "atc_code": "D11AX11",
+                                "children": [
+                                    {
+                                        "name": "Hydroquinone",
+                                        "drugbank_id": "DB09526"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Finasteride (D11AX10)",
+                                "atc_code": "D11AX10",
+                                "children": [
+                                    {
+                                        "name": "Finasteride",
+                                        "drugbank_id": "DB01216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxaceprol (D11AX09)",
+                                "atc_code": "D11AX09",
+                                "children": [
+                                    {
+                                        "name": "Oxaceprol",
+                                        "drugbank_id": "DB13363"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiratricol (D11AX08)",
+                                "atc_code": "D11AX08",
+                                "children": [
+                                    {
+                                        "name": "Tiratricol",
+                                        "drugbank_id": "DB03604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mequinol (D11AX06)",
+                                "atc_code": "D11AX06",
+                                "children": [
+                                    {
+                                        "name": "Mequinol",
+                                        "drugbank_id": "DB09516"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium sulfate (D11AX05)",
+                                "atc_code": "D11AX05",
+                                "children": [
+                                    {
+                                        "name": "Magnesium sulfate",
+                                        "drugbank_id": "DB00653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lithium succinate (D11AX04)",
+                                "atc_code": "D11AX04",
+                                "children": [
+                                    {
+                                        "name": "Lithium succinate",
+                                        "drugbank_id": "DB14508"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium gluconate (D11AX03)",
+                                "atc_code": "D11AX03",
+                                "children": [
+                                    {
+                                        "name": "Calcium gluconate",
+                                        "drugbank_id": "DB11126"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gamolenic acid (D11AX02)",
+                                "atc_code": "D11AX02",
+                                "children": [
+                                    {
+                                        "name": "Gamolenic acid",
+                                        "drugbank_id": "DB13854"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Minoxidil (D11AX01)",
+                                "atc_code": "D11AX01",
+                                "children": [
+                                    {
+                                        "name": "Minoxidil",
+                                        "drugbank_id": "DB00350"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Agents for dermatitis, excluding corticosteroids (D11AH)",
+                        "atc_code": "D11AH",
+                        "children": [
+                            {
+                                "name": "Nemolizumab (D11AH12)",
+                                "atc_code": "D11AH12",
+                                "children": [
+                                    {
+                                        "name": "Nemolizumab",
+                                        "drugbank_id": "DB15252"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delgocitinib (D11AH11)",
+                                "atc_code": "D11AH11",
+                                "children": [
+                                    {
+                                        "name": "Delgocitinib",
+                                        "drugbank_id": "DB16133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lebrikizumab (D11AH10)",
+                                "atc_code": "D11AH10",
+                                "children": [
+                                    {
+                                        "name": "Lebrikizumab",
+                                        "drugbank_id": "DB11914"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ruxolitinib (D11AH09)",
+                                "atc_code": "D11AH09",
+                                "children": [
+                                    {
+                                        "name": "Ruxolitinib",
+                                        "drugbank_id": "DB08877"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abrocitinib (D11AH08)",
+                                "atc_code": "D11AH08",
+                                "children": [
+                                    {
+                                        "name": "Abrocitinib",
+                                        "drugbank_id": "DB14973"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tralokinumab (D11AH07)",
+                                "atc_code": "D11AH07",
+                                "children": [
+                                    {
+                                        "name": "Tralokinumab",
+                                        "drugbank_id": "DB12169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crisaborole (D11AH06)",
+                                "atc_code": "D11AH06",
+                                "children": [
+                                    {
+                                        "name": "Crisaborole",
+                                        "drugbank_id": "DB05219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dupilumab (D11AH05)",
+                                "atc_code": "D11AH05",
+                                "children": [
+                                    {
+                                        "name": "Dupilumab",
+                                        "drugbank_id": "DB12159"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alitretinoin (D11AH04)",
+                                "atc_code": "D11AH04",
+                                "children": [
+                                    {
+                                        "name": "Alitretinoin",
+                                        "drugbank_id": "DB00523"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cromoglicic acid (D11AH03)",
+                                "atc_code": "D11AH03",
+                                "children": [
+                                    {
+                                        "name": "Cromoglicic acid",
+                                        "drugbank_id": "DB01003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pimecrolimus (D11AH02)",
+                                "atc_code": "D11AH02",
+                                "children": [
+                                    {
+                                        "name": "Pimecrolimus",
+                                        "drugbank_id": "DB00337"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tacrolimus (D11AH01)",
+                                "atc_code": "D11AH01",
+                                "children": [
+                                    {
+                                        "name": "Tacrolimus",
+                                        "drugbank_id": "DB00864"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wart and anti-corn preparations (D11AF)",
+                        "atc_code": "D11AF"
+                    },
+                    {
+                        "name": "Androgens for topical use (D11AE)",
+                        "atc_code": "D11AE",
+                        "children": [
+                            {
+                                "name": "Metandienone (D11AE01)",
+                                "atc_code": "D11AE01",
+                                "children": [
+                                    {
+                                        "name": "Metandienone",
+                                        "drugbank_id": "DB13586"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicated shampoos (D11AC)",
+                        "atc_code": "D11AC",
+                        "children": [
+                            {
+                                "name": "Others (D11AC30)",
+                                "atc_code": "D11AC30"
+                            },
+                            {
+                                "name": "Xenysalate (D11AC09)",
+                                "atc_code": "D11AC09",
+                                "children": [
+                                    {
+                                        "name": "Xenysalate",
+                                        "drugbank_id": "DB13815"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfur compounds (D11AC08)",
+                                "atc_code": "D11AC08"
+                            },
+                            {
+                                "name": "Povidone-iodine (D11AC06)",
+                                "atc_code": "D11AC06",
+                                "children": [
+                                    {
+                                        "name": "Povidone-iodine",
+                                        "drugbank_id": "DB06812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Selenium compounds (D11AC03)",
+                                "atc_code": "D11AC03"
+                            },
+                            {
+                                "name": "Cadmium compounds (D11AC02)",
+                                "atc_code": "D11AC02"
+                            },
+                            {
+                                "name": "Cetrimide (D11AC01)",
+                                "atc_code": "D11AC01",
+                                "children": [
+                                    {
+                                        "name": "Cetrimonium",
+                                        "drugbank_id": "DB01718"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antihidrotics (D11AA)",
+                        "atc_code": "D11AA",
+                        "children": [
+                            {
+                                "name": "Glycopyrronium (D11AA01)",
+                                "atc_code": "D11AA01",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

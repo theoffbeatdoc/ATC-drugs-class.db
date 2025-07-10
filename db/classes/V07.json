@@ -1,0 +1,62 @@
+[
+    {
+        "name": "All other non-therapeutic products (V07)",
+        "atc_code": "V07",
+        "children": [
+            {
+                "name": "All other non-therapeutic products (V07A)",
+                "atc_code": "V07A",
+                "children": [
+                    {
+                        "name": "Chemicals and reagents for analysis (V07AZ)",
+                        "atc_code": "V07AZ"
+                    },
+                    {
+                        "name": "Other non-therapeutic auxiliary products (V07AY)",
+                        "atc_code": "V07AY"
+                    },
+                    {
+                        "name": "Washing agents etc. (V07AX)",
+                        "atc_code": "V07AX"
+                    },
+                    {
+                        "name": "Technical disinfectants (V07AV)",
+                        "atc_code": "V07AV"
+                    },
+                    {
+                        "name": "Cosmetics (V07AT)",
+                        "atc_code": "V07AT"
+                    },
+                    {
+                        "name": "Stomi equipment (V07AS)",
+                        "atc_code": "V07AS"
+                    },
+                    {
+                        "name": "Sensitivity tests, discs and tablets (V07AR)",
+                        "atc_code": "V07AR"
+                    },
+                    {
+                        "name": "Incontinence equipment (V07AN)",
+                        "atc_code": "V07AN"
+                    },
+                    {
+                        "name": "Blood tests, auxiliary products (V07AD)",
+                        "atc_code": "V07AD"
+                    },
+                    {
+                        "name": "Blood transfusion, auxiliary products (V07AC)",
+                        "atc_code": "V07AC"
+                    },
+                    {
+                        "name": "Solvents and diluting agents, incl. irrigating solutions (V07AB)",
+                        "atc_code": "V07AB"
+                    },
+                    {
+                        "name": "Plasters (V07AA)",
+                        "atc_code": "V07AA"
+                    }
+                ]
+            }
+        ]
+    }
+]

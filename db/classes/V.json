@@ -1,0 +1,3246 @@
+[
+    {
+        "name": "Various (V)",
+        "atc_code": "V",
+        "children": [
+            {
+                "name": "Surgical dressings (V20)",
+                "atc_code": "V20"
+            },
+            {
+                "name": "Therapeutic radiopharmaceuticals (V10)",
+                "atc_code": "V10",
+                "children": [
+                    {
+                        "name": "Other therapeutic radiopharmaceuticals (V10X)",
+                        "atc_code": "V10X",
+                        "children": [
+                            {
+                                "name": "Various therapeutic radiopharmaceuticals (V10XX)",
+                                "atc_code": "V10XX",
+                                "children": [
+                                    {
+                                        "name": "Lutetium (177lu) vipivotide tetraxetan (V10XX05)",
+                                        "atc_code": "V10XX05"
+                                    },
+                                    {
+                                        "name": "Lutetium (177lu) oxodotreotide (V10XX04)",
+                                        "atc_code": "V10XX04"
+                                    },
+                                    {
+                                        "name": "Radium (223ra) dichloride (V10XX03)",
+                                        "atc_code": "V10XX03"
+                                    },
+                                    {
+                                        "name": "Ibritumomab tiuxetan (90y) (V10XX02)",
+                                        "atc_code": "V10XX02",
+                                        "children": [
+                                            {
+                                                "name": "Ibritumomab tiuxetan",
+                                                "drugbank_id": "DB00078"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium phosphate (32p) (V10XX01)",
+                                        "atc_code": "V10XX01",
+                                        "children": [
+                                            {
+                                                "name": "Sodium phosphate P 32",
+                                                "drugbank_id": "DB09370"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (131i) compounds (V10XA)",
+                                "atc_code": "V10XA",
+                                "children": [
+                                    {
+                                        "name": "Iodine (131i) apamistamab (V10XA04)",
+                                        "atc_code": "V10XA04",
+                                        "children": [
+                                            {
+                                                "name": "Apamistamab iodine I-131",
+                                                "drugbank_id": "DB16748"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodine (131i) omburtamab (V10XA03)",
+                                        "atc_code": "V10XA03",
+                                        "children": [
+                                            {
+                                                "name": "Omburtamab I-131",
+                                                "drugbank_id": "DB17124"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tositumomab/iodine (131i) tositumomab (V10XA53)",
+                                        "atc_code": "V10XA53",
+                                        "children": [
+                                            {
+                                                "name": "Tositumomab",
+                                                "drugbank_id": "DB00081"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iobenguane (131i) (V10XA02)",
+                                        "atc_code": "V10XA02",
+                                        "children": [
+                                            {
+                                                "name": "Iobenguane",
+                                                "drugbank_id": "DB06704"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium iodide (131i) (V10XA01)",
+                                        "atc_code": "V10XA01",
+                                        "children": [
+                                            {
+                                                "name": "Iodide I-131",
+                                                "drugbank_id": "DB09293"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pain palliation (bone seeking agents) (V10B)",
+                        "atc_code": "V10B",
+                        "children": [
+                            {
+                                "name": "Various pain palliation radiopharmaceuticals (V10BX)",
+                                "atc_code": "V10BX",
+                                "children": [
+                                    {
+                                        "name": "Rhenium (186re) etidronic acid (V10BX03)",
+                                        "atc_code": "V10BX03"
+                                    },
+                                    {
+                                        "name": "Samarium (153sm) lexidronam (V10BX02)",
+                                        "atc_code": "V10BX02",
+                                        "children": [
+                                            {
+                                                "name": "Samarium (153Sm) lexidronam",
+                                                "drugbank_id": "DB05273"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Strontium (89sr) chloride (V10BX01)",
+                                        "atc_code": "V10BX01",
+                                        "children": [
+                                            {
+                                                "name": "Strontium chloride Sr-89",
+                                                "drugbank_id": "DB09498"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinflammatory agents (V10A)",
+                        "atc_code": "V10A",
+                        "children": [
+                            {
+                                "name": "Other antiinflammatory therapeutic radiopharmaceuticals (V10AX)",
+                                "atc_code": "V10AX",
+                                "children": [
+                                    {
+                                        "name": "Gold (198au) colloidal (V10AX06)",
+                                        "atc_code": "V10AX06",
+                                        "children": [
+                                            {
+                                                "name": "Gold Au-198",
+                                                "drugbank_id": "DB13427"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Rhenium (186re) sulfide colloid (V10AX05)",
+                                        "atc_code": "V10AX05",
+                                        "children": [
+                                            {
+                                                "name": "Rhenium Re-186 sulfide",
+                                                "drugbank_id": "DB13847"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Erbium (169er) citrate colloid (V10AX04)",
+                                        "atc_code": "V10AX04"
+                                    },
+                                    {
+                                        "name": "Dysprosium (165dy) colloid (V10AX03)",
+                                        "atc_code": "V10AX03"
+                                    },
+                                    {
+                                        "name": "Samarium (153sm) hydroxyapatite colloid (V10AX02)",
+                                        "atc_code": "V10AX02"
+                                    },
+                                    {
+                                        "name": "Phosphorous (32p) chromicphosphate colloid (V10AX01)",
+                                        "atc_code": "V10AX01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Yttrium (90y) compounds (V10AA)",
+                                "atc_code": "V10AA",
+                                "children": [
+                                    {
+                                        "name": "Yttrium (90y) silicate colloid (V10AA03)",
+                                        "atc_code": "V10AA03"
+                                    },
+                                    {
+                                        "name": "Yttrium (90y) ferrihydroxide colloid (V10AA02)",
+                                        "atc_code": "V10AA02"
+                                    },
+                                    {
+                                        "name": "Yttrium (90y) citrate colloid (V10AA01)",
+                                        "atc_code": "V10AA01",
+                                        "children": [
+                                            {
+                                                "name": "Yttrium Y-90",
+                                                "drugbank_id": "DB13076"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Diagnostic radiopharmaceuticals (V09)",
+                "atc_code": "V09",
+                "children": [
+                    {
+                        "name": "Other diagnostic radiopharmaceuticals (V09X)",
+                        "atc_code": "V09X"
+                    },
+                    {
+                        "name": "Tumour detection (V09I)",
+                        "atc_code": "V09I",
+                        "children": [
+                            {
+                                "name": "Other diagnostic radiopharmaceuticals for tumour detection (V09IX)",
+                                "atc_code": "V09IX",
+                                "children": [
+                                    {
+                                        "name": "Flotufolastat (18f) (V09IX18)",
+                                        "atc_code": "V09IX18",
+                                        "children": [
+                                            {
+                                                "name": "Flotufolastat F-18",
+                                                "drugbank_id": "DB17851"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Psma-1007 (18f) (V09IX17)",
+                                        "atc_code": "V09IX17"
+                                    },
+                                    {
+                                        "name": "Piflufolastat (18f) (V09IX16)",
+                                        "atc_code": "V09IX16"
+                                    },
+                                    {
+                                        "name": "Copper (64cu) dotatate (V09IX15)",
+                                        "atc_code": "V09IX15"
+                                    },
+                                    {
+                                        "name": "Gallium (68ga) gozetotide (V09IX14)",
+                                        "atc_code": "V09IX14",
+                                        "children": [
+                                            {
+                                                "name": "Gallium Ga-68 gozetotide",
+                                                "drugbank_id": "DB16019"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methionine (11c) (V09IX13)",
+                                        "atc_code": "V09IX13",
+                                        "children": [
+                                            {
+                                                "name": "Methionine C-11",
+                                                "drugbank_id": "DB17147"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fluciclovine (18f) (V09IX12)",
+                                        "atc_code": "V09IX12",
+                                        "children": [
+                                            {
+                                                "name": "Fluciclovine (18F)",
+                                                "drugbank_id": "DB13146"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fluoroestradiol (18f) (V09IX11)",
+                                        "atc_code": "V09IX11"
+                                    },
+                                    {
+                                        "name": "Fluoroethyl-l-tyrosine (18f) (V09IX10)",
+                                        "atc_code": "V09IX10",
+                                        "children": [
+                                            {
+                                                "name": "FET F-18",
+                                                "drugbank_id": "DB15405"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gallium (68ga) edotreotide (V09IX09)",
+                                        "atc_code": "V09IX09",
+                                        "children": [
+                                            {
+                                                "name": "Edotreotide gallium Ga-68",
+                                                "drugbank_id": "DB15494"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fluoroethylcholine (18f) (V09IX08)",
+                                        "atc_code": "V09IX08"
+                                    },
+                                    {
+                                        "name": "Fluorocholine (18f) (V09IX07)",
+                                        "atc_code": "V09IX07"
+                                    },
+                                    {
+                                        "name": "Sodium fluoride (18f) (V09IX06)",
+                                        "atc_code": "V09IX06",
+                                        "children": [
+                                            {
+                                                "name": "Fluoride ion F-18",
+                                                "drugbank_id": "DB09398"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fluorodopa (18f) (V09IX05)",
+                                        "atc_code": "V09IX05",
+                                        "children": [
+                                            {
+                                                "name": "Fluorodopa (18F)",
+                                                "drugbank_id": "DB13848"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fludeoxyglucose (18f) (V09IX04)",
+                                        "atc_code": "V09IX04",
+                                        "children": [
+                                            {
+                                                "name": "Fludeoxyglucose (18F)",
+                                                "drugbank_id": "DB09502"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodine (125i) cc49-monoclonal antibody (V09IX03)",
+                                        "atc_code": "V09IX03"
+                                    },
+                                    {
+                                        "name": "Iobenguane (131i) (V09IX02)",
+                                        "atc_code": "V09IX02",
+                                        "children": [
+                                            {
+                                                "name": "Iobenguane",
+                                                "drugbank_id": "DB06704"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iobenguane (123i) (V09IX01)",
+                                        "atc_code": "V09IX01",
+                                        "children": [
+                                            {
+                                                "name": "Iobenguane",
+                                                "drugbank_id": "DB06704"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indium (111in) compounds (V09IB)",
+                                "atc_code": "V09IB",
+                                "children": [
+                                    {
+                                        "name": "Indium (111in) capromab pendetide (V09IB04)",
+                                        "atc_code": "V09IB04",
+                                        "children": [
+                                            {
+                                                "name": "Capromab pendetide",
+                                                "drugbank_id": "DB00089"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Indium (111in) antiovariumcarcinoma antibody (V09IB03)",
+                                        "atc_code": "V09IB03"
+                                    },
+                                    {
+                                        "name": "Indium (111in) satumomab pendetide (V09IB02)",
+                                        "atc_code": "V09IB02",
+                                        "children": [
+                                            {
+                                                "name": "Indium In-111 satumomab pendetide",
+                                                "drugbank_id": "DB00057"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Indium (111in) pentetreotide (V09IB01)",
+                                        "atc_code": "V09IB01",
+                                        "children": [
+                                            {
+                                                "name": "Indium In-111 pentetreotide",
+                                                "drugbank_id": "DB11835"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09IA)",
+                                "atc_code": "V09IA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) trofolastat chloride (V09IA10)",
+                                        "atc_code": "V09IA10"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) tilmanocept (V09IA09)",
+                                        "atc_code": "V09IA09",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m tilmanocept",
+                                                "drugbank_id": "DB09266"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) etarfolatide (V09IA08)",
+                                        "atc_code": "V09IA08"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) hynic-octreotide (V09IA07)",
+                                        "atc_code": "V09IA07"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) arcitumomab (V09IA06)",
+                                        "atc_code": "V09IA06",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m arcitumomab",
+                                                "drugbank_id": "DB00113"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) depreotide (V09IA05)",
+                                        "atc_code": "V09IA05"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) votumumab (V09IA04)",
+                                        "atc_code": "V09IA04"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) pentavalent succimer (V09IA03)",
+                                        "atc_code": "V09IA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) antimelanoma antibody (V09IA02)",
+                                        "atc_code": "V09IA02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) anticarcinoembryonicantigen antibody (V09IA01)",
+                                        "atc_code": "V09IA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Inflammation and infection detection (V09H)",
+                        "atc_code": "V09H",
+                        "children": [
+                            {
+                                "name": "Other diagnostic radiopharmaceuticals for inflammation and infection detection (V09HX)",
+                                "atc_code": "V09HX",
+                                "children": [
+                                    {
+                                        "name": "Gallium (67ga) citrate (V09HX01)",
+                                        "atc_code": "V09HX01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indium (111in) compounds (V09HB)",
+                                "atc_code": "V09HB",
+                                "children": [
+                                    {
+                                        "name": "Indium (111in) tropolonate labelled cells (V09HB02)",
+                                        "atc_code": "V09HB02"
+                                    },
+                                    {
+                                        "name": "Indium (111in) oxinate labelled cells (V09HB01)",
+                                        "atc_code": "V09HB01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09HA)",
+                                "atc_code": "V09HA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) sulesomab (V09HA04)",
+                                        "atc_code": "V09HA04",
+                                        "children": [
+                                            {
+                                                "name": "Sulesomab",
+                                                "drugbank_id": "DB13976"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) antigranulocyte antibody (V09HA03)",
+                                        "atc_code": "V09HA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) exametazime labelled cells (V09HA02)",
+                                        "atc_code": "V09HA02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) human immunoglobulin (V09HA01)",
+                                        "atc_code": "V09HA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cardiovascular system (V09G)",
+                        "atc_code": "V09G",
+                        "children": [
+                            {
+                                "name": "Other cardiovascular system diagnostic radiopharmaceuticals (V09GX)",
+                                "atc_code": "V09GX",
+                                "children": [
+                                    {
+                                        "name": "Ammonia (13n) (V09GX05)",
+                                        "atc_code": "V09GX05"
+                                    },
+                                    {
+                                        "name": "Rubidium (82rb) chloride (V09GX04)",
+                                        "atc_code": "V09GX04"
+                                    },
+                                    {
+                                        "name": "Chromium (51cr) chromate labelled cells (V09GX03)",
+                                        "atc_code": "V09GX03"
+                                    },
+                                    {
+                                        "name": "Indium (111in) imciromab (V09GX02)",
+                                        "atc_code": "V09GX02"
+                                    },
+                                    {
+                                        "name": "Thallium (201tl) chloride (V09GX01)",
+                                        "atc_code": "V09GX01",
+                                        "children": [
+                                            {
+                                                "name": "Thallous chloride Tl-201",
+                                                "drugbank_id": "DB16624"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (125i) compounds (V09GB)",
+                                "atc_code": "V09GB",
+                                "children": [
+                                    {
+                                        "name": "Iodine (125i) human albumin (V09GB02)",
+                                        "atc_code": "V09GB02"
+                                    },
+                                    {
+                                        "name": "Fibrinogen (125i) (V09GB01)",
+                                        "atc_code": "V09GB01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09GA)",
+                                "atc_code": "V09GA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) apcitide (V09GA07)",
+                                        "atc_code": "V09GA07"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) stannous agent labelled cells (V09GA06)",
+                                        "atc_code": "V09GA06"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) furifosmin (V09GA05)",
+                                        "atc_code": "V09GA05"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) human albumin (V09GA04)",
+                                        "atc_code": "V09GA04"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) teboroxime (V09GA03)",
+                                        "atc_code": "V09GA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) tetrofosmin (V09GA02)",
+                                        "atc_code": "V09GA02",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m tetrofosmin",
+                                                "drugbank_id": "DB09160"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) sestamibi (V09GA01)",
+                                        "atc_code": "V09GA01",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m sestamibi",
+                                                "drugbank_id": "DB09161"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thyroid (V09F)",
+                        "atc_code": "V09F",
+                        "children": [
+                            {
+                                "name": "Various thyroid diagnostic radiopharmaceuticals (V09FX)",
+                                "atc_code": "V09FX",
+                                "children": [
+                                    {
+                                        "name": "Sodium iodide (124i) (V09FX04)",
+                                        "atc_code": "V09FX04"
+                                    },
+                                    {
+                                        "name": "Sodium iodide (131i) (V09FX03)",
+                                        "atc_code": "V09FX03",
+                                        "children": [
+                                            {
+                                                "name": "Iodide I-131",
+                                                "drugbank_id": "DB09293"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium iodide (123i) (V09FX02)",
+                                        "atc_code": "V09FX02",
+                                        "children": [
+                                            {
+                                                "name": "Iodide I-123",
+                                                "drugbank_id": "DB09420"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) pertechnetate (V09FX01)",
+                                        "atc_code": "V09FX01",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m pertechnetate",
+                                                "drugbank_id": "DB09314"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Respiratory system (V09E)",
+                        "atc_code": "V09E",
+                        "children": [
+                            {
+                                "name": "Other respiratory system diagnostic radiopharmaceuticals (V09EX)",
+                                "atc_code": "V09EX",
+                                "children": [
+                                    {
+                                        "name": "Xenon (133xe) gas (V09EX03)",
+                                        "atc_code": "V09EX03",
+                                        "children": [
+                                            {
+                                                "name": "Xenon-133",
+                                                "drugbank_id": "DB09315"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Xenon (127xe) gas (V09EX02)",
+                                        "atc_code": "V09EX02"
+                                    },
+                                    {
+                                        "name": "Krypton (81mkr) gas (V09EX01)",
+                                        "atc_code": "V09EX01",
+                                        "children": [
+                                            {
+                                                "name": "Krypton Kr 81m",
+                                                "drugbank_id": "DB09443"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc), particles for injection (V09EB)",
+                                "atc_code": "V09EB",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) microspheres (V09EB02)",
+                                        "atc_code": "V09EB02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) macrosalb (V09EB01)",
+                                        "atc_code": "V09EB01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc), inhalants (V09EA)",
+                                "atc_code": "V09EA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) nanocolloid (V09EA03)",
+                                        "atc_code": "V09EA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) technegas (V09EA02)",
+                                        "atc_code": "V09EA02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) pentetic acid (V09EA01)",
+                                        "atc_code": "V09EA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hepatic and reticulo endothelial system (V09D)",
+                        "atc_code": "V09D",
+                        "children": [
+                            {
+                                "name": "Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals (V09DX)",
+                                "atc_code": "V09DX",
+                                "children": [
+                                    {
+                                        "name": "Selenium (75se) tauroselcholic acid (V09DX01)",
+                                        "atc_code": "V09DX01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc), particles and colloids (V09DB)",
+                                "atc_code": "V09DB",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) phytate (V09DB07)",
+                                        "atc_code": "V09DB07"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) rheniumsulfide colloid (V09DB06)",
+                                        "atc_code": "V09DB06"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) sulfur colloid (V09DB05)",
+                                        "atc_code": "V09DB05",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m sulfur colloid",
+                                                "drugbank_id": "DB09397"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) tin colloid (V09DB04)",
+                                        "atc_code": "V09DB04"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) millimicrospheres (V09DB03)",
+                                        "atc_code": "V09DB03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) microcolloid (V09DB02)",
+                                        "atc_code": "V09DB02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) nanocolloid (V09DB01)",
+                                        "atc_code": "V09DB01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09DA)",
+                                "atc_code": "V09DA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) galtifenin (V09DA05)",
+                                        "atc_code": "V09DA05"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) mebrofenin (V09DA04)",
+                                        "atc_code": "V09DA04",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m mebrofenin",
+                                                "drugbank_id": "DB09137"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) lidofenin (V09DA03)",
+                                        "atc_code": "V09DA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) etifenin (V09DA02)",
+                                        "atc_code": "V09DA02",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m etifenin",
+                                                "drugbank_id": "DB13183"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) disofenin (V09DA01)",
+                                        "atc_code": "V09DA01",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m disofenin",
+                                                "drugbank_id": "DB09164"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Renal system (V09C)",
+                        "atc_code": "V09C",
+                        "children": [
+                            {
+                                "name": "Other renal system diagnostic radiopharmaceuticals (V09CX)",
+                                "atc_code": "V09CX",
+                                "children": [
+                                    {
+                                        "name": "Chromium (51cr) edetate (V09CX04)",
+                                        "atc_code": "V09CX04"
+                                    },
+                                    {
+                                        "name": "Sodium iothalamate (125i) (V09CX03)",
+                                        "atc_code": "V09CX03"
+                                    },
+                                    {
+                                        "name": "Sodium iodohippurate (131i) (V09CX02)",
+                                        "atc_code": "V09CX02",
+                                        "children": [
+                                            {
+                                                "name": "Iodohippurate sodium I-131",
+                                                "drugbank_id": "DB09382"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium iodohippurate (123i) (V09CX01)",
+                                        "atc_code": "V09CX01",
+                                        "children": [
+                                            {
+                                                "name": "Iodohippurate sodium I-123",
+                                                "drugbank_id": "DB09448"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09CA)",
+                                "atc_code": "V09CA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) ethylenedicysteine (V09CA06)",
+                                        "atc_code": "V09CA06"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) gluconate (V09CA05)",
+                                        "atc_code": "V09CA05"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) gluceptate (V09CA04)",
+                                        "atc_code": "V09CA04"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) mertiatide (V09CA03)",
+                                        "atc_code": "V09CA03"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) succimer (V09CA02)",
+                                        "atc_code": "V09CA02",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m succimer",
+                                                "drugbank_id": "DB09436"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) pentetic acid (V09CA01)",
+                                        "atc_code": "V09CA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skeleton (V09B)",
+                        "atc_code": "V09B",
+                        "children": [
+                            {
+                                "name": "Technetium (99mtc) compounds (V09BA)",
+                                "atc_code": "V09BA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) butedronic acid (V09BA04)",
+                                        "atc_code": "V09BA04"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) pyrophosphate (V09BA03)",
+                                        "atc_code": "V09BA03",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m pyrophosphate",
+                                                "drugbank_id": "DB09165"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) medronic acid (V09BA02)",
+                                        "atc_code": "V09BA02",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m medronate",
+                                                "drugbank_id": "DB09138"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) oxidronic acid (V09BA01)",
+                                        "atc_code": "V09BA01",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m oxidronate",
+                                                "drugbank_id": "DB09139"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Central nervous system (V09A)",
+                        "atc_code": "V09A",
+                        "children": [
+                            {
+                                "name": "Other central nervous system diagnostic radiopharmaceuticals (V09AX)",
+                                "atc_code": "V09AX",
+                                "children": [
+                                    {
+                                        "name": "Flortaucipir (18f) (V09AX07)",
+                                        "atc_code": "V09AX07",
+                                        "children": [
+                                            {
+                                                "name": "Flortaucipir F-18",
+                                                "drugbank_id": "DB14914"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Florbetaben (18f) (V09AX06)",
+                                        "atc_code": "V09AX06",
+                                        "children": [
+                                            {
+                                                "name": "Florbetaben F-18",
+                                                "drugbank_id": "DB09148"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Florbetapir (18f) (V09AX05)",
+                                        "atc_code": "V09AX05",
+                                        "children": [
+                                            {
+                                                "name": "Florbetapir F-18",
+                                                "drugbank_id": "DB09149"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Flutemetamol (18f) (V09AX04)",
+                                        "atc_code": "V09AX04",
+                                        "children": [
+                                            {
+                                                "name": "Flutemetamol (18F)",
+                                                "drugbank_id": "DB09151"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodine (124i) 2beta-carbomethoxy-3beta-(4 iodophenyl)-tropane (V09AX03)",
+                                        "atc_code": "V09AX03"
+                                    },
+                                    {
+                                        "name": "Indium (111in) pentetic acid (V09AX01)",
+                                        "atc_code": "V09AX01",
+                                        "children": [
+                                            {
+                                                "name": "Indium In-111 pentetate",
+                                                "drugbank_id": "DB09425"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (123i) compounds (V09AB)",
+                                "atc_code": "V09AB",
+                                "children": [
+                                    {
+                                        "name": "Iodine ioflupane (123i) (V09AB03)",
+                                        "atc_code": "V09AB03",
+                                        "children": [
+                                            {
+                                                "name": "Ioflupane I-123",
+                                                "drugbank_id": "DB08824"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodine iolopride (123i) (V09AB02)",
+                                        "atc_code": "V09AB02"
+                                    },
+                                    {
+                                        "name": "Iodine iofetamine (123i) (V09AB01)",
+                                        "atc_code": "V09AB01",
+                                        "children": [
+                                            {
+                                                "name": "Iofetamine I-123",
+                                                "drugbank_id": "DB09480"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Technetium (99mtc) compounds (V09AA)",
+                                "atc_code": "V09AA",
+                                "children": [
+                                    {
+                                        "name": "Technetium (99mtc) bicisate (V09AA02)",
+                                        "atc_code": "V09AA02"
+                                    },
+                                    {
+                                        "name": "Technetium (99mtc) exametazime (V09AA01)",
+                                        "atc_code": "V09AA01",
+                                        "children": [
+                                            {
+                                                "name": "Technetium Tc-99m exametazime",
+                                                "drugbank_id": "DB09163"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Contrast media (V08)",
+                "atc_code": "V08",
+                "children": [
+                    {
+                        "name": "Ultrasound contrast media (V08D)",
+                        "atc_code": "V08D",
+                        "children": [
+                            {
+                                "name": "Ultrasound contrast media (V08DA)",
+                                "atc_code": "V08DA",
+                                "children": [
+                                    {
+                                        "name": "Perflubutane, phospholipid microspheres (V08DA06)",
+                                        "atc_code": "V08DA06"
+                                    },
+                                    {
+                                        "name": "Sulfur hexafluoride, phospholipid microspheres (V08DA05)",
+                                        "atc_code": "V08DA05"
+                                    },
+                                    {
+                                        "name": "Perflutren, phospholipid microspheres (V08DA04)",
+                                        "atc_code": "V08DA04"
+                                    },
+                                    {
+                                        "name": "Perflenapent (V08DA03)",
+                                        "atc_code": "V08DA03",
+                                        "children": [
+                                            {
+                                                "name": "Perflenapent",
+                                                "drugbank_id": "DB11625"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Microparticles of galactose (V08DA02)",
+                                        "atc_code": "V08DA02",
+                                        "children": [
+                                            {
+                                                "name": "Galactose",
+                                                "drugbank_id": "DB11735"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Perflutren, human albumin microspheres (V08DA01)",
+                                        "atc_code": "V08DA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magnetic resonance imaging contrast media (V08C)",
+                        "atc_code": "V08C",
+                        "children": [
+                            {
+                                "name": "Other magnetic resonance imaging contrast media (V08CX)",
+                                "atc_code": "V08CX",
+                                "children": [
+                                    {
+                                        "name": "Perflubron (V08CX01)",
+                                        "atc_code": "V08CX01",
+                                        "children": [
+                                            {
+                                                "name": "Perflubron",
+                                                "drugbank_id": "DB05791"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Superparamagnetic contrast media (V08CB)",
+                                "atc_code": "V08CB",
+                                "children": [
+                                    {
+                                        "name": "Iron oxide, nanoparticles (V08CB03)",
+                                        "atc_code": "V08CB03",
+                                        "children": [
+                                            {
+                                                "name": "Ferric oxide",
+                                                "drugbank_id": "DB11576"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ferristene (V08CB02)",
+                                        "atc_code": "V08CB02"
+                                    },
+                                    {
+                                        "name": "Ferumoxsil (V08CB01)",
+                                        "atc_code": "V08CB01",
+                                        "children": [
+                                            {
+                                                "name": "Ferumoxsil",
+                                                "drugbank_id": "DB09507"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paramagnetic contrast media (V08CA)",
+                                "atc_code": "V08CA",
+                                "children": [
+                                    {
+                                        "name": "Gadopiclenol (V08CA12)",
+                                        "atc_code": "V08CA12",
+                                        "children": [
+                                            {
+                                                "name": "Gadopiclenol",
+                                                "drugbank_id": "DB17084"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadofosveset (V08CA11)",
+                                        "atc_code": "V08CA11",
+                                        "children": [
+                                            {
+                                                "name": "Gadofosveset trisodium",
+                                                "drugbank_id": "DB06705"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadoxetic acid (V08CA10)",
+                                        "atc_code": "V08CA10",
+                                        "children": [
+                                            {
+                                                "name": "Gadoxetic acid",
+                                                "drugbank_id": "DB08884"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadobutrol (V08CA09)",
+                                        "atc_code": "V08CA09",
+                                        "children": [
+                                            {
+                                                "name": "Gadobutrol",
+                                                "drugbank_id": "DB06703"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadobenic acid (V08CA08)",
+                                        "atc_code": "V08CA08",
+                                        "children": [
+                                            {
+                                                "name": "Gadobenic acid",
+                                                "drugbank_id": "DB00743"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ferric ammonium citrate (V08CA07)",
+                                        "atc_code": "V08CA07",
+                                        "children": [
+                                            {
+                                                "name": "Ferric ammonium citrate",
+                                                "drugbank_id": "DB09501"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadoversetamide (V08CA06)",
+                                        "atc_code": "V08CA06",
+                                        "children": [
+                                            {
+                                                "name": "Gadoversetamide",
+                                                "drugbank_id": "DB00538"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mangafodipir (V08CA05)",
+                                        "atc_code": "V08CA05",
+                                        "children": [
+                                            {
+                                                "name": "Mangafodipir",
+                                                "drugbank_id": "DB06796"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadoteridol (V08CA04)",
+                                        "atc_code": "V08CA04",
+                                        "children": [
+                                            {
+                                                "name": "Gadoteridol",
+                                                "drugbank_id": "DB00597"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadodiamide (V08CA03)",
+                                        "atc_code": "V08CA03",
+                                        "children": [
+                                            {
+                                                "name": "Gadodiamide",
+                                                "drugbank_id": "DB00225"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadoteric acid (V08CA02)",
+                                        "atc_code": "V08CA02",
+                                        "children": [
+                                            {
+                                                "name": "Gadoteric acid",
+                                                "drugbank_id": "DB09132"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Gadopentetic acid (V08CA01)",
+                                        "atc_code": "V08CA01",
+                                        "children": [
+                                            {
+                                                "name": "Gadopentetic acid",
+                                                "drugbank_id": "DB00789"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "X-ray contrast media, non-iodinated (V08B)",
+                        "atc_code": "V08B",
+                        "children": [
+                            {
+                                "name": "Barium sulfate containing x-ray contrast media (V08BA)",
+                                "atc_code": "V08BA",
+                                "children": [
+                                    {
+                                        "name": "Barium sulfate without suspending agents (V08BA02)",
+                                        "atc_code": "V08BA02",
+                                        "children": [
+                                            {
+                                                "name": "Barium sulfate",
+                                                "drugbank_id": "DB11150"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Barium sulfate with suspending agents (V08BA01)",
+                                        "atc_code": "V08BA01",
+                                        "children": [
+                                            {
+                                                "name": "Barium sulfate",
+                                                "drugbank_id": "DB11150"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "X-ray contrast media, iodinated (V08A)",
+                        "atc_code": "V08A",
+                        "children": [
+                            {
+                                "name": "Non-watersoluble x-ray contrast media (V08AD)",
+                                "atc_code": "V08AD",
+                                "children": [
+                                    {
+                                        "name": "Iofendylate (V08AD04)",
+                                        "atc_code": "V08AD04",
+                                        "children": [
+                                            {
+                                                "name": "Iophendylate",
+                                                "drugbank_id": "DB01187"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Propyliodone (V08AD03)",
+                                        "atc_code": "V08AD03",
+                                        "children": [
+                                            {
+                                                "name": "Propyliodone",
+                                                "drugbank_id": "DB09366"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iopydol (V08AD02)",
+                                        "atc_code": "V08AD02",
+                                        "children": [
+                                            {
+                                                "name": "Iopydol",
+                                                "drugbank_id": "DB13389"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ethyl esters of iodised fatty acids (V08AD01)",
+                                        "atc_code": "V08AD01",
+                                        "children": [
+                                            {
+                                                "name": "Ethiodized oil",
+                                                "drugbank_id": "DB00965"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Watersoluble, hepatotropic x-ray contrast media (V08AC)",
+                                "atc_code": "V08AC",
+                                "children": [
+                                    {
+                                        "name": "Calcium iopodate (V08AC10)",
+                                        "atc_code": "V08AC10",
+                                        "children": [
+                                            {
+                                                "name": "Iopodic acid",
+                                                "drugbank_id": "DB09333"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tyropanoic acid (V08AC09)",
+                                        "atc_code": "V08AC09",
+                                        "children": [
+                                            {
+                                                "name": "Tyropanoic acid",
+                                                "drugbank_id": "DB09340"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium iopodate (V08AC08)",
+                                        "atc_code": "V08AC08",
+                                        "children": [
+                                            {
+                                                "name": "Iopodic acid",
+                                                "drugbank_id": "DB09333"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iocetamic acid (V08AC07)",
+                                        "atc_code": "V08AC07",
+                                        "children": [
+                                            {
+                                                "name": "Iocetamic acid",
+                                                "drugbank_id": "DB09403"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iopanoic acid (V08AC06)",
+                                        "atc_code": "V08AC06",
+                                        "children": [
+                                            {
+                                                "name": "Iopanoic acid",
+                                                "drugbank_id": "DB08946"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iobenzamic acid (V08AC05)",
+                                        "atc_code": "V08AC05",
+                                        "children": [
+                                            {
+                                                "name": "Iobenzamic acid",
+                                                "drugbank_id": "DB13428"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Adipiodone (V08AC04)",
+                                        "atc_code": "V08AC04",
+                                        "children": [
+                                            {
+                                                "name": "Iodipamide",
+                                                "drugbank_id": "DB04711"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ioglycamic acid (V08AC03)",
+                                        "atc_code": "V08AC03",
+                                        "children": [
+                                            {
+                                                "name": "Ioglycamic acid",
+                                                "drugbank_id": "DB13741"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iotroxic acid (V08AC02)",
+                                        "atc_code": "V08AC02",
+                                        "children": [
+                                            {
+                                                "name": "Iotroxic acid",
+                                                "drugbank_id": "DB08945"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodoxamic acid (V08AC01)",
+                                        "atc_code": "V08AC01",
+                                        "children": [
+                                            {
+                                                "name": "Iodoxamic acid",
+                                                "drugbank_id": "DB13539"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Watersoluble, nephrotropic, low osmolar x-ray contrast media (V08AB)",
+                                "atc_code": "V08AB",
+                                "children": [
+                                    {
+                                        "name": "Ioxilan (V08AB12)",
+                                        "atc_code": "V08AB12",
+                                        "children": [
+                                            {
+                                                "name": "Ioxilan",
+                                                "drugbank_id": "DB09135"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iobitridol (V08AB11)",
+                                        "atc_code": "V08AB11",
+                                        "children": [
+                                            {
+                                                "name": "Iobitridol",
+                                                "drugbank_id": "DB12407"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iomeprol (V08AB10)",
+                                        "atc_code": "V08AB10",
+                                        "children": [
+                                            {
+                                                "name": "Iomeprol",
+                                                "drugbank_id": "DB11705"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodixanol (V08AB09)",
+                                        "atc_code": "V08AB09",
+                                        "children": [
+                                            {
+                                                "name": "Iodixanol",
+                                                "drugbank_id": "DB01249"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iopentol (V08AB08)",
+                                        "atc_code": "V08AB08",
+                                        "children": [
+                                            {
+                                                "name": "Iopentol",
+                                                "drugbank_id": "DB13861"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ioversol (V08AB07)",
+                                        "atc_code": "V08AB07",
+                                        "children": [
+                                            {
+                                                "name": "Ioversol",
+                                                "drugbank_id": "DB09134"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iotrolan (V08AB06)",
+                                        "atc_code": "V08AB06",
+                                        "children": [
+                                            {
+                                                "name": "Iotrolan",
+                                                "drugbank_id": "DB09487"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iopromide (V08AB05)",
+                                        "atc_code": "V08AB05",
+                                        "children": [
+                                            {
+                                                "name": "Iopromide",
+                                                "drugbank_id": "DB09156"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iopamidol (V08AB04)",
+                                        "atc_code": "V08AB04",
+                                        "children": [
+                                            {
+                                                "name": "Iopamidol",
+                                                "drugbank_id": "DB08947"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ioxaglic acid (V08AB03)",
+                                        "atc_code": "V08AB03",
+                                        "children": [
+                                            {
+                                                "name": "Ioxaglic acid",
+                                                "drugbank_id": "DB09313"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iohexol (V08AB02)",
+                                        "atc_code": "V08AB02",
+                                        "children": [
+                                            {
+                                                "name": "Iohexol",
+                                                "drugbank_id": "DB01362"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metrizamide (V08AB01)",
+                                        "atc_code": "V08AB01",
+                                        "children": [
+                                            {
+                                                "name": "Metrizamide",
+                                                "drugbank_id": "DB01578"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Watersoluble, nephrotropic, high osmolar x-ray contrast media (V08AA)",
+                                "atc_code": "V08AA",
+                                "children": [
+                                    {
+                                        "name": "Diodone (V08AA10)",
+                                        "atc_code": "V08AA10",
+                                        "children": [
+                                            {
+                                                "name": "Diodone",
+                                                "drugbank_id": "DB13568"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methiodal (V08AA09)",
+                                        "atc_code": "V08AA09",
+                                        "children": [
+                                            {
+                                                "name": "Methiodal",
+                                                "drugbank_id": "DB13321"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iocarmic acid (V08AA08)",
+                                        "atc_code": "V08AA08",
+                                        "children": [
+                                            {
+                                                "name": "Iocarmic acid",
+                                                "drugbank_id": "DB13755"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Acetrizoic acid (V08AA07)",
+                                        "atc_code": "V08AA07",
+                                        "children": [
+                                            {
+                                                "name": "Acetrizoic acid",
+                                                "drugbank_id": "DB09347"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ioglicic acid (V08AA06)",
+                                        "atc_code": "V08AA06",
+                                        "children": [
+                                            {
+                                                "name": "Ioglicic acid",
+                                                "drugbank_id": "DB13701"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ioxitalamic acid (V08AA05)",
+                                        "atc_code": "V08AA05",
+                                        "children": [
+                                            {
+                                                "name": "Ioxitalamic acid",
+                                                "drugbank_id": "DB13444"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iotalamic acid (V08AA04)",
+                                        "atc_code": "V08AA04",
+                                        "children": [
+                                            {
+                                                "name": "Iothalamic acid",
+                                                "drugbank_id": "DB09133"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Iodamide (V08AA03)",
+                                        "atc_code": "V08AA03",
+                                        "children": [
+                                            {
+                                                "name": "Iodamide",
+                                                "drugbank_id": "DB08948"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metrizoic acid (V08AA02)",
+                                        "atc_code": "V08AA02",
+                                        "children": [
+                                            {
+                                                "name": "Metrizoic acid",
+                                                "drugbank_id": "DB09346"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Diatrizoic acid (V08AA01)",
+                                        "atc_code": "V08AA01",
+                                        "children": [
+                                            {
+                                                "name": "Diatrizoate",
+                                                "drugbank_id": "DB00271"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "All other non-therapeutic products (V07)",
+                "atc_code": "V07",
+                "children": [
+                    {
+                        "name": "All other non-therapeutic products (V07A)",
+                        "atc_code": "V07A",
+                        "children": [
+                            {
+                                "name": "Chemicals and reagents for analysis (V07AZ)",
+                                "atc_code": "V07AZ"
+                            },
+                            {
+                                "name": "Other non-therapeutic auxiliary products (V07AY)",
+                                "atc_code": "V07AY"
+                            },
+                            {
+                                "name": "Washing agents etc. (V07AX)",
+                                "atc_code": "V07AX"
+                            },
+                            {
+                                "name": "Technical disinfectants (V07AV)",
+                                "atc_code": "V07AV"
+                            },
+                            {
+                                "name": "Cosmetics (V07AT)",
+                                "atc_code": "V07AT"
+                            },
+                            {
+                                "name": "Stomi equipment (V07AS)",
+                                "atc_code": "V07AS"
+                            },
+                            {
+                                "name": "Sensitivity tests, discs and tablets (V07AR)",
+                                "atc_code": "V07AR"
+                            },
+                            {
+                                "name": "Incontinence equipment (V07AN)",
+                                "atc_code": "V07AN"
+                            },
+                            {
+                                "name": "Blood tests, auxiliary products (V07AD)",
+                                "atc_code": "V07AD"
+                            },
+                            {
+                                "name": "Blood transfusion, auxiliary products (V07AC)",
+                                "atc_code": "V07AC"
+                            },
+                            {
+                                "name": "Solvents and diluting agents, incl. irrigating solutions (V07AB)",
+                                "atc_code": "V07AB"
+                            },
+                            {
+                                "name": "Plasters (V07AA)",
+                                "atc_code": "V07AA"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "General nutrients (V06)",
+                "atc_code": "V06",
+                "children": [
+                    {
+                        "name": "Other nutrients (V06D)",
+                        "atc_code": "V06D",
+                        "children": [
+                            {
+                                "name": "Other combinations of nutrients (V06DX)",
+                                "atc_code": "V06DX"
+                            },
+                            {
+                                "name": "Milk substitutes (V06DF)",
+                                "atc_code": "V06DF"
+                            },
+                            {
+                                "name": "Amino acids/carbohydrates/minerals/vitamins, combinations (V06DE)",
+                                "atc_code": "V06DE"
+                            },
+                            {
+                                "name": "Amino acids, incl. combinations with polypeptides (V06DD)",
+                                "atc_code": "V06DD"
+                            },
+                            {
+                                "name": "Carbohydrates (V06DC)",
+                                "atc_code": "V06DC",
+                                "children": [
+                                    {
+                                        "name": "Fructose (V06DC02)",
+                                        "atc_code": "V06DC02",
+                                        "children": [
+                                            {
+                                                "name": "Fructose",
+                                                "drugbank_id": "DB04173"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Glucose (V06DC01)",
+                                        "atc_code": "V06DC01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fat/carbohydrates/proteins/minerals/vitamins, combinations (V06DB)",
+                                "atc_code": "V06DB"
+                            },
+                            {
+                                "name": "Carbohydrates/proteins/minerals/vitamins, combinations (V06DA)",
+                                "atc_code": "V06DA"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Infant formulas (V06C)",
+                        "atc_code": "V06C",
+                        "children": [
+                            {
+                                "name": "Nutrients without phenylalanine (V06CA)",
+                                "atc_code": "V06CA"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Protein supplements (V06B)",
+                        "atc_code": "V06B"
+                    },
+                    {
+                        "name": "Diet formulations for treatment of obesity (V06A)",
+                        "atc_code": "V06A",
+                        "children": [
+                            {
+                                "name": "Low-energy diets (V06AA)",
+                                "atc_code": "V06AA"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Diagnostic agents (V04)",
+                "atc_code": "V04",
+                "children": [
+                    {
+                        "name": "Other diagnostic agents (V04C)",
+                        "atc_code": "V04C",
+                        "children": [
+                            {
+                                "name": "Other diagnostic agents (V04CX)",
+                                "atc_code": "V04CX",
+                                "children": [
+                                    {
+                                        "name": "Xenon (V04CX12)",
+                                        "atc_code": "V04CX12",
+                                        "children": [
+                                            {
+                                                "name": "Xenon",
+                                                "drugbank_id": "DB13453"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Lithium chloride (V04CX11)",
+                                        "atc_code": "V04CX11",
+                                        "children": [
+                                            {
+                                                "name": "Lithium chloride",
+                                                "drugbank_id": "DB16607"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pafolacianine (V04CX10)",
+                                        "atc_code": "V04CX10",
+                                        "children": [
+                                            {
+                                                "name": "Pafolacianine",
+                                                "drugbank_id": "DB15413"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Patent blue (V04CX09)",
+                                        "atc_code": "V04CX09",
+                                        "children": [
+                                            {
+                                                "name": "Patent Blue",
+                                                "drugbank_id": "DB13967"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Carbon monoxide (V04CX08)",
+                                        "atc_code": "V04CX08",
+                                        "children": [
+                                            {
+                                                "name": "Carbon monoxide",
+                                                "drugbank_id": "DB11588"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Edrophonium (V04CX07)",
+                                        "atc_code": "V04CX07",
+                                        "children": [
+                                            {
+                                                "name": "Edrophonium",
+                                                "drugbank_id": "DB01010"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hexaminolevulinate (V04CX06)",
+                                        "atc_code": "V04CX06",
+                                        "children": [
+                                            {
+                                                "name": "Hexaminolevulinate",
+                                                "drugbank_id": "DB06261"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "13c-urea (V04CX05)",
+                                        "atc_code": "V04CX05",
+                                        "children": [
+                                            {
+                                                "name": "Urea C-13",
+                                                "drugbank_id": "DB09510"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mannitol (V04CX04)",
+                                        "atc_code": "V04CX04",
+                                        "children": [
+                                            {
+                                                "name": "Mannitol",
+                                                "drugbank_id": "DB00742"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methacholine (V04CX03)",
+                                        "atc_code": "V04CX03",
+                                        "children": [
+                                            {
+                                                "name": "Methacholine",
+                                                "drugbank_id": "DB06709"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Folic acid (V04CX02)",
+                                        "atc_code": "V04CX02",
+                                        "children": [
+                                            {
+                                                "name": "Folic acid",
+                                                "drugbank_id": "DB00158"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Indocyanine green (V04CX01)",
+                                        "atc_code": "V04CX01",
+                                        "children": [
+                                            {
+                                                "name": "Indocyanine green",
+                                                "drugbank_id": "DB16024"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for fertility disturbances (V04CM)",
+                                "atc_code": "V04CM",
+                                "children": [
+                                    {
+                                        "name": "Gonadorelin (V04CM01)",
+                                        "atc_code": "V04CM01",
+                                        "children": [
+                                            {
+                                                "name": "Gonadorelin",
+                                                "drugbank_id": "DB00644"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for allergic diseases (V04CL)",
+                                "atc_code": "V04CL"
+                            },
+                            {
+                                "name": "Tests for pancreatic function (V04CK)",
+                                "atc_code": "V04CK",
+                                "children": [
+                                    {
+                                        "name": "Bentiromide (V04CK03)",
+                                        "atc_code": "V04CK03",
+                                        "children": [
+                                            {
+                                                "name": "Bentiromide",
+                                                "drugbank_id": "DB00522"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pancreozymin (cholecystokinin) (V04CK02)",
+                                        "atc_code": "V04CK02",
+                                        "children": [
+                                            {
+                                                "name": "Cholecystokinin",
+                                                "drugbank_id": "DB08862"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Secretin (V04CK01)",
+                                        "atc_code": "V04CK01",
+                                        "children": [
+                                            {
+                                                "name": "Secretin human",
+                                                "drugbank_id": "DB09532"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for thyreoidea function (V04CJ)",
+                                "atc_code": "V04CJ",
+                                "children": [
+                                    {
+                                        "name": "Protirelin (V04CJ02)",
+                                        "atc_code": "V04CJ02",
+                                        "children": [
+                                            {
+                                                "name": "Protirelin",
+                                                "drugbank_id": "DB09421"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Thyrotropin (V04CJ01)",
+                                        "atc_code": "V04CJ01",
+                                        "children": [
+                                            {
+                                                "name": "Thyrotropin",
+                                                "drugbank_id": "DB15263"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for renal function and ureteral injuries (V04CH)",
+                                "atc_code": "V04CH",
+                                "children": [
+                                    {
+                                        "name": "Aminohippuric acid (V04CH30)",
+                                        "atc_code": "V04CH30",
+                                        "children": [
+                                            {
+                                                "name": "Aminohippuric acid",
+                                                "drugbank_id": "DB00345"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Alsactide (V04CH04)",
+                                        "atc_code": "V04CH04",
+                                        "children": [
+                                            {
+                                                "name": "Alsactide",
+                                                "drugbank_id": "DB13298"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Phenolsulfonphthalein (V04CH03)",
+                                        "atc_code": "V04CH03",
+                                        "children": [
+                                            {
+                                                "name": "Phenolsulfonphthalein",
+                                                "drugbank_id": "DB13212"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Indigo carmine (V04CH02)",
+                                        "atc_code": "V04CH02",
+                                        "children": [
+                                            {
+                                                "name": "Indigotindisulfonic acid",
+                                                "drugbank_id": "DB11577"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Inulin and other polyfructosans (V04CH01)",
+                                        "atc_code": "V04CH01",
+                                        "children": [
+                                            {
+                                                "name": "Inulin",
+                                                "drugbank_id": "DB00638"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for gastric secretion (V04CG)",
+                                "atc_code": "V04CG",
+                                "children": [
+                                    {
+                                        "name": "Caffeine and sodium benzoate (V04CG30)",
+                                        "atc_code": "V04CG30",
+                                        "children": [
+                                            {
+                                                "name": "Caffeine",
+                                                "drugbank_id": "DB00201"
+                                            },
+                                            {
+                                                "name": "Benzoic acid",
+                                                "drugbank_id": "DB03793"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methylthioninium chloride (V04CG05)",
+                                        "atc_code": "V04CG05",
+                                        "children": [
+                                            {
+                                                "name": "Methylene blue",
+                                                "drugbank_id": "DB09241"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pentagastrin (V04CG04)",
+                                        "atc_code": "V04CG04",
+                                        "children": [
+                                            {
+                                                "name": "Pentagastrin",
+                                                "drugbank_id": "DB00183"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Histamine phosphate (V04CG03)",
+                                        "atc_code": "V04CG03",
+                                        "children": [
+                                            {
+                                                "name": "Histamine",
+                                                "drugbank_id": "DB05381"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Betazole (V04CG02)",
+                                        "atc_code": "V04CG02",
+                                        "children": [
+                                            {
+                                                "name": "Betazole",
+                                                "drugbank_id": "DB00272"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cation exchange resins (V04CG01)",
+                                        "atc_code": "V04CG01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tuberculosis diagnostics (V04CF)",
+                                "atc_code": "V04CF",
+                                "children": [
+                                    {
+                                        "name": "Tuberculin (V04CF01)",
+                                        "atc_code": "V04CF01"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for liver functional capacity (V04CE)",
+                                "atc_code": "V04CE",
+                                "children": [
+                                    {
+                                        "name": "Methacetin (13c) (V04CE03)",
+                                        "atc_code": "V04CE03"
+                                    },
+                                    {
+                                        "name": "Sulfobromophthalein (V04CE02)",
+                                        "atc_code": "V04CE02",
+                                        "children": [
+                                            {
+                                                "name": "Sulfobromophthalein",
+                                                "drugbank_id": "DB13215"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Galactose (V04CE01)",
+                                        "atc_code": "V04CE01",
+                                        "children": [
+                                            {
+                                                "name": "Galactose",
+                                                "drugbank_id": "DB11735"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for pituitary function (V04CD)",
+                                "atc_code": "V04CD",
+                                "children": [
+                                    {
+                                        "name": "Macimorelin (V04CD06)",
+                                        "atc_code": "V04CD06",
+                                        "children": [
+                                            {
+                                                "name": "Macimorelin",
+                                                "drugbank_id": "DB13074"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Somatorelin (V04CD05)",
+                                        "atc_code": "V04CD05",
+                                        "children": [
+                                            {
+                                                "name": "Somatorelin",
+                                                "drugbank_id": "DB12656"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Corticorelin (V04CD04)",
+                                        "atc_code": "V04CD04",
+                                        "children": [
+                                            {
+                                                "name": "Corticorelin",
+                                                "drugbank_id": "DB05394"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sermorelin (V04CD03)",
+                                        "atc_code": "V04CD03",
+                                        "children": [
+                                            {
+                                                "name": "Sermorelin",
+                                                "drugbank_id": "DB00010"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metyrapone (V04CD01)",
+                                        "atc_code": "V04CD01",
+                                        "children": [
+                                            {
+                                                "name": "Metyrapone",
+                                                "drugbank_id": "DB01011"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for bile duct patency (V04CC)",
+                                "atc_code": "V04CC",
+                                "children": [
+                                    {
+                                        "name": "Ceruletide (V04CC04)",
+                                        "atc_code": "V04CC04",
+                                        "children": [
+                                            {
+                                                "name": "Ceruletide",
+                                                "drugbank_id": "DB00403"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sincalide (V04CC03)",
+                                        "atc_code": "V04CC03",
+                                        "children": [
+                                            {
+                                                "name": "Sincalide",
+                                                "drugbank_id": "DB09142"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Magnesium sulfate (V04CC02)",
+                                        "atc_code": "V04CC02",
+                                        "children": [
+                                            {
+                                                "name": "Magnesium sulfate",
+                                                "drugbank_id": "DB00653"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sorbitol (V04CC01)",
+                                        "atc_code": "V04CC01",
+                                        "children": [
+                                            {
+                                                "name": "Sorbitol",
+                                                "drugbank_id": "DB01638"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for fat absorption (V04CB)",
+                                "atc_code": "V04CB",
+                                "children": [
+                                    {
+                                        "name": "Vitamin a concentrates (V04CB01)",
+                                        "atc_code": "V04CB01",
+                                        "children": [
+                                            {
+                                                "name": "Vitamin A",
+                                                "drugbank_id": "DB00162"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tests for diabetes (V04CA)",
+                                "atc_code": "V04CA",
+                                "children": [
+                                    {
+                                        "name": "Glucose (V04CA02)",
+                                        "atc_code": "V04CA02"
+                                    },
+                                    {
+                                        "name": "Tolbutamide (V04CA01)",
+                                        "atc_code": "V04CA01",
+                                        "children": [
+                                            {
+                                                "name": "Tolbutamide",
+                                                "drugbank_id": "DB01124"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Urine tests (V04B)",
+                        "atc_code": "V04B"
+                    }
+                ]
+            },
+            {
+                "name": "All other therapeutic products (V03)",
+                "atc_code": "V03",
+                "children": [
+                    {
+                        "name": "All other therapeutic products (V03A)",
+                        "atc_code": "V03A",
+                        "children": [
+                            {
+                                "name": "Nerve depressants (V03AZ)",
+                                "atc_code": "V03AZ",
+                                "children": [
+                                    {
+                                        "name": "Ethanol (V03AZ01)",
+                                        "atc_code": "V03AZ01",
+                                        "children": [
+                                            {
+                                                "name": "Ethanol",
+                                                "drugbank_id": "DB00898"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Other therapeutic products (V03AX)",
+                                "atc_code": "V03AX",
+                                "children": [
+                                    {
+                                        "name": "Difelikefalin (V03AX04)",
+                                        "atc_code": "V03AX04",
+                                        "children": [
+                                            {
+                                                "name": "Difelikefalin",
+                                                "drugbank_id": "DB11938"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cobicistat (V03AX03)",
+                                        "atc_code": "V03AX03",
+                                        "children": [
+                                            {
+                                                "name": "Cobicistat",
+                                                "drugbank_id": "DB09065"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nalfurafine (V03AX02)",
+                                        "atc_code": "V03AX02",
+                                        "children": [
+                                            {
+                                                "name": "Nalfurafine",
+                                                "drugbank_id": "DB13471"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medical gases (V03AN)",
+                                "atc_code": "V03AN",
+                                "children": [
+                                    {
+                                        "name": "Medical air (V03AN05)",
+                                        "atc_code": "V03AN05",
+                                        "children": [
+                                            {
+                                                "name": "Medical air",
+                                                "drugbank_id": "DB09337"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nitrogen (V03AN04)",
+                                        "atc_code": "V03AN04",
+                                        "children": [
+                                            {
+                                                "name": "Nitrogen",
+                                                "drugbank_id": "DB09152"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Helium (V03AN03)",
+                                        "atc_code": "V03AN03",
+                                        "children": [
+                                            {
+                                                "name": "Helium",
+                                                "drugbank_id": "DB09155"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Carbon dioxide (V03AN02)",
+                                        "atc_code": "V03AN02",
+                                        "children": [
+                                            {
+                                                "name": "Carbon dioxide",
+                                                "drugbank_id": "DB09157"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Oxygen (V03AN01)",
+                                        "atc_code": "V03AN01",
+                                        "children": [
+                                            {
+                                                "name": "Oxygen",
+                                                "drugbank_id": "DB09140"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drugs for embolisation (V03AM)",
+                                "atc_code": "V03AM"
+                            },
+                            {
+                                "name": "Tissue adhesives (V03AK)",
+                                "atc_code": "V03AK"
+                            },
+                            {
+                                "name": "Drugs for treatment of hypoglycemia (V03AH)",
+                                "atc_code": "V03AH",
+                                "children": [
+                                    {
+                                        "name": "Diazoxide (V03AH01)",
+                                        "atc_code": "V03AH01",
+                                        "children": [
+                                            {
+                                                "name": "Diazoxide",
+                                                "drugbank_id": "DB01119"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drugs for treatment of hypercalcemia (V03AG)",
+                                "atc_code": "V03AG",
+                                "children": [
+                                    {
+                                        "name": "Sodium phosphate (V03AG05)",
+                                        "atc_code": "V03AG05",
+                                        "children": [
+                                            {
+                                                "name": "Sodium phosphate, monobasic",
+                                                "drugbank_id": "DB09449"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium cellulose phosphate (V03AG01)",
+                                        "atc_code": "V03AG01",
+                                        "children": [
+                                            {
+                                                "name": "Sodium cellulose phosphate",
+                                                "drugbank_id": "DB06776"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Detoxifying agents for antineoplastic treatment (V03AF)",
+                                "atc_code": "V03AF",
+                                "children": [
+                                    {
+                                        "name": "Trilaciclib (V03AF12)",
+                                        "atc_code": "V03AF12",
+                                        "children": [
+                                            {
+                                                "name": "Trilaciclib",
+                                                "drugbank_id": "DB15442"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Arginine and lysine (V03AF11)",
+                                        "atc_code": "V03AF11",
+                                        "children": [
+                                            {
+                                                "name": "Arginine",
+                                                "drugbank_id": "DB00125"
+                                            },
+                                            {
+                                                "name": "Lysine",
+                                                "drugbank_id": "DB00123"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium levofolinate (V03AF10)",
+                                        "atc_code": "V03AF10",
+                                        "children": [
+                                            {
+                                                "name": "Levoleucovorin",
+                                                "drugbank_id": "DB11596"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Glucarpidase (V03AF09)",
+                                        "atc_code": "V03AF09",
+                                        "children": [
+                                            {
+                                                "name": "Glucarpidase",
+                                                "drugbank_id": "DB08898"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Palifermin (V03AF08)",
+                                        "atc_code": "V03AF08",
+                                        "children": [
+                                            {
+                                                "name": "Palifermin",
+                                                "drugbank_id": "DB00039"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Rasburicase (V03AF07)",
+                                        "atc_code": "V03AF07",
+                                        "children": [
+                                            {
+                                                "name": "Rasburicase",
+                                                "drugbank_id": "DB00049"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium folinate (V03AF06)",
+                                        "atc_code": "V03AF06",
+                                        "children": [
+                                            {
+                                                "name": "Leucovorin",
+                                                "drugbank_id": "DB00650"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Amifostine (V03AF05)",
+                                        "atc_code": "V03AF05",
+                                        "children": [
+                                            {
+                                                "name": "Amifostine",
+                                                "drugbank_id": "DB01143"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Calcium levofolinate (V03AF04)",
+                                        "atc_code": "V03AF04",
+                                        "children": [
+                                            {
+                                                "name": "Levoleucovorin",
+                                                "drugbank_id": "DB11596"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Calcium folinate (V03AF03)",
+                                        "atc_code": "V03AF03",
+                                        "children": [
+                                            {
+                                                "name": "Leucovorin",
+                                                "drugbank_id": "DB00650"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dexrazoxane (V03AF02)",
+                                        "atc_code": "V03AF02",
+                                        "children": [
+                                            {
+                                                "name": "Dexrazoxane",
+                                                "drugbank_id": "DB00380"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mesna (V03AF01)",
+                                        "atc_code": "V03AF01",
+                                        "children": [
+                                            {
+                                                "name": "Coenzyme M",
+                                                "drugbank_id": "DB09110"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drugs for treatment of hyperkalemia and hyperphosphatemia (V03AE)",
+                                "atc_code": "V03AE",
+                                "children": [
+                                    {
+                                        "name": "Sodium zirconium cyclosilicate (V03AE10)",
+                                        "atc_code": "V03AE10",
+                                        "children": [
+                                            {
+                                                "name": "Sodium zirconium cyclosilicate",
+                                                "drugbank_id": "DB14048"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Patiromer calcium (V03AE09)",
+                                        "atc_code": "V03AE09"
+                                    },
+                                    {
+                                        "name": "Ferric citrate (V03AE08)",
+                                        "atc_code": "V03AE08",
+                                        "children": [
+                                            {
+                                                "name": "Tetraferric tricitrate decahydrate",
+                                                "drugbank_id": "DB14520"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Calcium acetate (V03AE07)",
+                                        "atc_code": "V03AE07",
+                                        "children": [
+                                            {
+                                                "name": "Calcium acetate",
+                                                "drugbank_id": "DB00258"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Colestilan (V03AE06)",
+                                        "atc_code": "V03AE06",
+                                        "children": [
+                                            {
+                                                "name": "Colestilan chloride",
+                                                "drugbank_id": "DB11634"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sucroferric oxyhydroxide (V03AE05)",
+                                        "atc_code": "V03AE05",
+                                        "children": [
+                                            {
+                                                "name": "Iron sucrose",
+                                                "drugbank_id": "DB09146"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Calcium acetate and magnesium carbonate (V03AE04)",
+                                        "atc_code": "V03AE04",
+                                        "children": [
+                                            {
+                                                "name": "Calcium acetate",
+                                                "drugbank_id": "DB00258"
+                                            },
+                                            {
+                                                "name": "Magnesium carbonate",
+                                                "drugbank_id": "DB09481"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Lanthanum carbonate (V03AE03)",
+                                        "atc_code": "V03AE03",
+                                        "children": [
+                                            {
+                                                "name": "Lanthanum carbonate",
+                                                "drugbank_id": "DB06792"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sevelamer (V03AE02)",
+                                        "atc_code": "V03AE02",
+                                        "children": [
+                                            {
+                                                "name": "Sevelamer",
+                                                "drugbank_id": "DB00658"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Polystyrene sulfonate (V03AE01)",
+                                        "atc_code": "V03AE01",
+                                        "children": [
+                                            {
+                                                "name": "Tolevamer",
+                                                "drugbank_id": "DB01344"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iron chelating agents (V03AC)",
+                                "atc_code": "V03AC",
+                                "children": [
+                                    {
+                                        "name": "Deferasirox (V03AC03)",
+                                        "atc_code": "V03AC03",
+                                        "children": [
+                                            {
+                                                "name": "Deferasirox",
+                                                "drugbank_id": "DB01609"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Deferiprone (V03AC02)",
+                                        "atc_code": "V03AC02",
+                                        "children": [
+                                            {
+                                                "name": "Deferiprone",
+                                                "drugbank_id": "DB08826"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Deferoxamine (V03AC01)",
+                                        "atc_code": "V03AC01",
+                                        "children": [
+                                            {
+                                                "name": "Deferoxamine",
+                                                "drugbank_id": "DB00746"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antidotes (V03AB)",
+                                "atc_code": "V03AB",
+                                "children": [
+                                    {
+                                        "name": "Pralidoxime and atropine (V03AB54)",
+                                        "atc_code": "V03AB54",
+                                        "children": [
+                                            {
+                                                "name": "Atropine",
+                                                "drugbank_id": "DB00572"
+                                            },
+                                            {
+                                                "name": "Pralidoxime",
+                                                "drugbank_id": "DB00733"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Andexanet alfa (V03AB38)",
+                                        "atc_code": "V03AB38",
+                                        "children": [
+                                            {
+                                                "name": "Andexanet alfa",
+                                                "drugbank_id": "DB14562"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Idarucizumab (V03AB37)",
+                                        "atc_code": "V03AB37",
+                                        "children": [
+                                            {
+                                                "name": "Idarucizumab",
+                                                "drugbank_id": "DB09264"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Phentolamine (V03AB36)",
+                                        "atc_code": "V03AB36",
+                                        "children": [
+                                            {
+                                                "name": "Phentolamine",
+                                                "drugbank_id": "DB00692"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sugammadex (V03AB35)",
+                                        "atc_code": "V03AB35",
+                                        "children": [
+                                            {
+                                                "name": "Sugammadex",
+                                                "drugbank_id": "DB06206"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fomepizole (V03AB34)",
+                                        "atc_code": "V03AB34",
+                                        "children": [
+                                            {
+                                                "name": "Fomepizole",
+                                                "drugbank_id": "DB01213"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Hydroxocobalamin (V03AB33)",
+                                        "atc_code": "V03AB33",
+                                        "children": [
+                                            {
+                                                "name": "Hydroxocobalamin",
+                                                "drugbank_id": "DB00200"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Glutathione (V03AB32)",
+                                        "atc_code": "V03AB32",
+                                        "children": [
+                                            {
+                                                "name": "Glutathione",
+                                                "drugbank_id": "DB00143"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Prussian blue (V03AB31)",
+                                        "atc_code": "V03AB31",
+                                        "children": [
+                                            {
+                                                "name": "Prussian blue",
+                                                "drugbank_id": "DB06783"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cholinesterase (V03AB29)",
+                                        "atc_code": "V03AB29"
+                                    },
+                                    {
+                                        "name": "4-dimethylaminophenol (V03AB27)",
+                                        "atc_code": "V03AB27",
+                                        "children": [
+                                            {
+                                                "name": "4-dimethylaminophenol",
+                                                "drugbank_id": "DB13549"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methionine (V03AB26)",
+                                        "atc_code": "V03AB26",
+                                        "children": [
+                                            {
+                                                "name": "Methionine",
+                                                "drugbank_id": "DB00134"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Flumazenil (V03AB25)",
+                                        "atc_code": "V03AB25",
+                                        "children": [
+                                            {
+                                                "name": "Flumazenil",
+                                                "drugbank_id": "DB01205"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Digitalis antitoxin (V03AB24)",
+                                        "atc_code": "V03AB24",
+                                        "children": [
+                                            {
+                                                "name": "Digoxin Immune Fab (Ovine)",
+                                                "drugbank_id": "DB00076"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Acetylcysteine (V03AB23)",
+                                        "atc_code": "V03AB23",
+                                        "children": [
+                                            {
+                                                "name": "Acetylcysteine",
+                                                "drugbank_id": "DB06151"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Amyl nitrite (V03AB22)",
+                                        "atc_code": "V03AB22",
+                                        "children": [
+                                            {
+                                                "name": "Amyl Nitrite",
+                                                "drugbank_id": "DB01612"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Potassium iodide (V03AB21)",
+                                        "atc_code": "V03AB21",
+                                        "children": [
+                                            {
+                                                "name": "Potassium Iodide",
+                                                "drugbank_id": "DB06715"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Copper sulfate (V03AB20)",
+                                        "atc_code": "V03AB20",
+                                        "children": [
+                                            {
+                                                "name": "Cupric sulfate",
+                                                "drugbank_id": "DB06778"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Physostigmine (V03AB19)",
+                                        "atc_code": "V03AB19",
+                                        "children": [
+                                            {
+                                                "name": "Physostigmine",
+                                                "drugbank_id": "DB00981"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Potassium permanganate (V03AB18)",
+                                        "atc_code": "V03AB18",
+                                        "children": [
+                                            {
+                                                "name": "Potassium permanganate",
+                                                "drugbank_id": "DB13831"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Methylthioninium chloride (V03AB17)",
+                                        "atc_code": "V03AB17",
+                                        "children": [
+                                            {
+                                                "name": "Methylene blue",
+                                                "drugbank_id": "DB09241"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ethanol (V03AB16)",
+                                        "atc_code": "V03AB16",
+                                        "children": [
+                                            {
+                                                "name": "Ethanol",
+                                                "drugbank_id": "DB00898"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Naloxone (V03AB15)",
+                                        "atc_code": "V03AB15",
+                                        "children": [
+                                            {
+                                                "name": "Naloxone",
+                                                "drugbank_id": "DB01183"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Protamine (V03AB14)",
+                                        "atc_code": "V03AB14",
+                                        "children": [
+                                            {
+                                                "name": "Protamine",
+                                                "drugbank_id": "DB13700"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Obidoxime (V03AB13)",
+                                        "atc_code": "V03AB13",
+                                        "children": [
+                                            {
+                                                "name": "Obidoxime",
+                                                "drugbank_id": "DB13750"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Dimercaprol (V03AB09)",
+                                        "atc_code": "V03AB09",
+                                        "children": [
+                                            {
+                                                "name": "Dimercaprol",
+                                                "drugbank_id": "DB06782"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sodium nitrite (V03AB08)",
+                                        "atc_code": "V03AB08",
+                                        "children": [
+                                            {
+                                                "name": "Nitrous acid",
+                                                "drugbank_id": "DB09112"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Thiosulfate (V03AB06)",
+                                        "atc_code": "V03AB06"
+                                    },
+                                    {
+                                        "name": "Prednisolone and promethazine (V03AB05)",
+                                        "atc_code": "V03AB05",
+                                        "children": [
+                                            {
+                                                "name": "Prednisolone",
+                                                "drugbank_id": "DB00860"
+                                            },
+                                            {
+                                                "name": "Promethazine",
+                                                "drugbank_id": "DB01069"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Pralidoxime (V03AB04)",
+                                        "atc_code": "V03AB04",
+                                        "children": [
+                                            {
+                                                "name": "Pralidoxime",
+                                                "drugbank_id": "DB00733"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Edetates (V03AB03)",
+                                        "atc_code": "V03AB03"
+                                    },
+                                    {
+                                        "name": "Nalorphine (V03AB02)",
+                                        "atc_code": "V03AB02",
+                                        "children": [
+                                            {
+                                                "name": "Nalorphine",
+                                                "drugbank_id": "DB11490"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Ipecacuanha (V03AB01)",
+                                        "atc_code": "V03AB01",
+                                        "children": [
+                                            {
+                                                "name": "Ipecac",
+                                                "drugbank_id": "DB13293"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Allergens (V01)",
+                "atc_code": "V01",
+                "children": [
+                    {
+                        "name": "Allergens (V01A)",
+                        "atc_code": "V01A",
+                        "children": [
+                            {
+                                "name": "Allergen extracts (V01AA)",
+                                "atc_code": "V01AA",
+                                "children": [
+                                    {
+                                        "name": "Various (V01AA20)",
+                                        "atc_code": "V01AA20"
+                                    },
+                                    {
+                                        "name": "Animals (V01AA11)",
+                                        "atc_code": "V01AA11"
+                                    },
+                                    {
+                                        "name": "Flowers (V01AA10)",
+                                        "atc_code": "V01AA10"
+                                    },
+                                    {
+                                        "name": "Textiles (V01AA09)",
+                                        "atc_code": "V01AA09"
+                                    },
+                                    {
+                                        "name": "Food (V01AA08)",
+                                        "atc_code": "V01AA08"
+                                    },
+                                    {
+                                        "name": "Insects (V01AA07)",
+                                        "atc_code": "V01AA07"
+                                    },
+                                    {
+                                        "name": "Tree pollen (V01AA05)",
+                                        "atc_code": "V01AA05"
+                                    },
+                                    {
+                                        "name": "Mould fungus and yeast fungus (V01AA04)",
+                                        "atc_code": "V01AA04"
+                                    },
+                                    {
+                                        "name": "House dust mites (V01AA03)",
+                                        "atc_code": "V01AA03",
+                                        "children": [
+                                            {
+                                                "name": "Dermatophagoides farinae",
+                                                "drugbank_id": "DB10400"
+                                            },
+                                            {
+                                                "name": "Dermatophagoides pteronyssinus",
+                                                "drugbank_id": "DB10401"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Grass pollen (V01AA02)",
+                                        "atc_code": "V01AA02"
+                                    },
+                                    {
+                                        "name": "Feather (V01AA01)",
+                                        "atc_code": "V01AA01"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

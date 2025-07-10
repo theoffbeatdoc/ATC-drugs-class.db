@@ -1,0 +1,3228 @@
+[
+    {
+        "name": "Antibacterials for systemic use (J01)",
+        "atc_code": "J01",
+        "children": [
+            {
+                "name": "Other antibacterials (J01X)",
+                "atc_code": "J01X",
+                "children": [
+                    {
+                        "name": "Other antibacterials (J01XX)",
+                        "atc_code": "J01XX",
+                        "children": [
+                            {
+                                "name": "Gepotidacin (J01XX13)",
+                                "atc_code": "J01XX13",
+                                "children": [
+                                    {
+                                        "name": "Gepotidacin",
+                                        "drugbank_id": "DB12134"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lefamulin (J01XX12)",
+                                "atc_code": "J01XX12",
+                                "children": [
+                                    {
+                                        "name": "Lefamulin",
+                                        "drugbank_id": "DB12825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tedizolid (J01XX11)",
+                                "atc_code": "J01XX11",
+                                "children": [
+                                    {
+                                        "name": "Tedizolid",
+                                        "drugbank_id": "DB14569"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bacitracin (J01XX10)",
+                                "atc_code": "J01XX10",
+                                "children": [
+                                    {
+                                        "name": "Bacitracin",
+                                        "drugbank_id": "DB00626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Daptomycin (J01XX09)",
+                                "atc_code": "J01XX09",
+                                "children": [
+                                    {
+                                        "name": "Daptomycin",
+                                        "drugbank_id": "DB00080"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Linezolid (J01XX08)",
+                                "atc_code": "J01XX08",
+                                "children": [
+                                    {
+                                        "name": "Linezolid",
+                                        "drugbank_id": "DB00601"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitroxoline (J01XX07)",
+                                "atc_code": "J01XX07",
+                                "children": [
+                                    {
+                                        "name": "Nitroxoline",
+                                        "drugbank_id": "DB01422"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mandelic acid (J01XX06)",
+                                "atc_code": "J01XX06",
+                                "children": [
+                                    {
+                                        "name": "Mandelic acid",
+                                        "drugbank_id": "DB13218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methenamine (J01XX05)",
+                                "atc_code": "J01XX05",
+                                "children": [
+                                    {
+                                        "name": "Methenamine",
+                                        "drugbank_id": "DB06799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spectinomycin (J01XX04)",
+                                "atc_code": "J01XX04",
+                                "children": [
+                                    {
+                                        "name": "Spectinomycin",
+                                        "drugbank_id": "DB00919"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofoctol (J01XX03)",
+                                "atc_code": "J01XX03",
+                                "children": [
+                                    {
+                                        "name": "Clofoctol",
+                                        "drugbank_id": "DB13237"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xibornol (J01XX02)",
+                                "atc_code": "J01XX02",
+                                "children": [
+                                    {
+                                        "name": "Xibornol",
+                                        "drugbank_id": "DB13714"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosfomycin (J01XX01)",
+                                "atc_code": "J01XX01",
+                                "children": [
+                                    {
+                                        "name": "Fosfomycin",
+                                        "drugbank_id": "DB00828"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nitrofuran derivatives (J01XE)",
+                        "atc_code": "J01XE",
+                        "children": [
+                            {
+                                "name": "Nitrofurantoin, combinations (J01XE51)",
+                                "atc_code": "J01XE51",
+                                "children": [
+                                    {
+                                        "name": "Nitrofurantoin",
+                                        "drugbank_id": "DB00698"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Furazidin (J01XE03)",
+                                "atc_code": "J01XE03",
+                                "children": [
+                                    {
+                                        "name": "Furazidin",
+                                        "drugbank_id": "DB13475"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifurtoinol (J01XE02)",
+                                "atc_code": "J01XE02",
+                                "children": [
+                                    {
+                                        "name": "Nifurtoinol",
+                                        "drugbank_id": "DB13730"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrofurantoin (J01XE01)",
+                                "atc_code": "J01XE01",
+                                "children": [
+                                    {
+                                        "name": "Nitrofurantoin",
+                                        "drugbank_id": "DB00698"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazole derivatives (J01XD)",
+                        "atc_code": "J01XD",
+                        "children": [
+                            {
+                                "name": "Ornidazole (J01XD03)",
+                                "atc_code": "J01XD03",
+                                "children": [
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tinidazole (J01XD02)",
+                                "atc_code": "J01XD02",
+                                "children": [
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metronidazole (J01XD01)",
+                                "atc_code": "J01XD01",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steroid antibacterials (J01XC)",
+                        "atc_code": "J01XC",
+                        "children": [
+                            {
+                                "name": "Fusidic acid (J01XC01)",
+                                "atc_code": "J01XC01",
+                                "children": [
+                                    {
+                                        "name": "Fusidic acid",
+                                        "drugbank_id": "DB02703"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Polymyxins (J01XB)",
+                        "atc_code": "J01XB",
+                        "children": [
+                            {
+                                "name": "Polymyxin b (J01XB02)",
+                                "atc_code": "J01XB02",
+                                "children": [
+                                    {
+                                        "name": "Polymyxin B",
+                                        "drugbank_id": "DB00781"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colistin (J01XB01)",
+                                "atc_code": "J01XB01",
+                                "children": [
+                                    {
+                                        "name": "Colistin",
+                                        "drugbank_id": "DB00803"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glycopeptide antibacterials (J01XA)",
+                        "atc_code": "J01XA",
+                        "children": [
+                            {
+                                "name": "Oritavancin (J01XA05)",
+                                "atc_code": "J01XA05",
+                                "children": [
+                                    {
+                                        "name": "Oritavancin",
+                                        "drugbank_id": "DB04911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dalbavancin (J01XA04)",
+                                "atc_code": "J01XA04",
+                                "children": [
+                                    {
+                                        "name": "Dalbavancin",
+                                        "drugbank_id": "DB06219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telavancin (J01XA03)",
+                                "atc_code": "J01XA03",
+                                "children": [
+                                    {
+                                        "name": "Telavancin",
+                                        "drugbank_id": "DB06402"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teicoplanin (J01XA02)",
+                                "atc_code": "J01XA02",
+                                "children": [
+                                    {
+                                        "name": "Teicoplanin",
+                                        "drugbank_id": "DB06149"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vancomycin (J01XA01)",
+                                "atc_code": "J01XA01",
+                                "children": [
+                                    {
+                                        "name": "Vancomycin",
+                                        "drugbank_id": "DB00512"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Combinations of antibacterials (J01R)",
+                "atc_code": "J01R",
+                "children": [
+                    {
+                        "name": "Combinations of antibacterials (J01RA)",
+                        "atc_code": "J01RA",
+                        "children": [
+                            {
+                                "name": "Tetracycline and nystatin (J01RA19)",
+                                "atc_code": "J01RA19",
+                                "children": [
+                                    {
+                                        "name": "Nystatin",
+                                        "drugbank_id": "DB00646"
+                                    },
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ofloxacin and tinidazole (J01RA18)",
+                                "atc_code": "J01RA18",
+                                "children": [
+                                    {
+                                        "name": "Ofloxacin",
+                                        "drugbank_id": "DB01165"
+                                    },
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ofloxacin and nitazoxanide (J01RA17)",
+                                "atc_code": "J01RA17",
+                                "children": [
+                                    {
+                                        "name": "Nitazoxanide",
+                                        "drugbank_id": "DB00507"
+                                    },
+                                    {
+                                        "name": "Ofloxacin",
+                                        "drugbank_id": "DB01165"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefixime and azithromycin (J01RA16)",
+                                "atc_code": "J01RA16",
+                                "children": [
+                                    {
+                                        "name": "Azithromycin",
+                                        "drugbank_id": "DB00207"
+                                    },
+                                    {
+                                        "name": "Cefixime",
+                                        "drugbank_id": "DB00671"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefixime and ornidazole (J01RA15)",
+                                "atc_code": "J01RA15",
+                                "children": [
+                                    {
+                                        "name": "Cefixime",
+                                        "drugbank_id": "DB00671"
+                                    },
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Norfloxacin and metronidazole (J01RA14)",
+                                "atc_code": "J01RA14",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Norfloxacin",
+                                        "drugbank_id": "DB01059"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Norfloxacin and tinidazole (J01RA13)",
+                                "atc_code": "J01RA13",
+                                "children": [
+                                    {
+                                        "name": "Norfloxacin",
+                                        "drugbank_id": "DB01059"
+                                    },
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofloxacin and ornidazole (J01RA12)",
+                                "atc_code": "J01RA12",
+                                "children": [
+                                    {
+                                        "name": "Ciprofloxacin",
+                                        "drugbank_id": "DB00537"
+                                    },
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofloxacin and tinidazole (J01RA11)",
+                                "atc_code": "J01RA11",
+                                "children": [
+                                    {
+                                        "name": "Ciprofloxacin",
+                                        "drugbank_id": "DB00537"
+                                    },
+                                    {
+                                        "name": "Tinidazole",
+                                        "drugbank_id": "DB00911"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofloxacin and metronidazole (J01RA10)",
+                                "atc_code": "J01RA10",
+                                "children": [
+                                    {
+                                        "name": "Ciprofloxacin",
+                                        "drugbank_id": "DB00537"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ofloxacin and ornidazole (J01RA09)",
+                                "atc_code": "J01RA09",
+                                "children": [
+                                    {
+                                        "name": "Ofloxacin",
+                                        "drugbank_id": "DB01165"
+                                    },
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracycline and oleandomycin (J01RA08)",
+                                "atc_code": "J01RA08",
+                                "children": [
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    },
+                                    {
+                                        "name": "Oleandomycin",
+                                        "drugbank_id": "DB11442"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azithromycin, fluconazole and secnidazole (J01RA07)",
+                                "atc_code": "J01RA07",
+                                "children": [
+                                    {
+                                        "name": "Secnidazole",
+                                        "drugbank_id": "DB12834"
+                                    },
+                                    {
+                                        "name": "Azithromycin",
+                                        "drugbank_id": "DB00207"
+                                    },
+                                    {
+                                        "name": "Fluconazole",
+                                        "drugbank_id": "DB00196"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefepime and amikacin (J01RA06)",
+                                "atc_code": "J01RA06",
+                                "children": [
+                                    {
+                                        "name": "Cefepime",
+                                        "drugbank_id": "DB01413"
+                                    },
+                                    {
+                                        "name": "Amikacin",
+                                        "drugbank_id": "DB00479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levofloxacin and ornidazole (J01RA05)",
+                                "atc_code": "J01RA05",
+                                "children": [
+                                    {
+                                        "name": "Ornidazole",
+                                        "drugbank_id": "DB13026"
+                                    },
+                                    {
+                                        "name": "Levofloxacin",
+                                        "drugbank_id": "DB01137"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spiramycin and metronidazole (J01RA04)",
+                                "atc_code": "J01RA04",
+                                "children": [
+                                    {
+                                        "name": "Spiramycin",
+                                        "drugbank_id": "DB06145"
+                                    },
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefuroxime and metronidazole (J01RA03)",
+                                "atc_code": "J01RA03",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    },
+                                    {
+                                        "name": "Cefuroxime",
+                                        "drugbank_id": "DB01112"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfonamides, combinations with other antibacterials (excl. trimethoprim) (J01RA02)",
+                                "atc_code": "J01RA02"
+                            },
+                            {
+                                "name": "Penicillins, combinations with other antibacterials (J01RA01)",
+                                "atc_code": "J01RA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Quinolone antibacterials (J01M)",
+                "atc_code": "J01M",
+                "children": [
+                    {
+                        "name": "Other quinolones (J01MB)",
+                        "atc_code": "J01MB",
+                        "children": [
+                            {
+                                "name": "Nemonoxacin (J01MB08)",
+                                "atc_code": "J01MB08",
+                                "children": [
+                                    {
+                                        "name": "Nemonoxacin",
+                                        "drugbank_id": "DB06600"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flumequine (J01MB07)",
+                                "atc_code": "J01MB07",
+                                "children": [
+                                    {
+                                        "name": "Flumequine",
+                                        "drugbank_id": "DB08972"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinoxacin (J01MB06)",
+                                "atc_code": "J01MB06",
+                                "children": [
+                                    {
+                                        "name": "Cinoxacin",
+                                        "drugbank_id": "DB00827"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxolinic acid (J01MB05)",
+                                "atc_code": "J01MB05",
+                                "children": [
+                                    {
+                                        "name": "Oxolinic acid",
+                                        "drugbank_id": "DB13627"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipemidic acid (J01MB04)",
+                                "atc_code": "J01MB04",
+                                "children": [
+                                    {
+                                        "name": "Pipemidic acid",
+                                        "drugbank_id": "DB13823"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piromidic acid (J01MB03)",
+                                "atc_code": "J01MB03",
+                                "children": [
+                                    {
+                                        "name": "Piromidic acid",
+                                        "drugbank_id": "DB13744"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nalidixic acid (J01MB02)",
+                                "atc_code": "J01MB02",
+                                "children": [
+                                    {
+                                        "name": "Nalidixic acid",
+                                        "drugbank_id": "DB00779"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rosoxacin (J01MB01)",
+                                "atc_code": "J01MB01",
+                                "children": [
+                                    {
+                                        "name": "Rosoxacin",
+                                        "drugbank_id": "DB00817"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fluoroquinolones (J01MA)",
+                        "atc_code": "J01MA",
+                        "children": [
+                            {
+                                "name": "Lascufloxacin (J01MA25)",
+                                "atc_code": "J01MA25"
+                            },
+                            {
+                                "name": "Levonadifloxacin (J01MA24)",
+                                "atc_code": "J01MA24",
+                                "children": [
+                                    {
+                                        "name": "Levonadifloxacin",
+                                        "drugbank_id": "DB16219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delafloxacin (J01MA23)",
+                                "atc_code": "J01MA23",
+                                "children": [
+                                    {
+                                        "name": "Delafloxacin",
+                                        "drugbank_id": "DB11943"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tosufloxacin (J01MA22)",
+                                "atc_code": "J01MA22",
+                                "children": [
+                                    {
+                                        "name": "Tosufloxacin",
+                                        "drugbank_id": "DB16850"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sitafloxacin (J01MA21)",
+                                "atc_code": "J01MA21",
+                                "children": [
+                                    {
+                                        "name": "Sitafloxacin",
+                                        "drugbank_id": "DB13261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Garenoxacin (J01MA19)",
+                                "atc_code": "J01MA19",
+                                "children": [
+                                    {
+                                        "name": "Garenoxacin",
+                                        "drugbank_id": "DB06160"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pazufloxacin (J01MA18)",
+                                "atc_code": "J01MA18",
+                                "children": [
+                                    {
+                                        "name": "Pazufloxacin",
+                                        "drugbank_id": "DB11774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prulifloxacin (J01MA17)",
+                                "atc_code": "J01MA17",
+                                "children": [
+                                    {
+                                        "name": "Prulifloxacin",
+                                        "drugbank_id": "DB11892"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gatifloxacin (J01MA16)",
+                                "atc_code": "J01MA16",
+                                "children": [
+                                    {
+                                        "name": "Gatifloxacin",
+                                        "drugbank_id": "DB01044"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gemifloxacin (J01MA15)",
+                                "atc_code": "J01MA15",
+                                "children": [
+                                    {
+                                        "name": "Gemifloxacin",
+                                        "drugbank_id": "DB01155"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moxifloxacin (J01MA14)",
+                                "atc_code": "J01MA14",
+                                "children": [
+                                    {
+                                        "name": "Moxifloxacin",
+                                        "drugbank_id": "DB00218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trovafloxacin (J01MA13)",
+                                "atc_code": "J01MA13",
+                                "children": [
+                                    {
+                                        "name": "Trovafloxacin",
+                                        "drugbank_id": "DB00685"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levofloxacin (J01MA12)",
+                                "atc_code": "J01MA12",
+                                "children": [
+                                    {
+                                        "name": "Levofloxacin",
+                                        "drugbank_id": "DB01137"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grepafloxacin (J01MA11)",
+                                "atc_code": "J01MA11",
+                                "children": [
+                                    {
+                                        "name": "Grepafloxacin",
+                                        "drugbank_id": "DB00365"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rufloxacin (J01MA10)",
+                                "atc_code": "J01MA10",
+                                "children": [
+                                    {
+                                        "name": "Rufloxacin",
+                                        "drugbank_id": "DB13772"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sparfloxacin (J01MA09)",
+                                "atc_code": "J01MA09",
+                                "children": [
+                                    {
+                                        "name": "Sparfloxacin",
+                                        "drugbank_id": "DB01208"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fleroxacin (J01MA08)",
+                                "atc_code": "J01MA08",
+                                "children": [
+                                    {
+                                        "name": "Fleroxacin",
+                                        "drugbank_id": "DB04576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lomefloxacin (J01MA07)",
+                                "atc_code": "J01MA07",
+                                "children": [
+                                    {
+                                        "name": "Lomefloxacin",
+                                        "drugbank_id": "DB00978"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Norfloxacin (J01MA06)",
+                                "atc_code": "J01MA06",
+                                "children": [
+                                    {
+                                        "name": "Norfloxacin",
+                                        "drugbank_id": "DB01059"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Temafloxacin (J01MA05)",
+                                "atc_code": "J01MA05",
+                                "children": [
+                                    {
+                                        "name": "Temafloxacin",
+                                        "drugbank_id": "DB01405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enoxacin (J01MA04)",
+                                "atc_code": "J01MA04",
+                                "children": [
+                                    {
+                                        "name": "Enoxacin",
+                                        "drugbank_id": "DB00467"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pefloxacin (J01MA03)",
+                                "atc_code": "J01MA03",
+                                "children": [
+                                    {
+                                        "name": "Pefloxacin",
+                                        "drugbank_id": "DB00487"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciprofloxacin (J01MA02)",
+                                "atc_code": "J01MA02",
+                                "children": [
+                                    {
+                                        "name": "Ciprofloxacin",
+                                        "drugbank_id": "DB00537"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ofloxacin (J01MA01)",
+                                "atc_code": "J01MA01",
+                                "children": [
+                                    {
+                                        "name": "Ofloxacin",
+                                        "drugbank_id": "DB01165"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Aminoglycoside antibacterials (J01G)",
+                "atc_code": "J01G",
+                "children": [
+                    {
+                        "name": "Other aminoglycosides (J01GB)",
+                        "atc_code": "J01GB",
+                        "children": [
+                            {
+                                "name": "Plazomicin (J01GB14)",
+                                "atc_code": "J01GB14",
+                                "children": [
+                                    {
+                                        "name": "Plazomicin",
+                                        "drugbank_id": "DB12615"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bekanamycin (J01GB13)",
+                                "atc_code": "J01GB13",
+                                "children": [
+                                    {
+                                        "name": "Bekanamycin",
+                                        "drugbank_id": "DB13673"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arbekacin (J01GB12)",
+                                "atc_code": "J01GB12",
+                                "children": [
+                                    {
+                                        "name": "Arbekacin",
+                                        "drugbank_id": "DB06696"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isepamicin (J01GB11)",
+                                "atc_code": "J01GB11",
+                                "children": [
+                                    {
+                                        "name": "Isepamicin",
+                                        "drugbank_id": "DB13540"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ribostamycin (J01GB10)",
+                                "atc_code": "J01GB10",
+                                "children": [
+                                    {
+                                        "name": "Ribostamycin",
+                                        "drugbank_id": "DB03615"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibekacin (J01GB09)",
+                                "atc_code": "J01GB09",
+                                "children": [
+                                    {
+                                        "name": "Dibekacin",
+                                        "drugbank_id": "DB13270"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sisomicin (J01GB08)",
+                                "atc_code": "J01GB08",
+                                "children": [
+                                    {
+                                        "name": "Sisomicin",
+                                        "drugbank_id": "DB12604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Netilmicin (J01GB07)",
+                                "atc_code": "J01GB07",
+                                "children": [
+                                    {
+                                        "name": "Netilmicin",
+                                        "drugbank_id": "DB00955"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amikacin (J01GB06)",
+                                "atc_code": "J01GB06",
+                                "children": [
+                                    {
+                                        "name": "Amikacin",
+                                        "drugbank_id": "DB00479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (J01GB05)",
+                                "atc_code": "J01GB05",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Kanamycin (J01GB04)",
+                                "atc_code": "J01GB04",
+                                "children": [
+                                    {
+                                        "name": "Kanamycin",
+                                        "drugbank_id": "DB01172"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gentamicin (J01GB03)",
+                                "atc_code": "J01GB03",
+                                "children": [
+                                    {
+                                        "name": "Gentamicin",
+                                        "drugbank_id": "DB00798"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tobramycin (J01GB01)",
+                                "atc_code": "J01GB01",
+                                "children": [
+                                    {
+                                        "name": "Tobramycin",
+                                        "drugbank_id": "DB00684"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Streptomycins (J01GA)",
+                        "atc_code": "J01GA",
+                        "children": [
+                            {
+                                "name": "Streptoduocin (J01GA02)",
+                                "atc_code": "J01GA02"
+                            },
+                            {
+                                "name": "Streptomycin (J01GA01)",
+                                "atc_code": "J01GA01",
+                                "children": [
+                                    {
+                                        "name": "Streptomycin",
+                                        "drugbank_id": "DB01082"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Macrolides, lincosamides and streptogramins (J01F)",
+                "atc_code": "J01F",
+                "children": [
+                    {
+                        "name": "Streptogramins (J01FG)",
+                        "atc_code": "J01FG",
+                        "children": [
+                            {
+                                "name": "Quinupristin/dalfopristin (J01FG02)",
+                                "atc_code": "J01FG02"
+                            },
+                            {
+                                "name": "Pristinamycin (J01FG01)",
+                                "atc_code": "J01FG01",
+                                "children": [
+                                    {
+                                        "name": "Pristinamycin",
+                                        "drugbank_id": "DB13704"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lincosamides (J01FF)",
+                        "atc_code": "J01FF",
+                        "children": [
+                            {
+                                "name": "Lincomycin (J01FF02)",
+                                "atc_code": "J01FF02",
+                                "children": [
+                                    {
+                                        "name": "Lincomycin",
+                                        "drugbank_id": "DB01627"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clindamycin (J01FF01)",
+                                "atc_code": "J01FF01",
+                                "children": [
+                                    {
+                                        "name": "Clindamycin",
+                                        "drugbank_id": "DB01190"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Macrolides (J01FA)",
+                        "atc_code": "J01FA",
+                        "children": [
+                            {
+                                "name": "Solithromycin (J01FA16)",
+                                "atc_code": "J01FA16",
+                                "children": [
+                                    {
+                                        "name": "Solithromycin",
+                                        "drugbank_id": "DB09308"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telithromycin (J01FA15)",
+                                "atc_code": "J01FA15",
+                                "children": [
+                                    {
+                                        "name": "Telithromycin",
+                                        "drugbank_id": "DB00976"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flurithromycin (J01FA14)",
+                                "atc_code": "J01FA14",
+                                "children": [
+                                    {
+                                        "name": "Flurithromycin",
+                                        "drugbank_id": "DB13338"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dirithromycin (J01FA13)",
+                                "atc_code": "J01FA13",
+                                "children": [
+                                    {
+                                        "name": "Dirithromycin",
+                                        "drugbank_id": "DB00954"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rokitamycin (J01FA12)",
+                                "atc_code": "J01FA12",
+                                "children": [
+                                    {
+                                        "name": "Rokitamycin",
+                                        "drugbank_id": "DB13409"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miocamycin (J01FA11)",
+                                "atc_code": "J01FA11",
+                                "children": [
+                                    {
+                                        "name": "Miocamycin",
+                                        "drugbank_id": "DB13287"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azithromycin (J01FA10)",
+                                "atc_code": "J01FA10",
+                                "children": [
+                                    {
+                                        "name": "Azithromycin",
+                                        "drugbank_id": "DB00207"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clarithromycin (J01FA09)",
+                                "atc_code": "J01FA09",
+                                "children": [
+                                    {
+                                        "name": "Clarithromycin",
+                                        "drugbank_id": "DB01211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Troleandomycin (J01FA08)",
+                                "atc_code": "J01FA08",
+                                "children": [
+                                    {
+                                        "name": "Troleandomycin",
+                                        "drugbank_id": "DB13179"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Josamycin (J01FA07)",
+                                "atc_code": "J01FA07",
+                                "children": [
+                                    {
+                                        "name": "Josamycin",
+                                        "drugbank_id": "DB01321"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Roxithromycin (J01FA06)",
+                                "atc_code": "J01FA06",
+                                "children": [
+                                    {
+                                        "name": "Roxithromycin",
+                                        "drugbank_id": "DB00778"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oleandomycin (J01FA05)",
+                                "atc_code": "J01FA05",
+                                "children": [
+                                    {
+                                        "name": "Oleandomycin",
+                                        "drugbank_id": "DB11442"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Midecamycin (J01FA03)",
+                                "atc_code": "J01FA03",
+                                "children": [
+                                    {
+                                        "name": "Midecamycin",
+                                        "drugbank_id": "DB13456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spiramycin (J01FA02)",
+                                "atc_code": "J01FA02",
+                                "children": [
+                                    {
+                                        "name": "Spiramycin",
+                                        "drugbank_id": "DB06145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erythromycin (J01FA01)",
+                                "atc_code": "J01FA01",
+                                "children": [
+                                    {
+                                        "name": "Erythromycin",
+                                        "drugbank_id": "DB00199"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sulfonamides and trimethoprim (J01E)",
+                "atc_code": "J01E",
+                "children": [
+                    {
+                        "name": "Combinations of sulfonamides and trimethoprim, incl. derivatives (J01EE)",
+                        "atc_code": "J01EE",
+                        "children": [
+                            {
+                                "name": "Sulfamerazine and trimethoprim (J01EE07)",
+                                "atc_code": "J01EE07",
+                                "children": [
+                                    {
+                                        "name": "Sulfamerazine",
+                                        "drugbank_id": "DB01581"
+                                    },
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadiazine and tetroxoprim (J01EE06)",
+                                "atc_code": "J01EE06",
+                                "children": [
+                                    {
+                                        "name": "Sulfadiazine",
+                                        "drugbank_id": "DB00359"
+                                    },
+                                    {
+                                        "name": "Tetroxoprim",
+                                        "drugbank_id": "DB15976"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadimidine and trimethoprim (J01EE05)",
+                                "atc_code": "J01EE05",
+                                "children": [
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    },
+                                    {
+                                        "name": "Sulfamethazine",
+                                        "drugbank_id": "DB01582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamoxole and trimethoprim (J01EE04)",
+                                "atc_code": "J01EE04",
+                                "children": [
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    },
+                                    {
+                                        "name": "Sulfamoxole",
+                                        "drugbank_id": "DB08798"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfametrole and trimethoprim (J01EE03)",
+                                "atc_code": "J01EE03",
+                                "children": [
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    },
+                                    {
+                                        "name": "Sulfametrole",
+                                        "drugbank_id": "DB15975"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadiazine and trimethoprim (J01EE02)",
+                                "atc_code": "J01EE02",
+                                "children": [
+                                    {
+                                        "name": "Sulfadiazine",
+                                        "drugbank_id": "DB00359"
+                                    },
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethoxazole and trimethoprim (J01EE01)",
+                                "atc_code": "J01EE01",
+                                "children": [
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    },
+                                    {
+                                        "name": "Sulfamethoxazole",
+                                        "drugbank_id": "DB01015"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Long-acting sulfonamides (J01ED)",
+                        "atc_code": "J01ED",
+                        "children": [
+                            {
+                                "name": "Combinations (J01ED20)",
+                                "atc_code": "J01ED20"
+                            },
+                            {
+                                "name": "Sulfamazone (J01ED09)",
+                                "atc_code": "J01ED09",
+                                "children": [
+                                    {
+                                        "name": "Sulfamazone",
+                                        "drugbank_id": "DB13556"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfaphenazole (J01ED08)",
+                                "atc_code": "J01ED08",
+                                "children": [
+                                    {
+                                        "name": "Sulfaphenazole",
+                                        "drugbank_id": "DB06729"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamerazine (J01ED07)",
+                                "atc_code": "J01ED07",
+                                "children": [
+                                    {
+                                        "name": "Sulfamerazine",
+                                        "drugbank_id": "DB01581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfaperin (J01ED06)",
+                                "atc_code": "J01ED06",
+                                "children": [
+                                    {
+                                        "name": "Sulfaperin",
+                                        "drugbank_id": "DB13320"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethoxypyridazine (J01ED05)",
+                                "atc_code": "J01ED05",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethoxypyridazine",
+                                        "drugbank_id": "DB13773"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfametoxydiazine (J01ED04)",
+                                "atc_code": "J01ED04",
+                                "children": [
+                                    {
+                                        "name": "Sulfameter",
+                                        "drugbank_id": "DB06821"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfametomidine (J01ED03)",
+                                "atc_code": "J01ED03",
+                                "children": [
+                                    {
+                                        "name": "Sulfametomidine",
+                                        "drugbank_id": "DB13485"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfalene (J01ED02)",
+                                "atc_code": "J01ED02",
+                                "children": [
+                                    {
+                                        "name": "Sulfametopyrazine",
+                                        "drugbank_id": "DB00664"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadimethoxine (J01ED01)",
+                                "atc_code": "J01ED01",
+                                "children": [
+                                    {
+                                        "name": "Sulfadimethoxine",
+                                        "drugbank_id": "DB06150"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Intermediate-acting sulfonamides (J01EC)",
+                        "atc_code": "J01EC",
+                        "children": [
+                            {
+                                "name": "Combinations (J01EC20)",
+                                "atc_code": "J01EC20"
+                            },
+                            {
+                                "name": "Sulfamoxole (J01EC03)",
+                                "atc_code": "J01EC03",
+                                "children": [
+                                    {
+                                        "name": "Sulfamoxole",
+                                        "drugbank_id": "DB08798"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadiazine (J01EC02)",
+                                "atc_code": "J01EC02",
+                                "children": [
+                                    {
+                                        "name": "Sulfadiazine",
+                                        "drugbank_id": "DB00359"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethoxazole (J01EC01)",
+                                "atc_code": "J01EC01",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethoxazole",
+                                        "drugbank_id": "DB01015"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Short-acting sulfonamides (J01EB)",
+                        "atc_code": "J01EB",
+                        "children": [
+                            {
+                                "name": "Combinations (J01EB20)",
+                                "atc_code": "J01EB20"
+                            },
+                            {
+                                "name": "Sulfathiourea (J01EB08)",
+                                "atc_code": "J01EB08",
+                                "children": [
+                                    {
+                                        "name": "Sulfathiourea",
+                                        "drugbank_id": "DB13699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfathiazole (J01EB07)",
+                                "atc_code": "J01EB07",
+                                "children": [
+                                    {
+                                        "name": "Sulfathiazole",
+                                        "drugbank_id": "DB06147"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfanilamide (J01EB06)",
+                                "atc_code": "J01EB06",
+                                "children": [
+                                    {
+                                        "name": "Sulfanilamide",
+                                        "drugbank_id": "DB00259"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfafurazole (J01EB05)",
+                                "atc_code": "J01EB05",
+                                "children": [
+                                    {
+                                        "name": "Sulfisoxazole",
+                                        "drugbank_id": "DB00263"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfapyridine (J01EB04)",
+                                "atc_code": "J01EB04",
+                                "children": [
+                                    {
+                                        "name": "Sulfapyridine",
+                                        "drugbank_id": "DB00891"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfadimidine (J01EB03)",
+                                "atc_code": "J01EB03",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethazine",
+                                        "drugbank_id": "DB01582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethizole (J01EB02)",
+                                "atc_code": "J01EB02",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethizole",
+                                        "drugbank_id": "DB00576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfaisodimidine (J01EB01)",
+                                "atc_code": "J01EB01",
+                                "children": [
+                                    {
+                                        "name": "Sulfaisodimidine",
+                                        "drugbank_id": "DB13283"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trimethoprim and derivatives (J01EA)",
+                        "atc_code": "J01EA",
+                        "children": [
+                            {
+                                "name": "Iclaprim (J01EA03)",
+                                "atc_code": "J01EA03",
+                                "children": [
+                                    {
+                                        "name": "Iclaprim",
+                                        "drugbank_id": "DB06358"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brodimoprim (J01EA02)",
+                                "atc_code": "J01EA02",
+                                "children": [
+                                    {
+                                        "name": "Brodimoprim",
+                                        "drugbank_id": "DB13795"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimethoprim (J01EA01)",
+                                "atc_code": "J01EA01",
+                                "children": [
+                                    {
+                                        "name": "Trimethoprim",
+                                        "drugbank_id": "DB00440"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other beta-lactam antibacterials (J01D)",
+                "atc_code": "J01D",
+                "children": [
+                    {
+                        "name": "Other cephalosporins and penems (J01DI)",
+                        "atc_code": "J01DI",
+                        "children": [
+                            {
+                                "name": "Cefiderocol (J01DI04)",
+                                "atc_code": "J01DI04",
+                                "children": [
+                                    {
+                                        "name": "Cefiderocol",
+                                        "drugbank_id": "DB14879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftolozane and beta-lactamase inhibitor (J01DI54)",
+                                "atc_code": "J01DI54"
+                            },
+                            {
+                                "name": "Faropenem (J01DI03)",
+                                "atc_code": "J01DI03",
+                                "children": [
+                                    {
+                                        "name": "Faropenem",
+                                        "drugbank_id": "DB12190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftaroline fosamil (J01DI02)",
+                                "atc_code": "J01DI02",
+                                "children": [
+                                    {
+                                        "name": "Ceftaroline fosamil",
+                                        "drugbank_id": "DB06590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftobiprole medocaril (J01DI01)",
+                                "atc_code": "J01DI01",
+                                "children": [
+                                    {
+                                        "name": "Ceftobiprole medocaril",
+                                        "drugbank_id": "DB14733"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carbapenems (J01DH)",
+                        "atc_code": "J01DH",
+                        "children": [
+                            {
+                                "name": "Imipenem, cilastatin and relebactam (J01DH56)",
+                                "atc_code": "J01DH56",
+                                "children": [
+                                    {
+                                        "name": "Cilastatin",
+                                        "drugbank_id": "DB01597"
+                                    },
+                                    {
+                                        "name": "Imipenem",
+                                        "drugbank_id": "DB01598"
+                                    },
+                                    {
+                                        "name": "Relebactam",
+                                        "drugbank_id": "DB12377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meropenem and vaborbactam (J01DH52)",
+                                "atc_code": "J01DH52",
+                                "children": [
+                                    {
+                                        "name": "Vaborbactam",
+                                        "drugbank_id": "DB12107"
+                                    },
+                                    {
+                                        "name": "Meropenem",
+                                        "drugbank_id": "DB00760"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tebipenem pivoxil (J01DH06)",
+                                "atc_code": "J01DH06",
+                                "children": [
+                                    {
+                                        "name": "Tebipenem pivoxil",
+                                        "drugbank_id": "DB16840"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Panipenem and betamipron (J01DH55)",
+                                "atc_code": "J01DH55"
+                            },
+                            {
+                                "name": "Imipenem and cilastatin (J01DH51)",
+                                "atc_code": "J01DH51",
+                                "children": [
+                                    {
+                                        "name": "Imipenem",
+                                        "drugbank_id": "DB01598"
+                                    },
+                                    {
+                                        "name": "Cilastatin",
+                                        "drugbank_id": "DB01597"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Biapenem (J01DH05)",
+                                "atc_code": "J01DH05",
+                                "children": [
+                                    {
+                                        "name": "Biapenem",
+                                        "drugbank_id": "DB13028"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doripenem (J01DH04)",
+                                "atc_code": "J01DH04",
+                                "children": [
+                                    {
+                                        "name": "Doripenem",
+                                        "drugbank_id": "DB06211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ertapenem (J01DH03)",
+                                "atc_code": "J01DH03",
+                                "children": [
+                                    {
+                                        "name": "Ertapenem",
+                                        "drugbank_id": "DB00303"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meropenem (J01DH02)",
+                                "atc_code": "J01DH02",
+                                "children": [
+                                    {
+                                        "name": "Meropenem",
+                                        "drugbank_id": "DB00760"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monobactams (J01DF)",
+                        "atc_code": "J01DF",
+                        "children": [
+                            {
+                                "name": "Aztreonam and beta-lactamase inhibitor (J01DF51)",
+                                "atc_code": "J01DF51"
+                            },
+                            {
+                                "name": "Carumonam (J01DF02)",
+                                "atc_code": "J01DF02",
+                                "children": [
+                                    {
+                                        "name": "Carumonam",
+                                        "drugbank_id": "DB13553"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aztreonam (J01DF01)",
+                                "atc_code": "J01DF01",
+                                "children": [
+                                    {
+                                        "name": "Aztreonam",
+                                        "drugbank_id": "DB00355"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fourth-generation cephalosporins (J01DE)",
+                        "atc_code": "J01DE",
+                        "children": [
+                            {
+                                "name": "Cefepime and beta-lactamase inhibitor (J01DE51)",
+                                "atc_code": "J01DE51"
+                            },
+                            {
+                                "name": "Cefozopran (J01DE03)",
+                                "atc_code": "J01DE03",
+                                "children": [
+                                    {
+                                        "name": "Cefozopran",
+                                        "drugbank_id": "DB13667"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefpirome (J01DE02)",
+                                "atc_code": "J01DE02",
+                                "children": [
+                                    {
+                                        "name": "Cefpirome",
+                                        "drugbank_id": "DB13682"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefepime (J01DE01)",
+                                "atc_code": "J01DE01",
+                                "children": [
+                                    {
+                                        "name": "Cefepime",
+                                        "drugbank_id": "DB01413"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Third-generation cephalosporins (J01DD)",
+                        "atc_code": "J01DD",
+                        "children": [
+                            {
+                                "name": "Cefixime and beta-lactamase inhibitor (J01DD58)",
+                                "atc_code": "J01DD58"
+                            },
+                            {
+                                "name": "Cefpodoxime and beta-lactamase inhibitor (J01DD64)",
+                                "atc_code": "J01DD64"
+                            },
+                            {
+                                "name": "Ceftriaxone and beta-lactamase inhibitor (J01DD63)",
+                                "atc_code": "J01DD63"
+                            },
+                            {
+                                "name": "Cefteram (J01DD18)",
+                                "atc_code": "J01DD18"
+                            },
+                            {
+                                "name": "Cefoperazone and beta-lactamase inhibitor (J01DD62)",
+                                "atc_code": "J01DD62"
+                            },
+                            {
+                                "name": "Ceftriaxone, combinations (J01DD54)",
+                                "atc_code": "J01DD54",
+                                "children": [
+                                    {
+                                        "name": "Ceftriaxone",
+                                        "drugbank_id": "DB01212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftazidime and beta-lactamase inhibitor (J01DD52)",
+                                "atc_code": "J01DD52"
+                            },
+                            {
+                                "name": "Cefotaxime and beta-lactamase inhibitor (J01DD51)",
+                                "atc_code": "J01DD51"
+                            },
+                            {
+                                "name": "Cefcapene (J01DD17)",
+                                "atc_code": "J01DD17",
+                                "children": [
+                                    {
+                                        "name": "Cefcapene",
+                                        "drugbank_id": "DB13461"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefditoren (J01DD16)",
+                                "atc_code": "J01DD16",
+                                "children": [
+                                    {
+                                        "name": "Cefditoren",
+                                        "drugbank_id": "DB01066"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefdinir (J01DD15)",
+                                "atc_code": "J01DD15",
+                                "children": [
+                                    {
+                                        "name": "Cefdinir",
+                                        "drugbank_id": "DB00535"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftibuten (J01DD14)",
+                                "atc_code": "J01DD14",
+                                "children": [
+                                    {
+                                        "name": "Ceftibuten",
+                                        "drugbank_id": "DB01415"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefpodoxime (J01DD13)",
+                                "atc_code": "J01DD13",
+                                "children": [
+                                    {
+                                        "name": "Cefpodoxime",
+                                        "drugbank_id": "DB01416"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefoperazone (J01DD12)",
+                                "atc_code": "J01DD12",
+                                "children": [
+                                    {
+                                        "name": "Cefoperazone",
+                                        "drugbank_id": "DB01329"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefpiramide (J01DD11)",
+                                "atc_code": "J01DD11",
+                                "children": [
+                                    {
+                                        "name": "Cefpiramide",
+                                        "drugbank_id": "DB00430"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefetamet (J01DD10)",
+                                "atc_code": "J01DD10",
+                                "children": [
+                                    {
+                                        "name": "Cefetamet",
+                                        "drugbank_id": "DB13504"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefodizime (J01DD09)",
+                                "atc_code": "J01DD09",
+                                "children": [
+                                    {
+                                        "name": "Cefodizime",
+                                        "drugbank_id": "DB13470"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefixime (J01DD08)",
+                                "atc_code": "J01DD08",
+                                "children": [
+                                    {
+                                        "name": "Cefixime",
+                                        "drugbank_id": "DB00671"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftizoxime (J01DD07)",
+                                "atc_code": "J01DD07",
+                                "children": [
+                                    {
+                                        "name": "Ceftizoxime",
+                                        "drugbank_id": "DB01332"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Latamoxef (J01DD06)",
+                                "atc_code": "J01DD06",
+                                "children": [
+                                    {
+                                        "name": "Latamoxef",
+                                        "drugbank_id": "DB04570"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefmenoxime (J01DD05)",
+                                "atc_code": "J01DD05",
+                                "children": [
+                                    {
+                                        "name": "Cefmenoxime",
+                                        "drugbank_id": "DB00267"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftriaxone (J01DD04)",
+                                "atc_code": "J01DD04",
+                                "children": [
+                                    {
+                                        "name": "Ceftriaxone",
+                                        "drugbank_id": "DB01212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefsulodin (J01DD03)",
+                                "atc_code": "J01DD03",
+                                "children": [
+                                    {
+                                        "name": "Cefsulodin",
+                                        "drugbank_id": "DB13499"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceftazidime (J01DD02)",
+                                "atc_code": "J01DD02",
+                                "children": [
+                                    {
+                                        "name": "Ceftazidime",
+                                        "drugbank_id": "DB00438"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefotaxime (J01DD01)",
+                                "atc_code": "J01DD01",
+                                "children": [
+                                    {
+                                        "name": "Cefotaxime",
+                                        "drugbank_id": "DB00493"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Second-generation cephalosporins (J01DC)",
+                        "atc_code": "J01DC",
+                        "children": [
+                            {
+                                "name": "Cefuroxime and beta-lactamase inhibitor (J01DC52)",
+                                "atc_code": "J01DC52"
+                            },
+                            {
+                                "name": "Flomoxef (J01DC14)",
+                                "atc_code": "J01DC14",
+                                "children": [
+                                    {
+                                        "name": "Flomoxef",
+                                        "drugbank_id": "DB11935"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefbuperazone (J01DC13)",
+                                "atc_code": "J01DC13",
+                                "children": [
+                                    {
+                                        "name": "Cefbuperazone",
+                                        "drugbank_id": "DB13638"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefminox (J01DC12)",
+                                "atc_code": "J01DC12",
+                                "children": [
+                                    {
+                                        "name": "Cefminox",
+                                        "drugbank_id": "DB09062"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ceforanide (J01DC11)",
+                                "atc_code": "J01DC11",
+                                "children": [
+                                    {
+                                        "name": "Ceforanide",
+                                        "drugbank_id": "DB00923"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefprozil (J01DC10)",
+                                "atc_code": "J01DC10",
+                                "children": [
+                                    {
+                                        "name": "Cefprozil",
+                                        "drugbank_id": "DB01150"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefmetazole (J01DC09)",
+                                "atc_code": "J01DC09",
+                                "children": [
+                                    {
+                                        "name": "Cefmetazole",
+                                        "drugbank_id": "DB00274"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loracarbef (J01DC08)",
+                                "atc_code": "J01DC08",
+                                "children": [
+                                    {
+                                        "name": "Loracarbef",
+                                        "drugbank_id": "DB00447"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefotiam (J01DC07)",
+                                "atc_code": "J01DC07",
+                                "children": [
+                                    {
+                                        "name": "Cefotiam",
+                                        "drugbank_id": "DB00229"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefonicid (J01DC06)",
+                                "atc_code": "J01DC06",
+                                "children": [
+                                    {
+                                        "name": "Cefonicid",
+                                        "drugbank_id": "DB01328"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefotetan (J01DC05)",
+                                "atc_code": "J01DC05",
+                                "children": [
+                                    {
+                                        "name": "Cefotetan",
+                                        "drugbank_id": "DB01330"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefaclor (J01DC04)",
+                                "atc_code": "J01DC04",
+                                "children": [
+                                    {
+                                        "name": "Cefaclor",
+                                        "drugbank_id": "DB00833"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefamandole (J01DC03)",
+                                "atc_code": "J01DC03",
+                                "children": [
+                                    {
+                                        "name": "Cefamandole",
+                                        "drugbank_id": "DB01326"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefuroxime (J01DC02)",
+                                "atc_code": "J01DC02",
+                                "children": [
+                                    {
+                                        "name": "Cefuroxime",
+                                        "drugbank_id": "DB01112"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefoxitin (J01DC01)",
+                                "atc_code": "J01DC01",
+                                "children": [
+                                    {
+                                        "name": "Cefoxitin",
+                                        "drugbank_id": "DB01331"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "First-generation cephalosporins (J01DB)",
+                        "atc_code": "J01DB",
+                        "children": [
+                            {
+                                "name": "Ceftezole (J01DB12)",
+                                "atc_code": "J01DB12",
+                                "children": [
+                                    {
+                                        "name": "Ceftezole",
+                                        "drugbank_id": "DB13821"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefroxadine (J01DB11)",
+                                "atc_code": "J01DB11",
+                                "children": [
+                                    {
+                                        "name": "Cefroxadine",
+                                        "drugbank_id": "DB11367"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefacetrile (J01DB10)",
+                                "atc_code": "J01DB10",
+                                "children": [
+                                    {
+                                        "name": "Cefacetrile",
+                                        "drugbank_id": "DB01414"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefradine (J01DB09)",
+                                "atc_code": "J01DB09",
+                                "children": [
+                                    {
+                                        "name": "Cefradine",
+                                        "drugbank_id": "DB01333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefapirin (J01DB08)",
+                                "atc_code": "J01DB08",
+                                "children": [
+                                    {
+                                        "name": "Cefapirin",
+                                        "drugbank_id": "DB01139"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefatrizine (J01DB07)",
+                                "atc_code": "J01DB07",
+                                "children": [
+                                    {
+                                        "name": "Cefatrizine",
+                                        "drugbank_id": "DB13266"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefazedone (J01DB06)",
+                                "atc_code": "J01DB06",
+                                "children": [
+                                    {
+                                        "name": "Cefazedone",
+                                        "drugbank_id": "DB13778"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefadroxil (J01DB05)",
+                                "atc_code": "J01DB05",
+                                "children": [
+                                    {
+                                        "name": "Cefadroxil",
+                                        "drugbank_id": "DB01140"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefazolin (J01DB04)",
+                                "atc_code": "J01DB04",
+                                "children": [
+                                    {
+                                        "name": "Cefazolin",
+                                        "drugbank_id": "DB01327"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefalotin (J01DB03)",
+                                "atc_code": "J01DB03",
+                                "children": [
+                                    {
+                                        "name": "Cefalotin",
+                                        "drugbank_id": "DB00456"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefaloridine (J01DB02)",
+                                "atc_code": "J01DB02",
+                                "children": [
+                                    {
+                                        "name": "Cefaloridine",
+                                        "drugbank_id": "DB09008"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cefalexin (J01DB01)",
+                                "atc_code": "J01DB01",
+                                "children": [
+                                    {
+                                        "name": "Cephalexin",
+                                        "drugbank_id": "DB00567"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beta-lactam antibacterials, penicillins (J01C)",
+                "atc_code": "J01C",
+                "children": [
+                    {
+                        "name": "Combinations of penicillins, incl. beta-lactamase inhibitors (J01CR)",
+                        "atc_code": "J01CR",
+                        "children": [
+                            {
+                                "name": "Combinations of penicillins (J01CR50)",
+                                "atc_code": "J01CR50",
+                                "children": [
+                                    {
+                                        "name": "Benzylpenicillin",
+                                        "drugbank_id": "DB01053"
+                                    },
+                                    {
+                                        "name": "Meticillin",
+                                        "drugbank_id": "DB01603"
+                                    },
+                                    {
+                                        "name": "Amdinocillin",
+                                        "drugbank_id": "DB01163"
+                                    },
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    },
+                                    {
+                                        "name": "Ticarcillin",
+                                        "drugbank_id": "DB01607"
+                                    },
+                                    {
+                                        "name": "Nafcillin",
+                                        "drugbank_id": "DB00607"
+                                    },
+                                    {
+                                        "name": "Piperacillin",
+                                        "drugbank_id": "DB00319"
+                                    },
+                                    {
+                                        "name": "Carbenicillin",
+                                        "drugbank_id": "DB00578"
+                                    },
+                                    {
+                                        "name": "Cyclacillin",
+                                        "drugbank_id": "DB01000"
+                                    },
+                                    {
+                                        "name": "Pivampicillin",
+                                        "drugbank_id": "DB01604"
+                                    },
+                                    {
+                                        "name": "Hetacillin",
+                                        "drugbank_id": "DB00739"
+                                    },
+                                    {
+                                        "name": "Flucloxacillin",
+                                        "drugbank_id": "DB00301"
+                                    },
+                                    {
+                                        "name": "Pivmecillinam",
+                                        "drugbank_id": "DB01605"
+                                    },
+                                    {
+                                        "name": "Ampicillin",
+                                        "drugbank_id": "DB00415"
+                                    },
+                                    {
+                                        "name": "Carindacillin",
+                                        "drugbank_id": "DB09319"
+                                    },
+                                    {
+                                        "name": "Procaine benzylpenicillin",
+                                        "drugbank_id": "DB09320"
+                                    },
+                                    {
+                                        "name": "Pheneticillin",
+                                        "drugbank_id": "DB13337"
+                                    },
+                                    {
+                                        "name": "Sultamicillin",
+                                        "drugbank_id": "DB12127"
+                                    },
+                                    {
+                                        "name": "Phenoxymethylpenicillin",
+                                        "drugbank_id": "DB00417"
+                                    },
+                                    {
+                                        "name": "Mezlocillin",
+                                        "drugbank_id": "DB00948"
+                                    },
+                                    {
+                                        "name": "Oxacillin",
+                                        "drugbank_id": "DB00713"
+                                    },
+                                    {
+                                        "name": "Azlocillin",
+                                        "drugbank_id": "DB01061"
+                                    },
+                                    {
+                                        "name": "Dicloxacillin",
+                                        "drugbank_id": "DB00485"
+                                    },
+                                    {
+                                        "name": "Bacampicillin",
+                                        "drugbank_id": "DB01602"
+                                    },
+                                    {
+                                        "name": "Benzylpenicilloyl polylysine",
+                                        "drugbank_id": "DB00895"
+                                    },
+                                    {
+                                        "name": "Cloxacillin",
+                                        "drugbank_id": "DB01147"
+                                    },
+                                    {
+                                        "name": "Temocillin",
+                                        "drugbank_id": "DB12343"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piperacillin and beta-lactamase inhibitor (J01CR05)",
+                                "atc_code": "J01CR05"
+                            },
+                            {
+                                "name": "Sultamicillin (J01CR04)",
+                                "atc_code": "J01CR04",
+                                "children": [
+                                    {
+                                        "name": "Sultamicillin",
+                                        "drugbank_id": "DB12127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ticarcillin and beta-lactamase inhibitor (J01CR03)",
+                                "atc_code": "J01CR03"
+                            },
+                            {
+                                "name": "Amoxicillin and beta-lactamase inhibitor (J01CR02)",
+                                "atc_code": "J01CR02"
+                            },
+                            {
+                                "name": "Ampicillin and beta-lactamase inhibitor (J01CR01)",
+                                "atc_code": "J01CR01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta-lactamase inhibitors (J01CG)",
+                        "atc_code": "J01CG",
+                        "children": [
+                            {
+                                "name": "Tazobactam (J01CG02)",
+                                "atc_code": "J01CG02",
+                                "children": [
+                                    {
+                                        "name": "Tazobactam",
+                                        "drugbank_id": "DB01606"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulbactam (J01CG01)",
+                                "atc_code": "J01CG01",
+                                "children": [
+                                    {
+                                        "name": "Sulbactam",
+                                        "drugbank_id": "DB09324"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta-lactamase resistant penicillins (J01CF)",
+                        "atc_code": "J01CF",
+                        "children": [
+                            {
+                                "name": "Nafcillin (J01CF06)",
+                                "atc_code": "J01CF06",
+                                "children": [
+                                    {
+                                        "name": "Nafcillin",
+                                        "drugbank_id": "DB00607"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flucloxacillin (J01CF05)",
+                                "atc_code": "J01CF05",
+                                "children": [
+                                    {
+                                        "name": "Flucloxacillin",
+                                        "drugbank_id": "DB00301"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxacillin (J01CF04)",
+                                "atc_code": "J01CF04",
+                                "children": [
+                                    {
+                                        "name": "Oxacillin",
+                                        "drugbank_id": "DB00713"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meticillin (J01CF03)",
+                                "atc_code": "J01CF03",
+                                "children": [
+                                    {
+                                        "name": "Meticillin",
+                                        "drugbank_id": "DB01603"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloxacillin (J01CF02)",
+                                "atc_code": "J01CF02",
+                                "children": [
+                                    {
+                                        "name": "Cloxacillin",
+                                        "drugbank_id": "DB01147"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dicloxacillin (J01CF01)",
+                                "atc_code": "J01CF01",
+                                "children": [
+                                    {
+                                        "name": "Dicloxacillin",
+                                        "drugbank_id": "DB00485"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beta-lactamase sensitive penicillins (J01CE)",
+                        "atc_code": "J01CE",
+                        "children": [
+                            {
+                                "name": "Combinations (J01CE30)",
+                                "atc_code": "J01CE30"
+                            },
+                            {
+                                "name": "Benzathine phenoxymethylpenicillin (J01CE10)",
+                                "atc_code": "J01CE10",
+                                "children": [
+                                    {
+                                        "name": "Phenoxymethylpenicillin",
+                                        "drugbank_id": "DB00417"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaine benzylpenicillin (J01CE09)",
+                                "atc_code": "J01CE09",
+                                "children": [
+                                    {
+                                        "name": "Procaine benzylpenicillin",
+                                        "drugbank_id": "DB09320"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzathine benzylpenicillin (J01CE08)",
+                                "atc_code": "J01CE08",
+                                "children": [
+                                    {
+                                        "name": "Benzylpenicillin",
+                                        "drugbank_id": "DB01053"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clometocillin (J01CE07)",
+                                "atc_code": "J01CE07",
+                                "children": [
+                                    {
+                                        "name": "Clometocillin",
+                                        "drugbank_id": "DB13686"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penamecillin (J01CE06)",
+                                "atc_code": "J01CE06",
+                                "children": [
+                                    {
+                                        "name": "Penamecillin",
+                                        "drugbank_id": "DB13739"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pheneticillin (J01CE05)",
+                                "atc_code": "J01CE05",
+                                "children": [
+                                    {
+                                        "name": "Pheneticillin",
+                                        "drugbank_id": "DB13337"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azidocillin (J01CE04)",
+                                "atc_code": "J01CE04",
+                                "children": [
+                                    {
+                                        "name": "Azidocillin",
+                                        "drugbank_id": "DB08795"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propicillin (J01CE03)",
+                                "atc_code": "J01CE03",
+                                "children": [
+                                    {
+                                        "name": "Propicillin",
+                                        "drugbank_id": "DB13660"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenoxymethylpenicillin (J01CE02)",
+                                "atc_code": "J01CE02",
+                                "children": [
+                                    {
+                                        "name": "Phenoxymethylpenicillin",
+                                        "drugbank_id": "DB00417"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzylpenicillin (J01CE01)",
+                                "atc_code": "J01CE01",
+                                "children": [
+                                    {
+                                        "name": "Benzylpenicillin",
+                                        "drugbank_id": "DB01053"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Penicillins with extended spectrum (J01CA)",
+                        "atc_code": "J01CA",
+                        "children": [
+                            {
+                                "name": "Ampicillin, combinations (J01CA51)",
+                                "atc_code": "J01CA51",
+                                "children": [
+                                    {
+                                        "name": "Ampicillin",
+                                        "drugbank_id": "DB00415"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (J01CA20)",
+                                "atc_code": "J01CA20"
+                            },
+                            {
+                                "name": "Aspoxicillin (J01CA19)",
+                                "atc_code": "J01CA19",
+                                "children": [
+                                    {
+                                        "name": "Aspoxicillin",
+                                        "drugbank_id": "DB13816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hetacillin (J01CA18)",
+                                "atc_code": "J01CA18",
+                                "children": [
+                                    {
+                                        "name": "Hetacillin",
+                                        "drugbank_id": "DB00739"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Temocillin (J01CA17)",
+                                "atc_code": "J01CA17",
+                                "children": [
+                                    {
+                                        "name": "Temocillin",
+                                        "drugbank_id": "DB12343"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulbenicillin (J01CA16)",
+                                "atc_code": "J01CA16",
+                                "children": [
+                                    {
+                                        "name": "Sulbenicillin",
+                                        "drugbank_id": "DB13693"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Talampicillin (J01CA15)",
+                                "atc_code": "J01CA15",
+                                "children": [
+                                    {
+                                        "name": "Talampicillin",
+                                        "drugbank_id": "DB13814"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metampicillin (J01CA14)",
+                                "atc_code": "J01CA14",
+                                "children": [
+                                    {
+                                        "name": "Metampicillin",
+                                        "drugbank_id": "DB13836"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ticarcillin (J01CA13)",
+                                "atc_code": "J01CA13",
+                                "children": [
+                                    {
+                                        "name": "Ticarcillin",
+                                        "drugbank_id": "DB01607"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piperacillin (J01CA12)",
+                                "atc_code": "J01CA12",
+                                "children": [
+                                    {
+                                        "name": "Piperacillin",
+                                        "drugbank_id": "DB00319"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mecillinam (J01CA11)",
+                                "atc_code": "J01CA11",
+                                "children": [
+                                    {
+                                        "name": "Amdinocillin",
+                                        "drugbank_id": "DB01163"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mezlocillin (J01CA10)",
+                                "atc_code": "J01CA10",
+                                "children": [
+                                    {
+                                        "name": "Mezlocillin",
+                                        "drugbank_id": "DB00948"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azlocillin (J01CA09)",
+                                "atc_code": "J01CA09",
+                                "children": [
+                                    {
+                                        "name": "Azlocillin",
+                                        "drugbank_id": "DB01061"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pivmecillinam (J01CA08)",
+                                "atc_code": "J01CA08",
+                                "children": [
+                                    {
+                                        "name": "Pivmecillinam",
+                                        "drugbank_id": "DB01605"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epicillin (J01CA07)",
+                                "atc_code": "J01CA07",
+                                "children": [
+                                    {
+                                        "name": "Epicillin",
+                                        "drugbank_id": "DB13300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bacampicillin (J01CA06)",
+                                "atc_code": "J01CA06",
+                                "children": [
+                                    {
+                                        "name": "Bacampicillin",
+                                        "drugbank_id": "DB01602"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carindacillin (J01CA05)",
+                                "atc_code": "J01CA05",
+                                "children": [
+                                    {
+                                        "name": "Carindacillin",
+                                        "drugbank_id": "DB09319"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amoxicillin (J01CA04)",
+                                "atc_code": "J01CA04",
+                                "children": [
+                                    {
+                                        "name": "Amoxicillin",
+                                        "drugbank_id": "DB01060"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbenicillin (J01CA03)",
+                                "atc_code": "J01CA03",
+                                "children": [
+                                    {
+                                        "name": "Carbenicillin",
+                                        "drugbank_id": "DB00578"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pivampicillin (J01CA02)",
+                                "atc_code": "J01CA02",
+                                "children": [
+                                    {
+                                        "name": "Pivampicillin",
+                                        "drugbank_id": "DB01604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ampicillin (J01CA01)",
+                                "atc_code": "J01CA01",
+                                "children": [
+                                    {
+                                        "name": "Ampicillin",
+                                        "drugbank_id": "DB00415"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Amphenicols (J01B)",
+                "atc_code": "J01B",
+                "children": [
+                    {
+                        "name": "Amphenicols (J01BA)",
+                        "atc_code": "J01BA",
+                        "children": [
+                            {
+                                "name": "Thiamphenicol, combinations (J01BA52)",
+                                "atc_code": "J01BA52",
+                                "children": [
+                                    {
+                                        "name": "Thiamphenicol",
+                                        "drugbank_id": "DB08621"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiamphenicol (J01BA02)",
+                                "atc_code": "J01BA02",
+                                "children": [
+                                    {
+                                        "name": "Thiamphenicol",
+                                        "drugbank_id": "DB08621"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloramphenicol (J01BA01)",
+                                "atc_code": "J01BA01",
+                                "children": [
+                                    {
+                                        "name": "Chloramphenicol",
+                                        "drugbank_id": "DB00446"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tetracyclines (J01A)",
+                "atc_code": "J01A",
+                "children": [
+                    {
+                        "name": "Tetracyclines (J01AA)",
+                        "atc_code": "J01AA",
+                        "children": [
+                            {
+                                "name": "Omadacycline (J01AA15)",
+                                "atc_code": "J01AA15",
+                                "children": [
+                                    {
+                                        "name": "Omadacycline",
+                                        "drugbank_id": "DB12455"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sarecycline (J01AA14)",
+                                "atc_code": "J01AA14",
+                                "children": [
+                                    {
+                                        "name": "Sarecycline",
+                                        "drugbank_id": "DB12035"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eravacycline (J01AA13)",
+                                "atc_code": "J01AA13",
+                                "children": [
+                                    {
+                                        "name": "Eravacycline",
+                                        "drugbank_id": "DB12329"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytetracycline, combinations (J01AA56)",
+                                "atc_code": "J01AA56",
+                                "children": [
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations of tetracyclines (J01AA20)",
+                                "atc_code": "J01AA20",
+                                "children": [
+                                    {
+                                        "name": "Rolitetracycline",
+                                        "drugbank_id": "DB01301"
+                                    },
+                                    {
+                                        "name": "Metacycline",
+                                        "drugbank_id": "DB00931"
+                                    },
+                                    {
+                                        "name": "Omadacycline",
+                                        "drugbank_id": "DB12455"
+                                    },
+                                    {
+                                        "name": "Lymecycline",
+                                        "drugbank_id": "DB00256"
+                                    },
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    },
+                                    {
+                                        "name": "Demeclocycline",
+                                        "drugbank_id": "DB00618"
+                                    },
+                                    {
+                                        "name": "Eravacycline",
+                                        "drugbank_id": "DB12329"
+                                    },
+                                    {
+                                        "name": "Doxycycline",
+                                        "drugbank_id": "DB00254"
+                                    },
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    },
+                                    {
+                                        "name": "Tigecycline",
+                                        "drugbank_id": "DB00560"
+                                    },
+                                    {
+                                        "name": "Chlortetracycline",
+                                        "drugbank_id": "DB09093"
+                                    },
+                                    {
+                                        "name": "Sarecycline",
+                                        "drugbank_id": "DB12035"
+                                    },
+                                    {
+                                        "name": "Minocycline",
+                                        "drugbank_id": "DB01017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tigecycline (J01AA12)",
+                                "atc_code": "J01AA12",
+                                "children": [
+                                    {
+                                        "name": "Tigecycline",
+                                        "drugbank_id": "DB00560"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clomocycline (J01AA11)",
+                                "atc_code": "J01AA11",
+                                "children": [
+                                    {
+                                        "name": "Clomocycline",
+                                        "drugbank_id": "DB00453"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penimepicycline (J01AA10)",
+                                "atc_code": "J01AA10",
+                                "children": [
+                                    {
+                                        "name": "Penimepicycline",
+                                        "drugbank_id": "DB13264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rolitetracycline (J01AA09)",
+                                "atc_code": "J01AA09",
+                                "children": [
+                                    {
+                                        "name": "Rolitetracycline",
+                                        "drugbank_id": "DB01301"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Minocycline (J01AA08)",
+                                "atc_code": "J01AA08",
+                                "children": [
+                                    {
+                                        "name": "Minocycline",
+                                        "drugbank_id": "DB01017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracycline (J01AA07)",
+                                "atc_code": "J01AA07",
+                                "children": [
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytetracycline (J01AA06)",
+                                "atc_code": "J01AA06",
+                                "children": [
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metacycline (J01AA05)",
+                                "atc_code": "J01AA05",
+                                "children": [
+                                    {
+                                        "name": "Metacycline",
+                                        "drugbank_id": "DB00931"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lymecycline (J01AA04)",
+                                "atc_code": "J01AA04",
+                                "children": [
+                                    {
+                                        "name": "Lymecycline",
+                                        "drugbank_id": "DB00256"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortetracycline (J01AA03)",
+                                "atc_code": "J01AA03",
+                                "children": [
+                                    {
+                                        "name": "Chlortetracycline",
+                                        "drugbank_id": "DB09093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxycycline (J01AA02)",
+                                "atc_code": "J01AA02",
+                                "children": [
+                                    {
+                                        "name": "Doxycycline",
+                                        "drugbank_id": "DB00254"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Demeclocycline (J01AA01)",
+                                "atc_code": "J01AA01",
+                                "children": [
+                                    {
+                                        "name": "Demeclocycline",
+                                        "drugbank_id": "DB00618"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,894 @@
+[
+    {
+        "name": "Antihistamines for systemic use (R06)",
+        "atc_code": "R06",
+        "children": [
+            {
+                "name": "Antihistamines for systemic use (R06A)",
+                "atc_code": "R06A",
+                "children": [
+                    {
+                        "name": "Other antihistamines for systemic use (R06AX)",
+                        "atc_code": "R06AX",
+                        "children": [
+                            {
+                                "name": "Pyrrobutamine, combinations (R06AX58)",
+                                "atc_code": "R06AX58",
+                                "children": [
+                                    {
+                                        "name": "Pyrrobutamine",
+                                        "drugbank_id": "DB13846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thenalidine, combinations (R06AX53)",
+                                "atc_code": "R06AX53",
+                                "children": [
+                                    {
+                                        "name": "Thenalidine",
+                                        "drugbank_id": "DB04826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sequifenadine (R06AX32)",
+                                "atc_code": "R06AX32",
+                                "children": [
+                                    {
+                                        "name": "Sequifenadine",
+                                        "drugbank_id": "DB13566"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quifenadine (R06AX31)",
+                                "atc_code": "R06AX31",
+                                "children": [
+                                    {
+                                        "name": "Quifenadine",
+                                        "drugbank_id": "DB13713"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bilastine (R06AX29)",
+                                "atc_code": "R06AX29",
+                                "children": [
+                                    {
+                                        "name": "Bilastine",
+                                        "drugbank_id": "DB11591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rupatadine (R06AX28)",
+                                "atc_code": "R06AX28",
+                                "children": [
+                                    {
+                                        "name": "Rupatadine",
+                                        "drugbank_id": "DB11614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desloratadine (R06AX27)",
+                                "atc_code": "R06AX27",
+                                "children": [
+                                    {
+                                        "name": "Desloratadine",
+                                        "drugbank_id": "DB00967"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fexofenadine (R06AX26)",
+                                "atc_code": "R06AX26",
+                                "children": [
+                                    {
+                                        "name": "Fexofenadine",
+                                        "drugbank_id": "DB00950"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mizolastine (R06AX25)",
+                                "atc_code": "R06AX25",
+                                "children": [
+                                    {
+                                        "name": "Mizolastine",
+                                        "drugbank_id": "DB12523"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epinastine (R06AX24)",
+                                "atc_code": "R06AX24",
+                                "children": [
+                                    {
+                                        "name": "Epinastine",
+                                        "drugbank_id": "DB00751"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pimethixene (R06AX23)",
+                                "atc_code": "R06AX23",
+                                "children": [
+                                    {
+                                        "name": "Pimethixene",
+                                        "drugbank_id": "DB13292"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ebastine (R06AX22)",
+                                "atc_code": "R06AX22",
+                                "children": [
+                                    {
+                                        "name": "Ebastine",
+                                        "drugbank_id": "DB11742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tritoqualine (R06AX21)",
+                                "atc_code": "R06AX21",
+                                "children": [
+                                    {
+                                        "name": "Tritoqualine",
+                                        "drugbank_id": "DB13711"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azelastine (R06AX19)",
+                                "atc_code": "R06AX19",
+                                "children": [
+                                    {
+                                        "name": "Azelastine",
+                                        "drugbank_id": "DB00972"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acrivastine (R06AX18)",
+                                "atc_code": "R06AX18",
+                                "children": [
+                                    {
+                                        "name": "Acrivastine",
+                                        "drugbank_id": "DB09488"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketotifen (R06AX17)",
+                                "atc_code": "R06AX17",
+                                "children": [
+                                    {
+                                        "name": "Ketotifen",
+                                        "drugbank_id": "DB00920"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deptropine (R06AX16)",
+                                "atc_code": "R06AX16",
+                                "children": [
+                                    {
+                                        "name": "Deptropine",
+                                        "drugbank_id": "DB13466"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mebhydrolin (R06AX15)",
+                                "atc_code": "R06AX15",
+                                "children": [
+                                    {
+                                        "name": "Mebhydrolin",
+                                        "drugbank_id": "DB13808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loratadine (R06AX13)",
+                                "atc_code": "R06AX13",
+                                "children": [
+                                    {
+                                        "name": "Loratadine",
+                                        "drugbank_id": "DB00455"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terfenadine (R06AX12)",
+                                "atc_code": "R06AX12",
+                                "children": [
+                                    {
+                                        "name": "Terfenadine",
+                                        "drugbank_id": "DB00342"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Astemizole (R06AX11)",
+                                "atc_code": "R06AX11",
+                                "children": [
+                                    {
+                                        "name": "Astemizole",
+                                        "drugbank_id": "DB00637"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azatadine (R06AX09)",
+                                "atc_code": "R06AX09",
+                                "children": [
+                                    {
+                                        "name": "Azatadine",
+                                        "drugbank_id": "DB00719"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrrobutamine (R06AX08)",
+                                "atc_code": "R06AX08",
+                                "children": [
+                                    {
+                                        "name": "Pyrrobutamine",
+                                        "drugbank_id": "DB13846"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triprolidine (R06AX07)",
+                                "atc_code": "R06AX07",
+                                "children": [
+                                    {
+                                        "name": "Triprolidine",
+                                        "drugbank_id": "DB00427"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antazoline (R06AX05)",
+                                "atc_code": "R06AX05",
+                                "children": [
+                                    {
+                                        "name": "Antazoline",
+                                        "drugbank_id": "DB08799"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenindamine (R06AX04)",
+                                "atc_code": "R06AX04",
+                                "children": [
+                                    {
+                                        "name": "Phenindamine",
+                                        "drugbank_id": "DB01619"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thenalidine (R06AX03)",
+                                "atc_code": "R06AX03",
+                                "children": [
+                                    {
+                                        "name": "Thenalidine",
+                                        "drugbank_id": "DB04826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyproheptadine (R06AX02)",
+                                "atc_code": "R06AX02",
+                                "children": [
+                                    {
+                                        "name": "Cyproheptadine",
+                                        "drugbank_id": "DB00434"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bamipine (R06AX01)",
+                                "atc_code": "R06AX01",
+                                "children": [
+                                    {
+                                        "name": "Bamipine",
+                                        "drugbank_id": "DB13489"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combinations of antihistamines (R06AK)",
+                        "atc_code": "R06AK"
+                    },
+                    {
+                        "name": "Piperazine derivatives (R06AE)",
+                        "atc_code": "R06AE",
+                        "children": [
+                            {
+                                "name": "Meclozine, combinations (R06AE55)",
+                                "atc_code": "R06AE55",
+                                "children": [
+                                    {
+                                        "name": "Meclizine",
+                                        "drugbank_id": "DB00737"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclizine, combinations (R06AE53)",
+                                "atc_code": "R06AE53",
+                                "children": [
+                                    {
+                                        "name": "Cyclizine",
+                                        "drugbank_id": "DB01176"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buclizine, combinations (R06AE51)",
+                                "atc_code": "R06AE51",
+                                "children": [
+                                    {
+                                        "name": "Buclizine",
+                                        "drugbank_id": "DB00354"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levocetirizine (R06AE09)",
+                                "atc_code": "R06AE09",
+                                "children": [
+                                    {
+                                        "name": "Levocetirizine",
+                                        "drugbank_id": "DB06282"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetirizine (R06AE07)",
+                                "atc_code": "R06AE07",
+                                "children": [
+                                    {
+                                        "name": "Cetirizine",
+                                        "drugbank_id": "DB00341"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxatomide (R06AE06)",
+                                "atc_code": "R06AE06",
+                                "children": [
+                                    {
+                                        "name": "Oxatomide",
+                                        "drugbank_id": "DB12877"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meclozine (R06AE05)",
+                                "atc_code": "R06AE05",
+                                "children": [
+                                    {
+                                        "name": "Meclizine",
+                                        "drugbank_id": "DB00737"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorcyclizine (R06AE04)",
+                                "atc_code": "R06AE04",
+                                "children": [
+                                    {
+                                        "name": "Chlorcyclizine",
+                                        "drugbank_id": "DB08936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclizine (R06AE03)",
+                                "atc_code": "R06AE03",
+                                "children": [
+                                    {
+                                        "name": "Cyclizine",
+                                        "drugbank_id": "DB01176"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buclizine (R06AE01)",
+                                "atc_code": "R06AE01",
+                                "children": [
+                                    {
+                                        "name": "Buclizine",
+                                        "drugbank_id": "DB00354"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenothiazine derivatives (R06AD)",
+                        "atc_code": "R06AD",
+                        "children": [
+                            {
+                                "name": "Hydroxyethylpromethazine, combinations (R06AD55)",
+                                "atc_code": "R06AD55",
+                                "children": [
+                                    {
+                                        "name": "Hydroxyethylpromethazine",
+                                        "drugbank_id": "DB13840"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Promethazine, combinations (R06AD52)",
+                                "atc_code": "R06AD52",
+                                "children": [
+                                    {
+                                        "name": "Promethazine",
+                                        "drugbank_id": "DB01069"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isothipendyl (R06AD09)",
+                                "atc_code": "R06AD09",
+                                "children": [
+                                    {
+                                        "name": "Isothipendyl",
+                                        "drugbank_id": "DB08802"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxomemazine (R06AD08)",
+                                "atc_code": "R06AD08",
+                                "children": [
+                                    {
+                                        "name": "Oxomemazine",
+                                        "drugbank_id": "DB13820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mequitazine (R06AD07)",
+                                "atc_code": "R06AD07",
+                                "children": [
+                                    {
+                                        "name": "Mequitazine",
+                                        "drugbank_id": "DB01071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiazinam (R06AD06)",
+                                "atc_code": "R06AD06",
+                                "children": [
+                                    {
+                                        "name": "Thiazinam",
+                                        "drugbank_id": "DB13420"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroxyethylpromethazine (R06AD05)",
+                                "atc_code": "R06AD05",
+                                "children": [
+                                    {
+                                        "name": "Hydroxyethylpromethazine",
+                                        "drugbank_id": "DB13840"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methdilazine (R06AD04)",
+                                "atc_code": "R06AD04",
+                                "children": [
+                                    {
+                                        "name": "Methdilazine",
+                                        "drugbank_id": "DB00902"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thiethylperazine (R06AD03)",
+                                "atc_code": "R06AD03",
+                                "children": [
+                                    {
+                                        "name": "Thiethylperazine",
+                                        "drugbank_id": "DB00372"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Promethazine (R06AD02)",
+                                "atc_code": "R06AD02",
+                                "children": [
+                                    {
+                                        "name": "Promethazine",
+                                        "drugbank_id": "DB01069"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alimemazine (R06AD01)",
+                                "atc_code": "R06AD01",
+                                "children": [
+                                    {
+                                        "name": "Alimemazine",
+                                        "drugbank_id": "DB01246"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Substituted ethylene diamines (R06AC)",
+                        "atc_code": "R06AC",
+                        "children": [
+                            {
+                                "name": "Chloropyramine, combinations (R06AC53)",
+                                "atc_code": "R06AC53",
+                                "children": [
+                                    {
+                                        "name": "Chloropyramine",
+                                        "drugbank_id": "DB08800"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Histapyrrodine, combinations (R06AC52)",
+                                "atc_code": "R06AC52",
+                                "children": [
+                                    {
+                                        "name": "Histapyrrodine",
+                                        "drugbank_id": "DB13479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thonzylamine (R06AC06)",
+                                "atc_code": "R06AC06",
+                                "children": [
+                                    {
+                                        "name": "Thonzylamine",
+                                        "drugbank_id": "DB11235"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methapyrilene (R06AC05)",
+                                "atc_code": "R06AC05",
+                                "children": [
+                                    {
+                                        "name": "Methapyrilene",
+                                        "drugbank_id": "DB04819"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tripelennamine (R06AC04)",
+                                "atc_code": "R06AC04",
+                                "children": [
+                                    {
+                                        "name": "Tripelennamine",
+                                        "drugbank_id": "DB00792"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloropyramine (R06AC03)",
+                                "atc_code": "R06AC03",
+                                "children": [
+                                    {
+                                        "name": "Chloropyramine",
+                                        "drugbank_id": "DB08800"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Histapyrrodine (R06AC02)",
+                                "atc_code": "R06AC02",
+                                "children": [
+                                    {
+                                        "name": "Histapyrrodine",
+                                        "drugbank_id": "DB13479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepyramine (R06AC01)",
+                                "atc_code": "R06AC01",
+                                "children": [
+                                    {
+                                        "name": "Mepyramine",
+                                        "drugbank_id": "DB06691"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Substituted alkylamines (R06AB)",
+                        "atc_code": "R06AB",
+                        "children": [
+                            {
+                                "name": "Dexbrompheniramine, combinations (R06AB56)",
+                                "atc_code": "R06AB56",
+                                "children": [
+                                    {
+                                        "name": "Dexbrompheniramine",
+                                        "drugbank_id": "DB00405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorphenamine, combinations (R06AB54)",
+                                "atc_code": "R06AB54",
+                                "children": [
+                                    {
+                                        "name": "Chlorpheniramine",
+                                        "drugbank_id": "DB01114"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexchlorpheniramine, combinations (R06AB52)",
+                                "atc_code": "R06AB52",
+                                "children": [
+                                    {
+                                        "name": "Dexchlorpheniramine",
+                                        "drugbank_id": "DB13679"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brompheniramine, combinations (R06AB51)",
+                                "atc_code": "R06AB51",
+                                "children": [
+                                    {
+                                        "name": "Brompheniramine",
+                                        "drugbank_id": "DB00835"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Talastine (R06AB07)",
+                                "atc_code": "R06AB07",
+                                "children": [
+                                    {
+                                        "name": "Talastine",
+                                        "drugbank_id": "DB13349"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexbrompheniramine (R06AB06)",
+                                "atc_code": "R06AB06",
+                                "children": [
+                                    {
+                                        "name": "Dexbrompheniramine",
+                                        "drugbank_id": "DB00405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pheniramine (R06AB05)",
+                                "atc_code": "R06AB05",
+                                "children": [
+                                    {
+                                        "name": "Pheniramine",
+                                        "drugbank_id": "DB01620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorphenamine (R06AB04)",
+                                "atc_code": "R06AB04",
+                                "children": [
+                                    {
+                                        "name": "Chlorpheniramine",
+                                        "drugbank_id": "DB01114"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimetindene (R06AB03)",
+                                "atc_code": "R06AB03",
+                                "children": [
+                                    {
+                                        "name": "Dimetindene",
+                                        "drugbank_id": "DB08801"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexchlorpheniramine (R06AB02)",
+                                "atc_code": "R06AB02",
+                                "children": [
+                                    {
+                                        "name": "Dexchlorpheniramine",
+                                        "drugbank_id": "DB13679"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brompheniramine (R06AB01)",
+                                "atc_code": "R06AB01",
+                                "children": [
+                                    {
+                                        "name": "Brompheniramine",
+                                        "drugbank_id": "DB00835"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aminoalkyl ethers (R06AA)",
+                        "atc_code": "R06AA",
+                        "children": [
+                            {
+                                "name": "Dimenhydrinate, combinations (R06AA61)",
+                                "atc_code": "R06AA61",
+                                "children": [
+                                    {
+                                        "name": "Dimenhydrinate",
+                                        "drugbank_id": "DB00985"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimenhydrinate (R06AA11)",
+                                "atc_code": "R06AA11",
+                                "children": [
+                                    {
+                                        "name": "Dimenhydrinate",
+                                        "drugbank_id": "DB00985"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxylamine, combinations (R06AA59)",
+                                "atc_code": "R06AA59",
+                                "children": [
+                                    {
+                                        "name": "Doxylamine",
+                                        "drugbank_id": "DB00366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenylpyraline, combinations (R06AA57)",
+                                "atc_code": "R06AA57",
+                                "children": [
+                                    {
+                                        "name": "Diphenylpyraline",
+                                        "drugbank_id": "DB01146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorphenoxamine, combinations (R06AA56)",
+                                "atc_code": "R06AA56",
+                                "children": [
+                                    {
+                                        "name": "Chlorphenoxamine",
+                                        "drugbank_id": "DB09007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clemastine, combinations (R06AA54)",
+                                "atc_code": "R06AA54",
+                                "children": [
+                                    {
+                                        "name": "Clemastine",
+                                        "drugbank_id": "DB00283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenhydramine, combinations (R06AA52)",
+                                "atc_code": "R06AA52",
+                                "children": [
+                                    {
+                                        "name": "Diphenhydramine",
+                                        "drugbank_id": "DB01075"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimethobenzamide (R06AA10)",
+                                "atc_code": "R06AA10",
+                                "children": [
+                                    {
+                                        "name": "Trimethobenzamide",
+                                        "drugbank_id": "DB00662"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxylamine (R06AA09)",
+                                "atc_code": "R06AA09",
+                                "children": [
+                                    {
+                                        "name": "Doxylamine",
+                                        "drugbank_id": "DB00366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbinoxamine (R06AA08)",
+                                "atc_code": "R06AA08",
+                                "children": [
+                                    {
+                                        "name": "Carbinoxamine",
+                                        "drugbank_id": "DB00748"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenylpyraline (R06AA07)",
+                                "atc_code": "R06AA07",
+                                "children": [
+                                    {
+                                        "name": "Diphenylpyraline",
+                                        "drugbank_id": "DB01146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorphenoxamine (R06AA06)",
+                                "atc_code": "R06AA06",
+                                "children": [
+                                    {
+                                        "name": "Chlorphenoxamine",
+                                        "drugbank_id": "DB09007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clemastine (R06AA04)",
+                                "atc_code": "R06AA04",
+                                "children": [
+                                    {
+                                        "name": "Clemastine",
+                                        "drugbank_id": "DB00283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenhydramine (R06AA02)",
+                                "atc_code": "R06AA02",
+                                "children": [
+                                    {
+                                        "name": "Diphenhydramine",
+                                        "drugbank_id": "DB01075"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromazine (R06AA01)",
+                                "atc_code": "R06AA01",
+                                "children": [
+                                    {
+                                        "name": "Bromodiphenhydramine",
+                                        "drugbank_id": "DB01237"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

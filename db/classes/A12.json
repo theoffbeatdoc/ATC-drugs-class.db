@@ -1,0 +1,448 @@
+[
+    {
+        "name": "Mineral supplements (A12)",
+        "atc_code": "A12",
+        "children": [
+            {
+                "name": "Other mineral supplements (A12C)",
+                "atc_code": "A12C",
+                "children": [
+                    {
+                        "name": "Other mineral products (A12CX)",
+                        "atc_code": "A12CX"
+                    },
+                    {
+                        "name": "Selenium (A12CE)",
+                        "atc_code": "A12CE",
+                        "children": [
+                            {
+                                "name": "Sodium selenite (A12CE02)",
+                                "atc_code": "A12CE02",
+                                "children": [
+                                    {
+                                        "name": "Selenious acid",
+                                        "drugbank_id": "DB11127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium selenate (A12CE01)",
+                                "atc_code": "A12CE01",
+                                "children": [
+                                    {
+                                        "name": "Selenic acid",
+                                        "drugbank_id": "DB11068"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fluoride (A12CD)",
+                        "atc_code": "A12CD",
+                        "children": [
+                            {
+                                "name": "Fluoride, combinations (A12CD51)",
+                                "atc_code": "A12CD51"
+                            },
+                            {
+                                "name": "Sodium monofluorophosphate (A12CD02)",
+                                "atc_code": "A12CD02",
+                                "children": [
+                                    {
+                                        "name": "Sodium fluorophosphate",
+                                        "drugbank_id": "DB09484"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium fluoride (A12CD01)",
+                                "atc_code": "A12CD01",
+                                "children": [
+                                    {
+                                        "name": "Sodium fluoride",
+                                        "drugbank_id": "DB09325"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magnesium (A12CC)",
+                        "atc_code": "A12CC",
+                        "children": [
+                            {
+                                "name": "Magnesium (different salts in combination) (A12CC30)",
+                                "atc_code": "A12CC30"
+                            },
+                            {
+                                "name": "Magnesium oxide (A12CC10)",
+                                "atc_code": "A12CC10",
+                                "children": [
+                                    {
+                                        "name": "Magnesium oxide",
+                                        "drugbank_id": "DB01377"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium orotate (A12CC09)",
+                                "atc_code": "A12CC09",
+                                "children": [
+                                    {
+                                        "name": "Magnesium orotate",
+                                        "drugbank_id": "DB13786"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium pidolate (A12CC08)",
+                                "atc_code": "A12CC08",
+                                "children": [
+                                    {
+                                        "name": "Pidolic acid",
+                                        "drugbank_id": "DB03088"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium levulinate (A12CC07)",
+                                "atc_code": "A12CC07",
+                                "children": [
+                                    {
+                                        "name": "Magnesium levulinate",
+                                        "drugbank_id": "DB14514"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium lactate (A12CC06)",
+                                "atc_code": "A12CC06",
+                                "children": [
+                                    {
+                                        "name": "Magnesium lactate",
+                                        "drugbank_id": "DB14515"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium aspartate (A12CC05)",
+                                "atc_code": "A12CC05",
+                                "children": [
+                                    {
+                                        "name": "Magnesium aspartate",
+                                        "drugbank_id": "DB13359"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium citrate (A12CC04)",
+                                "atc_code": "A12CC04",
+                                "children": [
+                                    {
+                                        "name": "Magnesium citrate",
+                                        "drugbank_id": "DB11110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium gluconate (A12CC03)",
+                                "atc_code": "A12CC03",
+                                "children": [
+                                    {
+                                        "name": "Magnesium gluconate",
+                                        "drugbank_id": "DB13749"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium sulfate (A12CC02)",
+                                "atc_code": "A12CC02",
+                                "children": [
+                                    {
+                                        "name": "Magnesium sulfate",
+                                        "drugbank_id": "DB00653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium chloride (A12CC01)",
+                                "atc_code": "A12CC01",
+                                "children": [
+                                    {
+                                        "name": "Magnesium chloride",
+                                        "drugbank_id": "DB09407"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Zinc (A12CB)",
+                        "atc_code": "A12CB",
+                        "children": [
+                            {
+                                "name": "Zinc protein complex (A12CB03)",
+                                "atc_code": "A12CB03"
+                            },
+                            {
+                                "name": "Zinc gluconate (A12CB02)",
+                                "atc_code": "A12CB02",
+                                "children": [
+                                    {
+                                        "name": "Zinc gluconate",
+                                        "drugbank_id": "DB11248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zinc sulfate (A12CB01)",
+                                "atc_code": "A12CB01",
+                                "children": [
+                                    {
+                                        "name": "Zinc sulfate",
+                                        "drugbank_id": "DB09322"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sodium (A12CA)",
+                        "atc_code": "A12CA",
+                        "children": [
+                            {
+                                "name": "Sodium sulfate (A12CA02)",
+                                "atc_code": "A12CA02",
+                                "children": [
+                                    {
+                                        "name": "Sodium sulfate",
+                                        "drugbank_id": "DB09472"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium chloride (A12CA01)",
+                                "atc_code": "A12CA01",
+                                "children": [
+                                    {
+                                        "name": "Sodium chloride",
+                                        "drugbank_id": "DB09153"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Potassium (A12B)",
+                "atc_code": "A12B",
+                "children": [
+                    {
+                        "name": "Potassium (A12BA)",
+                        "atc_code": "A12BA",
+                        "children": [
+                            {
+                                "name": "Potassium, combinations (A12BA51)",
+                                "atc_code": "A12BA51",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium (different salts in combination) (A12BA30)",
+                                "atc_code": "A12BA30"
+                            },
+                            {
+                                "name": "Potassium gluconate (A12BA05)",
+                                "atc_code": "A12BA05",
+                                "children": [
+                                    {
+                                        "name": "Potassium gluconate",
+                                        "drugbank_id": "DB13620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium hydrogencarbonate (A12BA04)",
+                                "atc_code": "A12BA04",
+                                "children": [
+                                    {
+                                        "name": "Potassium bicarbonate",
+                                        "drugbank_id": "DB11098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium hydrogentartrate (A12BA03)",
+                                "atc_code": "A12BA03"
+                            },
+                            {
+                                "name": "Potassium citrate (A12BA02)",
+                                "atc_code": "A12BA02",
+                                "children": [
+                                    {
+                                        "name": "Potassium citrate",
+                                        "drugbank_id": "DB09125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium chloride (A12BA01)",
+                                "atc_code": "A12BA01",
+                                "children": [
+                                    {
+                                        "name": "Potassium chloride",
+                                        "drugbank_id": "DB00761"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Calcium (A12A)",
+                "atc_code": "A12A",
+                "children": [
+                    {
+                        "name": "Calcium, combinations with vitamin d and/or other drugs (A12AX)",
+                        "atc_code": "A12AX"
+                    },
+                    {
+                        "name": "Calcium (A12AA)",
+                        "atc_code": "A12AA",
+                        "children": [
+                            {
+                                "name": "Calcium laevulate (A12AA30)",
+                                "atc_code": "A12AA30",
+                                "children": [
+                                    {
+                                        "name": "Calcium levulinate",
+                                        "drugbank_id": "DB13800"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium (different salts in combination) (A12AA20)",
+                                "atc_code": "A12AA20"
+                            },
+                            {
+                                "name": "Calcium citrate (A12AA13)",
+                                "atc_code": "A12AA13",
+                                "children": [
+                                    {
+                                        "name": "Calcium citrate",
+                                        "drugbank_id": "DB11093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium pangamate (A12AA11)",
+                                "atc_code": "A12AA11",
+                                "children": [
+                                    {
+                                        "name": "Calcium pangamate",
+                                        "drugbank_id": "DB13590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium glucoheptonate (A12AA10)",
+                                "atc_code": "A12AA10",
+                                "children": [
+                                    {
+                                        "name": "Calcium glucoheptonate",
+                                        "drugbank_id": "DB00326"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium citrate lysine complex (A12AA09)",
+                                "atc_code": "A12AA09"
+                            },
+                            {
+                                "name": "Calcium glycerylphosphate (A12AA08)",
+                                "atc_code": "A12AA08"
+                            },
+                            {
+                                "name": "Calcium chloride (A12AA07)",
+                                "atc_code": "A12AA07",
+                                "children": [
+                                    {
+                                        "name": "Calcium chloride",
+                                        "drugbank_id": "DB01164"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium lactate gluconate (A12AA06)",
+                                "atc_code": "A12AA06",
+                                "children": [
+                                    {
+                                        "name": "Calcium lactate gluconate",
+                                        "drugbank_id": "DB13365"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium lactate (A12AA05)",
+                                "atc_code": "A12AA05",
+                                "children": [
+                                    {
+                                        "name": "Calcium lactate",
+                                        "drugbank_id": "DB13231"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium carbonate (A12AA04)",
+                                "atc_code": "A12AA04",
+                                "children": [
+                                    {
+                                        "name": "Calcium carbonate",
+                                        "drugbank_id": "DB06724"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium gluconate (A12AA03)",
+                                "atc_code": "A12AA03",
+                                "children": [
+                                    {
+                                        "name": "Calcium gluconate",
+                                        "drugbank_id": "DB11126"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium glubionate (A12AA02)",
+                                "atc_code": "A12AA02",
+                                "children": [
+                                    {
+                                        "name": "Calcium glubionate anhydrous",
+                                        "drugbank_id": "DB13142"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium phosphate (A12AA01)",
+                                "atc_code": "A12AA01",
+                                "children": [
+                                    {
+                                        "name": "Calcium Phosphate",
+                                        "drugbank_id": "DB11348"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

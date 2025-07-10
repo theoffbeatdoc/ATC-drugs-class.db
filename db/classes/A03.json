@@ -1,0 +1,1082 @@
+[
+    {
+        "name": "Drugs for functional gastrointestinal disorders (A03)",
+        "atc_code": "A03",
+        "children": [
+            {
+                "name": "Propulsives (A03F)",
+                "atc_code": "A03F",
+                "children": [
+                    {
+                        "name": "Propulsives (A03FA)",
+                        "atc_code": "A03FA",
+                        "children": [
+                            {
+                                "name": "Acotiamide (A03FA10)",
+                                "atc_code": "A03FA10",
+                                "children": [
+                                    {
+                                        "name": "Acotiamide",
+                                        "drugbank_id": "DB12482"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mosapride (A03FA09)",
+                                "atc_code": "A03FA09",
+                                "children": [
+                                    {
+                                        "name": "Mosapride",
+                                        "drugbank_id": "DB11675"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinitapride (A03FA08)",
+                                "atc_code": "A03FA08",
+                                "children": [
+                                    {
+                                        "name": "Cinitapride",
+                                        "drugbank_id": "DB08810"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Itopride (A03FA07)",
+                                "atc_code": "A03FA07",
+                                "children": [
+                                    {
+                                        "name": "Itopride",
+                                        "drugbank_id": "DB04924"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clebopride (A03FA06)",
+                                "atc_code": "A03FA06",
+                                "children": [
+                                    {
+                                        "name": "Clebopride",
+                                        "drugbank_id": "DB13511"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alizapride (A03FA05)",
+                                "atc_code": "A03FA05",
+                                "children": [
+                                    {
+                                        "name": "Alizapride",
+                                        "drugbank_id": "DB01425"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromopride (A03FA04)",
+                                "atc_code": "A03FA04",
+                                "children": [
+                                    {
+                                        "name": "Bromopride",
+                                        "drugbank_id": "DB09018"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Domperidone (A03FA03)",
+                                "atc_code": "A03FA03",
+                                "children": [
+                                    {
+                                        "name": "Domperidone",
+                                        "drugbank_id": "DB01184"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cisapride (A03FA02)",
+                                "atc_code": "A03FA02",
+                                "children": [
+                                    {
+                                        "name": "Cisapride",
+                                        "drugbank_id": "DB00604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metoclopramide (A03FA01)",
+                                "atc_code": "A03FA01",
+                                "children": [
+                                    {
+                                        "name": "Metoclopramide",
+                                        "drugbank_id": "DB01233"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antispasmodics and anticholinergics in combination with other drugs (A03E)",
+                "atc_code": "A03E",
+                "children": [
+                    {
+                        "name": "Antispasmodics in combination with other drugs (A03ED)",
+                        "atc_code": "A03ED"
+                    },
+                    {
+                        "name": "Antispasmodics, psycholeptics and analgesics in combination (A03EA)",
+                        "atc_code": "A03EA"
+                    }
+                ]
+            },
+            {
+                "name": "Antispasmodics in combination with analgesics (A03D)",
+                "atc_code": "A03D",
+                "children": [
+                    {
+                        "name": "Other antispasmodics in combination with analgesics (A03DC)",
+                        "atc_code": "A03DC"
+                    },
+                    {
+                        "name": "Belladonna and derivatives in combination with analgesics (A03DB)",
+                        "atc_code": "A03DB",
+                        "children": [
+                            {
+                                "name": "Butylscopolamine and analgesics (A03DB04)",
+                                "atc_code": "A03DB04",
+                                "children": [
+                                    {
+                                        "name": "Butylscopolamine",
+                                        "drugbank_id": "DB09300"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthetic anticholinergic agents in combination with analgesics (A03DA)",
+                        "atc_code": "A03DA",
+                        "children": [
+                            {
+                                "name": "Tiemonium iodide and analgesics (A03DA07)",
+                                "atc_code": "A03DA07",
+                                "children": [
+                                    {
+                                        "name": "Tiemonium iodide",
+                                        "drugbank_id": "DB13666"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trospium and analgesics (A03DA06)",
+                                "atc_code": "A03DA06",
+                                "children": [
+                                    {
+                                        "name": "Trospium",
+                                        "drugbank_id": "DB00209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camylofin and analgesics (A03DA05)",
+                                "atc_code": "A03DA05",
+                                "children": [
+                                    {
+                                        "name": "Camylofin",
+                                        "drugbank_id": "DB13738"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclonium and analgesics (A03DA04)",
+                                "atc_code": "A03DA04"
+                            },
+                            {
+                                "name": "Bevonium and analgesics (A03DA03)",
+                                "atc_code": "A03DA03",
+                                "children": [
+                                    {
+                                        "name": "Bevonium",
+                                        "drugbank_id": "DB13542"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pitofenone and analgesics (A03DA02)",
+                                "atc_code": "A03DA02",
+                                "children": [
+                                    {
+                                        "name": "Pitofenone",
+                                        "drugbank_id": "DB15947"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tropenzilone and analgesics (A03DA01)",
+                                "atc_code": "A03DA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antispasmodics in combination with psycholeptics (A03C)",
+                "atc_code": "A03C",
+                "children": [
+                    {
+                        "name": "Other antispasmodics in combination with psycholeptics (A03CC)",
+                        "atc_code": "A03CC"
+                    },
+                    {
+                        "name": "Belladonna and derivatives in combination with psycholeptics (A03CB)",
+                        "atc_code": "A03CB",
+                        "children": [
+                            {
+                                "name": "Hyoscyamine and psycholeptics (A03CB31)",
+                                "atc_code": "A03CB31",
+                                "children": [
+                                    {
+                                        "name": "Hyoscyamine",
+                                        "drugbank_id": "DB00424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Homatropine methylbromide and psycholeptics (A03CB04)",
+                                "atc_code": "A03CB04",
+                                "children": [
+                                    {
+                                        "name": "Homatropine methylbromide",
+                                        "drugbank_id": "DB00725"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atropine and psycholeptics (A03CB03)",
+                                "atc_code": "A03CB03",
+                                "children": [
+                                    {
+                                        "name": "Atropine",
+                                        "drugbank_id": "DB00572"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Belladonna total alkaloids and psycholeptics (A03CB02)",
+                                "atc_code": "A03CB02"
+                            },
+                            {
+                                "name": "Methylscopolamine and psycholeptics (A03CB01)",
+                                "atc_code": "A03CB01",
+                                "children": [
+                                    {
+                                        "name": "Methscopolamine",
+                                        "drugbank_id": "DB11315"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthetic anticholinergic agents in combination with psycholeptics (A03CA)",
+                        "atc_code": "A03CA",
+                        "children": [
+                            {
+                                "name": "Propantheline and psycholeptics (A03CA34)",
+                                "atc_code": "A03CA34",
+                                "children": [
+                                    {
+                                        "name": "Propantheline",
+                                        "drugbank_id": "DB00782"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emepronium and psycholeptics (A03CA30)",
+                                "atc_code": "A03CA30",
+                                "children": [
+                                    {
+                                        "name": "Emepronium",
+                                        "drugbank_id": "DB13505"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipenzolate and psycholeptics (A03CA09)",
+                                "atc_code": "A03CA09",
+                                "children": [
+                                    {
+                                        "name": "Pipenzolate",
+                                        "drugbank_id": "DB13844"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphemanil and psycholeptics (A03CA08)",
+                                "atc_code": "A03CA08",
+                                "children": [
+                                    {
+                                        "name": "Diphemanil",
+                                        "drugbank_id": "DB13720"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambutonium and psycholeptics (A03CA07)",
+                                "atc_code": "A03CA07"
+                            },
+                            {
+                                "name": "Bevonium and psycholeptics (A03CA06)",
+                                "atc_code": "A03CA06",
+                                "children": [
+                                    {
+                                        "name": "Bevonium",
+                                        "drugbank_id": "DB13542"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycopyrronium bromide and psycholeptics (A03CA05)",
+                                "atc_code": "A03CA05",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Otilonium bromide and psycholeptics (A03CA04)",
+                                "atc_code": "A03CA04",
+                                "children": [
+                                    {
+                                        "name": "Otilonium",
+                                        "drugbank_id": "DB13500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyphencyclimine and psycholeptics (A03CA03)",
+                                "atc_code": "A03CA03",
+                                "children": [
+                                    {
+                                        "name": "Oxyphencyclimine",
+                                        "drugbank_id": "DB00383"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clidinium and psycholeptics (A03CA02)",
+                                "atc_code": "A03CA02",
+                                "children": [
+                                    {
+                                        "name": "Clidinium",
+                                        "drugbank_id": "DB00771"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isopropamide and psycholeptics (A03CA01)",
+                                "atc_code": "A03CA01",
+                                "children": [
+                                    {
+                                        "name": "Isopropamide",
+                                        "drugbank_id": "DB01625"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Belladonna and derivatives, plain (A03B)",
+                "atc_code": "A03B",
+                "children": [
+                    {
+                        "name": "Belladonna alkaloids, semisynthetic, quaternary ammonium compounds (A03BB)",
+                        "atc_code": "A03BB",
+                        "children": [
+                            {
+                                "name": "Homatropine methylbromide (A03BB06)",
+                                "atc_code": "A03BB06",
+                                "children": [
+                                    {
+                                        "name": "Homatropine methylbromide",
+                                        "drugbank_id": "DB00725"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cimetropium bromide (A03BB05)",
+                                "atc_code": "A03BB05",
+                                "children": [
+                                    {
+                                        "name": "Cimetropium",
+                                        "drugbank_id": "DB09271"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fentonium (A03BB04)",
+                                "atc_code": "A03BB04",
+                                "children": [
+                                    {
+                                        "name": "Fentonium",
+                                        "drugbank_id": "DB08978"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylscopolamine (A03BB03)",
+                                "atc_code": "A03BB03",
+                                "children": [
+                                    {
+                                        "name": "Methscopolamine",
+                                        "drugbank_id": "DB11315"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylatropine (A03BB02)",
+                                "atc_code": "A03BB02",
+                                "children": [
+                                    {
+                                        "name": "Methylatropine",
+                                        "drugbank_id": "DB13833"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butylscopolamine (A03BB01)",
+                                "atc_code": "A03BB01",
+                                "children": [
+                                    {
+                                        "name": "Butylscopolamine",
+                                        "drugbank_id": "DB09300"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Belladonna alkaloids, tertiary amines (A03BA)",
+                        "atc_code": "A03BA",
+                        "children": [
+                            {
+                                "name": "Belladonna total alkaloids (A03BA04)",
+                                "atc_code": "A03BA04"
+                            },
+                            {
+                                "name": "Hyoscyamine (A03BA03)",
+                                "atc_code": "A03BA03",
+                                "children": [
+                                    {
+                                        "name": "Hyoscyamine",
+                                        "drugbank_id": "DB00424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atropine (A03BA01)",
+                                "atc_code": "A03BA01",
+                                "children": [
+                                    {
+                                        "name": "Atropine",
+                                        "drugbank_id": "DB00572"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Drugs for functional gastrointestinal disorders (A03A)",
+                "atc_code": "A03A",
+                "children": [
+                    {
+                        "name": "Other drugs for functional gastrointestinal disorders (A03AX)",
+                        "atc_code": "A03AX",
+                        "children": [
+                            {
+                                "name": "Menthae piperitae aetheroleum (A03AX15)",
+                                "atc_code": "A03AX15",
+                                "children": [
+                                    {
+                                        "name": "Peppermint oil",
+                                        "drugbank_id": "DB11198"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alverine, combinations (A03AX58)",
+                                "atc_code": "A03AX58",
+                                "children": [
+                                    {
+                                        "name": "Alverine",
+                                        "drugbank_id": "DB01616"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimethyldiphenylpropylamine (A03AX30)",
+                                "atc_code": "A03AX30",
+                                "children": [
+                                    {
+                                        "name": "Trimethyldiphenylpropylamine",
+                                        "drugbank_id": "DB13361"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valethamate (A03AX14)",
+                                "atc_code": "A03AX14",
+                                "children": [
+                                    {
+                                        "name": "Valethamate",
+                                        "drugbank_id": "DB13497"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Silicones (A03AX13)",
+                                "atc_code": "A03AX13"
+                            },
+                            {
+                                "name": "Phloroglucinol (A03AX12)",
+                                "atc_code": "A03AX12",
+                                "children": [
+                                    {
+                                        "name": "Phloroglucinol",
+                                        "drugbank_id": "DB12944"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Caroverine (A03AX11)",
+                                "atc_code": "A03AX11",
+                                "children": [
+                                    {
+                                        "name": "Caroverine",
+                                        "drugbank_id": "DB13835"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isometheptene (A03AX10)",
+                                "atc_code": "A03AX10",
+                                "children": [
+                                    {
+                                        "name": "Isometheptene",
+                                        "drugbank_id": "DB06706"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trepibutone (A03AX09)",
+                                "atc_code": "A03AX09",
+                                "children": [
+                                    {
+                                        "name": "Trepibutone",
+                                        "drugbank_id": "DB13311"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alverine (A03AX08)",
+                                "atc_code": "A03AX08",
+                                "children": [
+                                    {
+                                        "name": "Alverine",
+                                        "drugbank_id": "DB01616"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Proxazole (A03AX07)",
+                                "atc_code": "A03AX07",
+                                "children": [
+                                    {
+                                        "name": "Proxazole",
+                                        "drugbank_id": "DB13819"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idanpramine (A03AX06)",
+                                "atc_code": "A03AX06",
+                                "children": [
+                                    {
+                                        "name": "Idanpramine",
+                                        "drugbank_id": "DB13276"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenoverine (A03AX05)",
+                                "atc_code": "A03AX05",
+                                "children": [
+                                    {
+                                        "name": "Fenoverine",
+                                        "drugbank_id": "DB13042"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pinaverium (A03AX04)",
+                                "atc_code": "A03AX04",
+                                "children": [
+                                    {
+                                        "name": "Pinaverium",
+                                        "drugbank_id": "DB09090"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorbenzoxamine (A03AX03)",
+                                "atc_code": "A03AX03",
+                                "children": [
+                                    {
+                                        "name": "Chlorbenzoxamine",
+                                        "drugbank_id": "DB13788"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diisopromine (A03AX02)",
+                                "atc_code": "A03AX02",
+                                "children": [
+                                    {
+                                        "name": "Diisopromine",
+                                        "drugbank_id": "DB13476"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenpiprane (A03AX01)",
+                                "atc_code": "A03AX01",
+                                "children": [
+                                    {
+                                        "name": "Fenpiprane",
+                                        "drugbank_id": "DB13439"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serotonin receptor antagonists (A03AE)",
+                        "atc_code": "A03AE",
+                        "children": [
+                            {
+                                "name": "Cilansetron (A03AE03)",
+                                "atc_code": "A03AE03",
+                                "children": [
+                                    {
+                                        "name": "Cilansetron",
+                                        "drugbank_id": "DB04885"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alosetron (A03AE01)",
+                                "atc_code": "A03AE01",
+                                "children": [
+                                    {
+                                        "name": "Alosetron",
+                                        "drugbank_id": "DB00969"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Papaverine and derivatives (A03AD)",
+                        "atc_code": "A03AD",
+                        "children": [
+                            {
+                                "name": "Moxaverine (A03AD30)",
+                                "atc_code": "A03AD30",
+                                "children": [
+                                    {
+                                        "name": "Moxaverine",
+                                        "drugbank_id": "DB12251"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drotaverine (A03AD02)",
+                                "atc_code": "A03AD02",
+                                "children": [
+                                    {
+                                        "name": "Drotaverine",
+                                        "drugbank_id": "DB06751"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Papaverine (A03AD01)",
+                                "atc_code": "A03AD01",
+                                "children": [
+                                    {
+                                        "name": "Papaverine",
+                                        "drugbank_id": "DB01113"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthetic antispasmodics, amides with tertiary amines (A03AC)",
+                        "atc_code": "A03AC",
+                        "children": [
+                            {
+                                "name": "Tiropramide (A03AC05)",
+                                "atc_code": "A03AC05",
+                                "children": [
+                                    {
+                                        "name": "Tiropramide",
+                                        "drugbank_id": "DB13091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicofetamide (A03AC04)",
+                                "atc_code": "A03AC04",
+                                "children": [
+                                    {
+                                        "name": "Nicofetamide",
+                                        "drugbank_id": "DB13531"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethylaminopropionylphenothiazine (A03AC02)",
+                                "atc_code": "A03AC02",
+                                "children": [
+                                    {
+                                        "name": "Dimethylaminopropionylphenothiazine",
+                                        "drugbank_id": "DB13672"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthetic anticholinergics, quaternary ammonium compounds (A03AB)",
+                        "atc_code": "A03AB",
+                        "children": [
+                            {
+                                "name": "Oxyphenonium, combinations (A03AB53)",
+                                "atc_code": "A03AB53",
+                                "children": [
+                                    {
+                                        "name": "Oxyphenonium",
+                                        "drugbank_id": "DB00219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenpiverinium (A03AB21)",
+                                "atc_code": "A03AB21",
+                                "children": [
+                                    {
+                                        "name": "Fenpiverinium",
+                                        "drugbank_id": "DB13759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Timepidium bromide (A03AB19)",
+                                "atc_code": "A03AB19",
+                                "children": [
+                                    {
+                                        "name": "Timepidium",
+                                        "drugbank_id": "DB13850"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prifinium bromide (A03AB18)",
+                                "atc_code": "A03AB18",
+                                "children": [
+                                    {
+                                        "name": "Prifinium",
+                                        "drugbank_id": "DB13254"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiemonium iodide (A03AB17)",
+                                "atc_code": "A03AB17",
+                                "children": [
+                                    {
+                                        "name": "Tiemonium iodide",
+                                        "drugbank_id": "DB13666"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "(2-benzhydryloxyethyl)diethyl-methylammonium iodide (A03AB16)",
+                                "atc_code": "A03AB16",
+                                "children": [
+                                    {
+                                        "name": "Emetonium iodide",
+                                        "drugbank_id": "DB13769"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphemanil (A03AB15)",
+                                "atc_code": "A03AB15",
+                                "children": [
+                                    {
+                                        "name": "Diphemanil",
+                                        "drugbank_id": "DB13720"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pipenzolate (A03AB14)",
+                                "atc_code": "A03AB14",
+                                "children": [
+                                    {
+                                        "name": "Pipenzolate",
+                                        "drugbank_id": "DB13844"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bevonium (A03AB13)",
+                                "atc_code": "A03AB13",
+                                "children": [
+                                    {
+                                        "name": "Bevonium",
+                                        "drugbank_id": "DB13542"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepenzolate (A03AB12)",
+                                "atc_code": "A03AB12",
+                                "children": [
+                                    {
+                                        "name": "Mepenzolate",
+                                        "drugbank_id": "DB04843"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poldine (A03AB11)",
+                                "atc_code": "A03AB11",
+                                "children": [
+                                    {
+                                        "name": "Poldine",
+                                        "drugbank_id": "DB13507"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexocyclium (A03AB10)",
+                                "atc_code": "A03AB10",
+                                "children": [
+                                    {
+                                        "name": "Hexocyclium",
+                                        "drugbank_id": "DB06787"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isopropamide (A03AB09)",
+                                "atc_code": "A03AB09",
+                                "children": [
+                                    {
+                                        "name": "Isopropamide",
+                                        "drugbank_id": "DB01625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tridihexethyl (A03AB08)",
+                                "atc_code": "A03AB08",
+                                "children": [
+                                    {
+                                        "name": "Tridihexethyl",
+                                        "drugbank_id": "DB00505"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methantheline (A03AB07)",
+                                "atc_code": "A03AB07",
+                                "children": [
+                                    {
+                                        "name": "Methantheline",
+                                        "drugbank_id": "DB00940"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Otilonium bromide (A03AB06)",
+                                "atc_code": "A03AB06",
+                                "children": [
+                                    {
+                                        "name": "Otilonium",
+                                        "drugbank_id": "DB13500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propantheline (A03AB05)",
+                                "atc_code": "A03AB05",
+                                "children": [
+                                    {
+                                        "name": "Propantheline",
+                                        "drugbank_id": "DB00782"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penthienate (A03AB04)",
+                                "atc_code": "A03AB04",
+                                "children": [
+                                    {
+                                        "name": "Penthienate",
+                                        "drugbank_id": "DB13695"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyphenonium (A03AB03)",
+                                "atc_code": "A03AB03",
+                                "children": [
+                                    {
+                                        "name": "Oxyphenonium",
+                                        "drugbank_id": "DB00219"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycopyrronium bromide (A03AB02)",
+                                "atc_code": "A03AB02",
+                                "children": [
+                                    {
+                                        "name": "Glycopyrronium",
+                                        "drugbank_id": "DB00986"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzilone (A03AB01)",
+                                "atc_code": "A03AB01",
+                                "children": [
+                                    {
+                                        "name": "Benzilone",
+                                        "drugbank_id": "DB13369"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthetic anticholinergics, esters with tertiary amino group (A03AA)",
+                        "atc_code": "A03AA",
+                        "children": [
+                            {
+                                "name": "Piperidolate (A03AA30)",
+                                "atc_code": "A03AA30",
+                                "children": [
+                                    {
+                                        "name": "Piperidolate",
+                                        "drugbank_id": "DB13351"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Difemerine (A03AA09)",
+                                "atc_code": "A03AA09",
+                                "children": [
+                                    {
+                                        "name": "Difemerine",
+                                        "drugbank_id": "DB13380"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihexyverine (A03AA08)",
+                                "atc_code": "A03AA08",
+                                "children": [
+                                    {
+                                        "name": "Dihexyverine",
+                                        "drugbank_id": "DB13678"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dicycloverine (A03AA07)",
+                                "atc_code": "A03AA07",
+                                "children": [
+                                    {
+                                        "name": "Dicyclomine",
+                                        "drugbank_id": "DB00804"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rociverine (A03AA06)",
+                                "atc_code": "A03AA06",
+                                "children": [
+                                    {
+                                        "name": "Rociverine",
+                                        "drugbank_id": "DB13581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trimebutine (A03AA05)",
+                                "atc_code": "A03AA05",
+                                "children": [
+                                    {
+                                        "name": "Trimebutine",
+                                        "drugbank_id": "DB09089"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mebeverine (A03AA04)",
+                                "atc_code": "A03AA04",
+                                "children": [
+                                    {
+                                        "name": "Mebeverine",
+                                        "drugbank_id": "DB12554"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camylofin (A03AA03)",
+                                "atc_code": "A03AA03",
+                                "children": [
+                                    {
+                                        "name": "Camylofin",
+                                        "drugbank_id": "DB13738"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyphencyclimine (A03AA01)",
+                                "atc_code": "A03AA01",
+                                "children": [
+                                    {
+                                        "name": "Oxyphencyclimine",
+                                        "drugbank_id": "DB00383"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

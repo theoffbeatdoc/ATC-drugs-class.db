@@ -1,0 +1,624 @@
+[
+    {
+        "name": "Urologicals (G04)",
+        "atc_code": "G04",
+        "children": [
+            {
+                "name": "Drugs used in benign prostatic hypertrophy (G04C)",
+                "atc_code": "G04C",
+                "children": [
+                    {
+                        "name": "Other drugs used in benign prostatic hypertrophy (G04CX)",
+                        "atc_code": "G04CX",
+                        "children": [
+                            {
+                                "name": "Fexapotide (G04CX04)",
+                                "atc_code": "G04CX04"
+                            },
+                            {
+                                "name": "Mepartricin (G04CX03)",
+                                "atc_code": "G04CX03",
+                                "children": [
+                                    {
+                                        "name": "Mepartricin",
+                                        "drugbank_id": "DB13633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sabalis serrulatae fructus (G04CX02)",
+                                "atc_code": "G04CX02"
+                            },
+                            {
+                                "name": "Prunus africanae cortex (G04CX01)",
+                                "atc_code": "G04CX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Testosterone-5-alpha reductase inhibitors (G04CB)",
+                        "atc_code": "G04CB",
+                        "children": [
+                            {
+                                "name": "Finasteride and tadalafil (G04CB51)",
+                                "atc_code": "G04CB51",
+                                "children": [
+                                    {
+                                        "name": "Tadalafil",
+                                        "drugbank_id": "DB00820"
+                                    },
+                                    {
+                                        "name": "Finasteride",
+                                        "drugbank_id": "DB01216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dutasteride (G04CB02)",
+                                "atc_code": "G04CB02",
+                                "children": [
+                                    {
+                                        "name": "Dutasteride",
+                                        "drugbank_id": "DB01126"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Finasteride (G04CB01)",
+                                "atc_code": "G04CB01",
+                                "children": [
+                                    {
+                                        "name": "Finasteride",
+                                        "drugbank_id": "DB01216"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Alpha-adrenoreceptor antagonists (G04CA)",
+                        "atc_code": "G04CA",
+                        "children": [
+                            {
+                                "name": "Doxazosin and finasteride (G04CA55)",
+                                "atc_code": "G04CA55",
+                                "children": [
+                                    {
+                                        "name": "Finasteride",
+                                        "drugbank_id": "DB01216"
+                                    },
+                                    {
+                                        "name": "Doxazosin",
+                                        "drugbank_id": "DB00590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tamsulosin and tadalafil (G04CA54)",
+                                "atc_code": "G04CA54",
+                                "children": [
+                                    {
+                                        "name": "Tamsulosin",
+                                        "drugbank_id": "DB00706"
+                                    },
+                                    {
+                                        "name": "Tadalafil",
+                                        "drugbank_id": "DB00820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tamsulosin and solifenacin (G04CA53)",
+                                "atc_code": "G04CA53",
+                                "children": [
+                                    {
+                                        "name": "Solifenacin",
+                                        "drugbank_id": "DB01591"
+                                    },
+                                    {
+                                        "name": "Tamsulosin",
+                                        "drugbank_id": "DB00706"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tamsulosin and dutasteride (G04CA52)",
+                                "atc_code": "G04CA52",
+                                "children": [
+                                    {
+                                        "name": "Dutasteride",
+                                        "drugbank_id": "DB01126"
+                                    },
+                                    {
+                                        "name": "Tamsulosin",
+                                        "drugbank_id": "DB00706"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfuzosin and finasteride (G04CA51)",
+                                "atc_code": "G04CA51",
+                                "children": [
+                                    {
+                                        "name": "Alfuzosin",
+                                        "drugbank_id": "DB00346"
+                                    },
+                                    {
+                                        "name": "Finasteride",
+                                        "drugbank_id": "DB01216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Silodosin (G04CA04)",
+                                "atc_code": "G04CA04",
+                                "children": [
+                                    {
+                                        "name": "Silodosin",
+                                        "drugbank_id": "DB06207"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terazosin (G04CA03)",
+                                "atc_code": "G04CA03",
+                                "children": [
+                                    {
+                                        "name": "Terazosin",
+                                        "drugbank_id": "DB01162"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tamsulosin (G04CA02)",
+                                "atc_code": "G04CA02",
+                                "children": [
+                                    {
+                                        "name": "Tamsulosin",
+                                        "drugbank_id": "DB00706"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfuzosin (G04CA01)",
+                                "atc_code": "G04CA01",
+                                "children": [
+                                    {
+                                        "name": "Alfuzosin",
+                                        "drugbank_id": "DB00346"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Urologicals (G04B)",
+                "atc_code": "G04B",
+                "children": [
+                    {
+                        "name": "Other urologicals (G04BX)",
+                        "atc_code": "G04BX",
+                        "children": [
+                            {
+                                "name": "Sodium salicylate and methenamine (G04BX17)",
+                                "atc_code": "G04BX17",
+                                "children": [
+                                    {
+                                        "name": "Methenamine",
+                                        "drugbank_id": "DB06799"
+                                    },
+                                    {
+                                        "name": "Salicylic acid",
+                                        "drugbank_id": "DB00936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiopronin (G04BX16)",
+                                "atc_code": "G04BX16",
+                                "children": [
+                                    {
+                                        "name": "Tiopronin",
+                                        "drugbank_id": "DB06823"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentosan polysulfate sodium (G04BX15)",
+                                "atc_code": "G04BX15",
+                                "children": [
+                                    {
+                                        "name": "Pentosan polysulfate",
+                                        "drugbank_id": "DB00686"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dapoxetine (G04BX14)",
+                                "atc_code": "G04BX14",
+                                "children": [
+                                    {
+                                        "name": "Dapoxetine",
+                                        "drugbank_id": "DB04884"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethyl sulfoxide (G04BX13)",
+                                "atc_code": "G04BX13",
+                                "children": [
+                                    {
+                                        "name": "Dimethyl sulfoxide",
+                                        "drugbank_id": "DB01093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenyl salicylate (G04BX12)",
+                                "atc_code": "G04BX12",
+                                "children": [
+                                    {
+                                        "name": "Phenyl salicylate",
+                                        "drugbank_id": "DB11071"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Collagen (G04BX11)",
+                                "atc_code": "G04BX11"
+                            },
+                            {
+                                "name": "Succinimide (G04BX10)",
+                                "atc_code": "G04BX10",
+                                "children": [
+                                    {
+                                        "name": "Succinimide",
+                                        "drugbank_id": "DB13376"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenazopyridine (G04BX06)",
+                                "atc_code": "G04BX06",
+                                "children": [
+                                    {
+                                        "name": "Phenazopyridine",
+                                        "drugbank_id": "DB01438"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetohydroxamic acid (G04BX03)",
+                                "atc_code": "G04BX03",
+                                "children": [
+                                    {
+                                        "name": "Acetohydroxamic acid",
+                                        "drugbank_id": "DB00551"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium hydroxide (G04BX01)",
+                                "atc_code": "G04BX01",
+                                "children": [
+                                    {
+                                        "name": "Magnesium hydroxide",
+                                        "drugbank_id": "DB09104"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drugs used in erectile dysfunction (G04BE)",
+                        "atc_code": "G04BE",
+                        "children": [
+                            {
+                                "name": "Papaverine, combinations (G04BE52)",
+                                "atc_code": "G04BE52",
+                                "children": [
+                                    {
+                                        "name": "Papaverine",
+                                        "drugbank_id": "DB01113"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (G04BE30)",
+                                "atc_code": "G04BE30"
+                            },
+                            {
+                                "name": "Udenafil (G04BE11)",
+                                "atc_code": "G04BE11",
+                                "children": [
+                                    {
+                                        "name": "Udenafil",
+                                        "drugbank_id": "DB06267"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avanafil (G04BE10)",
+                                "atc_code": "G04BE10",
+                                "children": [
+                                    {
+                                        "name": "Avanafil",
+                                        "drugbank_id": "DB06237"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vardenafil (G04BE09)",
+                                "atc_code": "G04BE09",
+                                "children": [
+                                    {
+                                        "name": "Vardenafil",
+                                        "drugbank_id": "DB00862"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tadalafil (G04BE08)",
+                                "atc_code": "G04BE08",
+                                "children": [
+                                    {
+                                        "name": "Tadalafil",
+                                        "drugbank_id": "DB00820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apomorphine (G04BE07)",
+                                "atc_code": "G04BE07",
+                                "children": [
+                                    {
+                                        "name": "Apomorphine",
+                                        "drugbank_id": "DB00714"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moxisylyte (G04BE06)",
+                                "atc_code": "G04BE06",
+                                "children": [
+                                    {
+                                        "name": "Moxisylyte",
+                                        "drugbank_id": "DB09205"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Yohimbine (G04BE04)",
+                                "atc_code": "G04BE04",
+                                "children": [
+                                    {
+                                        "name": "Yohimbine",
+                                        "drugbank_id": "DB01392"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sildenafil (G04BE03)",
+                                "atc_code": "G04BE03",
+                                "children": [
+                                    {
+                                        "name": "Sildenafil",
+                                        "drugbank_id": "DB00203"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Papaverine (G04BE02)",
+                                "atc_code": "G04BE02",
+                                "children": [
+                                    {
+                                        "name": "Papaverine",
+                                        "drugbank_id": "DB01113"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alprostadil (G04BE01)",
+                                "atc_code": "G04BE01",
+                                "children": [
+                                    {
+                                        "name": "Alprostadil",
+                                        "drugbank_id": "DB00770"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drugs for urinary frequency and incontinence (G04BD)",
+                        "atc_code": "G04BD",
+                        "children": [
+                            {
+                                "name": "Vibegron (G04BD15)",
+                                "atc_code": "G04BD15",
+                                "children": [
+                                    {
+                                        "name": "Vibegron",
+                                        "drugbank_id": "DB14895"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imidafenacin (G04BD14)",
+                                "atc_code": "G04BD14",
+                                "children": [
+                                    {
+                                        "name": "Imidafenacin",
+                                        "drugbank_id": "DB09262"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desfesoterodine (G04BD13)",
+                                "atc_code": "G04BD13",
+                                "children": [
+                                    {
+                                        "name": "Desfesoterodine",
+                                        "drugbank_id": "DB15578"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mirabegron (G04BD12)",
+                                "atc_code": "G04BD12",
+                                "children": [
+                                    {
+                                        "name": "Mirabegron",
+                                        "drugbank_id": "DB08893"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fesoterodine (G04BD11)",
+                                "atc_code": "G04BD11",
+                                "children": [
+                                    {
+                                        "name": "Fesoterodine",
+                                        "drugbank_id": "DB06702"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darifenacin (G04BD10)",
+                                "atc_code": "G04BD10",
+                                "children": [
+                                    {
+                                        "name": "Darifenacin",
+                                        "drugbank_id": "DB00496"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trospium (G04BD09)",
+                                "atc_code": "G04BD09",
+                                "children": [
+                                    {
+                                        "name": "Trospium",
+                                        "drugbank_id": "DB00209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Solifenacin (G04BD08)",
+                                "atc_code": "G04BD08",
+                                "children": [
+                                    {
+                                        "name": "Solifenacin",
+                                        "drugbank_id": "DB01591"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolterodine (G04BD07)",
+                                "atc_code": "G04BD07",
+                                "children": [
+                                    {
+                                        "name": "Tolterodine",
+                                        "drugbank_id": "DB01036"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propiverine (G04BD06)",
+                                "atc_code": "G04BD06",
+                                "children": [
+                                    {
+                                        "name": "Propiverine",
+                                        "drugbank_id": "DB12278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Terodiline (G04BD05)",
+                                "atc_code": "G04BD05",
+                                "children": [
+                                    {
+                                        "name": "Terodiline",
+                                        "drugbank_id": "DB13725"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxybutynin (G04BD04)",
+                                "atc_code": "G04BD04",
+                                "children": [
+                                    {
+                                        "name": "Oxybutynin",
+                                        "drugbank_id": "DB01062"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meladrazine (G04BD03)",
+                                "atc_code": "G04BD03",
+                                "children": [
+                                    {
+                                        "name": "Meladrazine",
+                                        "drugbank_id": "DB13272"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flavoxate (G04BD02)",
+                                "atc_code": "G04BD02",
+                                "children": [
+                                    {
+                                        "name": "Flavoxate",
+                                        "drugbank_id": "DB01148"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emepronium (G04BD01)",
+                                "atc_code": "G04BD01",
+                                "children": [
+                                    {
+                                        "name": "Emepronium",
+                                        "drugbank_id": "DB13505"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Urinary concrement solvents (G04BC)",
+                        "atc_code": "G04BC"
+                    },
+                    {
+                        "name": "Acidifiers (G04BA)",
+                        "atc_code": "G04BA",
+                        "children": [
+                            {
+                                "name": "Calcium chloride (G04BA03)",
+                                "atc_code": "G04BA03",
+                                "children": [
+                                    {
+                                        "name": "Calcium chloride",
+                                        "drugbank_id": "DB01164"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ammonium chloride (G04BA01)",
+                                "atc_code": "G04BA01",
+                                "children": [
+                                    {
+                                        "name": "Ammonium chloride",
+                                        "drugbank_id": "DB06767"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "name": "Diagnostic agents (V04)",
+        "atc_code": "V04",
+        "children": [
+            {
+                "name": "Other diagnostic agents (V04C)",
+                "atc_code": "V04C",
+                "children": [
+                    {
+                        "name": "Other diagnostic agents (V04CX)",
+                        "atc_code": "V04CX",
+                        "children": [
+                            {
+                                "name": "Xenon (V04CX12)",
+                                "atc_code": "V04CX12",
+                                "children": [
+                                    {
+                                        "name": "Xenon",
+                                        "drugbank_id": "DB13453"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lithium chloride (V04CX11)",
+                                "atc_code": "V04CX11",
+                                "children": [
+                                    {
+                                        "name": "Lithium chloride",
+                                        "drugbank_id": "DB16607"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pafolacianine (V04CX10)",
+                                "atc_code": "V04CX10",
+                                "children": [
+                                    {
+                                        "name": "Pafolacianine",
+                                        "drugbank_id": "DB15413"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Patent blue (V04CX09)",
+                                "atc_code": "V04CX09",
+                                "children": [
+                                    {
+                                        "name": "Patent Blue",
+                                        "drugbank_id": "DB13967"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbon monoxide (V04CX08)",
+                                "atc_code": "V04CX08",
+                                "children": [
+                                    {
+                                        "name": "Carbon monoxide",
+                                        "drugbank_id": "DB11588"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Edrophonium (V04CX07)",
+                                "atc_code": "V04CX07",
+                                "children": [
+                                    {
+                                        "name": "Edrophonium",
+                                        "drugbank_id": "DB01010"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexaminolevulinate (V04CX06)",
+                                "atc_code": "V04CX06",
+                                "children": [
+                                    {
+                                        "name": "Hexaminolevulinate",
+                                        "drugbank_id": "DB06261"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "13c-urea (V04CX05)",
+                                "atc_code": "V04CX05",
+                                "children": [
+                                    {
+                                        "name": "Urea C-13",
+                                        "drugbank_id": "DB09510"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mannitol (V04CX04)",
+                                "atc_code": "V04CX04",
+                                "children": [
+                                    {
+                                        "name": "Mannitol",
+                                        "drugbank_id": "DB00742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methacholine (V04CX03)",
+                                "atc_code": "V04CX03",
+                                "children": [
+                                    {
+                                        "name": "Methacholine",
+                                        "drugbank_id": "DB06709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Folic acid (V04CX02)",
+                                "atc_code": "V04CX02",
+                                "children": [
+                                    {
+                                        "name": "Folic acid",
+                                        "drugbank_id": "DB00158"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indocyanine green (V04CX01)",
+                                "atc_code": "V04CX01",
+                                "children": [
+                                    {
+                                        "name": "Indocyanine green",
+                                        "drugbank_id": "DB16024"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for fertility disturbances (V04CM)",
+                        "atc_code": "V04CM",
+                        "children": [
+                            {
+                                "name": "Gonadorelin (V04CM01)",
+                                "atc_code": "V04CM01",
+                                "children": [
+                                    {
+                                        "name": "Gonadorelin",
+                                        "drugbank_id": "DB00644"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for allergic diseases (V04CL)",
+                        "atc_code": "V04CL"
+                    },
+                    {
+                        "name": "Tests for pancreatic function (V04CK)",
+                        "atc_code": "V04CK",
+                        "children": [
+                            {
+                                "name": "Bentiromide (V04CK03)",
+                                "atc_code": "V04CK03",
+                                "children": [
+                                    {
+                                        "name": "Bentiromide",
+                                        "drugbank_id": "DB00522"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pancreozymin (cholecystokinin) (V04CK02)",
+                                "atc_code": "V04CK02",
+                                "children": [
+                                    {
+                                        "name": "Cholecystokinin",
+                                        "drugbank_id": "DB08862"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Secretin (V04CK01)",
+                                "atc_code": "V04CK01",
+                                "children": [
+                                    {
+                                        "name": "Secretin human",
+                                        "drugbank_id": "DB09532"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for thyreoidea function (V04CJ)",
+                        "atc_code": "V04CJ",
+                        "children": [
+                            {
+                                "name": "Protirelin (V04CJ02)",
+                                "atc_code": "V04CJ02",
+                                "children": [
+                                    {
+                                        "name": "Protirelin",
+                                        "drugbank_id": "DB09421"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thyrotropin (V04CJ01)",
+                                "atc_code": "V04CJ01",
+                                "children": [
+                                    {
+                                        "name": "Thyrotropin",
+                                        "drugbank_id": "DB15263"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for renal function and ureteral injuries (V04CH)",
+                        "atc_code": "V04CH",
+                        "children": [
+                            {
+                                "name": "Aminohippuric acid (V04CH30)",
+                                "atc_code": "V04CH30",
+                                "children": [
+                                    {
+                                        "name": "Aminohippuric acid",
+                                        "drugbank_id": "DB00345"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alsactide (V04CH04)",
+                                "atc_code": "V04CH04",
+                                "children": [
+                                    {
+                                        "name": "Alsactide",
+                                        "drugbank_id": "DB13298"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenolsulfonphthalein (V04CH03)",
+                                "atc_code": "V04CH03",
+                                "children": [
+                                    {
+                                        "name": "Phenolsulfonphthalein",
+                                        "drugbank_id": "DB13212"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indigo carmine (V04CH02)",
+                                "atc_code": "V04CH02",
+                                "children": [
+                                    {
+                                        "name": "Indigotindisulfonic acid",
+                                        "drugbank_id": "DB11577"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inulin and other polyfructosans (V04CH01)",
+                                "atc_code": "V04CH01",
+                                "children": [
+                                    {
+                                        "name": "Inulin",
+                                        "drugbank_id": "DB00638"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for gastric secretion (V04CG)",
+                        "atc_code": "V04CG",
+                        "children": [
+                            {
+                                "name": "Caffeine and sodium benzoate (V04CG30)",
+                                "atc_code": "V04CG30",
+                                "children": [
+                                    {
+                                        "name": "Caffeine",
+                                        "drugbank_id": "DB00201"
+                                    },
+                                    {
+                                        "name": "Benzoic acid",
+                                        "drugbank_id": "DB03793"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methylthioninium chloride (V04CG05)",
+                                "atc_code": "V04CG05",
+                                "children": [
+                                    {
+                                        "name": "Methylene blue",
+                                        "drugbank_id": "DB09241"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentagastrin (V04CG04)",
+                                "atc_code": "V04CG04",
+                                "children": [
+                                    {
+                                        "name": "Pentagastrin",
+                                        "drugbank_id": "DB00183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Histamine phosphate (V04CG03)",
+                                "atc_code": "V04CG03",
+                                "children": [
+                                    {
+                                        "name": "Histamine",
+                                        "drugbank_id": "DB05381"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betazole (V04CG02)",
+                                "atc_code": "V04CG02",
+                                "children": [
+                                    {
+                                        "name": "Betazole",
+                                        "drugbank_id": "DB00272"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cation exchange resins (V04CG01)",
+                                "atc_code": "V04CG01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tuberculosis diagnostics (V04CF)",
+                        "atc_code": "V04CF",
+                        "children": [
+                            {
+                                "name": "Tuberculin (V04CF01)",
+                                "atc_code": "V04CF01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for liver functional capacity (V04CE)",
+                        "atc_code": "V04CE",
+                        "children": [
+                            {
+                                "name": "Methacetin (13c) (V04CE03)",
+                                "atc_code": "V04CE03"
+                            },
+                            {
+                                "name": "Sulfobromophthalein (V04CE02)",
+                                "atc_code": "V04CE02",
+                                "children": [
+                                    {
+                                        "name": "Sulfobromophthalein",
+                                        "drugbank_id": "DB13215"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Galactose (V04CE01)",
+                                "atc_code": "V04CE01",
+                                "children": [
+                                    {
+                                        "name": "Galactose",
+                                        "drugbank_id": "DB11735"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for pituitary function (V04CD)",
+                        "atc_code": "V04CD",
+                        "children": [
+                            {
+                                "name": "Macimorelin (V04CD06)",
+                                "atc_code": "V04CD06",
+                                "children": [
+                                    {
+                                        "name": "Macimorelin",
+                                        "drugbank_id": "DB13074"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Somatorelin (V04CD05)",
+                                "atc_code": "V04CD05",
+                                "children": [
+                                    {
+                                        "name": "Somatorelin",
+                                        "drugbank_id": "DB12656"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Corticorelin (V04CD04)",
+                                "atc_code": "V04CD04",
+                                "children": [
+                                    {
+                                        "name": "Corticorelin",
+                                        "drugbank_id": "DB05394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sermorelin (V04CD03)",
+                                "atc_code": "V04CD03",
+                                "children": [
+                                    {
+                                        "name": "Sermorelin",
+                                        "drugbank_id": "DB00010"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metyrapone (V04CD01)",
+                                "atc_code": "V04CD01",
+                                "children": [
+                                    {
+                                        "name": "Metyrapone",
+                                        "drugbank_id": "DB01011"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for bile duct patency (V04CC)",
+                        "atc_code": "V04CC",
+                        "children": [
+                            {
+                                "name": "Ceruletide (V04CC04)",
+                                "atc_code": "V04CC04",
+                                "children": [
+                                    {
+                                        "name": "Ceruletide",
+                                        "drugbank_id": "DB00403"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sincalide (V04CC03)",
+                                "atc_code": "V04CC03",
+                                "children": [
+                                    {
+                                        "name": "Sincalide",
+                                        "drugbank_id": "DB09142"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium sulfate (V04CC02)",
+                                "atc_code": "V04CC02",
+                                "children": [
+                                    {
+                                        "name": "Magnesium sulfate",
+                                        "drugbank_id": "DB00653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sorbitol (V04CC01)",
+                                "atc_code": "V04CC01",
+                                "children": [
+                                    {
+                                        "name": "Sorbitol",
+                                        "drugbank_id": "DB01638"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for fat absorption (V04CB)",
+                        "atc_code": "V04CB",
+                        "children": [
+                            {
+                                "name": "Vitamin a concentrates (V04CB01)",
+                                "atc_code": "V04CB01",
+                                "children": [
+                                    {
+                                        "name": "Vitamin A",
+                                        "drugbank_id": "DB00162"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tests for diabetes (V04CA)",
+                        "atc_code": "V04CA",
+                        "children": [
+                            {
+                                "name": "Glucose (V04CA02)",
+                                "atc_code": "V04CA02"
+                            },
+                            {
+                                "name": "Tolbutamide (V04CA01)",
+                                "atc_code": "V04CA01",
+                                "children": [
+                                    {
+                                        "name": "Tolbutamide",
+                                        "drugbank_id": "DB01124"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Urine tests (V04B)",
+                "atc_code": "V04B"
+            }
+        ]
+    }
+]

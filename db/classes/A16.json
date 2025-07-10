@@ -1,0 +1,630 @@
+[
+    {
+        "name": "Other alimentary tract and metabolism products (A16)",
+        "atc_code": "A16",
+        "children": [
+            {
+                "name": "Other alimentary tract and metabolism products (A16A)",
+                "atc_code": "A16A",
+                "children": [
+                    {
+                        "name": "Various alimentary tract and metabolism products (A16AX)",
+                        "atc_code": "A16AX",
+                        "children": [
+                            {
+                                "name": "Nedosiran (A16AX25)",
+                                "atc_code": "A16AX25",
+                                "children": [
+                                    {
+                                        "name": "Nedosiran",
+                                        "drugbank_id": "DB17635"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Govorestat (A16AX24)",
+                                "atc_code": "A16AX24",
+                                "children": [
+                                    {
+                                        "name": "Gavorestat",
+                                        "drugbank_id": "DB16707"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Leriglitazone (A16AX23)",
+                                "atc_code": "A16AX23",
+                                "children": [
+                                    {
+                                        "name": "Leriglitazone",
+                                        "drugbank_id": "DB15021"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiomolibdic acid (A16AX22)",
+                                "atc_code": "A16AX22"
+                            },
+                            {
+                                "name": "Elivaldogene autotemcel (A16AX21)",
+                                "atc_code": "A16AX21",
+                                "children": [
+                                    {
+                                        "name": "Elivaldogene autotemcel",
+                                        "drugbank_id": "DB16746"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium benzoate and sodium phenylacetate (A16AX30)",
+                                "atc_code": "A16AX30",
+                                "children": [
+                                    {
+                                        "name": "Phenylacetic acid",
+                                        "drugbank_id": "DB09269"
+                                    },
+                                    {
+                                        "name": "Benzoic acid",
+                                        "drugbank_id": "DB03793"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lonafarnib (A16AX20)",
+                                "atc_code": "A16AX20",
+                                "children": [
+                                    {
+                                        "name": "Lonafarnib",
+                                        "drugbank_id": "DB06448"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosdenopterin (A16AX19)",
+                                "atc_code": "A16AX19",
+                                "children": [
+                                    {
+                                        "name": "Fosdenopterin",
+                                        "drugbank_id": "DB16628"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lumasiran (A16AX18)",
+                                "atc_code": "A16AX18",
+                                "children": [
+                                    {
+                                        "name": "Lumasiran",
+                                        "drugbank_id": "DB15935"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triheptanoin (A16AX17)",
+                                "atc_code": "A16AX17",
+                                "children": [
+                                    {
+                                        "name": "Triheptanoin",
+                                        "drugbank_id": "DB11677"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Givosiran (A16AX16)",
+                                "atc_code": "A16AX16",
+                                "children": [
+                                    {
+                                        "name": "Givosiran",
+                                        "drugbank_id": "DB15066"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telotristat (A16AX15)",
+                                "atc_code": "A16AX15",
+                                "children": [
+                                    {
+                                        "name": "Telotristat",
+                                        "drugbank_id": "DB14218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Migalastat (A16AX14)",
+                                "atc_code": "A16AX14",
+                                "children": [
+                                    {
+                                        "name": "Migalastat",
+                                        "drugbank_id": "DB05018"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Uridine triacetate (A16AX13)",
+                                "atc_code": "A16AX13",
+                                "children": [
+                                    {
+                                        "name": "Uridine triacetate",
+                                        "drugbank_id": "DB09144"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trientine (A16AX12)",
+                                "atc_code": "A16AX12",
+                                "children": [
+                                    {
+                                        "name": "Triethylenetetramine",
+                                        "drugbank_id": "DB06824"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium benzoate (A16AX11)",
+                                "atc_code": "A16AX11",
+                                "children": [
+                                    {
+                                        "name": "Benzoic acid",
+                                        "drugbank_id": "DB03793"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eliglustat (A16AX10)",
+                                "atc_code": "A16AX10",
+                                "children": [
+                                    {
+                                        "name": "Eliglustat",
+                                        "drugbank_id": "DB09039"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycerol phenylbutyrate (A16AX09)",
+                                "atc_code": "A16AX09",
+                                "children": [
+                                    {
+                                        "name": "Glycerol phenylbutyrate",
+                                        "drugbank_id": "DB08909"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teduglutide (A16AX08)",
+                                "atc_code": "A16AX08",
+                                "children": [
+                                    {
+                                        "name": "Teduglutide",
+                                        "drugbank_id": "DB08900"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sapropterin (A16AX07)",
+                                "atc_code": "A16AX07",
+                                "children": [
+                                    {
+                                        "name": "Sapropterin",
+                                        "drugbank_id": "DB00360"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miglustat (A16AX06)",
+                                "atc_code": "A16AX06",
+                                "children": [
+                                    {
+                                        "name": "Miglustat",
+                                        "drugbank_id": "DB00419"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zinc acetate (A16AX05)",
+                                "atc_code": "A16AX05",
+                                "children": [
+                                    {
+                                        "name": "Zinc acetate",
+                                        "drugbank_id": "DB14487"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitisinone (A16AX04)",
+                                "atc_code": "A16AX04",
+                                "children": [
+                                    {
+                                        "name": "Nitisinone",
+                                        "drugbank_id": "DB00348"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phenylbutyrate (A16AX03)",
+                                "atc_code": "A16AX03",
+                                "children": [
+                                    {
+                                        "name": "Phenylbutyric acid",
+                                        "drugbank_id": "DB06819"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anethole trithione (A16AX02)",
+                                "atc_code": "A16AX02",
+                                "children": [
+                                    {
+                                        "name": "Anethole trithione",
+                                        "drugbank_id": "DB13853"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thioctic acid (A16AX01)",
+                                "atc_code": "A16AX01",
+                                "children": [
+                                    {
+                                        "name": "Lipoic acid",
+                                        "drugbank_id": "DB00166"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzymes (A16AB)",
+                        "atc_code": "A16AB",
+                        "children": [
+                            {
+                                "name": "Pabinafusp alfa (A16AB27)",
+                                "atc_code": "A16AB27",
+                                "children": [
+                                    {
+                                        "name": "Pabinafusp alfa",
+                                        "drugbank_id": "DB15633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eladocagene exuparvovec (A16AB26)",
+                                "atc_code": "A16AB26",
+                                "children": [
+                                    {
+                                        "name": "Eladocagene exuparvovec",
+                                        "drugbank_id": "DB16780"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olipudase alfa (A16AB25)",
+                                "atc_code": "A16AB25",
+                                "children": [
+                                    {
+                                        "name": "Olipudase alfa",
+                                        "drugbank_id": "DB12835"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegzilarginase (A16AB24)",
+                                "atc_code": "A16AB24",
+                                "children": [
+                                    {
+                                        "name": "Pegzilarginase",
+                                        "drugbank_id": "DB14780"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cipaglucosidase alfa (A16AB23)",
+                                "atc_code": "A16AB23",
+                                "children": [
+                                    {
+                                        "name": "Cipaglucosidase alfa",
+                                        "drugbank_id": "DB16708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avalglucosidase alfa (A16AB22)",
+                                "atc_code": "A16AB22",
+                                "children": [
+                                    {
+                                        "name": "Avalglucosidase alfa",
+                                        "drugbank_id": "DB16099"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atidarsagene autotemcel (A16AB21)",
+                                "atc_code": "A16AB21",
+                                "children": [
+                                    {
+                                        "name": "Atidarsagene autotemcel",
+                                        "drugbank_id": "DB17538"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegunigalsidase alfa (A16AB20)",
+                                "atc_code": "A16AB20",
+                                "children": [
+                                    {
+                                        "name": "Pegunigalsidase alfa",
+                                        "drugbank_id": "DB14992"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegvaliase (A16AB19)",
+                                "atc_code": "A16AB19",
+                                "children": [
+                                    {
+                                        "name": "Pegvaliase",
+                                        "drugbank_id": "DB12839"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vestronidase alfa (A16AB18)",
+                                "atc_code": "A16AB18",
+                                "children": [
+                                    {
+                                        "name": "Vestronidase alfa",
+                                        "drugbank_id": "DB12366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cerliponase alfa (A16AB17)",
+                                "atc_code": "A16AB17",
+                                "children": [
+                                    {
+                                        "name": "Cerliponase alfa",
+                                        "drugbank_id": "DB13173"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idursulfase beta (A16AB16)",
+                                "atc_code": "A16AB16",
+                                "children": [
+                                    {
+                                        "name": "Idursulfase beta",
+                                        "drugbank_id": "DB16190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Velmanase alfa (A16AB15)",
+                                "atc_code": "A16AB15",
+                                "children": [
+                                    {
+                                        "name": "Velmanase alfa",
+                                        "drugbank_id": "DB12374"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sebelipase alfa (A16AB14)",
+                                "atc_code": "A16AB14",
+                                "children": [
+                                    {
+                                        "name": "Sebelipase alfa",
+                                        "drugbank_id": "DB11563"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Asfotase alfa (A16AB13)",
+                                "atc_code": "A16AB13",
+                                "children": [
+                                    {
+                                        "name": "Asfotase alfa",
+                                        "drugbank_id": "DB09105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elosulfase alfa (A16AB12)",
+                                "atc_code": "A16AB12",
+                                "children": [
+                                    {
+                                        "name": "Elosulfase alfa",
+                                        "drugbank_id": "DB09051"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Taliglucerase alfa (A16AB11)",
+                                "atc_code": "A16AB11",
+                                "children": [
+                                    {
+                                        "name": "Taliglucerase alfa",
+                                        "drugbank_id": "DB08876"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Velaglucerase alfa (A16AB10)",
+                                "atc_code": "A16AB10",
+                                "children": [
+                                    {
+                                        "name": "Velaglucerase alfa",
+                                        "drugbank_id": "DB06720"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idursulfase (A16AB09)",
+                                "atc_code": "A16AB09",
+                                "children": [
+                                    {
+                                        "name": "Idursulfase",
+                                        "drugbank_id": "DB01271"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Galsulfase (A16AB08)",
+                                "atc_code": "A16AB08",
+                                "children": [
+                                    {
+                                        "name": "Galsulfase",
+                                        "drugbank_id": "DB01279"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alglucosidase alfa (A16AB07)",
+                                "atc_code": "A16AB07",
+                                "children": [
+                                    {
+                                        "name": "Alglucosidase alfa",
+                                        "drugbank_id": "DB01272"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sacrosidase (A16AB06)",
+                                "atc_code": "A16AB06",
+                                "children": [
+                                    {
+                                        "name": "Sacrosidase",
+                                        "drugbank_id": "DB06760"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Laronidase (A16AB05)",
+                                "atc_code": "A16AB05",
+                                "children": [
+                                    {
+                                        "name": "Laronidase",
+                                        "drugbank_id": "DB00090"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Agalsidase beta (A16AB04)",
+                                "atc_code": "A16AB04",
+                                "children": [
+                                    {
+                                        "name": "Agalsidase beta",
+                                        "drugbank_id": "DB00103"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Agalsidase alfa (A16AB03)",
+                                "atc_code": "A16AB03",
+                                "children": [
+                                    {
+                                        "name": "Agalsidase alfa",
+                                        "drugbank_id": "DB15874"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imiglucerase (A16AB02)",
+                                "atc_code": "A16AB02",
+                                "children": [
+                                    {
+                                        "name": "Imiglucerase",
+                                        "drugbank_id": "DB00053"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alglucerase (A16AB01)",
+                                "atc_code": "A16AB01",
+                                "children": [
+                                    {
+                                        "name": "Alglucerase",
+                                        "drugbank_id": "DB00088"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amino acids and derivatives (A16AA)",
+                        "atc_code": "A16AA",
+                        "children": [
+                            {
+                                "name": "Metreleptin (A16AA07)",
+                                "atc_code": "A16AA07",
+                                "children": [
+                                    {
+                                        "name": "Metreleptin",
+                                        "drugbank_id": "DB09046"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betaine (A16AA06)",
+                                "atc_code": "A16AA06",
+                                "children": [
+                                    {
+                                        "name": "Betaine",
+                                        "drugbank_id": "DB06756"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carglumic acid (A16AA05)",
+                                "atc_code": "A16AA05",
+                                "children": [
+                                    {
+                                        "name": "Carglumic acid",
+                                        "drugbank_id": "DB06775"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mercaptamine (A16AA04)",
+                                "atc_code": "A16AA04",
+                                "children": [
+                                    {
+                                        "name": "Cysteamine",
+                                        "drugbank_id": "DB00847"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glutamine (A16AA03)",
+                                "atc_code": "A16AA03",
+                                "children": [
+                                    {
+                                        "name": "L-Glutamine",
+                                        "drugbank_id": "DB00130"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ademetionine (A16AA02)",
+                                "atc_code": "A16AA02",
+                                "children": [
+                                    {
+                                        "name": "Ademetionine",
+                                        "drugbank_id": "DB00118"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levocarnitine (A16AA01)",
+                                "atc_code": "A16AA01",
+                                "children": [
+                                    {
+                                        "name": "Levocarnitine",
+                                        "drugbank_id": "DB00583"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,678 @@
+[
+    {
+        "name": "Anesthetics (N01)",
+        "atc_code": "N01",
+        "children": [
+            {
+                "name": "Anesthetics, local (N01B)",
+                "atc_code": "N01B",
+                "children": [
+                    {
+                        "name": "Other local anesthetics (N01BX)",
+                        "atc_code": "N01BX",
+                        "children": [
+                            {
+                                "name": "Capsaicin (N01BX04)",
+                                "atc_code": "N01BX04",
+                                "children": [
+                                    {
+                                        "name": "Capsaicin",
+                                        "drugbank_id": "DB06774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenol (N01BX03)",
+                                "atc_code": "N01BX03",
+                                "children": [
+                                    {
+                                        "name": "Phenol",
+                                        "drugbank_id": "DB03255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dyclonine (N01BX02)",
+                                "atc_code": "N01BX02",
+                                "children": [
+                                    {
+                                        "name": "Dyclonine",
+                                        "drugbank_id": "DB00645"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethyl chloride (N01BX01)",
+                                "atc_code": "N01BX01",
+                                "children": [
+                                    {
+                                        "name": "Ethyl chloride",
+                                        "drugbank_id": "DB13259"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Esters of benzoic acid (N01BC)",
+                        "atc_code": "N01BC",
+                        "children": [
+                            {
+                                "name": "Cocaine (N01BC01)",
+                                "atc_code": "N01BC01",
+                                "children": [
+                                    {
+                                        "name": "Cocaine",
+                                        "drugbank_id": "DB00907"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amides (N01BB)",
+                        "atc_code": "N01BB",
+                        "children": [
+                            {
+                                "name": "Bupivacaine and meloxicam (N01BB59)",
+                                "atc_code": "N01BB59",
+                                "children": [
+                                    {
+                                        "name": "Bupivacaine",
+                                        "drugbank_id": "DB00297"
+                                    },
+                                    {
+                                        "name": "Meloxicam",
+                                        "drugbank_id": "DB00814"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Articaine, combinations (N01BB58)",
+                                "atc_code": "N01BB58",
+                                "children": [
+                                    {
+                                        "name": "Articaine",
+                                        "drugbank_id": "DB09009"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etidocaine, combinations (N01BB57)",
+                                "atc_code": "N01BB57",
+                                "children": [
+                                    {
+                                        "name": "Etidocaine",
+                                        "drugbank_id": "DB08987"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prilocaine, combinations (N01BB54)",
+                                "atc_code": "N01BB54",
+                                "children": [
+                                    {
+                                        "name": "Prilocaine",
+                                        "drugbank_id": "DB00750"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepivacaine, combinations (N01BB53)",
+                                "atc_code": "N01BB53",
+                                "children": [
+                                    {
+                                        "name": "Mepivacaine",
+                                        "drugbank_id": "DB00961"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine, combinations (N01BB52)",
+                                "atc_code": "N01BB52",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupivacaine, combinations (N01BB51)",
+                                "atc_code": "N01BB51",
+                                "children": [
+                                    {
+                                        "name": "Bupivacaine",
+                                        "drugbank_id": "DB00297"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (N01BB20)",
+                                "atc_code": "N01BB20"
+                            },
+                            {
+                                "name": "Levobupivacaine (N01BB10)",
+                                "atc_code": "N01BB10",
+                                "children": [
+                                    {
+                                        "name": "Levobupivacaine",
+                                        "drugbank_id": "DB01002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ropivacaine (N01BB09)",
+                                "atc_code": "N01BB09",
+                                "children": [
+                                    {
+                                        "name": "Ropivacaine",
+                                        "drugbank_id": "DB00296"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Articaine (N01BB08)",
+                                "atc_code": "N01BB08",
+                                "children": [
+                                    {
+                                        "name": "Articaine",
+                                        "drugbank_id": "DB09009"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etidocaine (N01BB07)",
+                                "atc_code": "N01BB07",
+                                "children": [
+                                    {
+                                        "name": "Etidocaine",
+                                        "drugbank_id": "DB08987"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinchocaine (N01BB06)",
+                                "atc_code": "N01BB06",
+                                "children": [
+                                    {
+                                        "name": "Cinchocaine",
+                                        "drugbank_id": "DB00527"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butanilicaine (N01BB05)",
+                                "atc_code": "N01BB05",
+                                "children": [
+                                    {
+                                        "name": "Butanilicaine",
+                                        "drugbank_id": "DB13328"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prilocaine (N01BB04)",
+                                "atc_code": "N01BB04",
+                                "children": [
+                                    {
+                                        "name": "Prilocaine",
+                                        "drugbank_id": "DB00750"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepivacaine (N01BB03)",
+                                "atc_code": "N01BB03",
+                                "children": [
+                                    {
+                                        "name": "Mepivacaine",
+                                        "drugbank_id": "DB00961"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine (N01BB02)",
+                                "atc_code": "N01BB02",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupivacaine (N01BB01)",
+                                "atc_code": "N01BB01",
+                                "children": [
+                                    {
+                                        "name": "Bupivacaine",
+                                        "drugbank_id": "DB00297"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Esters of aminobenzoic acid (N01BA)",
+                        "atc_code": "N01BA",
+                        "children": [
+                            {
+                                "name": "Tetracaine, combinations (N01BA53)",
+                                "atc_code": "N01BA53",
+                                "children": [
+                                    {
+                                        "name": "Tetracaine",
+                                        "drugbank_id": "DB09085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaine, combinations (N01BA52)",
+                                "atc_code": "N01BA52",
+                                "children": [
+                                    {
+                                        "name": "Procaine",
+                                        "drugbank_id": "DB00721"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzocaine (N01BA05)",
+                                "atc_code": "N01BA05",
+                                "children": [
+                                    {
+                                        "name": "Benzocaine",
+                                        "drugbank_id": "DB01086"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloroprocaine (N01BA04)",
+                                "atc_code": "N01BA04",
+                                "children": [
+                                    {
+                                        "name": "Chloroprocaine",
+                                        "drugbank_id": "DB01161"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracaine (N01BA03)",
+                                "atc_code": "N01BA03",
+                                "children": [
+                                    {
+                                        "name": "Tetracaine",
+                                        "drugbank_id": "DB09085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Procaine (N01BA02)",
+                                "atc_code": "N01BA02",
+                                "children": [
+                                    {
+                                        "name": "Procaine",
+                                        "drugbank_id": "DB00721"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metabutethamine (N01BA01)",
+                                "atc_code": "N01BA01",
+                                "children": [
+                                    {
+                                        "name": "Metabutethamine",
+                                        "drugbank_id": "DB13578"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anesthetics, general (N01A)",
+                "atc_code": "N01A",
+                "children": [
+                    {
+                        "name": "Other general anesthetics (N01AX)",
+                        "atc_code": "N01AX",
+                        "children": [
+                            {
+                                "name": "Nitrous oxide, combinations (N01AX63)",
+                                "atc_code": "N01AX63",
+                                "children": [
+                                    {
+                                        "name": "Nitrous oxide",
+                                        "drugbank_id": "DB06690"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xenon (N01AX15)",
+                                "atc_code": "N01AX15",
+                                "children": [
+                                    {
+                                        "name": "Xenon",
+                                        "drugbank_id": "DB13453"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Esketamine (N01AX14)",
+                                "atc_code": "N01AX14",
+                                "children": [
+                                    {
+                                        "name": "Esketamine",
+                                        "drugbank_id": "DB11823"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrous oxide (N01AX13)",
+                                "atc_code": "N01AX13",
+                                "children": [
+                                    {
+                                        "name": "Nitrous oxide",
+                                        "drugbank_id": "DB06690"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium oxybate (N01AX11)",
+                                "atc_code": "N01AX11",
+                                "children": [
+                                    {
+                                        "name": "Sodium oxybate",
+                                        "drugbank_id": "DB09072"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propofol (N01AX10)",
+                                "atc_code": "N01AX10",
+                                "children": [
+                                    {
+                                        "name": "Propofol",
+                                        "drugbank_id": "DB00818"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etomidate (N01AX07)",
+                                "atc_code": "N01AX07",
+                                "children": [
+                                    {
+                                        "name": "Etomidate",
+                                        "drugbank_id": "DB00292"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfaxalone (N01AX05)",
+                                "atc_code": "N01AX05",
+                                "children": [
+                                    {
+                                        "name": "Alfaxalone",
+                                        "drugbank_id": "DB11371"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propanidid (N01AX04)",
+                                "atc_code": "N01AX04",
+                                "children": [
+                                    {
+                                        "name": "Propanidid",
+                                        "drugbank_id": "DB13234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketamine (N01AX03)",
+                                "atc_code": "N01AX03",
+                                "children": [
+                                    {
+                                        "name": "Ketamine",
+                                        "drugbank_id": "DB01221"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opioid anesthetics (N01AH)",
+                        "atc_code": "N01AH",
+                        "children": [
+                            {
+                                "name": "Fentanyl, combinations (N01AH51)",
+                                "atc_code": "N01AH51",
+                                "children": [
+                                    {
+                                        "name": "Fentanyl",
+                                        "drugbank_id": "DB00813"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Remifentanil (N01AH06)",
+                                "atc_code": "N01AH06",
+                                "children": [
+                                    {
+                                        "name": "Remifentanil",
+                                        "drugbank_id": "DB00899"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anileridine (N01AH05)",
+                                "atc_code": "N01AH05",
+                                "children": [
+                                    {
+                                        "name": "Anileridine",
+                                        "drugbank_id": "DB00913"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenoperidine (N01AH04)",
+                                "atc_code": "N01AH04",
+                                "children": [
+                                    {
+                                        "name": "Phenoperidine",
+                                        "drugbank_id": "DB13605"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sufentanil (N01AH03)",
+                                "atc_code": "N01AH03",
+                                "children": [
+                                    {
+                                        "name": "Sufentanil",
+                                        "drugbank_id": "DB00708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfentanil (N01AH02)",
+                                "atc_code": "N01AH02",
+                                "children": [
+                                    {
+                                        "name": "Alfentanil",
+                                        "drugbank_id": "DB00802"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fentanyl (N01AH01)",
+                                "atc_code": "N01AH01",
+                                "children": [
+                                    {
+                                        "name": "Fentanyl",
+                                        "drugbank_id": "DB00813"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barbiturates in combination with other drugs (N01AG)",
+                        "atc_code": "N01AG",
+                        "children": [
+                            {
+                                "name": "Narcobarbital (N01AG01)",
+                                "atc_code": "N01AG01",
+                                "children": [
+                                    {
+                                        "name": "Enibomal",
+                                        "drugbank_id": "DB13229"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barbiturates, plain (N01AF)",
+                        "atc_code": "N01AF",
+                        "children": [
+                            {
+                                "name": "Thiopental (N01AF03)",
+                                "atc_code": "N01AF03",
+                                "children": [
+                                    {
+                                        "name": "Thiopental",
+                                        "drugbank_id": "DB00599"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexobarbital (N01AF02)",
+                                "atc_code": "N01AF02",
+                                "children": [
+                                    {
+                                        "name": "Hexobarbital",
+                                        "drugbank_id": "DB01355"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methohexital (N01AF01)",
+                                "atc_code": "N01AF01",
+                                "children": [
+                                    {
+                                        "name": "Methohexital",
+                                        "drugbank_id": "DB00474"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Halogenated hydrocarbons (N01AB)",
+                        "atc_code": "N01AB",
+                        "children": [
+                            {
+                                "name": "Sevoflurane (N01AB08)",
+                                "atc_code": "N01AB08",
+                                "children": [
+                                    {
+                                        "name": "Sevoflurane",
+                                        "drugbank_id": "DB01236"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desflurane (N01AB07)",
+                                "atc_code": "N01AB07",
+                                "children": [
+                                    {
+                                        "name": "Desflurane",
+                                        "drugbank_id": "DB01189"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoflurane (N01AB06)",
+                                "atc_code": "N01AB06",
+                                "children": [
+                                    {
+                                        "name": "Isoflurane",
+                                        "drugbank_id": "DB00753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trichloroethylene (N01AB05)",
+                                "atc_code": "N01AB05",
+                                "children": [
+                                    {
+                                        "name": "Trichloroethylene",
+                                        "drugbank_id": "DB13323"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enflurane (N01AB04)",
+                                "atc_code": "N01AB04",
+                                "children": [
+                                    {
+                                        "name": "Enflurane",
+                                        "drugbank_id": "DB00228"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloroform (N01AB02)",
+                                "atc_code": "N01AB02",
+                                "children": [
+                                    {
+                                        "name": "Chloroform",
+                                        "drugbank_id": "DB11387"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Halothane (N01AB01)",
+                                "atc_code": "N01AB01",
+                                "children": [
+                                    {
+                                        "name": "Halothane",
+                                        "drugbank_id": "DB01159"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ethers (N01AA)",
+                        "atc_code": "N01AA",
+                        "children": [
+                            {
+                                "name": "Vinyl ether (N01AA02)",
+                                "atc_code": "N01AA02",
+                                "children": [
+                                    {
+                                        "name": "Vinyl ether",
+                                        "drugbank_id": "DB13690"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diethyl ether (N01AA01)",
+                                "atc_code": "N01AA01",
+                                "children": [
+                                    {
+                                        "name": "Diethyl ether",
+                                        "drugbank_id": "DB13598"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

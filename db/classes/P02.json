@@ -1,0 +1,356 @@
+[
+    {
+        "name": "Anthelmintics (P02)",
+        "atc_code": "P02",
+        "children": [
+            {
+                "name": "Anticestodals (P02D)",
+                "atc_code": "P02D",
+                "children": [
+                    {
+                        "name": "Other anticestodals (P02DX)",
+                        "atc_code": "P02DX",
+                        "children": [
+                            {
+                                "name": "Dichlorophen (P02DX02)",
+                                "atc_code": "P02DX02",
+                                "children": [
+                                    {
+                                        "name": "Dichlorophen",
+                                        "drugbank_id": "DB11396"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desaspidin (P02DX01)",
+                                "atc_code": "P02DX01",
+                                "children": [
+                                    {
+                                        "name": "Desaspidin",
+                                        "drugbank_id": "DB13567"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salicylic acid derivatives (P02DA)",
+                        "atc_code": "P02DA",
+                        "children": [
+                            {
+                                "name": "Niclosamide (P02DA01)",
+                                "atc_code": "P02DA01",
+                                "children": [
+                                    {
+                                        "name": "Niclosamide",
+                                        "drugbank_id": "DB06803"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antinematodal agents (P02C)",
+                "atc_code": "P02C",
+                "children": [
+                    {
+                        "name": "Other antinematodals (P02CX)",
+                        "atc_code": "P02CX",
+                        "children": [
+                            {
+                                "name": "Moxidectin (P02CX03)",
+                                "atc_code": "P02CX03",
+                                "children": [
+                                    {
+                                        "name": "Moxidectin",
+                                        "drugbank_id": "DB11431"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bephenium (P02CX02)",
+                                "atc_code": "P02CX02",
+                                "children": [
+                                    {
+                                        "name": "Bephenium",
+                                        "drugbank_id": "DB13462"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrvinium (P02CX01)",
+                                "atc_code": "P02CX01",
+                                "children": [
+                                    {
+                                        "name": "Pyrvinium",
+                                        "drugbank_id": "DB06816"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Avermectines (P02CF)",
+                        "atc_code": "P02CF",
+                        "children": [
+                            {
+                                "name": "Ivermectin (P02CF01)",
+                                "atc_code": "P02CF01",
+                                "children": [
+                                    {
+                                        "name": "Ivermectin",
+                                        "drugbank_id": "DB00602"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazothiazole derivatives (P02CE)",
+                        "atc_code": "P02CE",
+                        "children": [
+                            {
+                                "name": "Levamisole (P02CE01)",
+                                "atc_code": "P02CE01",
+                                "children": [
+                                    {
+                                        "name": "Levamisole",
+                                        "drugbank_id": "DB00848"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tetrahydropyrimidine derivatives (P02CC)",
+                        "atc_code": "P02CC",
+                        "children": [
+                            {
+                                "name": "Oxantel (P02CC02)",
+                                "atc_code": "P02CC02",
+                                "children": [
+                                    {
+                                        "name": "Oxantel",
+                                        "drugbank_id": "DB13670"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pyrantel (P02CC01)",
+                                "atc_code": "P02CC01",
+                                "children": [
+                                    {
+                                        "name": "Pyrantel",
+                                        "drugbank_id": "DB11156"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Piperazine and derivatives (P02CB)",
+                        "atc_code": "P02CB",
+                        "children": [
+                            {
+                                "name": "Diethylcarbamazine (P02CB02)",
+                                "atc_code": "P02CB02",
+                                "children": [
+                                    {
+                                        "name": "Diethylcarbamazine",
+                                        "drugbank_id": "DB00711"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piperazine (P02CB01)",
+                                "atc_code": "P02CB01",
+                                "children": [
+                                    {
+                                        "name": "Piperazine",
+                                        "drugbank_id": "DB00592"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzimidazole derivatives (P02CA)",
+                        "atc_code": "P02CA",
+                        "children": [
+                            {
+                                "name": "Mebendazole, combinations (P02CA51)",
+                                "atc_code": "P02CA51",
+                                "children": [
+                                    {
+                                        "name": "Mebendazole",
+                                        "drugbank_id": "DB00643"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenbendazole (P02CA06)",
+                                "atc_code": "P02CA06",
+                                "children": [
+                                    {
+                                        "name": "Fenbendazole",
+                                        "drugbank_id": "DB11410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flubendazole (P02CA05)",
+                                "atc_code": "P02CA05",
+                                "children": [
+                                    {
+                                        "name": "Flubendazole",
+                                        "drugbank_id": "DB08974"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclobendazole (P02CA04)",
+                                "atc_code": "P02CA04",
+                                "children": [
+                                    {
+                                        "name": "Ciclobendazole",
+                                        "drugbank_id": "DB13465"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Albendazole (P02CA03)",
+                                "atc_code": "P02CA03",
+                                "children": [
+                                    {
+                                        "name": "Albendazole",
+                                        "drugbank_id": "DB00518"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiabendazole (P02CA02)",
+                                "atc_code": "P02CA02",
+                                "children": [
+                                    {
+                                        "name": "Thiabendazole",
+                                        "drugbank_id": "DB00730"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mebendazole (P02CA01)",
+                                "atc_code": "P02CA01",
+                                "children": [
+                                    {
+                                        "name": "Mebendazole",
+                                        "drugbank_id": "DB00643"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antitrematodals (P02B)",
+                "atc_code": "P02B",
+                "children": [
+                    {
+                        "name": "Other antitrematodal agents (P02BX)",
+                        "atc_code": "P02BX",
+                        "children": [
+                            {
+                                "name": "Triclabendazole (P02BX04)",
+                                "atc_code": "P02BX04",
+                                "children": [
+                                    {
+                                        "name": "Triclabendazole",
+                                        "drugbank_id": "DB12245"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stibophen (P02BX03)",
+                                "atc_code": "P02BX03",
+                                "children": [
+                                    {
+                                        "name": "Stibophen",
+                                        "drugbank_id": "DB13236"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Niridazole (P02BX02)",
+                                "atc_code": "P02BX02",
+                                "children": [
+                                    {
+                                        "name": "Niridazole",
+                                        "drugbank_id": "DB13661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bithionol (P02BX01)",
+                                "atc_code": "P02BX01",
+                                "children": [
+                                    {
+                                        "name": "Bithionol",
+                                        "drugbank_id": "DB04813"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Organophosphorous compounds (P02BB)",
+                        "atc_code": "P02BB",
+                        "children": [
+                            {
+                                "name": "Metrifonate (P02BB01)",
+                                "atc_code": "P02BB01",
+                                "children": [
+                                    {
+                                        "name": "Metrifonate",
+                                        "drugbank_id": "DB11473"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quinoline derivatives and related substances (P02BA)",
+                        "atc_code": "P02BA",
+                        "children": [
+                            {
+                                "name": "Arpraziquantel (P02BA03)",
+                                "atc_code": "P02BA03"
+                            },
+                            {
+                                "name": "Oxamniquine (P02BA02)",
+                                "atc_code": "P02BA02",
+                                "children": [
+                                    {
+                                        "name": "Oxamniquine",
+                                        "drugbank_id": "DB01096"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Praziquantel (P02BA01)",
+                                "atc_code": "P02BA01",
+                                "children": [
+                                    {
+                                        "name": "Praziquantel",
+                                        "drugbank_id": "DB01058"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Anabolic agents for systemic use (A14)",
+        "atc_code": "A14",
+        "children": [
+            {
+                "name": "Other anabolic agents (A14B)",
+                "atc_code": "A14B"
+            },
+            {
+                "name": "Anabolic steroids (A14A)",
+                "atc_code": "A14A",
+                "children": [
+                    {
+                        "name": "Estren derivatives (A14AB)",
+                        "atc_code": "A14AB",
+                        "children": [
+                            {
+                                "name": "Oxabolone cipionate (A14AB03)",
+                                "atc_code": "A14AB03",
+                                "children": [
+                                    {
+                                        "name": "Oxabolone cipionate",
+                                        "drugbank_id": "DB13185"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethylestrenol (A14AB02)",
+                                "atc_code": "A14AB02",
+                                "children": [
+                                    {
+                                        "name": "Ethylestrenol",
+                                        "drugbank_id": "DB01493"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nandrolone (A14AB01)",
+                                "atc_code": "A14AB01",
+                                "children": [
+                                    {
+                                        "name": "Nandrolone",
+                                        "drugbank_id": "DB13169"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Androstan derivatives (A14AA)",
+                        "atc_code": "A14AA",
+                        "children": [
+                            {
+                                "name": "Norethandrolone (A14AA09)",
+                                "atc_code": "A14AA09",
+                                "children": [
+                                    {
+                                        "name": "Norethandrolone",
+                                        "drugbank_id": "DB12787"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxandrolone (A14AA08)",
+                                "atc_code": "A14AA08",
+                                "children": [
+                                    {
+                                        "name": "Oxandrolone",
+                                        "drugbank_id": "DB00621"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prasterone (A14AA07)",
+                                "atc_code": "A14AA07",
+                                "children": [
+                                    {
+                                        "name": "Prasterone",
+                                        "drugbank_id": "DB01708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinbolone (A14AA06)",
+                                "atc_code": "A14AA06",
+                                "children": [
+                                    {
+                                        "name": "Quinbolone",
+                                        "drugbank_id": "DB13484"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxymetholone (A14AA05)",
+                                "atc_code": "A14AA05",
+                                "children": [
+                                    {
+                                        "name": "Oxymetholone",
+                                        "drugbank_id": "DB06412"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metenolone (A14AA04)",
+                                "atc_code": "A14AA04",
+                                "children": [
+                                    {
+                                        "name": "Metenolone",
+                                        "drugbank_id": "DB13710"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metandienone (A14AA03)",
+                                "atc_code": "A14AA03",
+                                "children": [
+                                    {
+                                        "name": "Metandienone",
+                                        "drugbank_id": "DB13586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stanozolol (A14AA02)",
+                                "atc_code": "A14AA02",
+                                "children": [
+                                    {
+                                        "name": "Stanozolol",
+                                        "drugbank_id": "DB06718"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Androstanolone (A14AA01)",
+                                "atc_code": "A14AA01",
+                                "children": [
+                                    {
+                                        "name": "Stanolone",
+                                        "drugbank_id": "DB02901"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

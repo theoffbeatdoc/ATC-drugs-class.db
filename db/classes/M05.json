@@ -1,0 +1,370 @@
+[
+    {
+        "name": "Drugs for treatment of bone diseases (M05)",
+        "atc_code": "M05",
+        "children": [
+            {
+                "name": "Drugs affecting bone structure and mineralization (M05B)",
+                "atc_code": "M05B",
+                "children": [
+                    {
+                        "name": "Other drugs affecting bone structure and mineralization (M05BX)",
+                        "atc_code": "M05BX",
+                        "children": [
+                            {
+                                "name": "Menatetrenone (M05BX08)",
+                                "atc_code": "M05BX08",
+                                "children": [
+                                    {
+                                        "name": "Menatetrenone",
+                                        "drugbank_id": "DB12148"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vosoritide (M05BX07)",
+                                "atc_code": "M05BX07",
+                                "children": [
+                                    {
+                                        "name": "Vosoritide",
+                                        "drugbank_id": "DB11928"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Romosozumab (M05BX06)",
+                                "atc_code": "M05BX06",
+                                "children": [
+                                    {
+                                        "name": "Romosozumab",
+                                        "drugbank_id": "DB11866"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Burosumab (M05BX05)",
+                                "atc_code": "M05BX05",
+                                "children": [
+                                    {
+                                        "name": "Burosumab",
+                                        "drugbank_id": "DB14012"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Strontium ranelate and colecalciferol (M05BX53)",
+                                "atc_code": "M05BX53",
+                                "children": [
+                                    {
+                                        "name": "Strontium ranelate",
+                                        "drugbank_id": "DB09267"
+                                    },
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Denosumab (M05BX04)",
+                                "atc_code": "M05BX04",
+                                "children": [
+                                    {
+                                        "name": "Denosumab",
+                                        "drugbank_id": "DB06643"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Strontium ranelate (M05BX03)",
+                                "atc_code": "M05BX03",
+                                "children": [
+                                    {
+                                        "name": "Strontium ranelate",
+                                        "drugbank_id": "DB09267"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aluminium chlorohydrate (M05BX02)",
+                                "atc_code": "M05BX02",
+                                "children": [
+                                    {
+                                        "name": "Aluminum chlorohydrate",
+                                        "drugbank_id": "DB11573"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ipriflavone (M05BX01)",
+                                "atc_code": "M05BX01",
+                                "children": [
+                                    {
+                                        "name": "Ipriflavone",
+                                        "drugbank_id": "DB13618"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bone morphogenetic proteins (M05BC)",
+                        "atc_code": "M05BC",
+                        "children": [
+                            {
+                                "name": "Eptotermin alfa (M05BC02)",
+                                "atc_code": "M05BC02",
+                                "children": [
+                                    {
+                                        "name": "Eptotermin alfa",
+                                        "drugbank_id": "DB11631"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dibotermin alfa (M05BC01)",
+                                "atc_code": "M05BC01",
+                                "children": [
+                                    {
+                                        "name": "Dibotermin alfa",
+                                        "drugbank_id": "DB11639"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bisphosphonates, combinations (M05BB)",
+                        "atc_code": "M05BB",
+                        "children": [
+                            {
+                                "name": "Ibandronic acid and colecalciferol (M05BB09)",
+                                "atc_code": "M05BB09",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    },
+                                    {
+                                        "name": "Ibandronate",
+                                        "drugbank_id": "DB00710"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zoledronic acid, calcium and colecalciferol, sequential (M05BB08)",
+                                "atc_code": "M05BB08",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    },
+                                    {
+                                        "name": "Zoledronic acid",
+                                        "drugbank_id": "DB00399"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risedronic acid and colecalciferol (M05BB07)",
+                                "atc_code": "M05BB07",
+                                "children": [
+                                    {
+                                        "name": "Risedronic acid",
+                                        "drugbank_id": "DB00884"
+                                    },
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alendronic acid and alfacalcidol, sequential (M05BB06)",
+                                "atc_code": "M05BB06",
+                                "children": [
+                                    {
+                                        "name": "Alfacalcidol",
+                                        "drugbank_id": "DB01436"
+                                    },
+                                    {
+                                        "name": "Alendronic acid",
+                                        "drugbank_id": "DB00630"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alendronic acid, calcium and colecalciferol, sequential (M05BB05)",
+                                "atc_code": "M05BB05",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    },
+                                    {
+                                        "name": "Alendronic acid",
+                                        "drugbank_id": "DB00630"
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risedronic acid, calcium and colecalciferol, sequential (M05BB04)",
+                                "atc_code": "M05BB04",
+                                "children": [
+                                    {
+                                        "name": "Risedronic acid",
+                                        "drugbank_id": "DB00884"
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    },
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alendronic acid and colecalciferol (M05BB03)",
+                                "atc_code": "M05BB03",
+                                "children": [
+                                    {
+                                        "name": "Cholecalciferol",
+                                        "drugbank_id": "DB00169"
+                                    },
+                                    {
+                                        "name": "Alendronic acid",
+                                        "drugbank_id": "DB00630"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risedronic acid and calcium, sequential (M05BB02)",
+                                "atc_code": "M05BB02",
+                                "children": [
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    },
+                                    {
+                                        "name": "Risedronic acid",
+                                        "drugbank_id": "DB00884"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etidronic acid and calcium, sequential (M05BB01)",
+                                "atc_code": "M05BB01",
+                                "children": [
+                                    {
+                                        "name": "Calcium",
+                                        "drugbank_id": "DB01373"
+                                    },
+                                    {
+                                        "name": "Etidronic acid",
+                                        "drugbank_id": "DB01077"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bisphosphonates (M05BA)",
+                        "atc_code": "M05BA",
+                        "children": [
+                            {
+                                "name": "Zoledronic acid (M05BA08)",
+                                "atc_code": "M05BA08",
+                                "children": [
+                                    {
+                                        "name": "Zoledronic acid",
+                                        "drugbank_id": "DB00399"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risedronic acid (M05BA07)",
+                                "atc_code": "M05BA07",
+                                "children": [
+                                    {
+                                        "name": "Risedronic acid",
+                                        "drugbank_id": "DB00884"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibandronic acid (M05BA06)",
+                                "atc_code": "M05BA06",
+                                "children": [
+                                    {
+                                        "name": "Ibandronate",
+                                        "drugbank_id": "DB00710"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tiludronic acid (M05BA05)",
+                                "atc_code": "M05BA05",
+                                "children": [
+                                    {
+                                        "name": "Tiludronic acid",
+                                        "drugbank_id": "DB01133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alendronic acid (M05BA04)",
+                                "atc_code": "M05BA04",
+                                "children": [
+                                    {
+                                        "name": "Alendronic acid",
+                                        "drugbank_id": "DB00630"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pamidronic acid (M05BA03)",
+                                "atc_code": "M05BA03",
+                                "children": [
+                                    {
+                                        "name": "Pamidronic acid",
+                                        "drugbank_id": "DB00282"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clodronic acid (M05BA02)",
+                                "atc_code": "M05BA02",
+                                "children": [
+                                    {
+                                        "name": "Clodronic acid",
+                                        "drugbank_id": "DB00720"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etidronic acid (M05BA01)",
+                                "atc_code": "M05BA01",
+                                "children": [
+                                    {
+                                        "name": "Etidronic acid",
+                                        "drugbank_id": "DB01077"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

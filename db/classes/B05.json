@@ -1,0 +1,698 @@
+[
+    {
+        "name": "Blood substitutes and perfusion solutions (B05)",
+        "atc_code": "B05",
+        "children": [
+            {
+                "name": "Hemodialytics and hemofiltrates (B05Z)",
+                "atc_code": "B05Z",
+                "children": [
+                    {
+                        "name": "Hemofiltrates (B05ZB)",
+                        "atc_code": "B05ZB"
+                    },
+                    {
+                        "name": "Hemodialytics, concentrates (B05ZA)",
+                        "atc_code": "B05ZA"
+                    }
+                ]
+            },
+            {
+                "name": "I.v. solution additives (B05X)",
+                "atc_code": "B05X",
+                "children": [
+                    {
+                        "name": "Other i.v. solution additives (B05XX)",
+                        "atc_code": "B05XX",
+                        "children": [
+                            {
+                                "name": "Trometamol (B05XX02)",
+                                "atc_code": "B05XX02",
+                                "children": [
+                                    {
+                                        "name": "Tromethamine",
+                                        "drugbank_id": "DB03754"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitamins (B05XC)",
+                        "atc_code": "B05XC"
+                    },
+                    {
+                        "name": "Amino acids (B05XB)",
+                        "atc_code": "B05XB",
+                        "children": [
+                            {
+                                "name": "Lysine (B05XB03)",
+                                "atc_code": "B05XB03",
+                                "children": [
+                                    {
+                                        "name": "Lysine",
+                                        "drugbank_id": "DB00123"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alanyl glutamine (B05XB02)",
+                                "atc_code": "B05XB02",
+                                "children": [
+                                    {
+                                        "name": "Alanyl glutamine",
+                                        "drugbank_id": "DB11876"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arginine hydrochloride (B05XB01)",
+                                "atc_code": "B05XB01",
+                                "children": [
+                                    {
+                                        "name": "Arginine",
+                                        "drugbank_id": "DB00125"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electrolyte solutions (B05XA)",
+                        "atc_code": "B05XA",
+                        "children": [
+                            {
+                                "name": "Sodium selenite (B05XA20)",
+                                "atc_code": "B05XA20",
+                                "children": [
+                                    {
+                                        "name": "Selenious acid",
+                                        "drugbank_id": "DB11127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium gluconate (B05XA19)",
+                                "atc_code": "B05XA19",
+                                "children": [
+                                    {
+                                        "name": "Calcium gluconate",
+                                        "drugbank_id": "DB11126"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zinc sulfate (B05XA18)",
+                                "atc_code": "B05XA18",
+                                "children": [
+                                    {
+                                        "name": "Zinc sulfate",
+                                        "drugbank_id": "DB09322"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Electrolytes in combination with other drugs (B05XA31)",
+                                "atc_code": "B05XA31"
+                            },
+                            {
+                                "name": "Combinations of electrolytes (B05XA30)",
+                                "atc_code": "B05XA30"
+                            },
+                            {
+                                "name": "Potassium acetate (B05XA17)",
+                                "atc_code": "B05XA17",
+                                "children": [
+                                    {
+                                        "name": "Potassium acetate",
+                                        "drugbank_id": "DB14498"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cardioplegia solutions (B05XA16)",
+                                "atc_code": "B05XA16"
+                            },
+                            {
+                                "name": "Potassium lactate (B05XA15)",
+                                "atc_code": "B05XA15",
+                                "children": [
+                                    {
+                                        "name": "Potassium lactate",
+                                        "drugbank_id": "DB09483"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium glycerophosphate (B05XA14)",
+                                "atc_code": "B05XA14",
+                                "children": [
+                                    {
+                                        "name": "Sodium glycerophosphate",
+                                        "drugbank_id": "DB09561"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrochloric acid (B05XA13)",
+                                "atc_code": "B05XA13",
+                                "children": [
+                                    {
+                                        "name": "Hydrochloric acid",
+                                        "drugbank_id": "DB13366"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zinc chloride (B05XA12)",
+                                "atc_code": "B05XA12",
+                                "children": [
+                                    {
+                                        "name": "Zinc chloride",
+                                        "drugbank_id": "DB14533"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium chloride (B05XA11)",
+                                "atc_code": "B05XA11",
+                                "children": [
+                                    {
+                                        "name": "Magnesium chloride",
+                                        "drugbank_id": "DB09407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium phosphate (B05XA10)",
+                                "atc_code": "B05XA10",
+                                "children": [
+                                    {
+                                        "name": "Magnesium phosphate",
+                                        "drugbank_id": "DB13862"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phosphate (B05XA09)",
+                                "atc_code": "B05XA09",
+                                "children": [
+                                    {
+                                        "name": "Sodium phosphate, monobasic",
+                                        "drugbank_id": "DB09449"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium acetate (B05XA08)",
+                                "atc_code": "B05XA08",
+                                "children": [
+                                    {
+                                        "name": "Sodium acetate",
+                                        "drugbank_id": "DB09395"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium chloride (B05XA07)",
+                                "atc_code": "B05XA07",
+                                "children": [
+                                    {
+                                        "name": "Calcium chloride",
+                                        "drugbank_id": "DB01164"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium phosphate, incl. combinations with other potassium salts (B05XA06)",
+                                "atc_code": "B05XA06"
+                            },
+                            {
+                                "name": "Magnesium sulfate (B05XA05)",
+                                "atc_code": "B05XA05",
+                                "children": [
+                                    {
+                                        "name": "Magnesium sulfate",
+                                        "drugbank_id": "DB00653"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ammonium chloride (B05XA04)",
+                                "atc_code": "B05XA04",
+                                "children": [
+                                    {
+                                        "name": "Ammonium chloride",
+                                        "drugbank_id": "DB06767"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium chloride (B05XA03)",
+                                "atc_code": "B05XA03",
+                                "children": [
+                                    {
+                                        "name": "Sodium chloride",
+                                        "drugbank_id": "DB09153"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium bicarbonate (B05XA02)",
+                                "atc_code": "B05XA02",
+                                "children": [
+                                    {
+                                        "name": "Sodium bicarbonate",
+                                        "drugbank_id": "DB01390"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium chloride (B05XA01)",
+                                "atc_code": "B05XA01",
+                                "children": [
+                                    {
+                                        "name": "Potassium chloride",
+                                        "drugbank_id": "DB00761"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Peritoneal dialytics (B05D)",
+                "atc_code": "B05D",
+                "children": [
+                    {
+                        "name": "Hypertonic solutions (B05DB)",
+                        "atc_code": "B05DB"
+                    },
+                    {
+                        "name": "Isotonic solutions (B05DA)",
+                        "atc_code": "B05DA"
+                    }
+                ]
+            },
+            {
+                "name": "Irrigating solutions (B05C)",
+                "atc_code": "B05C",
+                "children": [
+                    {
+                        "name": "Other irrigating solutions (B05CX)",
+                        "atc_code": "B05CX",
+                        "children": [
+                            {
+                                "name": "Combinations (B05CX10)",
+                                "atc_code": "B05CX10"
+                            },
+                            {
+                                "name": "Mannitol (B05CX04)",
+                                "atc_code": "B05CX04",
+                                "children": [
+                                    {
+                                        "name": "Mannitol",
+                                        "drugbank_id": "DB00742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glycine (B05CX03)",
+                                "atc_code": "B05CX03",
+                                "children": [
+                                    {
+                                        "name": "Glycine",
+                                        "drugbank_id": "DB00145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sorbitol (B05CX02)",
+                                "atc_code": "B05CX02",
+                                "children": [
+                                    {
+                                        "name": "Sorbitol",
+                                        "drugbank_id": "DB01638"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glucose (B05CX01)",
+                                "atc_code": "B05CX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salt solutions (B05CB)",
+                        "atc_code": "B05CB",
+                        "children": [
+                            {
+                                "name": "Combinations (B05CB10)",
+                                "atc_code": "B05CB10"
+                            },
+                            {
+                                "name": "Sodium bicarbonate (B05CB04)",
+                                "atc_code": "B05CB04",
+                                "children": [
+                                    {
+                                        "name": "Sodium bicarbonate",
+                                        "drugbank_id": "DB01390"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Magnesium citrate (B05CB03)",
+                                "atc_code": "B05CB03",
+                                "children": [
+                                    {
+                                        "name": "Magnesium citrate",
+                                        "drugbank_id": "DB11110"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium citrate (B05CB02)",
+                                "atc_code": "B05CB02",
+                                "children": [
+                                    {
+                                        "name": "Sodium citrate",
+                                        "drugbank_id": "DB09154"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium chloride (B05CB01)",
+                                "atc_code": "B05CB01",
+                                "children": [
+                                    {
+                                        "name": "Sodium chloride",
+                                        "drugbank_id": "DB09153"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiinfectives (B05CA)",
+                        "atc_code": "B05CA",
+                        "children": [
+                            {
+                                "name": "Combinations (B05CA10)",
+                                "atc_code": "B05CA10"
+                            },
+                            {
+                                "name": "Neomycin (B05CA09)",
+                                "atc_code": "B05CA09",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethacridine lactate (B05CA08)",
+                                "atc_code": "B05CA08",
+                                "children": [
+                                    {
+                                        "name": "Ethacridine",
+                                        "drugbank_id": "DB13190"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Noxytiolin (B05CA07)",
+                                "atc_code": "B05CA07",
+                                "children": [
+                                    {
+                                        "name": "Noxytiolin",
+                                        "drugbank_id": "DB13838"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mandelic acid (B05CA06)",
+                                "atc_code": "B05CA06",
+                                "children": [
+                                    {
+                                        "name": "Mandelic acid",
+                                        "drugbank_id": "DB13218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Taurolidine (B05CA05)",
+                                "atc_code": "B05CA05",
+                                "children": [
+                                    {
+                                        "name": "Taurolidine",
+                                        "drugbank_id": "DB12473"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethizole (B05CA04)",
+                                "atc_code": "B05CA04",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethizole",
+                                        "drugbank_id": "DB00576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nitrofural (B05CA03)",
+                                "atc_code": "B05CA03",
+                                "children": [
+                                    {
+                                        "name": "Nitrofural",
+                                        "drugbank_id": "DB00336"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (B05CA02)",
+                                "atc_code": "B05CA02",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetylpyridinium (B05CA01)",
+                                "atc_code": "B05CA01",
+                                "children": [
+                                    {
+                                        "name": "Cetylpyridinium",
+                                        "drugbank_id": "DB11073"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "I.v. solutions (B05B)",
+                "atc_code": "B05B",
+                "children": [
+                    {
+                        "name": "Solutions producing osmotic diuresis (B05BC)",
+                        "atc_code": "B05BC",
+                        "children": [
+                            {
+                                "name": "Carbamide (B05BC02)",
+                                "atc_code": "B05BC02",
+                                "children": [
+                                    {
+                                        "name": "Urea",
+                                        "drugbank_id": "DB03904"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mannitol (B05BC01)",
+                                "atc_code": "B05BC01",
+                                "children": [
+                                    {
+                                        "name": "Mannitol",
+                                        "drugbank_id": "DB00742"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Solutions affecting the electrolyte balance (B05BB)",
+                        "atc_code": "B05BB",
+                        "children": [
+                            {
+                                "name": "Electrolytes in combination with other drugs (B05BB04)",
+                                "atc_code": "B05BB04"
+                            },
+                            {
+                                "name": "Trometamol (B05BB03)",
+                                "atc_code": "B05BB03",
+                                "children": [
+                                    {
+                                        "name": "Tromethamine",
+                                        "drugbank_id": "DB03754"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Electrolytes with carbohydrates (B05BB02)",
+                                "atc_code": "B05BB02"
+                            },
+                            {
+                                "name": "Electrolytes (B05BB01)",
+                                "atc_code": "B05BB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Solutions for parenteral nutrition (B05BA)",
+                        "atc_code": "B05BA",
+                        "children": [
+                            {
+                                "name": "Combinations (B05BA10)",
+                                "atc_code": "B05BA10"
+                            },
+                            {
+                                "name": "Protein hydrolysates (B05BA04)",
+                                "atc_code": "B05BA04"
+                            },
+                            {
+                                "name": "Carbohydrates (B05BA03)",
+                                "atc_code": "B05BA03"
+                            },
+                            {
+                                "name": "Fat emulsions (B05BA02)",
+                                "atc_code": "B05BA02"
+                            },
+                            {
+                                "name": "Amino acids (B05BA01)",
+                                "atc_code": "B05BA01",
+                                "children": [
+                                    {
+                                        "name": "Amino acids",
+                                        "drugbank_id": "DB09393"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blood and related products (B05A)",
+                "atc_code": "B05A",
+                "children": [
+                    {
+                        "name": "Other blood products (B05AX)",
+                        "atc_code": "B05AX",
+                        "children": [
+                            {
+                                "name": "Stem cells from umbilical cord blood (B05AX04)",
+                                "atc_code": "B05AX04"
+                            },
+                            {
+                                "name": "Blood plasma (B05AX03)",
+                                "atc_code": "B05AX03"
+                            },
+                            {
+                                "name": "Thrombocytes (B05AX02)",
+                                "atc_code": "B05AX02"
+                            },
+                            {
+                                "name": "Erythrocytes (B05AX01)",
+                                "atc_code": "B05AX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blood substitutes and plasma protein fractions (B05AA)",
+                        "atc_code": "B05AA",
+                        "children": [
+                            {
+                                "name": "Hemoglobin glutamer (bovine) (B05AA10)",
+                                "atc_code": "B05AA10"
+                            },
+                            {
+                                "name": "Hemoglobin raffimer (B05AA09)",
+                                "atc_code": "B05AA09",
+                                "children": [
+                                    {
+                                        "name": "Hemoglobin raffimer",
+                                        "drugbank_id": "DB13658"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hemoglobin crosfumaril (B05AA08)",
+                                "atc_code": "B05AA08",
+                                "children": [
+                                    {
+                                        "name": "Hemoglobin crosfumaril",
+                                        "drugbank_id": "DB13864"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroxyethylstarch (B05AA07)",
+                                "atc_code": "B05AA07",
+                                "children": [
+                                    {
+                                        "name": "Hydroxyethyl Starch",
+                                        "drugbank_id": "DB09106"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gelatin agents (B05AA06)",
+                                "atc_code": "B05AA06",
+                                "children": [
+                                    {
+                                        "name": "Gelatin",
+                                        "drugbank_id": "DB11242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextran (B05AA05)",
+                                "atc_code": "B05AA05",
+                                "children": [
+                                    {
+                                        "name": "Dextran",
+                                        "drugbank_id": "DB09255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluorocarbon blood substitutes (B05AA03)",
+                                "atc_code": "B05AA03"
+                            },
+                            {
+                                "name": "Other plasma protein fractions (B05AA02)",
+                                "atc_code": "B05AA02"
+                            },
+                            {
+                                "name": "Albumin (B05AA01)",
+                                "atc_code": "B05AA01",
+                                "children": [
+                                    {
+                                        "name": "Albumin human",
+                                        "drugbank_id": "DB00062"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

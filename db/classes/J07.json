@@ -1,0 +1,684 @@
+[
+    {
+        "name": "Vaccines (J07)",
+        "atc_code": "J07",
+        "children": [
+            {
+                "name": "Other vaccines (J07X)",
+                "atc_code": "J07X",
+                "children": [
+                    {
+                        "name": "Parasitic vaccines (J07XA)",
+                        "atc_code": "J07XA",
+                        "children": [
+                            {
+                                "name": "Malaria vaccines (J07XA01)",
+                                "atc_code": "J07XA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bacterial and viral vaccines, combined (J07C)",
+                "atc_code": "J07C",
+                "children": [
+                    {
+                        "name": "Bacterial and viral vaccines, combined (J07CA)",
+                        "atc_code": "J07CA",
+                        "children": [
+                            {
+                                "name": "Diphtheria-haemophilus influenzae b-pertussis-tetanus-hepatitis b-meningococcus a + c (J07CA13)",
+                                "atc_code": "J07CA13"
+                            },
+                            {
+                                "name": "Diphtheria-pertussis-poliomyelitis-tetanus-hepatitis b (J07CA12)",
+                                "atc_code": "J07CA12"
+                            },
+                            {
+                                "name": "Diphtheria-haemophilus influenzae b-pertussis-tetanus-hepatitis b (J07CA11)",
+                                "atc_code": "J07CA11"
+                            },
+                            {
+                                "name": "Typhoid-hepatitis a (J07CA10)",
+                                "atc_code": "J07CA10"
+                            },
+                            {
+                                "name": "Diphtheria-haemophilus influenzae b-pertussis-poliomyelitis-tetanus-hepatitis b (J07CA09)",
+                                "atc_code": "J07CA09"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b and hepatitis b (J07CA08)",
+                                "atc_code": "J07CA08",
+                                "children": [
+                                    {
+                                        "name": "Hepatitis B Vaccine (Recombinant)",
+                                        "drugbank_id": "DB11627"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphtheria-hepatitis b-tetanus (J07CA07)",
+                                "atc_code": "J07CA07"
+                            },
+                            {
+                                "name": "Diphtheria-haemophilus influenzae b-pertussis-poliomyelitis-tetanus (J07CA06)",
+                                "atc_code": "J07CA06"
+                            },
+                            {
+                                "name": "Diphtheria-hepatitis b-pertussis-tetanus (J07CA05)",
+                                "atc_code": "J07CA05"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b and poliomyelitis (J07CA04)",
+                                "atc_code": "J07CA04"
+                            },
+                            {
+                                "name": "Diphtheria-rubella-tetanus (J07CA03)",
+                                "atc_code": "J07CA03"
+                            },
+                            {
+                                "name": "Diphtheria-pertussis-poliomyelitis-tetanus (J07CA02)",
+                                "atc_code": "J07CA02"
+                            },
+                            {
+                                "name": "Diphtheria-poliomyelitis-tetanus (J07CA01)",
+                                "atc_code": "J07CA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Viral vaccines (J07B)",
+                "atc_code": "J07B",
+                "children": [
+                    {
+                        "name": "Covid-19 vaccines (J07BN)",
+                        "atc_code": "J07BN",
+                        "children": [
+                            {
+                                "name": "Covid-19, virus-like particles (J07BN05)",
+                                "atc_code": "J07BN05"
+                            },
+                            {
+                                "name": "Covid-19, protein subunit (J07BN04)",
+                                "atc_code": "J07BN04"
+                            },
+                            {
+                                "name": "Covid-19, inactivated virus (J07BN03)",
+                                "atc_code": "J07BN03"
+                            },
+                            {
+                                "name": "Covid-19, viral vector, non-replicating (J07BN02)",
+                                "atc_code": "J07BN02"
+                            },
+                            {
+                                "name": "Covid-19, rna-based vaccine (J07BN01)",
+                                "atc_code": "J07BN01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other viral vaccines (J07BX)",
+                        "atc_code": "J07BX",
+                        "children": [
+                            {
+                                "name": "Enterovirus 71 vaccines (J07BX06)",
+                                "atc_code": "J07BX06"
+                            },
+                            {
+                                "name": "Respiratory syncytial virus vaccines (J07BX05)",
+                                "atc_code": "J07BX05"
+                            },
+                            {
+                                "name": "Dengue virus vaccines (J07BX04)",
+                                "atc_code": "J07BX04"
+                            },
+                            {
+                                "name": "Ebola vaccines (J07BX02)",
+                                "atc_code": "J07BX02"
+                            },
+                            {
+                                "name": "Smallpox and monkeypox vaccines (J07BX01)",
+                                "atc_code": "J07BX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Papillomavirus vaccines (J07BM)",
+                        "atc_code": "J07BM",
+                        "children": [
+                            {
+                                "name": "Papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58) (J07BM03)",
+                                "atc_code": "J07BM03"
+                            },
+                            {
+                                "name": "Papillomavirus (human types 16, 18) (J07BM02)",
+                                "atc_code": "J07BM02"
+                            },
+                            {
+                                "name": "Papillomavirus (human types 6, 11, 16, 18) (J07BM01)",
+                                "atc_code": "J07BM01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yellow fever vaccines (J07BL)",
+                        "atc_code": "J07BL",
+                        "children": [
+                            {
+                                "name": "Yellow fever, live attenuated (J07BL01)",
+                                "atc_code": "J07BL01",
+                                "children": [
+                                    {
+                                        "name": "Yellow fever vaccine",
+                                        "drugbank_id": "DB10805"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Varicella zoster vaccines (J07BK)",
+                        "atc_code": "J07BK",
+                        "children": [
+                            {
+                                "name": "Zoster, purified antigen (J07BK03)",
+                                "atc_code": "J07BK03"
+                            },
+                            {
+                                "name": "Zoster, live attenuated (J07BK02)",
+                                "atc_code": "J07BK02"
+                            },
+                            {
+                                "name": "Varicella, live attenuated (J07BK01)",
+                                "atc_code": "J07BK01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rubella vaccines (J07BJ)",
+                        "atc_code": "J07BJ",
+                        "children": [
+                            {
+                                "name": "Rubella, combinations with mumps, live attenuated (J07BJ51)",
+                                "atc_code": "J07BJ51",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rubella, live attenuated (J07BJ01)",
+                                "atc_code": "J07BJ01",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rota virus diarrhea vaccines (J07BH)",
+                        "atc_code": "J07BH",
+                        "children": [
+                            {
+                                "name": "Rota virus, pentavalent, live, reassorted (J07BH02)",
+                                "atc_code": "J07BH02"
+                            },
+                            {
+                                "name": "Rota virus, live attenuated (J07BH01)",
+                                "atc_code": "J07BH01",
+                                "children": [
+                                    {
+                                        "name": "Rotavirus vaccine",
+                                        "drugbank_id": "DB10276"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rabies vaccines (J07BG)",
+                        "atc_code": "J07BG",
+                        "children": [
+                            {
+                                "name": "Rabies, inactivated, whole virus (J07BG01)",
+                                "atc_code": "J07BG01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poliomyelitis vaccines (J07BF)",
+                        "atc_code": "J07BF",
+                        "children": [
+                            {
+                                "name": "Poliomyelitis oral, bivalent, live attenuated (J07BF04)",
+                                "atc_code": "J07BF04"
+                            },
+                            {
+                                "name": "Poliomyelitis, trivalent, inactivated, whole virus (J07BF03)",
+                                "atc_code": "J07BF03"
+                            },
+                            {
+                                "name": "Poliomyelitis oral, trivalent, live attenuated (J07BF02)",
+                                "atc_code": "J07BF02"
+                            },
+                            {
+                                "name": "Poliomyelitis oral, monovalent, live attenuated (J07BF01)",
+                                "atc_code": "J07BF01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mumps vaccines (J07BE)",
+                        "atc_code": "J07BE",
+                        "children": [
+                            {
+                                "name": "Mumps, live attenuated (J07BE01)",
+                                "atc_code": "J07BE01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Measles vaccines (J07BD)",
+                        "atc_code": "J07BD",
+                        "children": [
+                            {
+                                "name": "Measles, combinations with mumps, rubella and varicella, live attenuated (J07BD54)",
+                                "atc_code": "J07BD54",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Measles, combinations with rubella, live attenuated (J07BD53)",
+                                "atc_code": "J07BD53",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Measles, combinations with mumps and rubella, live attenuated (J07BD52)",
+                                "atc_code": "J07BD52",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Measles, combinations with mumps, live attenuated (J07BD51)",
+                                "atc_code": "J07BD51",
+                                "children": [
+                                    {
+                                        "name": "Rubella virus vaccine",
+                                        "drugbank_id": "DB10317"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Measles, live attenuated (J07BD01)",
+                                "atc_code": "J07BD01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hepatitis vaccines (J07BC)",
+                        "atc_code": "J07BC",
+                        "children": [
+                            {
+                                "name": "Combinations (J07BC20)",
+                                "atc_code": "J07BC20"
+                            },
+                            {
+                                "name": "Hepatitis a, inactivated, whole virus (J07BC02)",
+                                "atc_code": "J07BC02"
+                            },
+                            {
+                                "name": "Hepatitis b, purified antigen (J07BC01)",
+                                "atc_code": "J07BC01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Influenza vaccines (J07BB)",
+                        "atc_code": "J07BB",
+                        "children": [
+                            {
+                                "name": "Influenza, rna-based vaccine (J07BB05)",
+                                "atc_code": "J07BB05"
+                            },
+                            {
+                                "name": "Influenza, virus like particles (J07BB04)",
+                                "atc_code": "J07BB04"
+                            },
+                            {
+                                "name": "Influenza, live attenuated (J07BB03)",
+                                "atc_code": "J07BB03"
+                            },
+                            {
+                                "name": "Influenza, inactivated, split virus or surface antigen (J07BB02)",
+                                "atc_code": "J07BB02"
+                            },
+                            {
+                                "name": "Influenza, inactivated, whole virus (J07BB01)",
+                                "atc_code": "J07BB01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Encephalitis vaccines (J07BA)",
+                        "atc_code": "J07BA",
+                        "children": [
+                            {
+                                "name": "Encephalitis, japanese, live attenuated (J07BA03)",
+                                "atc_code": "J07BA03"
+                            },
+                            {
+                                "name": "Encephalitis, japanese, inactivated, whole virus (J07BA02)",
+                                "atc_code": "J07BA02"
+                            },
+                            {
+                                "name": "Encephalitis, tick borne, inactivated, whole virus (J07BA01)",
+                                "atc_code": "J07BA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bacterial vaccines (J07A)",
+                "atc_code": "J07A",
+                "children": [
+                    {
+                        "name": "Other bacterial vaccines (J07AX)",
+                        "atc_code": "J07AX",
+                        "children": [
+                            {
+                                "name": "Leptospira vaccines (J07AX01)",
+                                "atc_code": "J07AX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Typhus (exanthematicus) vaccines (J07AR)",
+                        "atc_code": "J07AR",
+                        "children": [
+                            {
+                                "name": "Typhus exanthematicus, inactivated, whole cell (J07AR01)",
+                                "atc_code": "J07AR01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Typhoid vaccines (J07AP)",
+                        "atc_code": "J07AP",
+                        "children": [
+                            {
+                                "name": "Typhoid, combinations with paratyphi types (J07AP10)",
+                                "atc_code": "J07AP10"
+                            },
+                            {
+                                "name": "Typhoid, purified polysaccharide antigen (J07AP03)",
+                                "atc_code": "J07AP03",
+                                "children": [
+                                    {
+                                        "name": "Typhoid Vi polysaccharide vaccine",
+                                        "drugbank_id": "DB10803"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Typhoid, inactivated, whole cell (J07AP02)",
+                                "atc_code": "J07AP02"
+                            },
+                            {
+                                "name": "Typhoid, oral, live attenuated (J07AP01)",
+                                "atc_code": "J07AP01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tuberculosis vaccines (J07AN)",
+                        "atc_code": "J07AN",
+                        "children": [
+                            {
+                                "name": "Tuberculosis, live attenuated (J07AN01)",
+                                "atc_code": "J07AN01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tetanus vaccines (J07AM)",
+                        "atc_code": "J07AM",
+                        "children": [
+                            {
+                                "name": "Tetanus toxoid, combinations with tetanus immunoglobulin (J07AM52)",
+                                "atc_code": "J07AM52",
+                                "children": [
+                                    {
+                                        "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+                                        "drugbank_id": "DB10583"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetanus toxoid, combinations with diphtheria toxoid (J07AM51)",
+                                "atc_code": "J07AM51",
+                                "children": [
+                                    {
+                                        "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+                                        "drugbank_id": "DB10583"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetanus toxoid (J07AM01)",
+                                "atc_code": "J07AM01",
+                                "children": [
+                                    {
+                                        "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+                                        "drugbank_id": "DB10583"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumococcal vaccines (J07AL)",
+                        "atc_code": "J07AL",
+                        "children": [
+                            {
+                                "name": "Pneumococcus purified polysaccharides antigen and haemophilus influenzae, conjugated (J07AL52)",
+                                "atc_code": "J07AL52"
+                            },
+                            {
+                                "name": "Pneumococcus, purified polysaccharides antigen conjugated (J07AL02)",
+                                "atc_code": "J07AL02"
+                            },
+                            {
+                                "name": "Pneumococcus, purified polysaccharides antigen (J07AL01)",
+                                "atc_code": "J07AL01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plague vaccines (J07AK)",
+                        "atc_code": "J07AK",
+                        "children": [
+                            {
+                                "name": "Plague, inactivated, whole cell (J07AK01)",
+                                "atc_code": "J07AK01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pertussis vaccines (J07AJ)",
+                        "atc_code": "J07AJ",
+                        "children": [
+                            {
+                                "name": "Pertussis, purified antigen, combinations with toxoids (J07AJ52)",
+                                "atc_code": "J07AJ52"
+                            },
+                            {
+                                "name": "Pertussis, inactivated, whole cell, combinations with toxoids (J07AJ51)",
+                                "atc_code": "J07AJ51"
+                            },
+                            {
+                                "name": "Pertussis, purified antigen (J07AJ02)",
+                                "atc_code": "J07AJ02"
+                            },
+                            {
+                                "name": "Pertussis, inactivated, whole cell (J07AJ01)",
+                                "atc_code": "J07AJ01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meningococcal vaccines (J07AH)",
+                        "atc_code": "J07AH",
+                        "children": [
+                            {
+                                "name": "Meningococcus a,b,c,y,w-135, pentavalent purified polysaccharides antigen conjugated and factor h binding protein (J07AH11)",
+                                "atc_code": "J07AH11"
+                            },
+                            {
+                                "name": "Meningococcus a, purified polysaccharides antigen conjugated (J07AH10)",
+                                "atc_code": "J07AH10"
+                            },
+                            {
+                                "name": "Meningococcus b, multicomponent vaccine (J07AH09)",
+                                "atc_code": "J07AH09"
+                            },
+                            {
+                                "name": "Meningococcus a,c,y,w-135, tetravalent purified polysaccharides antigen conjugated (J07AH08)",
+                                "atc_code": "J07AH08"
+                            },
+                            {
+                                "name": "Meningococcus c, purified polysaccharides antigen conjugated (J07AH07)",
+                                "atc_code": "J07AH07"
+                            },
+                            {
+                                "name": "Meningococcus b, outer membrane vesicle vaccine (J07AH06)",
+                                "atc_code": "J07AH06"
+                            },
+                            {
+                                "name": "Other meningococcal polyvalent purified polysaccharides antigen (J07AH05)",
+                                "atc_code": "J07AH05"
+                            },
+                            {
+                                "name": "Meningococcus a,c,y,w-135, tetravalent purified polysaccharides antigen (J07AH04)",
+                                "atc_code": "J07AH04"
+                            },
+                            {
+                                "name": "Meningococcus a,c, bivalent purified polysaccharides antigen (J07AH03)",
+                                "atc_code": "J07AH03"
+                            },
+                            {
+                                "name": "Other meningococcal monovalent purified polysaccharides antigen (J07AH02)",
+                                "atc_code": "J07AH02"
+                            },
+                            {
+                                "name": "Meningococcus a, purified polysaccharides antigen (J07AH01)",
+                                "atc_code": "J07AH01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Haemophilus influenzae b vaccines (J07AG)",
+                        "atc_code": "J07AG",
+                        "children": [
+                            {
+                                "name": "Haemophilus influenza b, combinations with meningococcus c,y, conjugated (J07AG54)",
+                                "atc_code": "J07AG54"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b, combinations with meningococcus c, conjugated (J07AG53)",
+                                "atc_code": "J07AG53"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b, combinations with pertussis and toxoids (J07AG52)",
+                                "atc_code": "J07AG52"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b, combinations with toxoids (J07AG51)",
+                                "atc_code": "J07AG51"
+                            },
+                            {
+                                "name": "Haemophilus influenzae b, purified antigen conjugated (J07AG01)",
+                                "atc_code": "J07AG01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diphtheria vaccines (J07AF)",
+                        "atc_code": "J07AF",
+                        "children": [
+                            {
+                                "name": "Diphtheria toxoid (J07AF01)",
+                                "atc_code": "J07AF01",
+                                "children": [
+                                    {
+                                        "name": "Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)",
+                                        "drugbank_id": "DB10584"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cholera vaccines (J07AE)",
+                        "atc_code": "J07AE",
+                        "children": [
+                            {
+                                "name": "Cholera, combinations with typhoid vaccine, inactivated, whole cell (J07AE51)",
+                                "atc_code": "J07AE51"
+                            },
+                            {
+                                "name": "Cholera, live attenuated (J07AE02)",
+                                "atc_code": "J07AE02"
+                            },
+                            {
+                                "name": "Cholera, inactivated, whole cell (J07AE01)",
+                                "atc_code": "J07AE01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brucellosis vaccines (J07AD)",
+                        "atc_code": "J07AD",
+                        "children": [
+                            {
+                                "name": "Brucella antigen (J07AD01)",
+                                "atc_code": "J07AD01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anthrax vaccines (J07AC)",
+                        "atc_code": "J07AC",
+                        "children": [
+                            {
+                                "name": "Anthrax antigen (J07AC01)",
+                                "atc_code": "J07AC01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

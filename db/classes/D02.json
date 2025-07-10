@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Emollients and protectives (D02)",
+        "atc_code": "D02",
+        "children": [
+            {
+                "name": "Protectives against uv-radiation (D02B)",
+                "atc_code": "D02B",
+                "children": [
+                    {
+                        "name": "Protectives against uv-radiation for systemic use (D02BB)",
+                        "atc_code": "D02BB",
+                        "children": [
+                            {
+                                "name": "Afamelanotide (D02BB02)",
+                                "atc_code": "D02BB02",
+                                "children": [
+                                    {
+                                        "name": "Afamelanotide",
+                                        "drugbank_id": "DB04931"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betacarotene (D02BB01)",
+                                "atc_code": "D02BB01",
+                                "children": [
+                                    {
+                                        "name": "Beta carotene",
+                                        "drugbank_id": "DB06755"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Protectives against uv-radiation for topical use (D02BA)",
+                        "atc_code": "D02BA",
+                        "children": [
+                            {
+                                "name": "Octinoxate (D02BA02)",
+                                "atc_code": "D02BA02",
+                                "children": [
+                                    {
+                                        "name": "Octinoxate",
+                                        "drugbank_id": "DB09496"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminobenzoic acid (D02BA01)",
+                                "atc_code": "D02BA01",
+                                "children": [
+                                    {
+                                        "name": "Aminobenzoic acid",
+                                        "drugbank_id": "DB02362"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emollients and protectives (D02A)",
+                "atc_code": "D02A",
+                "children": [
+                    {
+                        "name": "Other emollients and protectives (D02AX)",
+                        "atc_code": "D02AX"
+                    },
+                    {
+                        "name": "Salicylic acid preparations (D02AF)",
+                        "atc_code": "D02AF"
+                    },
+                    {
+                        "name": "Carbamide products (D02AE)",
+                        "atc_code": "D02AE",
+                        "children": [
+                            {
+                                "name": "Carbamide, combinations (D02AE51)",
+                                "atc_code": "D02AE51",
+                                "children": [
+                                    {
+                                        "name": "Urea",
+                                        "drugbank_id": "DB03904"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbamide (D02AE01)",
+                                "atc_code": "D02AE01",
+                                "children": [
+                                    {
+                                        "name": "Urea",
+                                        "drugbank_id": "DB03904"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Liquid plasters (D02AD)",
+                        "atc_code": "D02AD"
+                    },
+                    {
+                        "name": "Soft paraffin and fat products (D02AC)",
+                        "atc_code": "D02AC"
+                    },
+                    {
+                        "name": "Zinc products (D02AB)",
+                        "atc_code": "D02AB"
+                    },
+                    {
+                        "name": "Silicone products (D02AA)",
+                        "atc_code": "D02AA"
+                    }
+                ]
+            }
+        ]
+    }
+]

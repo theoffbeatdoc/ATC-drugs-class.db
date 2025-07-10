@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Endocrine therapy (L02)",
+        "atc_code": "L02",
+        "children": [
+            {
+                "name": "Hormone antagonists and related agents (L02B)",
+                "atc_code": "L02B",
+                "children": [
+                    {
+                        "name": "Other hormone antagonists and related agents (L02BX)",
+                        "atc_code": "L02BX",
+                        "children": [
+                            {
+                                "name": "Abiraterone and corticosteroids (L02BX53)",
+                                "atc_code": "L02BX53",
+                                "children": [
+                                    {
+                                        "name": "Abiraterone",
+                                        "drugbank_id": "DB05812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Relugolix (L02BX04)",
+                                "atc_code": "L02BX04",
+                                "children": [
+                                    {
+                                        "name": "Relugolix",
+                                        "drugbank_id": "DB11853"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abiraterone (L02BX03)",
+                                "atc_code": "L02BX03",
+                                "children": [
+                                    {
+                                        "name": "Abiraterone",
+                                        "drugbank_id": "DB05812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Degarelix (L02BX02)",
+                                "atc_code": "L02BX02",
+                                "children": [
+                                    {
+                                        "name": "Degarelix",
+                                        "drugbank_id": "DB06699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abarelix (L02BX01)",
+                                "atc_code": "L02BX01",
+                                "children": [
+                                    {
+                                        "name": "Abarelix",
+                                        "drugbank_id": "DB00106"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aromatase inhibitors (L02BG)",
+                        "atc_code": "L02BG",
+                        "children": [
+                            {
+                                "name": "Exemestane (L02BG06)",
+                                "atc_code": "L02BG06",
+                                "children": [
+                                    {
+                                        "name": "Exemestane",
+                                        "drugbank_id": "DB00990"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vorozole (L02BG05)",
+                                "atc_code": "L02BG05",
+                                "children": [
+                                    {
+                                        "name": "Vorozole",
+                                        "drugbank_id": "DB13767"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Letrozole (L02BG04)",
+                                "atc_code": "L02BG04",
+                                "children": [
+                                    {
+                                        "name": "Letrozole",
+                                        "drugbank_id": "DB01006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anastrozole (L02BG03)",
+                                "atc_code": "L02BG03",
+                                "children": [
+                                    {
+                                        "name": "Anastrozole",
+                                        "drugbank_id": "DB01217"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Formestane (L02BG02)",
+                                "atc_code": "L02BG02",
+                                "children": [
+                                    {
+                                        "name": "Formestane",
+                                        "drugbank_id": "DB08905"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminoglutethimide (L02BG01)",
+                                "atc_code": "L02BG01",
+                                "children": [
+                                    {
+                                        "name": "Aminoglutethimide",
+                                        "drugbank_id": "DB00357"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anti-androgens (L02BB)",
+                        "atc_code": "L02BB",
+                        "children": [
+                            {
+                                "name": "Darolutamide (L02BB06)",
+                                "atc_code": "L02BB06",
+                                "children": [
+                                    {
+                                        "name": "Darolutamide",
+                                        "drugbank_id": "DB12941"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apalutamide (L02BB05)",
+                                "atc_code": "L02BB05",
+                                "children": [
+                                    {
+                                        "name": "Apalutamide",
+                                        "drugbank_id": "DB11901"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enzalutamide (L02BB04)",
+                                "atc_code": "L02BB04",
+                                "children": [
+                                    {
+                                        "name": "Enzalutamide",
+                                        "drugbank_id": "DB08899"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bicalutamide (L02BB03)",
+                                "atc_code": "L02BB03",
+                                "children": [
+                                    {
+                                        "name": "Bicalutamide",
+                                        "drugbank_id": "DB01128"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nilutamide (L02BB02)",
+                                "atc_code": "L02BB02",
+                                "children": [
+                                    {
+                                        "name": "Nilutamide",
+                                        "drugbank_id": "DB00665"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flutamide (L02BB01)",
+                                "atc_code": "L02BB01",
+                                "children": [
+                                    {
+                                        "name": "Flutamide",
+                                        "drugbank_id": "DB00499"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anti-estrogens (L02BA)",
+                        "atc_code": "L02BA",
+                        "children": [
+                            {
+                                "name": "Elacestrant (L02BA04)",
+                                "atc_code": "L02BA04",
+                                "children": [
+                                    {
+                                        "name": "Elacestrant",
+                                        "drugbank_id": "DB06374"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fulvestrant (L02BA03)",
+                                "atc_code": "L02BA03",
+                                "children": [
+                                    {
+                                        "name": "Fulvestrant",
+                                        "drugbank_id": "DB00947"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Toremifene (L02BA02)",
+                                "atc_code": "L02BA02",
+                                "children": [
+                                    {
+                                        "name": "Toremifene",
+                                        "drugbank_id": "DB00539"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tamoxifen (L02BA01)",
+                                "atc_code": "L02BA01",
+                                "children": [
+                                    {
+                                        "name": "Tamoxifen",
+                                        "drugbank_id": "DB00675"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hormones and related agents (L02A)",
+                "atc_code": "L02A",
+                "children": [
+                    {
+                        "name": "Other hormones (L02AX)",
+                        "atc_code": "L02AX"
+                    },
+                    {
+                        "name": "Gonadotropin releasing hormone analogues (L02AE)",
+                        "atc_code": "L02AE",
+                        "children": [
+                            {
+                                "name": "Leuprorelin and bicalutamide (L02AE51)",
+                                "atc_code": "L02AE51",
+                                "children": [
+                                    {
+                                        "name": "Bicalutamide",
+                                        "drugbank_id": "DB01128"
+                                    },
+                                    {
+                                        "name": "Leuprolide",
+                                        "drugbank_id": "DB00007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Histrelin (L02AE05)",
+                                "atc_code": "L02AE05",
+                                "children": [
+                                    {
+                                        "name": "Histrelin",
+                                        "drugbank_id": "DB06788"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triptorelin (L02AE04)",
+                                "atc_code": "L02AE04",
+                                "children": [
+                                    {
+                                        "name": "Triptorelin",
+                                        "drugbank_id": "DB06825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Goserelin (L02AE03)",
+                                "atc_code": "L02AE03",
+                                "children": [
+                                    {
+                                        "name": "Goserelin",
+                                        "drugbank_id": "DB00014"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Leuprorelin (L02AE02)",
+                                "atc_code": "L02AE02",
+                                "children": [
+                                    {
+                                        "name": "Leuprolide",
+                                        "drugbank_id": "DB00007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buserelin (L02AE01)",
+                                "atc_code": "L02AE01",
+                                "children": [
+                                    {
+                                        "name": "Buserelin",
+                                        "drugbank_id": "DB06719"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Progestogens (L02AB)",
+                        "atc_code": "L02AB",
+                        "children": [
+                            {
+                                "name": "Gestonorone (L02AB03)",
+                                "atc_code": "L02AB03",
+                                "children": [
+                                    {
+                                        "name": "Gestonorone",
+                                        "drugbank_id": "DB13230"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medroxyprogesterone (L02AB02)",
+                                "atc_code": "L02AB02",
+                                "children": [
+                                    {
+                                        "name": "Medroxyprogesterone acetate",
+                                        "drugbank_id": "DB00603"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Megestrol (L02AB01)",
+                                "atc_code": "L02AB01",
+                                "children": [
+                                    {
+                                        "name": "Megestrol",
+                                        "drugbank_id": "DB19378"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Estrogens (L02AA)",
+                        "atc_code": "L02AA",
+                        "children": [
+                            {
+                                "name": "Fosfestrol (L02AA04)",
+                                "atc_code": "L02AA04",
+                                "children": [
+                                    {
+                                        "name": "Diethylstilbestrol",
+                                        "drugbank_id": "DB00255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethinylestradiol (L02AA03)",
+                                "atc_code": "L02AA03",
+                                "children": [
+                                    {
+                                        "name": "Ethinylestradiol",
+                                        "drugbank_id": "DB00977"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polyestradiol phosphate (L02AA02)",
+                                "atc_code": "L02AA02",
+                                "children": [
+                                    {
+                                        "name": "Polyestradiol phosphate",
+                                        "drugbank_id": "DB09369"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diethylstilbestrol (L02AA01)",
+                                "atc_code": "L02AA01",
+                                "children": [
+                                    {
+                                        "name": "Diethylstilbestrol",
+                                        "drugbank_id": "DB00255"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

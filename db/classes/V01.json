@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Allergens (V01)",
+        "atc_code": "V01",
+        "children": [
+            {
+                "name": "Allergens (V01A)",
+                "atc_code": "V01A",
+                "children": [
+                    {
+                        "name": "Allergen extracts (V01AA)",
+                        "atc_code": "V01AA",
+                        "children": [
+                            {
+                                "name": "Various (V01AA20)",
+                                "atc_code": "V01AA20"
+                            },
+                            {
+                                "name": "Animals (V01AA11)",
+                                "atc_code": "V01AA11"
+                            },
+                            {
+                                "name": "Flowers (V01AA10)",
+                                "atc_code": "V01AA10"
+                            },
+                            {
+                                "name": "Textiles (V01AA09)",
+                                "atc_code": "V01AA09"
+                            },
+                            {
+                                "name": "Food (V01AA08)",
+                                "atc_code": "V01AA08"
+                            },
+                            {
+                                "name": "Insects (V01AA07)",
+                                "atc_code": "V01AA07"
+                            },
+                            {
+                                "name": "Tree pollen (V01AA05)",
+                                "atc_code": "V01AA05"
+                            },
+                            {
+                                "name": "Mould fungus and yeast fungus (V01AA04)",
+                                "atc_code": "V01AA04"
+                            },
+                            {
+                                "name": "House dust mites (V01AA03)",
+                                "atc_code": "V01AA03",
+                                "children": [
+                                    {
+                                        "name": "Dermatophagoides farinae",
+                                        "drugbank_id": "DB10400"
+                                    },
+                                    {
+                                        "name": "Dermatophagoides pteronyssinus",
+                                        "drugbank_id": "DB10401"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grass pollen (V01AA02)",
+                                "atc_code": "V01AA02"
+                            },
+                            {
+                                "name": "Feather (V01AA01)",
+                                "atc_code": "V01AA01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

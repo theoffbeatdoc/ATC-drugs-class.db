@@ -1,0 +1,82 @@
+[
+    {
+        "name": "General nutrients (V06)",
+        "atc_code": "V06",
+        "children": [
+            {
+                "name": "Other nutrients (V06D)",
+                "atc_code": "V06D",
+                "children": [
+                    {
+                        "name": "Other combinations of nutrients (V06DX)",
+                        "atc_code": "V06DX"
+                    },
+                    {
+                        "name": "Milk substitutes (V06DF)",
+                        "atc_code": "V06DF"
+                    },
+                    {
+                        "name": "Amino acids/carbohydrates/minerals/vitamins, combinations (V06DE)",
+                        "atc_code": "V06DE"
+                    },
+                    {
+                        "name": "Amino acids, incl. combinations with polypeptides (V06DD)",
+                        "atc_code": "V06DD"
+                    },
+                    {
+                        "name": "Carbohydrates (V06DC)",
+                        "atc_code": "V06DC",
+                        "children": [
+                            {
+                                "name": "Fructose (V06DC02)",
+                                "atc_code": "V06DC02",
+                                "children": [
+                                    {
+                                        "name": "Fructose",
+                                        "drugbank_id": "DB04173"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glucose (V06DC01)",
+                                "atc_code": "V06DC01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fat/carbohydrates/proteins/minerals/vitamins, combinations (V06DB)",
+                        "atc_code": "V06DB"
+                    },
+                    {
+                        "name": "Carbohydrates/proteins/minerals/vitamins, combinations (V06DA)",
+                        "atc_code": "V06DA"
+                    }
+                ]
+            },
+            {
+                "name": "Infant formulas (V06C)",
+                "atc_code": "V06C",
+                "children": [
+                    {
+                        "name": "Nutrients without phenylalanine (V06CA)",
+                        "atc_code": "V06CA"
+                    }
+                ]
+            },
+            {
+                "name": "Protein supplements (V06B)",
+                "atc_code": "V06B"
+            },
+            {
+                "name": "Diet formulations for treatment of obesity (V06A)",
+                "atc_code": "V06A",
+                "children": [
+                    {
+                        "name": "Low-energy diets (V06AA)",
+                        "atc_code": "V06AA"
+                    }
+                ]
+            }
+        ]
+    }
+]

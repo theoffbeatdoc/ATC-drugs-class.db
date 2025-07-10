@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Therapeutic radiopharmaceuticals (V10)",
+        "atc_code": "V10",
+        "children": [
+            {
+                "name": "Other therapeutic radiopharmaceuticals (V10X)",
+                "atc_code": "V10X",
+                "children": [
+                    {
+                        "name": "Various therapeutic radiopharmaceuticals (V10XX)",
+                        "atc_code": "V10XX",
+                        "children": [
+                            {
+                                "name": "Lutetium (177lu) vipivotide tetraxetan (V10XX05)",
+                                "atc_code": "V10XX05"
+                            },
+                            {
+                                "name": "Lutetium (177lu) oxodotreotide (V10XX04)",
+                                "atc_code": "V10XX04"
+                            },
+                            {
+                                "name": "Radium (223ra) dichloride (V10XX03)",
+                                "atc_code": "V10XX03"
+                            },
+                            {
+                                "name": "Ibritumomab tiuxetan (90y) (V10XX02)",
+                                "atc_code": "V10XX02",
+                                "children": [
+                                    {
+                                        "name": "Ibritumomab tiuxetan",
+                                        "drugbank_id": "DB00078"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium phosphate (32p) (V10XX01)",
+                                "atc_code": "V10XX01",
+                                "children": [
+                                    {
+                                        "name": "Sodium phosphate P 32",
+                                        "drugbank_id": "DB09370"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iodine (131i) compounds (V10XA)",
+                        "atc_code": "V10XA",
+                        "children": [
+                            {
+                                "name": "Iodine (131i) apamistamab (V10XA04)",
+                                "atc_code": "V10XA04",
+                                "children": [
+                                    {
+                                        "name": "Apamistamab iodine I-131",
+                                        "drugbank_id": "DB16748"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iodine (131i) omburtamab (V10XA03)",
+                                "atc_code": "V10XA03",
+                                "children": [
+                                    {
+                                        "name": "Omburtamab I-131",
+                                        "drugbank_id": "DB17124"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tositumomab/iodine (131i) tositumomab (V10XA53)",
+                                "atc_code": "V10XA53",
+                                "children": [
+                                    {
+                                        "name": "Tositumomab",
+                                        "drugbank_id": "DB00081"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iobenguane (131i) (V10XA02)",
+                                "atc_code": "V10XA02",
+                                "children": [
+                                    {
+                                        "name": "Iobenguane",
+                                        "drugbank_id": "DB06704"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium iodide (131i) (V10XA01)",
+                                "atc_code": "V10XA01",
+                                "children": [
+                                    {
+                                        "name": "Iodide I-131",
+                                        "drugbank_id": "DB09293"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pain palliation (bone seeking agents) (V10B)",
+                "atc_code": "V10B",
+                "children": [
+                    {
+                        "name": "Various pain palliation radiopharmaceuticals (V10BX)",
+                        "atc_code": "V10BX",
+                        "children": [
+                            {
+                                "name": "Rhenium (186re) etidronic acid (V10BX03)",
+                                "atc_code": "V10BX03"
+                            },
+                            {
+                                "name": "Samarium (153sm) lexidronam (V10BX02)",
+                                "atc_code": "V10BX02",
+                                "children": [
+                                    {
+                                        "name": "Samarium (153Sm) lexidronam",
+                                        "drugbank_id": "DB05273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Strontium (89sr) chloride (V10BX01)",
+                                "atc_code": "V10BX01",
+                                "children": [
+                                    {
+                                        "name": "Strontium chloride Sr-89",
+                                        "drugbank_id": "DB09498"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antiinflammatory agents (V10A)",
+                "atc_code": "V10A",
+                "children": [
+                    {
+                        "name": "Other antiinflammatory therapeutic radiopharmaceuticals (V10AX)",
+                        "atc_code": "V10AX",
+                        "children": [
+                            {
+                                "name": "Gold (198au) colloidal (V10AX06)",
+                                "atc_code": "V10AX06",
+                                "children": [
+                                    {
+                                        "name": "Gold Au-198",
+                                        "drugbank_id": "DB13427"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rhenium (186re) sulfide colloid (V10AX05)",
+                                "atc_code": "V10AX05",
+                                "children": [
+                                    {
+                                        "name": "Rhenium Re-186 sulfide",
+                                        "drugbank_id": "DB13847"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erbium (169er) citrate colloid (V10AX04)",
+                                "atc_code": "V10AX04"
+                            },
+                            {
+                                "name": "Dysprosium (165dy) colloid (V10AX03)",
+                                "atc_code": "V10AX03"
+                            },
+                            {
+                                "name": "Samarium (153sm) hydroxyapatite colloid (V10AX02)",
+                                "atc_code": "V10AX02"
+                            },
+                            {
+                                "name": "Phosphorous (32p) chromicphosphate colloid (V10AX01)",
+                                "atc_code": "V10AX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yttrium (90y) compounds (V10AA)",
+                        "atc_code": "V10AA",
+                        "children": [
+                            {
+                                "name": "Yttrium (90y) silicate colloid (V10AA03)",
+                                "atc_code": "V10AA03"
+                            },
+                            {
+                                "name": "Yttrium (90y) ferrihydroxide colloid (V10AA02)",
+                                "atc_code": "V10AA02"
+                            },
+                            {
+                                "name": "Yttrium (90y) citrate colloid (V10AA01)",
+                                "atc_code": "V10AA01",
+                                "children": [
+                                    {
+                                        "name": "Yttrium Y-90",
+                                        "drugbank_id": "DB13076"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

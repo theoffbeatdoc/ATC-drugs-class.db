@@ -1,0 +1,834 @@
+[
+    {
+        "name": "Antithrombotic agents (B01)",
+        "atc_code": "B01",
+        "children": [
+            {
+                "name": "Antithrombotic agents (B01A)",
+                "atc_code": "B01A",
+                "children": [
+                    {
+                        "name": "Other antithrombotic agents (B01AX)",
+                        "atc_code": "B01AX",
+                        "children": [
+                            {
+                                "name": "Caplacizumab (B01AX07)",
+                                "atc_code": "B01AX07",
+                                "children": [
+                                    {
+                                        "name": "Caplacizumab",
+                                        "drugbank_id": "DB06081"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fondaparinux (B01AX05)",
+                                "atc_code": "B01AX05",
+                                "children": [
+                                    {
+                                        "name": "Fondaparinux",
+                                        "drugbank_id": "DB00569"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dermatan sulfate (B01AX04)",
+                                "atc_code": "B01AX04",
+                                "children": [
+                                    {
+                                        "name": "Dermatan sulfate",
+                                        "drugbank_id": "DB15880"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Defibrotide (B01AX01)",
+                                "atc_code": "B01AX01",
+                                "children": [
+                                    {
+                                        "name": "Defibrotide",
+                                        "drugbank_id": "DB04932"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Direct factor xa inhibitors (B01AF)",
+                        "atc_code": "B01AF",
+                        "children": [
+                            {
+                                "name": "Rivaroxaban and acetylsalicylic acid (B01AF51)",
+                                "atc_code": "B01AF51",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    },
+                                    {
+                                        "name": "Rivaroxaban",
+                                        "drugbank_id": "DB06228"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betrixaban (B01AF04)",
+                                "atc_code": "B01AF04",
+                                "children": [
+                                    {
+                                        "name": "Betrixaban",
+                                        "drugbank_id": "DB12364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Edoxaban (B01AF03)",
+                                "atc_code": "B01AF03",
+                                "children": [
+                                    {
+                                        "name": "Edoxaban",
+                                        "drugbank_id": "DB09075"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apixaban (B01AF02)",
+                                "atc_code": "B01AF02",
+                                "children": [
+                                    {
+                                        "name": "Apixaban",
+                                        "drugbank_id": "DB06605"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rivaroxaban (B01AF01)",
+                                "atc_code": "B01AF01",
+                                "children": [
+                                    {
+                                        "name": "Rivaroxaban",
+                                        "drugbank_id": "DB06228"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Direct thrombin inhibitors (B01AE)",
+                        "atc_code": "B01AE",
+                        "children": [
+                            {
+                                "name": "Dabigatran etexilate (B01AE07)",
+                                "atc_code": "B01AE07",
+                                "children": [
+                                    {
+                                        "name": "Dabigatran etexilate",
+                                        "drugbank_id": "DB06695"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bivalirudin (B01AE06)",
+                                "atc_code": "B01AE06",
+                                "children": [
+                                    {
+                                        "name": "Bivalirudin",
+                                        "drugbank_id": "DB00006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ximelagatran (B01AE05)",
+                                "atc_code": "B01AE05",
+                                "children": [
+                                    {
+                                        "name": "Ximelagatran",
+                                        "drugbank_id": "DB04898"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Melagatran (B01AE04)",
+                                "atc_code": "B01AE04",
+                                "children": [
+                                    {
+                                        "name": "Melagatran",
+                                        "drugbank_id": "DB13616"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Argatroban (B01AE03)",
+                                "atc_code": "B01AE03",
+                                "children": [
+                                    {
+                                        "name": "Argatroban",
+                                        "drugbank_id": "DB00278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lepirudin (B01AE02)",
+                                "atc_code": "B01AE02",
+                                "children": [
+                                    {
+                                        "name": "Lepirudin",
+                                        "drugbank_id": "DB00001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desirudin (B01AE01)",
+                                "atc_code": "B01AE01",
+                                "children": [
+                                    {
+                                        "name": "Desirudin",
+                                        "drugbank_id": "DB11095"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzymes (B01AD)",
+                        "atc_code": "B01AD",
+                        "children": [
+                            {
+                                "name": "Apadamtase alfa and cinaxadamtase alfa (B01AD13)",
+                                "atc_code": "B01AD13",
+                                "children": [
+                                    {
+                                        "name": "Apadamtase alfa",
+                                        "drugbank_id": "DB15164"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Protein c (B01AD12)",
+                                "atc_code": "B01AD12",
+                                "children": [
+                                    {
+                                        "name": "Protein C",
+                                        "drugbank_id": "DB11312"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tenecteplase (B01AD11)",
+                                "atc_code": "B01AD11",
+                                "children": [
+                                    {
+                                        "name": "Tenecteplase",
+                                        "drugbank_id": "DB00031"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drotrecogin alfa (activated) (B01AD10)",
+                                "atc_code": "B01AD10",
+                                "children": [
+                                    {
+                                        "name": "Drotrecogin alfa",
+                                        "drugbank_id": "DB00055"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ancrod (B01AD09)",
+                                "atc_code": "B01AD09",
+                                "children": [
+                                    {
+                                        "name": "Ancrod",
+                                        "drugbank_id": "DB05099"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saruplase (B01AD08)",
+                                "atc_code": "B01AD08",
+                                "children": [
+                                    {
+                                        "name": "Saruplase",
+                                        "drugbank_id": "DB13646"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reteplase (B01AD07)",
+                                "atc_code": "B01AD07",
+                                "children": [
+                                    {
+                                        "name": "Reteplase",
+                                        "drugbank_id": "DB00015"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brinase (B01AD06)",
+                                "atc_code": "B01AD06",
+                                "children": [
+                                    {
+                                        "name": "Brinase",
+                                        "drugbank_id": "DB13199"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fibrinolysin (B01AD05)",
+                                "atc_code": "B01AD05",
+                                "children": [
+                                    {
+                                        "name": "Fibrinolysin",
+                                        "drugbank_id": "DB05254"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Urokinase (B01AD04)",
+                                "atc_code": "B01AD04",
+                                "children": [
+                                    {
+                                        "name": "Urokinase",
+                                        "drugbank_id": "DB00013"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anistreplase (B01AD03)",
+                                "atc_code": "B01AD03",
+                                "children": [
+                                    {
+                                        "name": "Anistreplase",
+                                        "drugbank_id": "DB00029"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alteplase (B01AD02)",
+                                "atc_code": "B01AD02",
+                                "children": [
+                                    {
+                                        "name": "Alteplase",
+                                        "drugbank_id": "DB00009"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Streptokinase (B01AD01)",
+                                "atc_code": "B01AD01",
+                                "children": [
+                                    {
+                                        "name": "Streptokinase",
+                                        "drugbank_id": "DB00086"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Platelet aggregation inhibitors excl. heparin (B01AC)",
+                        "atc_code": "B01AC",
+                        "children": [
+                            {
+                                "name": "Limaprost (B01AC28)",
+                                "atc_code": "B01AC28",
+                                "children": [
+                                    {
+                                        "name": "Limaprost",
+                                        "drugbank_id": "DB09211"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid, combinations with proton pump inhibitors (B01AC56)",
+                                "atc_code": "B01AC56",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Combinations (B01AC30)",
+                                "atc_code": "B01AC30"
+                            },
+                            {
+                                "name": "Selexipag (B01AC27)",
+                                "atc_code": "B01AC27",
+                                "children": [
+                                    {
+                                        "name": "Selexipag",
+                                        "drugbank_id": "DB11362"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vorapaxar (B01AC26)",
+                                "atc_code": "B01AC26",
+                                "children": [
+                                    {
+                                        "name": "Vorapaxar",
+                                        "drugbank_id": "DB09030"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cangrelor (B01AC25)",
+                                "atc_code": "B01AC25",
+                                "children": [
+                                    {
+                                        "name": "Cangrelor",
+                                        "drugbank_id": "DB06441"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ticagrelor (B01AC24)",
+                                "atc_code": "B01AC24",
+                                "children": [
+                                    {
+                                        "name": "Ticagrelor",
+                                        "drugbank_id": "DB08816"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cilostazol (B01AC23)",
+                                "atc_code": "B01AC23",
+                                "children": [
+                                    {
+                                        "name": "Cilostazol",
+                                        "drugbank_id": "DB01166"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Prasugrel (B01AC22)",
+                                "atc_code": "B01AC22",
+                                "children": [
+                                    {
+                                        "name": "Prasugrel",
+                                        "drugbank_id": "DB06209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Treprostinil (B01AC21)",
+                                "atc_code": "B01AC21",
+                                "children": [
+                                    {
+                                        "name": "Treprostinil",
+                                        "drugbank_id": "DB00374"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Beraprost (B01AC19)",
+                                "atc_code": "B01AC19",
+                                "children": [
+                                    {
+                                        "name": "Beraprost",
+                                        "drugbank_id": "DB05229"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Triflusal (B01AC18)",
+                                "atc_code": "B01AC18",
+                                "children": [
+                                    {
+                                        "name": "Triflusal",
+                                        "drugbank_id": "DB08814"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tirofiban (B01AC17)",
+                                "atc_code": "B01AC17",
+                                "children": [
+                                    {
+                                        "name": "Tirofiban",
+                                        "drugbank_id": "DB00775"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eptifibatide (B01AC16)",
+                                "atc_code": "B01AC16",
+                                "children": [
+                                    {
+                                        "name": "Eptifibatide",
+                                        "drugbank_id": "DB00063"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aloxiprin (B01AC15)",
+                                "atc_code": "B01AC15",
+                                "children": [
+                                    {
+                                        "name": "Aloxiprin",
+                                        "drugbank_id": "DB13509"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abciximab (B01AC13)",
+                                "atc_code": "B01AC13",
+                                "children": [
+                                    {
+                                        "name": "Abciximab",
+                                        "drugbank_id": "DB00054"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iloprost (B01AC11)",
+                                "atc_code": "B01AC11",
+                                "children": [
+                                    {
+                                        "name": "Iloprost",
+                                        "drugbank_id": "DB01088"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indobufen (B01AC10)",
+                                "atc_code": "B01AC10",
+                                "children": [
+                                    {
+                                        "name": "Indobufen",
+                                        "drugbank_id": "DB12545"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Epoprostenol (B01AC09)",
+                                "atc_code": "B01AC09",
+                                "children": [
+                                    {
+                                        "name": "Epoprostenol",
+                                        "drugbank_id": "DB01240"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbasalate calcium (B01AC08)",
+                                "atc_code": "B01AC08",
+                                "children": [
+                                    {
+                                        "name": "Carbaspirin calcium",
+                                        "drugbank_id": "DB13612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dipyridamole (B01AC07)",
+                                "atc_code": "B01AC07",
+                                "children": [
+                                    {
+                                        "name": "Dipyridamole",
+                                        "drugbank_id": "DB00975"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid (B01AC06)",
+                                "atc_code": "B01AC06",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ticlopidine (B01AC05)",
+                                "atc_code": "B01AC05",
+                                "children": [
+                                    {
+                                        "name": "Ticlopidine",
+                                        "drugbank_id": "DB00208"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clopidogrel (B01AC04)",
+                                "atc_code": "B01AC04",
+                                "children": [
+                                    {
+                                        "name": "Clopidogrel",
+                                        "drugbank_id": "DB00758"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Picotamide (B01AC03)",
+                                "atc_code": "B01AC03",
+                                "children": [
+                                    {
+                                        "name": "Picotamide",
+                                        "drugbank_id": "DB13327"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloricromen (B01AC02)",
+                                "atc_code": "B01AC02",
+                                "children": [
+                                    {
+                                        "name": "Cloricromen",
+                                        "drugbank_id": "DB13367"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ditazole (B01AC01)",
+                                "atc_code": "B01AC01",
+                                "children": [
+                                    {
+                                        "name": "Ditazole",
+                                        "drugbank_id": "DB08994"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heparin group (B01AB)",
+                        "atc_code": "B01AB",
+                        "children": [
+                            {
+                                "name": "Heparin, combinations (B01AB51)",
+                                "atc_code": "B01AB51",
+                                "children": [
+                                    {
+                                        "name": "Heparin",
+                                        "drugbank_id": "DB01109"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bemiparin (B01AB12)",
+                                "atc_code": "B01AB12",
+                                "children": [
+                                    {
+                                        "name": "Bemiparin",
+                                        "drugbank_id": "DB09258"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulodexide (B01AB11)",
+                                "atc_code": "B01AB11",
+                                "children": [
+                                    {
+                                        "name": "Sulodexide",
+                                        "drugbank_id": "DB06271"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tinzaparin (B01AB10)",
+                                "atc_code": "B01AB10",
+                                "children": [
+                                    {
+                                        "name": "Tinzaparin",
+                                        "drugbank_id": "DB06822"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Danaparoid (B01AB09)",
+                                "atc_code": "B01AB09",
+                                "children": [
+                                    {
+                                        "name": "Danaparoid",
+                                        "drugbank_id": "DB06754"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Reviparin (B01AB08)",
+                                "atc_code": "B01AB08",
+                                "children": [
+                                    {
+                                        "name": "Reviparin",
+                                        "drugbank_id": "DB09259"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Parnaparin (B01AB07)",
+                                "atc_code": "B01AB07",
+                                "children": [
+                                    {
+                                        "name": "Parnaparin",
+                                        "drugbank_id": "DB09260"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nadroparin (B01AB06)",
+                                "atc_code": "B01AB06",
+                                "children": [
+                                    {
+                                        "name": "Nadroparin",
+                                        "drugbank_id": "DB08813"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enoxaparin (B01AB05)",
+                                "atc_code": "B01AB05",
+                                "children": [
+                                    {
+                                        "name": "Enoxaparin",
+                                        "drugbank_id": "DB01225"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dalteparin (B01AB04)",
+                                "atc_code": "B01AB04",
+                                "children": [
+                                    {
+                                        "name": "Dalteparin",
+                                        "drugbank_id": "DB06779"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antithrombin iii (B01AB02)",
+                                "atc_code": "B01AB02",
+                                "children": [
+                                    {
+                                        "name": "Antithrombin III human",
+                                        "drugbank_id": "DB11598"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Heparin (B01AB01)",
+                                "atc_code": "B01AB01",
+                                "children": [
+                                    {
+                                        "name": "Heparin",
+                                        "drugbank_id": "DB01109"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitamin k antagonists (B01AA)",
+                        "atc_code": "B01AA",
+                        "children": [
+                            {
+                                "name": "Fluindione (B01AA12)",
+                                "atc_code": "B01AA12",
+                                "children": [
+                                    {
+                                        "name": "Fluindione",
+                                        "drugbank_id": "DB13136"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tioclomarol (B01AA11)",
+                                "atc_code": "B01AA11",
+                                "children": [
+                                    {
+                                        "name": "Tioclomarol",
+                                        "drugbank_id": "DB13451"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenadione (B01AA10)",
+                                "atc_code": "B01AA10",
+                                "children": [
+                                    {
+                                        "name": "Diphenadione",
+                                        "drugbank_id": "DB13347"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clorindione (B01AA09)",
+                                "atc_code": "B01AA09",
+                                "children": [
+                                    {
+                                        "name": "Clorindione",
+                                        "drugbank_id": "DB13275"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethyl biscoumacetate (B01AA08)",
+                                "atc_code": "B01AA08",
+                                "children": [
+                                    {
+                                        "name": "Ethyl biscoumacetate",
+                                        "drugbank_id": "DB08794"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acenocoumarol (B01AA07)",
+                                "atc_code": "B01AA07",
+                                "children": [
+                                    {
+                                        "name": "Acenocoumarol",
+                                        "drugbank_id": "DB01418"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenprocoumon (B01AA04)",
+                                "atc_code": "B01AA04",
+                                "children": [
+                                    {
+                                        "name": "Phenprocoumon",
+                                        "drugbank_id": "DB00946"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Warfarin (B01AA03)",
+                                "atc_code": "B01AA03",
+                                "children": [
+                                    {
+                                        "name": "Warfarin",
+                                        "drugbank_id": "DB00682"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenindione (B01AA02)",
+                                "atc_code": "B01AA02",
+                                "children": [
+                                    {
+                                        "name": "Phenindione",
+                                        "drugbank_id": "DB00498"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dicoumarol (B01AA01)",
+                                "atc_code": "B01AA01",
+                                "children": [
+                                    {
+                                        "name": "Dicoumarol",
+                                        "drugbank_id": "DB00266"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

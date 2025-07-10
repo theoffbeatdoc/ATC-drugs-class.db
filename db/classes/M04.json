@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Antigout preparations (M04)",
+        "atc_code": "M04",
+        "children": [
+            {
+                "name": "Antigout preparations (M04A)",
+                "atc_code": "M04A",
+                "children": [
+                    {
+                        "name": "Other antigout preparations (M04AX)",
+                        "atc_code": "M04AX",
+                        "children": [
+                            {
+                                "name": "Pegloticase (M04AX02)",
+                                "atc_code": "M04AX02",
+                                "children": [
+                                    {
+                                        "name": "Pegloticase",
+                                        "drugbank_id": "DB09208"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Urate oxidase (M04AX01)",
+                                "atc_code": "M04AX01",
+                                "children": [
+                                    {
+                                        "name": "Rasburicase",
+                                        "drugbank_id": "DB00049"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations with no effect on uric acid metabolism (M04AC)",
+                        "atc_code": "M04AC",
+                        "children": [
+                            {
+                                "name": "Colchicine and probenecid (M04AC51)",
+                                "atc_code": "M04AC51",
+                                "children": [
+                                    {
+                                        "name": "Colchicine",
+                                        "drugbank_id": "DB01394"
+                                    },
+                                    {
+                                        "name": "Probenecid",
+                                        "drugbank_id": "DB01032"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinchophen (M04AC02)",
+                                "atc_code": "M04AC02",
+                                "children": [
+                                    {
+                                        "name": "Cinchophen",
+                                        "drugbank_id": "DB13551"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Colchicine (M04AC01)",
+                                "atc_code": "M04AC01",
+                                "children": [
+                                    {
+                                        "name": "Colchicine",
+                                        "drugbank_id": "DB01394"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations increasing uric acid excretion (M04AB)",
+                        "atc_code": "M04AB",
+                        "children": [
+                            {
+                                "name": "Lesinurad (M04AB05)",
+                                "atc_code": "M04AB05",
+                                "children": [
+                                    {
+                                        "name": "Lesinurad",
+                                        "drugbank_id": "DB11560"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isobromindione (M04AB04)",
+                                "atc_code": "M04AB04",
+                                "children": [
+                                    {
+                                        "name": "Isobromindione",
+                                        "drugbank_id": "DB13545"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzbromarone (M04AB03)",
+                                "atc_code": "M04AB03",
+                                "children": [
+                                    {
+                                        "name": "Benzbromarone",
+                                        "drugbank_id": "DB12319"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfinpyrazone (M04AB02)",
+                                "atc_code": "M04AB02",
+                                "children": [
+                                    {
+                                        "name": "Sulfinpyrazone",
+                                        "drugbank_id": "DB01138"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Probenecid (M04AB01)",
+                                "atc_code": "M04AB01",
+                                "children": [
+                                    {
+                                        "name": "Probenecid",
+                                        "drugbank_id": "DB01032"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Preparations inhibiting uric acid production (M04AA)",
+                        "atc_code": "M04AA",
+                        "children": [
+                            {
+                                "name": "Allopurinol, combinations (M04AA51)",
+                                "atc_code": "M04AA51",
+                                "children": [
+                                    {
+                                        "name": "Allopurinol",
+                                        "drugbank_id": "DB00437"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Febuxostat (M04AA03)",
+                                "atc_code": "M04AA03",
+                                "children": [
+                                    {
+                                        "name": "Febuxostat",
+                                        "drugbank_id": "DB04854"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tisopurine (M04AA02)",
+                                "atc_code": "M04AA02",
+                                "children": [
+                                    {
+                                        "name": "Tisopurine",
+                                        "drugbank_id": "DB13807"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Allopurinol (M04AA01)",
+                                "atc_code": "M04AA01",
+                                "children": [
+                                    {
+                                        "name": "Allopurinol",
+                                        "drugbank_id": "DB00437"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Antiobesity preparations, excl. diet products (A08)",
+        "atc_code": "A08",
+        "children": [
+            {
+                "name": "Antiobesity preparations, excl. diet products (A08A)",
+                "atc_code": "A08A",
+                "children": [
+                    {
+                        "name": "Other antiobesity drugs (A08AX)",
+                        "atc_code": "A08AX",
+                        "children": [
+                            {
+                                "name": "Rimonabant (A08AX01)",
+                                "atc_code": "A08AX01",
+                                "children": [
+                                    {
+                                        "name": "Rimonabant",
+                                        "drugbank_id": "DB06155"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peripherally acting antiobesity products (A08AB)",
+                        "atc_code": "A08AB",
+                        "children": [
+                            {
+                                "name": "Orlistat (A08AB01)",
+                                "atc_code": "A08AB01",
+                                "children": [
+                                    {
+                                        "name": "Orlistat",
+                                        "drugbank_id": "DB01083"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrally acting antiobesity products (A08AA)",
+                        "atc_code": "A08AA",
+                        "children": [
+                            {
+                                "name": "Phentermine and topiramate (A08AA51)",
+                                "atc_code": "A08AA51",
+                                "children": [
+                                    {
+                                        "name": "Phentermine",
+                                        "drugbank_id": "DB00191"
+                                    },
+                                    {
+                                        "name": "Topiramate",
+                                        "drugbank_id": "DB00273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Setmelanotide (A08AA12)",
+                                "atc_code": "A08AA12",
+                                "children": [
+                                    {
+                                        "name": "Setmelanotide",
+                                        "drugbank_id": "DB11700"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bupropion and naltrexone (A08AA62)",
+                                "atc_code": "A08AA62",
+                                "children": [
+                                    {
+                                        "name": "Naltrexone",
+                                        "drugbank_id": "DB00704"
+                                    },
+                                    {
+                                        "name": "Bupropion",
+                                        "drugbank_id": "DB01156"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ephedrine, combinations (A08AA56)",
+                                "atc_code": "A08AA56",
+                                "children": [
+                                    {
+                                        "name": "Ephedrine",
+                                        "drugbank_id": "DB01364"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lorcaserin (A08AA11)",
+                                "atc_code": "A08AA11",
+                                "children": [
+                                    {
+                                        "name": "Lorcaserin",
+                                        "drugbank_id": "DB04871"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sibutramine (A08AA10)",
+                                "atc_code": "A08AA10",
+                                "children": [
+                                    {
+                                        "name": "Sibutramine",
+                                        "drugbank_id": "DB01105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mefenorex (A08AA09)",
+                                "atc_code": "A08AA09",
+                                "children": [
+                                    {
+                                        "name": "Mefenorex",
+                                        "drugbank_id": "DB13852"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clobenzorex (A08AA08)",
+                                "atc_code": "A08AA08",
+                                "children": [
+                                    {
+                                        "name": "Clobenzorex",
+                                        "drugbank_id": "DB13561"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cathine (A08AA07)",
+                                "atc_code": "A08AA07",
+                                "children": [
+                                    {
+                                        "name": "Cathine",
+                                        "drugbank_id": "DB01486"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etilamfetamine (A08AA06)",
+                                "atc_code": "A08AA06",
+                                "children": [
+                                    {
+                                        "name": "Etilamfetamine",
+                                        "drugbank_id": "DB13285"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mazindol (A08AA05)",
+                                "atc_code": "A08AA05",
+                                "children": [
+                                    {
+                                        "name": "Mazindol",
+                                        "drugbank_id": "DB00579"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexfenfluramine (A08AA04)",
+                                "atc_code": "A08AA04",
+                                "children": [
+                                    {
+                                        "name": "Dexfenfluramine",
+                                        "drugbank_id": "DB01191"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amfepramone (A08AA03)",
+                                "atc_code": "A08AA03",
+                                "children": [
+                                    {
+                                        "name": "Diethylpropion",
+                                        "drugbank_id": "DB00937"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenfluramine (A08AA02)",
+                                "atc_code": "A08AA02",
+                                "children": [
+                                    {
+                                        "name": "Fenfluramine",
+                                        "drugbank_id": "DB00574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phentermine (A08AA01)",
+                                "atc_code": "A08AA01",
+                                "children": [
+                                    {
+                                        "name": "Phentermine",
+                                        "drugbank_id": "DB00191"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

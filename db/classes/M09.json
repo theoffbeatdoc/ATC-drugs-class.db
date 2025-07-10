@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Other drugs for disorders of the musculo-skeletal system (M09)",
+        "atc_code": "M09",
+        "children": [
+            {
+                "name": "Other drugs for disorders of the musculo-skeletal system (M09A)",
+                "atc_code": "M09A",
+                "children": [
+                    {
+                        "name": "Other drugs for disorders of the musculo-skeletal system (M09AX)",
+                        "atc_code": "M09AX",
+                        "children": [
+                            {
+                                "name": "Delandistrogene moxeparvovec (M09AX15)",
+                                "atc_code": "M09AX15",
+                                "children": [
+                                    {
+                                        "name": "Delandistrogene moxeparvovec",
+                                        "drugbank_id": "DB16802"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Givinostat (M09AX14)",
+                                "atc_code": "M09AX14",
+                                "children": [
+                                    {
+                                        "name": "Givinostat",
+                                        "drugbank_id": "DB12645"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Casimersen (M09AX13)",
+                                "atc_code": "M09AX13",
+                                "children": [
+                                    {
+                                        "name": "Casimersen",
+                                        "drugbank_id": "DB14984"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Viltolarsen (M09AX12)",
+                                "atc_code": "M09AX12",
+                                "children": [
+                                    {
+                                        "name": "Viltolarsen",
+                                        "drugbank_id": "DB15005"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Palovarotene (M09AX11)",
+                                "atc_code": "M09AX11",
+                                "children": [
+                                    {
+                                        "name": "Palovarotene",
+                                        "drugbank_id": "DB05467"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risdiplam (M09AX10)",
+                                "atc_code": "M09AX10",
+                                "children": [
+                                    {
+                                        "name": "Risdiplam",
+                                        "drugbank_id": "DB15305"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Onasemnogene abeparvovec (M09AX09)",
+                                "atc_code": "M09AX09",
+                                "children": [
+                                    {
+                                        "name": "Onasemnogene abeparvovec",
+                                        "drugbank_id": "DB15528"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Golodirsen (M09AX08)",
+                                "atc_code": "M09AX08",
+                                "children": [
+                                    {
+                                        "name": "Golodirsen",
+                                        "drugbank_id": "DB15593"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nusinersen (M09AX07)",
+                                "atc_code": "M09AX07",
+                                "children": [
+                                    {
+                                        "name": "Nusinersen",
+                                        "drugbank_id": "DB13161"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eteplirsen (M09AX06)",
+                                "atc_code": "M09AX06",
+                                "children": [
+                                    {
+                                        "name": "Eteplirsen",
+                                        "drugbank_id": "DB06014"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aceneuramic acid (M09AX05)",
+                                "atc_code": "M09AX05",
+                                "children": [
+                                    {
+                                        "name": "Aceneuramic acid",
+                                        "drugbank_id": "DB11797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Drisapersen (M09AX04)",
+                                "atc_code": "M09AX04",
+                                "children": [
+                                    {
+                                        "name": "Drisapersen",
+                                        "drugbank_id": "DB13688"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ataluren (M09AX03)",
+                                "atc_code": "M09AX03",
+                                "children": [
+                                    {
+                                        "name": "Ataluren",
+                                        "drugbank_id": "DB05016"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chondrocytes, autologous (M09AX02)",
+                                "atc_code": "M09AX02"
+                            },
+                            {
+                                "name": "Hyaluronic acid (M09AX01)",
+                                "atc_code": "M09AX01",
+                                "children": [
+                                    {
+                                        "name": "Hyaluronic acid",
+                                        "drugbank_id": "DB08818"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzymes (M09AB)",
+                        "atc_code": "M09AB",
+                        "children": [
+                            {
+                                "name": "Trypsin, combinations (M09AB52)",
+                                "atc_code": "M09AB52",
+                                "children": [
+                                    {
+                                        "name": "Trypsin",
+                                        "drugbank_id": "DB11237"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromelains (M09AB03)",
+                                "atc_code": "M09AB03",
+                                "children": [
+                                    {
+                                        "name": "Bromelains",
+                                        "drugbank_id": "DB13281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Collagenase clostridium histolyticum (M09AB02)",
+                                "atc_code": "M09AB02",
+                                "children": [
+                                    {
+                                        "name": "Collagenase clostridium histolyticum",
+                                        "drugbank_id": "DB00048"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chymopapain (M09AB01)",
+                                "atc_code": "M09AB01",
+                                "children": [
+                                    {
+                                        "name": "Chymopapain",
+                                        "drugbank_id": "DB06752"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quinine and derivatives (M09AA)",
+                        "atc_code": "M09AA",
+                        "children": [
+                            {
+                                "name": "Quinine, combinations with psycholeptics (M09AA72)",
+                                "atc_code": "M09AA72",
+                                "children": [
+                                    {
+                                        "name": "Quinine",
+                                        "drugbank_id": "DB00468"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroquinine (M09AA01)",
+                                "atc_code": "M09AA01",
+                                "children": [
+                                    {
+                                        "name": "Hydroquinine",
+                                        "drugbank_id": "DB13718"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

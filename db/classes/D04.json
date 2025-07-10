@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Antipruritics, incl. antihistamines, anesthetics, etc. (D04)",
+        "atc_code": "D04",
+        "children": [
+            {
+                "name": "Antipruritics, incl. antihistamines, anesthetics, etc. (D04A)",
+                "atc_code": "D04A",
+                "children": [
+                    {
+                        "name": "Other antipruritics (D04AX)",
+                        "atc_code": "D04AX",
+                        "children": [
+                            {
+                                "name": "Doxepin (D04AX01)",
+                                "atc_code": "D04AX01",
+                                "children": [
+                                    {
+                                        "name": "Doxepin",
+                                        "drugbank_id": "DB01142"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anesthetics for topical use (D04AB)",
+                        "atc_code": "D04AB",
+                        "children": [
+                            {
+                                "name": "Pramocaine (D04AB07)",
+                                "atc_code": "D04AB07",
+                                "children": [
+                                    {
+                                        "name": "Pramocaine",
+                                        "drugbank_id": "DB09345"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetracaine (D04AB06)",
+                                "atc_code": "D04AB06",
+                                "children": [
+                                    {
+                                        "name": "Tetracaine",
+                                        "drugbank_id": "DB09085"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinisocaine (D04AB05)",
+                                "atc_code": "D04AB05",
+                                "children": [
+                                    {
+                                        "name": "Quinisocaine",
+                                        "drugbank_id": "DB13683"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzocaine (D04AB04)",
+                                "atc_code": "D04AB04",
+                                "children": [
+                                    {
+                                        "name": "Benzocaine",
+                                        "drugbank_id": "DB01086"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxybuprocaine (D04AB03)",
+                                "atc_code": "D04AB03",
+                                "children": [
+                                    {
+                                        "name": "Oxybuprocaine",
+                                        "drugbank_id": "DB00892"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinchocaine (D04AB02)",
+                                "atc_code": "D04AB02",
+                                "children": [
+                                    {
+                                        "name": "Cinchocaine",
+                                        "drugbank_id": "DB00527"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine (D04AB01)",
+                                "atc_code": "D04AB01",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antihistamines for topical use (D04AA)",
+                        "atc_code": "D04AA",
+                        "children": [
+                            {
+                                "name": "Chlorphenoxamine (D04AA34)",
+                                "atc_code": "D04AA34",
+                                "children": [
+                                    {
+                                        "name": "Chlorphenoxamine",
+                                        "drugbank_id": "DB09007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenhydramine methylbromide (D04AA33)",
+                                "atc_code": "D04AA33",
+                                "children": [
+                                    {
+                                        "name": "Diphenhydramine",
+                                        "drugbank_id": "DB01075"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diphenhydramine (D04AA32)",
+                                "atc_code": "D04AA32",
+                                "children": [
+                                    {
+                                        "name": "Diphenhydramine",
+                                        "drugbank_id": "DB01075"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isothipendyl (D04AA22)",
+                                "atc_code": "D04AA22",
+                                "children": [
+                                    {
+                                        "name": "Isothipendyl",
+                                        "drugbank_id": "DB08802"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pheniramine (D04AA16)",
+                                "atc_code": "D04AA16",
+                                "children": [
+                                    {
+                                        "name": "Pheniramine",
+                                        "drugbank_id": "DB01620"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bamipine (D04AA15)",
+                                "atc_code": "D04AA15",
+                                "children": [
+                                    {
+                                        "name": "Bamipine",
+                                        "drugbank_id": "DB13489"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clemastine (D04AA14)",
+                                "atc_code": "D04AA14",
+                                "children": [
+                                    {
+                                        "name": "Clemastine",
+                                        "drugbank_id": "DB00283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimetindene (D04AA13)",
+                                "atc_code": "D04AA13",
+                                "children": [
+                                    {
+                                        "name": "Dimetindene",
+                                        "drugbank_id": "DB08801"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolpropamine (D04AA12)",
+                                "atc_code": "D04AA12",
+                                "children": [
+                                    {
+                                        "name": "Tolpropamine",
+                                        "drugbank_id": "DB13305"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Promethazine (D04AA10)",
+                                "atc_code": "D04AA10",
+                                "children": [
+                                    {
+                                        "name": "Promethazine",
+                                        "drugbank_id": "DB01069"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloropyramine (D04AA09)",
+                                "atc_code": "D04AA09",
+                                "children": [
+                                    {
+                                        "name": "Chloropyramine",
+                                        "drugbank_id": "DB08800"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tripelennamine (D04AA04)",
+                                "atc_code": "D04AA04",
+                                "children": [
+                                    {
+                                        "name": "Tripelennamine",
+                                        "drugbank_id": "DB00792"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thenalidine (D04AA03)",
+                                "atc_code": "D04AA03",
+                                "children": [
+                                    {
+                                        "name": "Thenalidine",
+                                        "drugbank_id": "DB04826"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mepyramine (D04AA02)",
+                                "atc_code": "D04AA02",
+                                "children": [
+                                    {
+                                        "name": "Mepyramine",
+                                        "drugbank_id": "DB06691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thonzylamine (D04AA01)",
+                                "atc_code": "D04AA01",
+                                "children": [
+                                    {
+                                        "name": "Thonzylamine",
+                                        "drugbank_id": "DB11235"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

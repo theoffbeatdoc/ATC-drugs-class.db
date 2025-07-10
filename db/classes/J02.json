@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Antimycotics for systemic use (J02)",
+        "atc_code": "J02",
+        "children": [
+            {
+                "name": "Antimycotics for systemic use (J02A)",
+                "atc_code": "J02A",
+                "children": [
+                    {
+                        "name": "Other antimycotics for systemic use (J02AX)",
+                        "atc_code": "J02AX",
+                        "children": [
+                            {
+                                "name": "Rezafungin acetate (J02AX08)",
+                                "atc_code": "J02AX08"
+                            },
+                            {
+                                "name": "Ibrexafungerp (J02AX07)",
+                                "atc_code": "J02AX07",
+                                "children": [
+                                    {
+                                        "name": "Ibrexafungerp",
+                                        "drugbank_id": "DB12471"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anidulafungin (J02AX06)",
+                                "atc_code": "J02AX06",
+                                "children": [
+                                    {
+                                        "name": "Anidulafungin",
+                                        "drugbank_id": "DB00362"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Micafungin (J02AX05)",
+                                "atc_code": "J02AX05",
+                                "children": [
+                                    {
+                                        "name": "Micafungin",
+                                        "drugbank_id": "DB01141"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Caspofungin (J02AX04)",
+                                "atc_code": "J02AX04",
+                                "children": [
+                                    {
+                                        "name": "Caspofungin",
+                                        "drugbank_id": "DB00520"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flucytosine (J02AX01)",
+                                "atc_code": "J02AX01",
+                                "children": [
+                                    {
+                                        "name": "Flucytosine",
+                                        "drugbank_id": "DB01099"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triazole and tetrazole derivatives (J02AC)",
+                        "atc_code": "J02AC",
+                        "children": [
+                            {
+                                "name": "Oteseconazole (J02AC06)",
+                                "atc_code": "J02AC06",
+                                "children": [
+                                    {
+                                        "name": "Oteseconazole",
+                                        "drugbank_id": "DB13055"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isavuconazole (J02AC05)",
+                                "atc_code": "J02AC05",
+                                "children": [
+                                    {
+                                        "name": "Isavuconazole",
+                                        "drugbank_id": "DB11633"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Posaconazole (J02AC04)",
+                                "atc_code": "J02AC04",
+                                "children": [
+                                    {
+                                        "name": "Posaconazole",
+                                        "drugbank_id": "DB01263"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Voriconazole (J02AC03)",
+                                "atc_code": "J02AC03",
+                                "children": [
+                                    {
+                                        "name": "Voriconazole",
+                                        "drugbank_id": "DB00582"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Itraconazole (J02AC02)",
+                                "atc_code": "J02AC02",
+                                "children": [
+                                    {
+                                        "name": "Itraconazole",
+                                        "drugbank_id": "DB01167"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fluconazole (J02AC01)",
+                                "atc_code": "J02AC01",
+                                "children": [
+                                    {
+                                        "name": "Fluconazole",
+                                        "drugbank_id": "DB00196"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazole derivatives (J02AB)",
+                        "atc_code": "J02AB",
+                        "children": [
+                            {
+                                "name": "Ketoconazole (J02AB02)",
+                                "atc_code": "J02AB02",
+                                "children": [
+                                    {
+                                        "name": "Ketoconazole",
+                                        "drugbank_id": "DB01026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Miconazole (J02AB01)",
+                                "atc_code": "J02AB01",
+                                "children": [
+                                    {
+                                        "name": "Miconazole",
+                                        "drugbank_id": "DB01110"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (J02AA)",
+                        "atc_code": "J02AA",
+                        "children": [
+                            {
+                                "name": "Hachimycin (J02AA02)",
+                                "atc_code": "J02AA02",
+                                "children": [
+                                    {
+                                        "name": "Hachimycin",
+                                        "drugbank_id": "DB13302"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amphotericin b (J02AA01)",
+                                "atc_code": "J02AA01",
+                                "children": [
+                                    {
+                                        "name": "Amphotericin B",
+                                        "drugbank_id": "DB00681"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

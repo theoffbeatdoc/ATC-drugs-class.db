@@ -1,0 +1,506 @@
+[
+    {
+        "name": "Antihemorrhagics (B02)",
+        "atc_code": "B02",
+        "children": [
+            {
+                "name": "Vitamin k and other hemostatics (B02B)",
+                "atc_code": "B02B",
+                "children": [
+                    {
+                        "name": "Other systemic hemostatics (B02BX)",
+                        "atc_code": "B02BX",
+                        "children": [
+                            {
+                                "name": "Marstacimab (B02BX11)",
+                                "atc_code": "B02BX11",
+                                "children": [
+                                    {
+                                        "name": "Marstacimab",
+                                        "drugbank_id": "DB17725"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Concizumab (B02BX10)",
+                                "atc_code": "B02BX10",
+                                "children": [
+                                    {
+                                        "name": "Concizumab",
+                                        "drugbank_id": "DB12820"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fostamatinib (B02BX09)",
+                                "atc_code": "B02BX09",
+                                "children": [
+                                    {
+                                        "name": "Fostamatinib",
+                                        "drugbank_id": "DB12010"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avatrombopag (B02BX08)",
+                                "atc_code": "B02BX08",
+                                "children": [
+                                    {
+                                        "name": "Avatrombopag",
+                                        "drugbank_id": "DB11995"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lusutrombopag (B02BX07)",
+                                "atc_code": "B02BX07",
+                                "children": [
+                                    {
+                                        "name": "Lusutrombopag",
+                                        "drugbank_id": "DB13125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emicizumab (B02BX06)",
+                                "atc_code": "B02BX06",
+                                "children": [
+                                    {
+                                        "name": "Emicizumab",
+                                        "drugbank_id": "DB13923"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eltrombopag (B02BX05)",
+                                "atc_code": "B02BX05",
+                                "children": [
+                                    {
+                                        "name": "Eltrombopag",
+                                        "drugbank_id": "DB06210"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Romiplostim (B02BX04)",
+                                "atc_code": "B02BX04",
+                                "children": [
+                                    {
+                                        "name": "Romiplostim",
+                                        "drugbank_id": "DB05332"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Batroxobin (B02BX03)",
+                                "atc_code": "B02BX03",
+                                "children": [
+                                    {
+                                        "name": "Batroxobin",
+                                        "drugbank_id": "DB09005"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbazochrome (B02BX02)",
+                                "atc_code": "B02BX02",
+                                "children": [
+                                    {
+                                        "name": "Carbazochrome",
+                                        "drugbank_id": "DB09012"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etamsylate (B02BX01)",
+                                "atc_code": "B02BX01",
+                                "children": [
+                                    {
+                                        "name": "Etamsylate",
+                                        "drugbank_id": "DB13483"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blood coagulation factors (B02BD)",
+                        "atc_code": "B02BD",
+                        "children": [
+                            {
+                                "name": "Fidanacogene elaparvovec (B02BD17)",
+                                "atc_code": "B02BD17",
+                                "children": [
+                                    {
+                                        "name": "Fidanacogene elaparvovec",
+                                        "drugbank_id": "DB16783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etranacogene dezaparvovec (B02BD16)",
+                                "atc_code": "B02BD16",
+                                "children": [
+                                    {
+                                        "name": "Etranacogene dezaparvovec",
+                                        "drugbank_id": "DB16791"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valoctocogene roxaparvovec (B02BD15)",
+                                "atc_code": "B02BD15",
+                                "children": [
+                                    {
+                                        "name": "Valoctocogene roxaparvovec",
+                                        "drugbank_id": "DB15561"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thrombin (B02BD30)",
+                                "atc_code": "B02BD30",
+                                "children": [
+                                    {
+                                        "name": "Thrombin",
+                                        "drugbank_id": "DB11300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Susoctocog alfa (B02BD14)",
+                                "atc_code": "B02BD14",
+                                "children": [
+                                    {
+                                        "name": "Susoctocog alfa",
+                                        "drugbank_id": "DB11606"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor x (B02BD13)",
+                                "atc_code": "B02BD13",
+                                "children": [
+                                    {
+                                        "name": "Coagulation factor X human",
+                                        "drugbank_id": "DB13148"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Catridecacog (B02BD11)",
+                                "atc_code": "B02BD11",
+                                "children": [
+                                    {
+                                        "name": "Catridecacog",
+                                        "drugbank_id": "DB09310"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Von willebrand factor (B02BD10)",
+                                "atc_code": "B02BD10",
+                                "children": [
+                                    {
+                                        "name": "Von Willebrand factor human",
+                                        "drugbank_id": "DB13133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor viia (B02BD08)",
+                                "atc_code": "B02BD08",
+                                "children": [
+                                    {
+                                        "name": "Coagulation factor VIIa Recombinant Human",
+                                        "drugbank_id": "DB00036"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor xiii (B02BD07)",
+                                "atc_code": "B02BD07"
+                            },
+                            {
+                                "name": "Von willebrand factor and coagulation factor viii in combination (B02BD06)",
+                                "atc_code": "B02BD06",
+                                "children": [
+                                    {
+                                        "name": "Von Willebrand factor human",
+                                        "drugbank_id": "DB13133"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor vii (B02BD05)",
+                                "atc_code": "B02BD05",
+                                "children": [
+                                    {
+                                        "name": "Coagulation factor VII human",
+                                        "drugbank_id": "DB13150"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor ix (B02BD04)",
+                                "atc_code": "B02BD04",
+                                "children": [
+                                    {
+                                        "name": "Coagulation Factor IX Human",
+                                        "drugbank_id": "DB13152"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Factor viii inhibitor bypassing activity (B02BD03)",
+                                "atc_code": "B02BD03",
+                                "children": [
+                                    {
+                                        "name": "Anti-inhibitor coagulant complex",
+                                        "drugbank_id": "DB13151"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor viii (B02BD02)",
+                                "atc_code": "B02BD02",
+                                "children": [
+                                    {
+                                        "name": "Antihemophilic factor, human recombinant",
+                                        "drugbank_id": "DB00025"
+                                    },
+                                    {
+                                        "name": "Antihemophilic factor human",
+                                        "drugbank_id": "DB13192"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coagulation factor ix, ii, vii and x in combination (B02BD01)",
+                                "atc_code": "B02BD01",
+                                "children": [
+                                    {
+                                        "name": "Coagulation factor VII human",
+                                        "drugbank_id": "DB13150"
+                                    },
+                                    {
+                                        "name": "Coagulation Factor IX Human",
+                                        "drugbank_id": "DB13152"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Local hemostatics (B02BC)",
+                        "atc_code": "B02BC",
+                        "children": [
+                            {
+                                "name": "Combinations (B02BC30)",
+                                "atc_code": "B02BC30"
+                            },
+                            {
+                                "name": "Epinephrine (B02BC09)",
+                                "atc_code": "B02BC09",
+                                "children": [
+                                    {
+                                        "name": "Epinephrine",
+                                        "drugbank_id": "DB00668"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium alginate (B02BC08)",
+                                "atc_code": "B02BC08",
+                                "children": [
+                                    {
+                                        "name": "Calcium alginate",
+                                        "drugbank_id": "DB13372"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Collagen (B02BC07)",
+                                "atc_code": "B02BC07"
+                            },
+                            {
+                                "name": "Thrombin (B02BC06)",
+                                "atc_code": "B02BC06",
+                                "children": [
+                                    {
+                                        "name": "Thrombin",
+                                        "drugbank_id": "DB11300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adrenalone (B02BC05)",
+                                "atc_code": "B02BC05",
+                                "children": [
+                                    {
+                                        "name": "Adrenalone",
+                                        "drugbank_id": "DB13394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tetragalacturonic acid hydroxymethylester (B02BC03)",
+                                "atc_code": "B02BC03",
+                                "children": [
+                                    {
+                                        "name": "Tetragalacturonic acid hydroxymethylester",
+                                        "drugbank_id": "DB13621"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxidized cellulose (B02BC02)",
+                                "atc_code": "B02BC02",
+                                "children": [
+                                    {
+                                        "name": "Oxidized cellulose",
+                                        "drugbank_id": "DB13570"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Absorbable gelatin sponge (B02BC01)",
+                                "atc_code": "B02BC01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fibrinogen (B02BB)",
+                        "atc_code": "B02BB",
+                        "children": [
+                            {
+                                "name": "Fibrinogen, human (B02BB01)",
+                                "atc_code": "B02BB01",
+                                "children": [
+                                    {
+                                        "name": "Fibrinogen human",
+                                        "drugbank_id": "DB09222"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vitamin k (B02BA)",
+                        "atc_code": "B02BA",
+                        "children": [
+                            {
+                                "name": "Menadione (B02BA02)",
+                                "atc_code": "B02BA02",
+                                "children": [
+                                    {
+                                        "name": "Menadione",
+                                        "drugbank_id": "DB00170"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phytomenadione (B02BA01)",
+                                "atc_code": "B02BA01",
+                                "children": [
+                                    {
+                                        "name": "Phylloquinone",
+                                        "drugbank_id": "DB01022"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antifibrinolytics (B02A)",
+                "atc_code": "B02A",
+                "children": [
+                    {
+                        "name": "Proteinase inhibitors (B02AB)",
+                        "atc_code": "B02AB",
+                        "children": [
+                            {
+                                "name": "Ulinastatin (B02AB05)",
+                                "atc_code": "B02AB05",
+                                "children": [
+                                    {
+                                        "name": "Ulinastatin",
+                                        "drugbank_id": "DB12038"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camostat (B02AB04)",
+                                "atc_code": "B02AB04",
+                                "children": [
+                                    {
+                                        "name": "Camostat",
+                                        "drugbank_id": "DB13729"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alfa1 antitrypsin (B02AB02)",
+                                "atc_code": "B02AB02",
+                                "children": [
+                                    {
+                                        "name": "Alpha-1-proteinase inhibitor",
+                                        "drugbank_id": "DB00058"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aprotinin (B02AB01)",
+                                "atc_code": "B02AB01",
+                                "children": [
+                                    {
+                                        "name": "Aprotinin",
+                                        "drugbank_id": "DB06692"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amino acids (B02AA)",
+                        "atc_code": "B02AA",
+                        "children": [
+                            {
+                                "name": "Aminomethylbenzoic acid (B02AA03)",
+                                "atc_code": "B02AA03",
+                                "children": [
+                                    {
+                                        "name": "Aminomethylbenzoic acid",
+                                        "drugbank_id": "DB13244"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tranexamic acid (B02AA02)",
+                                "atc_code": "B02AA02",
+                                "children": [
+                                    {
+                                        "name": "Tranexamic acid",
+                                        "drugbank_id": "DB00302"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminocaproic acid (B02AA01)",
+                                "atc_code": "B02AA01",
+                                "children": [
+                                    {
+                                        "name": "Aminocaproic acid",
+                                        "drugbank_id": "DB00513"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1606 @@
+[
+    {
+        "name": "Antivirals for systemic use (J05)",
+        "atc_code": "J05",
+        "children": [
+            {
+                "name": "Direct acting antivirals (J05A)",
+                "atc_code": "J05A",
+                "children": [
+                    {
+                        "name": "Integrase inhibitors (J05AJ)",
+                        "atc_code": "J05AJ",
+                        "children": [
+                            {
+                                "name": "Cabotegravir (J05AJ04)",
+                                "atc_code": "J05AJ04",
+                                "children": [
+                                    {
+                                        "name": "Cabotegravir",
+                                        "drugbank_id": "DB11751"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dolutegravir (J05AJ03)",
+                                "atc_code": "J05AJ03",
+                                "children": [
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elvitegravir (J05AJ02)",
+                                "atc_code": "J05AJ02",
+                                "children": [
+                                    {
+                                        "name": "Elvitegravir",
+                                        "drugbank_id": "DB09101"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Raltegravir (J05AJ01)",
+                                "atc_code": "J05AJ01",
+                                "children": [
+                                    {
+                                        "name": "Raltegravir",
+                                        "drugbank_id": "DB06817"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antivirals for treatment of hcv infections (J05AP)",
+                        "atc_code": "J05AP",
+                        "children": [
+                            {
+                                "name": "Narlaprevir (J05AP14)",
+                                "atc_code": "J05AP14",
+                                "children": [
+                                    {
+                                        "name": "Narlaprevir",
+                                        "drugbank_id": "DB14760"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ravidasvir (J05AP13)",
+                                "atc_code": "J05AP13",
+                                "children": [
+                                    {
+                                        "name": "Ravidasvir",
+                                        "drugbank_id": "DB15652"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Coblopasvir (J05AP12)",
+                                "atc_code": "J05AP12",
+                                "children": [
+                                    {
+                                        "name": "Coblopasvir",
+                                        "drugbank_id": "DB15315"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Daclatasvir, asunaprevir and beclabuvir (J05AP58)",
+                                "atc_code": "J05AP58",
+                                "children": [
+                                    {
+                                        "name": "Daclatasvir",
+                                        "drugbank_id": "DB09102"
+                                    },
+                                    {
+                                        "name": "Beclabuvir",
+                                        "drugbank_id": "DB12225"
+                                    },
+                                    {
+                                        "name": "Asunaprevir",
+                                        "drugbank_id": "DB11586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grazoprevir (J05AP11)",
+                                "atc_code": "J05AP11",
+                                "children": [
+                                    {
+                                        "name": "Grazoprevir",
+                                        "drugbank_id": "DB11575"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elbasvir (J05AP10)",
+                                "atc_code": "J05AP10",
+                                "children": [
+                                    {
+                                        "name": "Elbasvir",
+                                        "drugbank_id": "DB11574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glecaprevir and pibrentasvir (J05AP57)",
+                                "atc_code": "J05AP57",
+                                "children": [
+                                    {
+                                        "name": "Glecaprevir",
+                                        "drugbank_id": "DB13879"
+                                    },
+                                    {
+                                        "name": "Pibrentasvir",
+                                        "drugbank_id": "DB13878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sofosbuvir, velpatasvir and voxilaprevir (J05AP56)",
+                                "atc_code": "J05AP56",
+                                "children": [
+                                    {
+                                        "name": "Velpatasvir",
+                                        "drugbank_id": "DB11613"
+                                    },
+                                    {
+                                        "name": "Voxilaprevir",
+                                        "drugbank_id": "DB12026"
+                                    },
+                                    {
+                                        "name": "Sofosbuvir",
+                                        "drugbank_id": "DB08934"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sofosbuvir and velpatasvir (J05AP55)",
+                                "atc_code": "J05AP55",
+                                "children": [
+                                    {
+                                        "name": "Sofosbuvir",
+                                        "drugbank_id": "DB08934"
+                                    },
+                                    {
+                                        "name": "Velpatasvir",
+                                        "drugbank_id": "DB11613"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Elbasvir and grazoprevir (J05AP54)",
+                                "atc_code": "J05AP54",
+                                "children": [
+                                    {
+                                        "name": "Grazoprevir",
+                                        "drugbank_id": "DB11575"
+                                    },
+                                    {
+                                        "name": "Elbasvir",
+                                        "drugbank_id": "DB11574"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ombitasvir, paritaprevir and ritonavir (J05AP53)",
+                                "atc_code": "J05AP53",
+                                "children": [
+                                    {
+                                        "name": "Ombitasvir",
+                                        "drugbank_id": "DB09296"
+                                    },
+                                    {
+                                        "name": "Paritaprevir",
+                                        "drugbank_id": "DB09297"
+                                    },
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dasabuvir, ombitasvir, paritaprevir and ritonavir (J05AP52)",
+                                "atc_code": "J05AP52",
+                                "children": [
+                                    {
+                                        "name": "Paritaprevir",
+                                        "drugbank_id": "DB09297"
+                                    },
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    },
+                                    {
+                                        "name": "Ombitasvir",
+                                        "drugbank_id": "DB09296"
+                                    },
+                                    {
+                                        "name": "Dasabuvir",
+                                        "drugbank_id": "DB09183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sofosbuvir and ledipasvir (J05AP51)",
+                                "atc_code": "J05AP51",
+                                "children": [
+                                    {
+                                        "name": "Ledipasvir",
+                                        "drugbank_id": "DB09027"
+                                    },
+                                    {
+                                        "name": "Sofosbuvir",
+                                        "drugbank_id": "DB08934"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dasabuvir (J05AP09)",
+                                "atc_code": "J05AP09",
+                                "children": [
+                                    {
+                                        "name": "Dasabuvir",
+                                        "drugbank_id": "DB09183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sofosbuvir (J05AP08)",
+                                "atc_code": "J05AP08",
+                                "children": [
+                                    {
+                                        "name": "Sofosbuvir",
+                                        "drugbank_id": "DB08934"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Daclatasvir (J05AP07)",
+                                "atc_code": "J05AP07",
+                                "children": [
+                                    {
+                                        "name": "Daclatasvir",
+                                        "drugbank_id": "DB09102"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Asunaprevir (J05AP06)",
+                                "atc_code": "J05AP06",
+                                "children": [
+                                    {
+                                        "name": "Asunaprevir",
+                                        "drugbank_id": "DB11586"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Simeprevir (J05AP05)",
+                                "atc_code": "J05AP05",
+                                "children": [
+                                    {
+                                        "name": "Simeprevir",
+                                        "drugbank_id": "DB06290"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Faldaprevir (J05AP04)",
+                                "atc_code": "J05AP04",
+                                "children": [
+                                    {
+                                        "name": "Faldaprevir",
+                                        "drugbank_id": "DB11808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Boceprevir (J05AP03)",
+                                "atc_code": "J05AP03",
+                                "children": [
+                                    {
+                                        "name": "Boceprevir",
+                                        "drugbank_id": "DB08873"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telaprevir (J05AP02)",
+                                "atc_code": "J05AP02",
+                                "children": [
+                                    {
+                                        "name": "Telaprevir",
+                                        "drugbank_id": "DB05521"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ribavirin (J05AP01)",
+                                "atc_code": "J05AP01",
+                                "children": [
+                                    {
+                                        "name": "Ribavirin",
+                                        "drugbank_id": "DB00811"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other antivirals (J05AX)",
+                        "atc_code": "J05AX",
+                        "children": [
+                            {
+                                "name": "Labuvirtide (J05AX33)",
+                                "atc_code": "J05AX33"
+                            },
+                            {
+                                "name": "Riamilovir (J05AX32)",
+                                "atc_code": "J05AX32",
+                                "children": [
+                                    {
+                                        "name": "Triazavirin",
+                                        "drugbank_id": "DB15622"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lenacapavir (J05AX31)",
+                                "atc_code": "J05AX31",
+                                "children": [
+                                    {
+                                        "name": "Lenacapavir",
+                                        "drugbank_id": "DB15673"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fostemsavir (J05AX29)",
+                                "atc_code": "J05AX29",
+                                "children": [
+                                    {
+                                        "name": "Fostemsavir",
+                                        "drugbank_id": "DB11796"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bulevirtide (J05AX28)",
+                                "atc_code": "J05AX28",
+                                "children": [
+                                    {
+                                        "name": "Bulevirtide",
+                                        "drugbank_id": "DB15248"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Favipiravir (J05AX27)",
+                                "atc_code": "J05AX27",
+                                "children": [
+                                    {
+                                        "name": "Favipiravir",
+                                        "drugbank_id": "DB12466"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amenamevir (J05AX26)",
+                                "atc_code": "J05AX26",
+                                "children": [
+                                    {
+                                        "name": "Amenamevir",
+                                        "drugbank_id": "DB11701"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Baloxavir marboxil (J05AX25)",
+                                "atc_code": "J05AX25",
+                                "children": [
+                                    {
+                                        "name": "Baloxavir marboxil",
+                                        "drugbank_id": "DB13997"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tecovirimat (J05AX24)",
+                                "atc_code": "J05AX24",
+                                "children": [
+                                    {
+                                        "name": "Tecovirimat",
+                                        "drugbank_id": "DB12020"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibalizumab (J05AX23)",
+                                "atc_code": "J05AX23",
+                                "children": [
+                                    {
+                                        "name": "Ibalizumab",
+                                        "drugbank_id": "DB12698"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentanedioic acid imidazolyl ethanamide (J05AX21)",
+                                "atc_code": "J05AX21"
+                            },
+                            {
+                                "name": "Tilorone (J05AX19)",
+                                "atc_code": "J05AX19",
+                                "children": [
+                                    {
+                                        "name": "Tilorone",
+                                        "drugbank_id": "DB17965"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Letermovir (J05AX18)",
+                                "atc_code": "J05AX18",
+                                "children": [
+                                    {
+                                        "name": "Letermovir",
+                                        "drugbank_id": "DB12070"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enisamium iodide (J05AX17)",
+                                "atc_code": "J05AX17"
+                            },
+                            {
+                                "name": "Umifenovir (J05AX13)",
+                                "atc_code": "J05AX13",
+                                "children": [
+                                    {
+                                        "name": "Umifenovir",
+                                        "drugbank_id": "DB13609"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Maribavir (J05AX10)",
+                                "atc_code": "J05AX10",
+                                "children": [
+                                    {
+                                        "name": "Maribavir",
+                                        "drugbank_id": "DB06234"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Maraviroc (J05AX09)",
+                                "atc_code": "J05AX09",
+                                "children": [
+                                    {
+                                        "name": "Maraviroc",
+                                        "drugbank_id": "DB04835"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enfuvirtide (J05AX07)",
+                                "atc_code": "J05AX07",
+                                "children": [
+                                    {
+                                        "name": "Enfuvirtide",
+                                        "drugbank_id": "DB00109"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pleconaril (J05AX06)",
+                                "atc_code": "J05AX06",
+                                "children": [
+                                    {
+                                        "name": "Pleconaril",
+                                        "drugbank_id": "DB05105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inosine pranobex (J05AX05)",
+                                "atc_code": "J05AX05",
+                                "children": [
+                                    {
+                                        "name": "Inosine pranobex",
+                                        "drugbank_id": "DB13156"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lysozyme (J05AX02)",
+                                "atc_code": "J05AX02",
+                                "children": [
+                                    {
+                                        "name": "Lysozyme",
+                                        "drugbank_id": "DB13260"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moroxydine (J05AX01)",
+                                "atc_code": "J05AX01",
+                                "children": [
+                                    {
+                                        "name": "Moroxydine",
+                                        "drugbank_id": "DB13597"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antivirals for treatment of hiv infections, combinations (J05AR)",
+                        "atc_code": "J05AR",
+                        "children": [
+                            {
+                                "name": "Emtricitabine, tenofovir alafenamide and dolutegravir (J05AR29)",
+                                "atc_code": "J05AR29",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    },
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stavudine and lamivudine (J05AR28)",
+                                "atc_code": "J05AR28",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Stavudine",
+                                        "drugbank_id": "DB00649"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine, tenofovir disoproxil and dolutegravir (J05AR27)",
+                                "atc_code": "J05AR27",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darunavir and ritonavir (J05AR26)",
+                                "atc_code": "J05AR26",
+                                "children": [
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    },
+                                    {
+                                        "name": "Darunavir",
+                                        "drugbank_id": "DB01264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine and dolutegravir (J05AR25)",
+                                "atc_code": "J05AR25",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine, tenofovir disoproxil and doravirine (J05AR24)",
+                                "atc_code": "J05AR24",
+                                "children": [
+                                    {
+                                        "name": "Doravirine",
+                                        "drugbank_id": "DB12301"
+                                    },
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atazanavir and ritonavir (J05AR23)",
+                                "atc_code": "J05AR23",
+                                "children": [
+                                    {
+                                        "name": "Atazanavir",
+                                        "drugbank_id": "DB01072"
+                                    },
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir alafenamide, darunavir and cobicistat (J05AR22)",
+                                "atc_code": "J05AR22",
+                                "children": [
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    },
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    },
+                                    {
+                                        "name": "Darunavir",
+                                        "drugbank_id": "DB01264"
+                                    },
+                                    {
+                                        "name": "Cobicistat",
+                                        "drugbank_id": "DB09065"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dolutegravir and rilpivirine (J05AR21)",
+                                "atc_code": "J05AR21",
+                                "children": [
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    },
+                                    {
+                                        "name": "Rilpivirine",
+                                        "drugbank_id": "DB08864"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir alafenamide and bictegravir (J05AR20)",
+                                "atc_code": "J05AR20",
+                                "children": [
+                                    {
+                                        "name": "Bictegravir",
+                                        "drugbank_id": "DB11799"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    },
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir alafenamide and rilpivirine (J05AR19)",
+                                "atc_code": "J05AR19",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    },
+                                    {
+                                        "name": "Rilpivirine",
+                                        "drugbank_id": "DB08864"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir alafenamide, elvitegravir and cobicistat (J05AR18)",
+                                "atc_code": "J05AR18",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    },
+                                    {
+                                        "name": "Cobicistat",
+                                        "drugbank_id": "DB09065"
+                                    },
+                                    {
+                                        "name": "Elvitegravir",
+                                        "drugbank_id": "DB09101"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine and tenofovir alafenamide (J05AR17)",
+                                "atc_code": "J05AR17",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine and raltegravir (J05AR16)",
+                                "atc_code": "J05AR16",
+                                "children": [
+                                    {
+                                        "name": "Raltegravir",
+                                        "drugbank_id": "DB06817"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atazanavir and cobicistat (J05AR15)",
+                                "atc_code": "J05AR15",
+                                "children": [
+                                    {
+                                        "name": "Cobicistat",
+                                        "drugbank_id": "DB09065"
+                                    },
+                                    {
+                                        "name": "Atazanavir",
+                                        "drugbank_id": "DB01072"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darunavir and cobicistat (J05AR14)",
+                                "atc_code": "J05AR14",
+                                "children": [
+                                    {
+                                        "name": "Cobicistat",
+                                        "drugbank_id": "DB09065"
+                                    },
+                                    {
+                                        "name": "Darunavir",
+                                        "drugbank_id": "DB01264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine, abacavir and dolutegravir (J05AR13)",
+                                "atc_code": "J05AR13",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Abacavir",
+                                        "drugbank_id": "DB01048"
+                                    },
+                                    {
+                                        "name": "Dolutegravir",
+                                        "drugbank_id": "DB08930"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine and tenofovir disoproxil (J05AR12)",
+                                "atc_code": "J05AR12",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine, tenofovir disoproxil and efavirenz (J05AR11)",
+                                "atc_code": "J05AR11",
+                                "children": [
+                                    {
+                                        "name": "Efavirenz",
+                                        "drugbank_id": "DB00625"
+                                    },
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lopinavir and ritonavir (J05AR10)",
+                                "atc_code": "J05AR10",
+                                "children": [
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    },
+                                    {
+                                        "name": "Lopinavir",
+                                        "drugbank_id": "DB01601"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat (J05AR09)",
+                                "atc_code": "J05AR09",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Cobicistat",
+                                        "drugbank_id": "DB09065"
+                                    },
+                                    {
+                                        "name": "Elvitegravir",
+                                        "drugbank_id": "DB09101"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir disoproxil and rilpivirine (J05AR08)",
+                                "atc_code": "J05AR08",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Rilpivirine",
+                                        "drugbank_id": "DB08864"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stavudine, lamivudine and nevirapine (J05AR07)",
+                                "atc_code": "J05AR07",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Nevirapine",
+                                        "drugbank_id": "DB00238"
+                                    },
+                                    {
+                                        "name": "Stavudine",
+                                        "drugbank_id": "DB00649"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine, tenofovir disoproxil and efavirenz (J05AR06)",
+                                "atc_code": "J05AR06",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    },
+                                    {
+                                        "name": "Efavirenz",
+                                        "drugbank_id": "DB00625"
+                                    },
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zidovudine, lamivudine and nevirapine (J05AR05)",
+                                "atc_code": "J05AR05",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Zidovudine",
+                                        "drugbank_id": "DB00495"
+                                    },
+                                    {
+                                        "name": "Nevirapine",
+                                        "drugbank_id": "DB00238"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zidovudine, lamivudine and abacavir (J05AR04)",
+                                "atc_code": "J05AR04",
+                                "children": [
+                                    {
+                                        "name": "Zidovudine",
+                                        "drugbank_id": "DB00495"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Abacavir",
+                                        "drugbank_id": "DB01048"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tenofovir disoproxil and emtricitabine (J05AR03)",
+                                "atc_code": "J05AR03",
+                                "children": [
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    },
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine and abacavir (J05AR02)",
+                                "atc_code": "J05AR02",
+                                "children": [
+                                    {
+                                        "name": "Abacavir",
+                                        "drugbank_id": "DB01048"
+                                    },
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zidovudine and lamivudine (J05AR01)",
+                                "atc_code": "J05AR01",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    },
+                                    {
+                                        "name": "Zidovudine",
+                                        "drugbank_id": "DB00495"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Neuraminidase inhibitors (J05AH)",
+                        "atc_code": "J05AH",
+                        "children": [
+                            {
+                                "name": "Laninamivir (J05AH04)",
+                                "atc_code": "J05AH04",
+                                "children": [
+                                    {
+                                        "name": "Laninamivir",
+                                        "drugbank_id": "DB12791"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peramivir (J05AH03)",
+                                "atc_code": "J05AH03",
+                                "children": [
+                                    {
+                                        "name": "Peramivir",
+                                        "drugbank_id": "DB06614"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oseltamivir (J05AH02)",
+                                "atc_code": "J05AH02",
+                                "children": [
+                                    {
+                                        "name": "Oseltamivir",
+                                        "drugbank_id": "DB00198"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zanamivir (J05AH01)",
+                                "atc_code": "J05AH01",
+                                "children": [
+                                    {
+                                        "name": "Zanamivir",
+                                        "drugbank_id": "DB00558"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Non-nucleoside reverse transcriptase inhibitors (J05AG)",
+                        "atc_code": "J05AG",
+                        "children": [
+                            {
+                                "name": "Elsulfavirine (J05AG07)",
+                                "atc_code": "J05AG07",
+                                "children": [
+                                    {
+                                        "name": "Elsulfavirine",
+                                        "drugbank_id": "DB14929"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doravirine (J05AG06)",
+                                "atc_code": "J05AG06",
+                                "children": [
+                                    {
+                                        "name": "Doravirine",
+                                        "drugbank_id": "DB12301"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rilpivirine (J05AG05)",
+                                "atc_code": "J05AG05",
+                                "children": [
+                                    {
+                                        "name": "Rilpivirine",
+                                        "drugbank_id": "DB08864"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etravirine (J05AG04)",
+                                "atc_code": "J05AG04",
+                                "children": [
+                                    {
+                                        "name": "Etravirine",
+                                        "drugbank_id": "DB06414"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Efavirenz (J05AG03)",
+                                "atc_code": "J05AG03",
+                                "children": [
+                                    {
+                                        "name": "Efavirenz",
+                                        "drugbank_id": "DB00625"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Delavirdine (J05AG02)",
+                                "atc_code": "J05AG02",
+                                "children": [
+                                    {
+                                        "name": "Delavirdine",
+                                        "drugbank_id": "DB00705"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nevirapine (J05AG01)",
+                                "atc_code": "J05AG01",
+                                "children": [
+                                    {
+                                        "name": "Nevirapine",
+                                        "drugbank_id": "DB00238"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nucleoside and nucleotide reverse transcriptase inhibitors (J05AF)",
+                        "atc_code": "J05AF",
+                        "children": [
+                            {
+                                "name": "Tenofovir alafenamide (J05AF13)",
+                                "atc_code": "J05AF13",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir alafenamide",
+                                        "drugbank_id": "DB09299"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clevudine (J05AF12)",
+                                "atc_code": "J05AF12",
+                                "children": [
+                                    {
+                                        "name": "Clevudine",
+                                        "drugbank_id": "DB06683"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Telbivudine (J05AF11)",
+                                "atc_code": "J05AF11",
+                                "children": [
+                                    {
+                                        "name": "Telbivudine",
+                                        "drugbank_id": "DB01265"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Entecavir (J05AF10)",
+                                "atc_code": "J05AF10",
+                                "children": [
+                                    {
+                                        "name": "Entecavir",
+                                        "drugbank_id": "DB00442"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emtricitabine (J05AF09)",
+                                "atc_code": "J05AF09",
+                                "children": [
+                                    {
+                                        "name": "Emtricitabine",
+                                        "drugbank_id": "DB00879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adefovir dipivoxil (J05AF08)",
+                                "atc_code": "J05AF08",
+                                "children": [
+                                    {
+                                        "name": "Adefovir dipivoxil",
+                                        "drugbank_id": "DB00718"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tenofovir disoproxil (J05AF07)",
+                                "atc_code": "J05AF07",
+                                "children": [
+                                    {
+                                        "name": "Tenofovir disoproxil",
+                                        "drugbank_id": "DB00300"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abacavir (J05AF06)",
+                                "atc_code": "J05AF06",
+                                "children": [
+                                    {
+                                        "name": "Abacavir",
+                                        "drugbank_id": "DB01048"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lamivudine (J05AF05)",
+                                "atc_code": "J05AF05",
+                                "children": [
+                                    {
+                                        "name": "Lamivudine",
+                                        "drugbank_id": "DB00709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Stavudine (J05AF04)",
+                                "atc_code": "J05AF04",
+                                "children": [
+                                    {
+                                        "name": "Stavudine",
+                                        "drugbank_id": "DB00649"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zalcitabine (J05AF03)",
+                                "atc_code": "J05AF03",
+                                "children": [
+                                    {
+                                        "name": "Zalcitabine",
+                                        "drugbank_id": "DB00943"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Didanosine (J05AF02)",
+                                "atc_code": "J05AF02",
+                                "children": [
+                                    {
+                                        "name": "Didanosine",
+                                        "drugbank_id": "DB00900"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zidovudine (J05AF01)",
+                                "atc_code": "J05AF01",
+                                "children": [
+                                    {
+                                        "name": "Zidovudine",
+                                        "drugbank_id": "DB00495"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Protease inhibitors (J05AE)",
+                        "atc_code": "J05AE",
+                        "children": [
+                            {
+                                "name": "Ensitrelvir (J05AE16)",
+                                "atc_code": "J05AE16",
+                                "children": [
+                                    {
+                                        "name": "Ensitrelvir",
+                                        "drugbank_id": "DB18834"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nirmatrelvir and ritonavir (J05AE30)",
+                                "atc_code": "J05AE30",
+                                "children": [
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    },
+                                    {
+                                        "name": "Nirmatrelvir",
+                                        "drugbank_id": "DB16691"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darunavir (J05AE10)",
+                                "atc_code": "J05AE10",
+                                "children": [
+                                    {
+                                        "name": "Darunavir",
+                                        "drugbank_id": "DB01264"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tipranavir (J05AE09)",
+                                "atc_code": "J05AE09",
+                                "children": [
+                                    {
+                                        "name": "Tipranavir",
+                                        "drugbank_id": "DB00932"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atazanavir (J05AE08)",
+                                "atc_code": "J05AE08",
+                                "children": [
+                                    {
+                                        "name": "Atazanavir",
+                                        "drugbank_id": "DB01072"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fosamprenavir (J05AE07)",
+                                "atc_code": "J05AE07",
+                                "children": [
+                                    {
+                                        "name": "Fosamprenavir",
+                                        "drugbank_id": "DB01319"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amprenavir (J05AE05)",
+                                "atc_code": "J05AE05",
+                                "children": [
+                                    {
+                                        "name": "Amprenavir",
+                                        "drugbank_id": "DB00701"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nelfinavir (J05AE04)",
+                                "atc_code": "J05AE04",
+                                "children": [
+                                    {
+                                        "name": "Nelfinavir",
+                                        "drugbank_id": "DB00220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ritonavir (J05AE03)",
+                                "atc_code": "J05AE03",
+                                "children": [
+                                    {
+                                        "name": "Ritonavir",
+                                        "drugbank_id": "DB00503"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indinavir (J05AE02)",
+                                "atc_code": "J05AE02",
+                                "children": [
+                                    {
+                                        "name": "Indinavir",
+                                        "drugbank_id": "DB00224"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saquinavir (J05AE01)",
+                                "atc_code": "J05AE01",
+                                "children": [
+                                    {
+                                        "name": "Saquinavir",
+                                        "drugbank_id": "DB01232"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phosphonic acid derivatives (J05AD)",
+                        "atc_code": "J05AD",
+                        "children": [
+                            {
+                                "name": "Fosfonet (J05AD02)",
+                                "atc_code": "J05AD02"
+                            },
+                            {
+                                "name": "Foscarnet (J05AD01)",
+                                "atc_code": "J05AD01",
+                                "children": [
+                                    {
+                                        "name": "Foscarnet",
+                                        "drugbank_id": "DB00529"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cyclic amines (J05AC)",
+                        "atc_code": "J05AC",
+                        "children": [
+                            {
+                                "name": "Tromantadine (J05AC03)",
+                                "atc_code": "J05AC03",
+                                "children": [
+                                    {
+                                        "name": "Tromantadine",
+                                        "drugbank_id": "DB13288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rimantadine (J05AC02)",
+                                "atc_code": "J05AC02",
+                                "children": [
+                                    {
+                                        "name": "Rimantadine",
+                                        "drugbank_id": "DB00478"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nucleosides and nucleotides excl. reverse transcriptase inhibitors (J05AB)",
+                        "atc_code": "J05AB",
+                        "children": [
+                            {
+                                "name": "Molnupiravir (J05AB18)",
+                                "atc_code": "J05AB18",
+                                "children": [
+                                    {
+                                        "name": "Molnupiravir",
+                                        "drugbank_id": "DB15661"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brincidofovir (J05AB17)",
+                                "atc_code": "J05AB17",
+                                "children": [
+                                    {
+                                        "name": "Brincidofovir",
+                                        "drugbank_id": "DB12151"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Remdesivir (J05AB16)",
+                                "atc_code": "J05AB16",
+                                "children": [
+                                    {
+                                        "name": "Remdesivir",
+                                        "drugbank_id": "DB14761"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brivudine (J05AB15)",
+                                "atc_code": "J05AB15",
+                                "children": [
+                                    {
+                                        "name": "Brivudine",
+                                        "drugbank_id": "DB03312"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valganciclovir (J05AB14)",
+                                "atc_code": "J05AB14",
+                                "children": [
+                                    {
+                                        "name": "Valganciclovir",
+                                        "drugbank_id": "DB01610"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penciclovir (J05AB13)",
+                                "atc_code": "J05AB13",
+                                "children": [
+                                    {
+                                        "name": "Penciclovir",
+                                        "drugbank_id": "DB00299"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cidofovir (J05AB12)",
+                                "atc_code": "J05AB12",
+                                "children": [
+                                    {
+                                        "name": "Cidofovir",
+                                        "drugbank_id": "DB00369"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Valaciclovir (J05AB11)",
+                                "atc_code": "J05AB11",
+                                "children": [
+                                    {
+                                        "name": "Valaciclovir",
+                                        "drugbank_id": "DB00577"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Famciclovir (J05AB09)",
+                                "atc_code": "J05AB09",
+                                "children": [
+                                    {
+                                        "name": "Famciclovir",
+                                        "drugbank_id": "DB00426"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ganciclovir (J05AB06)",
+                                "atc_code": "J05AB06",
+                                "children": [
+                                    {
+                                        "name": "Ganciclovir",
+                                        "drugbank_id": "DB01004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vidarabine (J05AB03)",
+                                "atc_code": "J05AB03",
+                                "children": [
+                                    {
+                                        "name": "Vidarabine",
+                                        "drugbank_id": "DB00194"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idoxuridine (J05AB02)",
+                                "atc_code": "J05AB02",
+                                "children": [
+                                    {
+                                        "name": "Idoxuridine",
+                                        "drugbank_id": "DB00249"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aciclovir (J05AB01)",
+                                "atc_code": "J05AB01",
+                                "children": [
+                                    {
+                                        "name": "Acyclovir",
+                                        "drugbank_id": "DB00787"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiosemicarbazones (J05AA)",
+                        "atc_code": "J05AA",
+                        "children": [
+                            {
+                                "name": "Metisazone (J05AA01)",
+                                "atc_code": "J05AA01",
+                                "children": [
+                                    {
+                                        "name": "Metisazone",
+                                        "drugbank_id": "DB13641"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

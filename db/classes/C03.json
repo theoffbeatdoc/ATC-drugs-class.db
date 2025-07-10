@@ -1,0 +1,944 @@
+[
+    {
+        "name": "Diuretics (C03)",
+        "atc_code": "C03",
+        "children": [
+            {
+                "name": "Other diuretics (C03X)",
+                "atc_code": "C03X",
+                "children": [
+                    {
+                        "name": "Vasopressin antagonists (C03XA)",
+                        "atc_code": "C03XA",
+                        "children": [
+                            {
+                                "name": "Conivaptan (C03XA02)",
+                                "atc_code": "C03XA02",
+                                "children": [
+                                    {
+                                        "name": "Conivaptan",
+                                        "drugbank_id": "DB00872"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tolvaptan (C03XA01)",
+                                "atc_code": "C03XA01",
+                                "children": [
+                                    {
+                                        "name": "Tolvaptan",
+                                        "drugbank_id": "DB06212"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Diuretics and potassium-sparing agents in combination (C03E)",
+                "atc_code": "C03E",
+                "children": [
+                    {
+                        "name": "High-ceiling diuretics and potassium-sparing agents (C03EB)",
+                        "atc_code": "C03EB",
+                        "children": [
+                            {
+                                "name": "Bumetanide and potassium-sparing agents (C03EB02)",
+                                "atc_code": "C03EB02",
+                                "children": [
+                                    {
+                                        "name": "Bumetanide",
+                                        "drugbank_id": "DB00887"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Furosemide and potassium-sparing agents (C03EB01)",
+                                "atc_code": "C03EB01",
+                                "children": [
+                                    {
+                                        "name": "Furosemide",
+                                        "drugbank_id": "DB00695"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Low-ceiling diuretics and potassium-sparing agents (C03EA)",
+                        "atc_code": "C03EA",
+                        "children": [
+                            {
+                                "name": "Butizide and potassium-sparing agents (C03EA14)",
+                                "atc_code": "C03EA14",
+                                "children": [
+                                    {
+                                        "name": "Buthiazide",
+                                        "drugbank_id": "DB15861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bendroflumethiazide and potassium-sparing agents (C03EA13)",
+                                "atc_code": "C03EA13",
+                                "children": [
+                                    {
+                                        "name": "Bendroflumethiazide",
+                                        "drugbank_id": "DB00436"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metolazone and potassium-sparing agents (C03EA12)",
+                                "atc_code": "C03EA12",
+                                "children": [
+                                    {
+                                        "name": "Metolazone",
+                                        "drugbank_id": "DB00524"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclopenthiazide and potassium-sparing agents (C03EA07)",
+                                "atc_code": "C03EA07",
+                                "children": [
+                                    {
+                                        "name": "Cyclopenthiazide",
+                                        "drugbank_id": "DB13532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortalidone and potassium-sparing agents (C03EA06)",
+                                "atc_code": "C03EA06",
+                                "children": [
+                                    {
+                                        "name": "Chlorthalidone",
+                                        "drugbank_id": "DB00310"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mebutizide and potassium-sparing agents (C03EA05)",
+                                "atc_code": "C03EA05",
+                                "children": [
+                                    {
+                                        "name": "Mebutizide",
+                                        "drugbank_id": "DB13430"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Altizide and potassium-sparing agents (C03EA04)",
+                                "atc_code": "C03EA04"
+                            },
+                            {
+                                "name": "Epitizide and potassium-sparing agents (C03EA03)",
+                                "atc_code": "C03EA03",
+                                "children": [
+                                    {
+                                        "name": "Epitizide",
+                                        "drugbank_id": "DB13989"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trichlormethiazide and potassium-sparing agents (C03EA02)",
+                                "atc_code": "C03EA02",
+                                "children": [
+                                    {
+                                        "name": "Trichlormethiazide",
+                                        "drugbank_id": "DB01021"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrochlorothiazide and potassium-sparing agents (C03EA01)",
+                                "atc_code": "C03EA01",
+                                "children": [
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Aldosterone antagonists and other potassium-sparing agents (C03D)",
+                "atc_code": "C03D",
+                "children": [
+                    {
+                        "name": "Other potassium-sparing agents (C03DB)",
+                        "atc_code": "C03DB",
+                        "children": [
+                            {
+                                "name": "Triamterene (C03DB02)",
+                                "atc_code": "C03DB02",
+                                "children": [
+                                    {
+                                        "name": "Triamterene",
+                                        "drugbank_id": "DB00384"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amiloride (C03DB01)",
+                                "atc_code": "C03DB01",
+                                "children": [
+                                    {
+                                        "name": "Amiloride",
+                                        "drugbank_id": "DB00594"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aldosterone antagonists (C03DA)",
+                        "atc_code": "C03DA",
+                        "children": [
+                            {
+                                "name": "Finerenone (C03DA05)",
+                                "atc_code": "C03DA05",
+                                "children": [
+                                    {
+                                        "name": "Finerenone",
+                                        "drugbank_id": "DB16165"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eplerenone (C03DA04)",
+                                "atc_code": "C03DA04",
+                                "children": [
+                                    {
+                                        "name": "Eplerenone",
+                                        "drugbank_id": "DB00700"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canrenone (C03DA03)",
+                                "atc_code": "C03DA03",
+                                "children": [
+                                    {
+                                        "name": "Canrenone",
+                                        "drugbank_id": "DB12221"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium canrenoate (C03DA02)",
+                                "atc_code": "C03DA02",
+                                "children": [
+                                    {
+                                        "name": "Canrenoic acid",
+                                        "drugbank_id": "DB09015"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spironolactone (C03DA01)",
+                                "atc_code": "C03DA01",
+                                "children": [
+                                    {
+                                        "name": "Spironolactone",
+                                        "drugbank_id": "DB00421"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High-ceiling diuretics (C03C)",
+                "atc_code": "C03C",
+                "children": [
+                    {
+                        "name": "Other high-ceiling diuretics (C03CX)",
+                        "atc_code": "C03CX",
+                        "children": [
+                            {
+                                "name": "Etozolin (C03CX01)",
+                                "atc_code": "C03CX01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pyrazolone derivatives (C03CD)",
+                        "atc_code": "C03CD",
+                        "children": [
+                            {
+                                "name": "Muzolimine (C03CD01)",
+                                "atc_code": "C03CD01",
+                                "children": [
+                                    {
+                                        "name": "Muzolimine",
+                                        "drugbank_id": "DB13801"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aryloxyacetic acid derivatives (C03CC)",
+                        "atc_code": "C03CC",
+                        "children": [
+                            {
+                                "name": "Tienilic acid (C03CC02)",
+                                "atc_code": "C03CC02",
+                                "children": [
+                                    {
+                                        "name": "Tienilic acid",
+                                        "drugbank_id": "DB04831"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etacrynic acid (C03CC01)",
+                                "atc_code": "C03CC01",
+                                "children": [
+                                    {
+                                        "name": "Etacrynic acid",
+                                        "drugbank_id": "DB00903"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides and potassium in combination (C03CB)",
+                        "atc_code": "C03CB",
+                        "children": [
+                            {
+                                "name": "Bumetanide and potassium (C03CB02)",
+                                "atc_code": "C03CB02",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Bumetanide",
+                                        "drugbank_id": "DB00887"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Furosemide and potassium (C03CB01)",
+                                "atc_code": "C03CB01",
+                                "children": [
+                                    {
+                                        "name": "Furosemide",
+                                        "drugbank_id": "DB00695"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides, plain (C03CA)",
+                        "atc_code": "C03CA",
+                        "children": [
+                            {
+                                "name": "Torasemide (C03CA04)",
+                                "atc_code": "C03CA04",
+                                "children": [
+                                    {
+                                        "name": "Torasemide",
+                                        "drugbank_id": "DB00214"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piretanide (C03CA03)",
+                                "atc_code": "C03CA03",
+                                "children": [
+                                    {
+                                        "name": "Piretanide",
+                                        "drugbank_id": "DB02925"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bumetanide (C03CA02)",
+                                "atc_code": "C03CA02",
+                                "children": [
+                                    {
+                                        "name": "Bumetanide",
+                                        "drugbank_id": "DB00887"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Furosemide (C03CA01)",
+                                "atc_code": "C03CA01",
+                                "children": [
+                                    {
+                                        "name": "Furosemide",
+                                        "drugbank_id": "DB00695"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Low-ceiling diuretics, excl. thiazides (C03B)",
+                "atc_code": "C03B",
+                "children": [
+                    {
+                        "name": "Other low-ceiling diuretics (C03BX)",
+                        "atc_code": "C03BX",
+                        "children": [
+                            {
+                                "name": "Cicletanine (C03BX03)",
+                                "atc_code": "C03BX03",
+                                "children": [
+                                    {
+                                        "name": "Cicletanine",
+                                        "drugbank_id": "DB12766"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides, combinations with other drugs (C03BK)",
+                        "atc_code": "C03BK"
+                    },
+                    {
+                        "name": "Xanthine derivatives (C03BD)",
+                        "atc_code": "C03BD",
+                        "children": [
+                            {
+                                "name": "Theobromine (C03BD01)",
+                                "atc_code": "C03BD01",
+                                "children": [
+                                    {
+                                        "name": "Theobromine",
+                                        "drugbank_id": "DB01412"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mercurial diuretics (C03BC)",
+                        "atc_code": "C03BC",
+                        "children": [
+                            {
+                                "name": "Mersalyl (C03BC01)",
+                                "atc_code": "C03BC01",
+                                "children": [
+                                    {
+                                        "name": "Mersalyl",
+                                        "drugbank_id": "DB09338"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides and potassium in combination (C03BB)",
+                        "atc_code": "C03BB",
+                        "children": [
+                            {
+                                "name": "Clofenamide and potassium (C03BB07)",
+                                "atc_code": "C03BB07",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Clofenamide",
+                                        "drugbank_id": "DB13663"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mefruside and potassium (C03BB05)",
+                                "atc_code": "C03BB05",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Mefruside",
+                                        "drugbank_id": "DB13405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortalidone and potassium (C03BB04)",
+                                "atc_code": "C03BB04",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Chlorthalidone",
+                                        "drugbank_id": "DB00310"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clopamide and potassium (C03BB03)",
+                                "atc_code": "C03BB03",
+                                "children": [
+                                    {
+                                        "name": "Clopamide",
+                                        "drugbank_id": "DB13792"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinethazone and potassium (C03BB02)",
+                                "atc_code": "C03BB02",
+                                "children": [
+                                    {
+                                        "name": "Quinethazone",
+                                        "drugbank_id": "DB01325"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides, plain (C03BA)",
+                        "atc_code": "C03BA",
+                        "children": [
+                            {
+                                "name": "Clorexolone, combinations with psycholeptics (C03BA82)",
+                                "atc_code": "C03BA82",
+                                "children": [
+                                    {
+                                        "name": "Clorexolone",
+                                        "drugbank_id": "DB13617"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fenquizone (C03BA13)",
+                                "atc_code": "C03BA13",
+                                "children": [
+                                    {
+                                        "name": "Fenquizone",
+                                        "drugbank_id": "DB13708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clorexolone (C03BA12)",
+                                "atc_code": "C03BA12",
+                                "children": [
+                                    {
+                                        "name": "Clorexolone",
+                                        "drugbank_id": "DB13617"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Indapamide (C03BA11)",
+                                "atc_code": "C03BA11",
+                                "children": [
+                                    {
+                                        "name": "Indapamide",
+                                        "drugbank_id": "DB00808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xipamide (C03BA10)",
+                                "atc_code": "C03BA10",
+                                "children": [
+                                    {
+                                        "name": "Xipamide",
+                                        "drugbank_id": "DB13803"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meticrane (C03BA09)",
+                                "atc_code": "C03BA09",
+                                "children": [
+                                    {
+                                        "name": "Meticrane",
+                                        "drugbank_id": "DB13284"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metolazone (C03BA08)",
+                                "atc_code": "C03BA08",
+                                "children": [
+                                    {
+                                        "name": "Metolazone",
+                                        "drugbank_id": "DB00524"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clofenamide (C03BA07)",
+                                "atc_code": "C03BA07",
+                                "children": [
+                                    {
+                                        "name": "Clofenamide",
+                                        "drugbank_id": "DB13663"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mefruside (C03BA05)",
+                                "atc_code": "C03BA05",
+                                "children": [
+                                    {
+                                        "name": "Mefruside",
+                                        "drugbank_id": "DB13405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortalidone (C03BA04)",
+                                "atc_code": "C03BA04",
+                                "children": [
+                                    {
+                                        "name": "Chlorthalidone",
+                                        "drugbank_id": "DB00310"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Clopamide (C03BA03)",
+                                "atc_code": "C03BA03",
+                                "children": [
+                                    {
+                                        "name": "Clopamide",
+                                        "drugbank_id": "DB13792"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Quinethazone (C03BA02)",
+                                "atc_code": "C03BA02",
+                                "children": [
+                                    {
+                                        "name": "Quinethazone",
+                                        "drugbank_id": "DB01325"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Low-ceiling diuretics, thiazides (C03A)",
+                "atc_code": "C03A",
+                "children": [
+                    {
+                        "name": "Thiazides, combinations with other drugs (C03AX)",
+                        "atc_code": "C03AX",
+                        "children": [
+                            {
+                                "name": "Hydrochlorothiazide, combinations (C03AX01)",
+                                "atc_code": "C03AX01",
+                                "children": [
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiazides, combinations with psycholeptics and/or analgesics (C03AH)",
+                        "atc_code": "C03AH",
+                        "children": [
+                            {
+                                "name": "Hydroflumethiazide, combinations (C03AH02)",
+                                "atc_code": "C03AH02",
+                                "children": [
+                                    {
+                                        "name": "Hydroflumethiazide",
+                                        "drugbank_id": "DB00774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorothiazide, combinations (C03AH01)",
+                                "atc_code": "C03AH01",
+                                "children": [
+                                    {
+                                        "name": "Chlorothiazide",
+                                        "drugbank_id": "DB00880"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiazides and potassium in combination (C03AB)",
+                        "atc_code": "C03AB",
+                        "children": [
+                            {
+                                "name": "Cyclothiazide and potassium (C03AB09)",
+                                "atc_code": "C03AB09",
+                                "children": [
+                                    {
+                                        "name": "Cyclothiazide",
+                                        "drugbank_id": "DB00606"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methyclothiazide and potassium (C03AB08)",
+                                "atc_code": "C03AB08",
+                                "children": [
+                                    {
+                                        "name": "Methyclothiazide",
+                                        "drugbank_id": "DB00232"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclopenthiazide and potassium (C03AB07)",
+                                "atc_code": "C03AB07",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Cyclopenthiazide",
+                                        "drugbank_id": "DB13532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trichlormethiazide and potassium (C03AB06)",
+                                "atc_code": "C03AB06",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Trichlormethiazide",
+                                        "drugbank_id": "DB01021"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polythiazide and potassium (C03AB05)",
+                                "atc_code": "C03AB05",
+                                "children": [
+                                    {
+                                        "name": "Polythiazide",
+                                        "drugbank_id": "DB01324"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorothiazide and potassium (C03AB04)",
+                                "atc_code": "C03AB04",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Chlorothiazide",
+                                        "drugbank_id": "DB00880"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrochlorothiazide and potassium (C03AB03)",
+                                "atc_code": "C03AB03",
+                                "children": [
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroflumethiazide and potassium (C03AB02)",
+                                "atc_code": "C03AB02",
+                                "children": [
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    },
+                                    {
+                                        "name": "Hydroflumethiazide",
+                                        "drugbank_id": "DB00774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bendroflumethiazide and potassium (C03AB01)",
+                                "atc_code": "C03AB01",
+                                "children": [
+                                    {
+                                        "name": "Bendroflumethiazide",
+                                        "drugbank_id": "DB00436"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "drugbank_id": "DB14500"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thiazides, plain (C03AA)",
+                        "atc_code": "C03AA",
+                        "children": [
+                            {
+                                "name": "Mebutizide (C03AA13)",
+                                "atc_code": "C03AA13",
+                                "children": [
+                                    {
+                                        "name": "Mebutizide",
+                                        "drugbank_id": "DB13430"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclothiazide (C03AA09)",
+                                "atc_code": "C03AA09",
+                                "children": [
+                                    {
+                                        "name": "Cyclothiazide",
+                                        "drugbank_id": "DB00606"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methyclothiazide (C03AA08)",
+                                "atc_code": "C03AA08",
+                                "children": [
+                                    {
+                                        "name": "Methyclothiazide",
+                                        "drugbank_id": "DB00232"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclopenthiazide (C03AA07)",
+                                "atc_code": "C03AA07",
+                                "children": [
+                                    {
+                                        "name": "Cyclopenthiazide",
+                                        "drugbank_id": "DB13532"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trichlormethiazide (C03AA06)",
+                                "atc_code": "C03AA06",
+                                "children": [
+                                    {
+                                        "name": "Trichlormethiazide",
+                                        "drugbank_id": "DB01021"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Polythiazide (C03AA05)",
+                                "atc_code": "C03AA05",
+                                "children": [
+                                    {
+                                        "name": "Polythiazide",
+                                        "drugbank_id": "DB01324"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorothiazide (C03AA04)",
+                                "atc_code": "C03AA04",
+                                "children": [
+                                    {
+                                        "name": "Chlorothiazide",
+                                        "drugbank_id": "DB00880"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrochlorothiazide (C03AA03)",
+                                "atc_code": "C03AA03",
+                                "children": [
+                                    {
+                                        "name": "Hydrochlorothiazide",
+                                        "drugbank_id": "DB00999"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydroflumethiazide (C03AA02)",
+                                "atc_code": "C03AA02",
+                                "children": [
+                                    {
+                                        "name": "Hydroflumethiazide",
+                                        "drugbank_id": "DB00774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bendroflumethiazide (C03AA01)",
+                                "atc_code": "C03AA01",
+                                "children": [
+                                    {
+                                        "name": "Bendroflumethiazide",
+                                        "drugbank_id": "DB00436"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

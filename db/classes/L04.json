@@ -1,0 +1,1102 @@
+[
+    {
+        "name": "Immunosuppressants (L04)",
+        "atc_code": "L04",
+        "children": [
+            {
+                "name": "Immunosuppressants (L04A)",
+                "atc_code": "L04A",
+                "children": [
+                    {
+                        "name": "Dihydroorotate dehydrogenase (dhodh) inhibitors (L04AK)",
+                        "atc_code": "L04AK",
+                        "children": [
+                            {
+                                "name": "Teriflunomide (L04AK02)",
+                                "atc_code": "L04AK02",
+                                "children": [
+                                    {
+                                        "name": "Teriflunomide",
+                                        "drugbank_id": "DB08880"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Leflunomide (L04AK01)",
+                                "atc_code": "L04AK01",
+                                "children": [
+                                    {
+                                        "name": "Leflunomide",
+                                        "drugbank_id": "DB01097"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Complement inhibitors (L04AJ)",
+                        "atc_code": "L04AJ",
+                        "children": [
+                            {
+                                "name": "Pozelimab (L04AJ11)",
+                                "atc_code": "L04AJ11",
+                                "children": [
+                                    {
+                                        "name": "Pozelimab",
+                                        "drugbank_id": "DB15218"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vilobelimab (L04AJ10)",
+                                "atc_code": "L04AJ10",
+                                "children": [
+                                    {
+                                        "name": "Vilobelimab",
+                                        "drugbank_id": "DB16416"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Danicopan (L04AJ09)",
+                                "atc_code": "L04AJ09",
+                                "children": [
+                                    {
+                                        "name": "Danicopan",
+                                        "drugbank_id": "DB15401"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Iptacopan (L04AJ08)",
+                                "atc_code": "L04AJ08",
+                                "children": [
+                                    {
+                                        "name": "Iptacopan",
+                                        "drugbank_id": "DB16200"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crovalimab (L04AJ07)",
+                                "atc_code": "L04AJ07",
+                                "children": [
+                                    {
+                                        "name": "Crovalimab",
+                                        "drugbank_id": "DB16128"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zilucoplan (L04AJ06)",
+                                "atc_code": "L04AJ06",
+                                "children": [
+                                    {
+                                        "name": "Zilucoplan",
+                                        "drugbank_id": "DB15636"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avacopan (L04AJ05)",
+                                "atc_code": "L04AJ05",
+                                "children": [
+                                    {
+                                        "name": "Avacopan",
+                                        "drugbank_id": "DB15011"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sutimlimab (L04AJ04)",
+                                "atc_code": "L04AJ04",
+                                "children": [
+                                    {
+                                        "name": "Sutimlimab",
+                                        "drugbank_id": "DB14996"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pegcetacoplan (L04AJ03)",
+                                "atc_code": "L04AJ03",
+                                "children": [
+                                    {
+                                        "name": "Pegcetacoplan",
+                                        "drugbank_id": "DB16694"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ravulizumab (L04AJ02)",
+                                "atc_code": "L04AJ02",
+                                "children": [
+                                    {
+                                        "name": "Ravulizumab",
+                                        "drugbank_id": "DB11580"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eculizumab (L04AJ01)",
+                                "atc_code": "L04AJ01",
+                                "children": [
+                                    {
+                                        "name": "Eculizumab",
+                                        "drugbank_id": "DB01257"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mammalian target of rapamycin (mtor) kinase inhibitors (L04AH)",
+                        "atc_code": "L04AH",
+                        "children": [
+                            {
+                                "name": "Everolimus (L04AH02)",
+                                "atc_code": "L04AH02",
+                                "children": [
+                                    {
+                                        "name": "Everolimus",
+                                        "drugbank_id": "DB01590"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sirolimus (L04AH01)",
+                                "atc_code": "L04AH01",
+                                "children": [
+                                    {
+                                        "name": "Sirolimus",
+                                        "drugbank_id": "DB00877"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monoclonal antibodies (L04AG)",
+                        "atc_code": "L04AG",
+                        "children": [
+                            {
+                                "name": "Seniprutug (L04AG17)",
+                                "atc_code": "L04AG17"
+                            },
+                            {
+                                "name": "Rozanolixizumab (L04AG16)",
+                                "atc_code": "L04AG16",
+                                "children": [
+                                    {
+                                        "name": "Rozanolixizumab",
+                                        "drugbank_id": "DB14919"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Divozilimab (L04AG15)",
+                                "atc_code": "L04AG15",
+                                "children": [
+                                    {
+                                        "name": "Divozilimab",
+                                        "drugbank_id": "DB18878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ublituximab (L04AG14)",
+                                "atc_code": "L04AG14",
+                                "children": [
+                                    {
+                                        "name": "Ublituximab",
+                                        "drugbank_id": "DB11850"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teprotumumab (L04AG13)",
+                                "atc_code": "L04AG13",
+                                "children": [
+                                    {
+                                        "name": "Teprotumumab",
+                                        "drugbank_id": "DB06343"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ofatumumab (L04AG12)",
+                                "atc_code": "L04AG12",
+                                "children": [
+                                    {
+                                        "name": "Ofatumumab",
+                                        "drugbank_id": "DB06650"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anifrolumab (L04AG11)",
+                                "atc_code": "L04AG11",
+                                "children": [
+                                    {
+                                        "name": "Anifrolumab",
+                                        "drugbank_id": "DB11976"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inebilizumab (L04AG10)",
+                                "atc_code": "L04AG10",
+                                "children": [
+                                    {
+                                        "name": "Inebilizumab",
+                                        "drugbank_id": "DB12530"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Emapalumab (L04AG09)",
+                                "atc_code": "L04AG09",
+                                "children": [
+                                    {
+                                        "name": "Emapalumab",
+                                        "drugbank_id": "DB14724"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ocrelizumab (L04AG08)",
+                                "atc_code": "L04AG08",
+                                "children": [
+                                    {
+                                        "name": "Ocrelizumab",
+                                        "drugbank_id": "DB11988"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Begelomab (L04AG07)",
+                                "atc_code": "L04AG07",
+                                "children": [
+                                    {
+                                        "name": "Begelomab",
+                                        "drugbank_id": "DB13241"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alemtuzumab (L04AG06)",
+                                "atc_code": "L04AG06",
+                                "children": [
+                                    {
+                                        "name": "Alemtuzumab",
+                                        "drugbank_id": "DB00087"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vedolizumab (L04AG05)",
+                                "atc_code": "L04AG05",
+                                "children": [
+                                    {
+                                        "name": "Vedolizumab",
+                                        "drugbank_id": "DB09033"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Belimumab (L04AG04)",
+                                "atc_code": "L04AG04",
+                                "children": [
+                                    {
+                                        "name": "Belimumab",
+                                        "drugbank_id": "DB08879"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Natalizumab (L04AG03)",
+                                "atc_code": "L04AG03",
+                                "children": [
+                                    {
+                                        "name": "Natalizumab",
+                                        "drugbank_id": "DB00108"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Efalizumab (L04AG02)",
+                                "atc_code": "L04AG02",
+                                "children": [
+                                    {
+                                        "name": "Efalizumab",
+                                        "drugbank_id": "DB00095"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Muromonab-cd3 (L04AG01)",
+                                "atc_code": "L04AG01",
+                                "children": [
+                                    {
+                                        "name": "Muromonab",
+                                        "drugbank_id": "DB00075"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Janus-associated kinase (jak) inhibitors (L04AF)",
+                        "atc_code": "L04AF",
+                        "children": [
+                            {
+                                "name": "Ritlecitinib (L04AF08)",
+                                "atc_code": "L04AF08",
+                                "children": [
+                                    {
+                                        "name": "Ritlecitinib",
+                                        "drugbank_id": "DB14924"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Deucravacitinib (L04AF07)",
+                                "atc_code": "L04AF07",
+                                "children": [
+                                    {
+                                        "name": "Deucravacitinib",
+                                        "drugbank_id": "DB16650"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Peficitinib (L04AF06)",
+                                "atc_code": "L04AF06",
+                                "children": [
+                                    {
+                                        "name": "Peficitinib",
+                                        "drugbank_id": "DB11708"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Itacitinib (L04AF05)",
+                                "atc_code": "L04AF05",
+                                "children": [
+                                    {
+                                        "name": "Itacitinib",
+                                        "drugbank_id": "DB12154"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Filgotinib (L04AF04)",
+                                "atc_code": "L04AF04",
+                                "children": [
+                                    {
+                                        "name": "Filgotinib",
+                                        "drugbank_id": "DB14845"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Upadacitinib (L04AF03)",
+                                "atc_code": "L04AF03",
+                                "children": [
+                                    {
+                                        "name": "Upadacitinib",
+                                        "drugbank_id": "DB15091"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Baricitinib (L04AF02)",
+                                "atc_code": "L04AF02",
+                                "children": [
+                                    {
+                                        "name": "Baricitinib",
+                                        "drugbank_id": "DB11817"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tofacitinib (L04AF01)",
+                                "atc_code": "L04AF01",
+                                "children": [
+                                    {
+                                        "name": "Tofacitinib",
+                                        "drugbank_id": "DB08895"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sphingosine-1-phosphate (s1p) receptor modulators (L04AE)",
+                        "atc_code": "L04AE",
+                        "children": [
+                            {
+                                "name": "Etrasimod (L04AE05)",
+                                "atc_code": "L04AE05",
+                                "children": [
+                                    {
+                                        "name": "Etrasimod",
+                                        "drugbank_id": "DB14766"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ponesimod (L04AE04)",
+                                "atc_code": "L04AE04",
+                                "children": [
+                                    {
+                                        "name": "Ponesimod",
+                                        "drugbank_id": "DB12016"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Siponimod (L04AE03)",
+                                "atc_code": "L04AE03",
+                                "children": [
+                                    {
+                                        "name": "Siponimod",
+                                        "drugbank_id": "DB12371"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ozanimod (L04AE02)",
+                                "atc_code": "L04AE02",
+                                "children": [
+                                    {
+                                        "name": "Ozanimod",
+                                        "drugbank_id": "DB12612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fingolimod (L04AE01)",
+                                "atc_code": "L04AE01",
+                                "children": [
+                                    {
+                                        "name": "Fingolimod",
+                                        "drugbank_id": "DB08868"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other immunosuppressants (L04AX)",
+                        "atc_code": "L04AX",
+                        "children": [
+                            {
+                                "name": "Tegomil fumarate (L04AX10)",
+                                "atc_code": "L04AX10"
+                            },
+                            {
+                                "name": "Diroximel fumarate (L04AX09)",
+                                "atc_code": "L04AX09",
+                                "children": [
+                                    {
+                                        "name": "Diroximel fumarate",
+                                        "drugbank_id": "DB14783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Darvadstrocel (L04AX08)",
+                                "atc_code": "L04AX08",
+                                "children": [
+                                    {
+                                        "name": "Darvadstrocel",
+                                        "drugbank_id": "DB16581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dimethyl fumarate (L04AX07)",
+                                "atc_code": "L04AX07",
+                                "children": [
+                                    {
+                                        "name": "Dimethyl fumarate",
+                                        "drugbank_id": "DB08908"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pomalidomide (L04AX06)",
+                                "atc_code": "L04AX06",
+                                "children": [
+                                    {
+                                        "name": "Pomalidomide",
+                                        "drugbank_id": "DB08910"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pirfenidone (L04AX05)",
+                                "atc_code": "L04AX05",
+                                "children": [
+                                    {
+                                        "name": "Pirfenidone",
+                                        "drugbank_id": "DB04951"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lenalidomide (L04AX04)",
+                                "atc_code": "L04AX04",
+                                "children": [
+                                    {
+                                        "name": "Lenalidomide",
+                                        "drugbank_id": "DB00480"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methotrexate (L04AX03)",
+                                "atc_code": "L04AX03",
+                                "children": [
+                                    {
+                                        "name": "Methotrexate",
+                                        "drugbank_id": "DB00563"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thalidomide (L04AX02)",
+                                "atc_code": "L04AX02",
+                                "children": [
+                                    {
+                                        "name": "Thalidomide",
+                                        "drugbank_id": "DB01041"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azathioprine (L04AX01)",
+                                "atc_code": "L04AX01",
+                                "children": [
+                                    {
+                                        "name": "Azathioprine",
+                                        "drugbank_id": "DB00993"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Calcineurin inhibitors (L04AD)",
+                        "atc_code": "L04AD",
+                        "children": [
+                            {
+                                "name": "Voclosporin (L04AD03)",
+                                "atc_code": "L04AD03",
+                                "children": [
+                                    {
+                                        "name": "Voclosporin",
+                                        "drugbank_id": "DB11693"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tacrolimus (L04AD02)",
+                                "atc_code": "L04AD02",
+                                "children": [
+                                    {
+                                        "name": "Tacrolimus",
+                                        "drugbank_id": "DB00864"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ciclosporin (L04AD01)",
+                                "atc_code": "L04AD01",
+                                "children": [
+                                    {
+                                        "name": "Cyclosporine",
+                                        "drugbank_id": "DB00091"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interleukin inhibitors (L04AC)",
+                        "atc_code": "L04AC",
+                        "children": [
+                            {
+                                "name": "Goflikicept (L04AC26)",
+                                "atc_code": "L04AC26",
+                                "children": [
+                                    {
+                                        "name": "Goflikicept",
+                                        "drugbank_id": "DB16396"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Levilimab (L04AC25)",
+                                "atc_code": "L04AC25",
+                                "children": [
+                                    {
+                                        "name": "Levilimab",
+                                        "drugbank_id": "DB16387"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mirikizumab (L04AC24)",
+                                "atc_code": "L04AC24",
+                                "children": [
+                                    {
+                                        "name": "Mirikizumab",
+                                        "drugbank_id": "DB14910"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Olokizumab (L04AC23)",
+                                "atc_code": "L04AC23",
+                                "children": [
+                                    {
+                                        "name": "Olokizumab",
+                                        "drugbank_id": "DB13127"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spesolimab (L04AC22)",
+                                "atc_code": "L04AC22",
+                                "children": [
+                                    {
+                                        "name": "Spesolimab",
+                                        "drugbank_id": "DB15626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bimekizumab (L04AC21)",
+                                "atc_code": "L04AC21",
+                                "children": [
+                                    {
+                                        "name": "Bimekizumab",
+                                        "drugbank_id": "DB12917"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Netakimab (L04AC20)",
+                                "atc_code": "L04AC20",
+                                "children": [
+                                    {
+                                        "name": "Netakimab",
+                                        "drugbank_id": "DB18870"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Satralizumab (L04AC19)",
+                                "atc_code": "L04AC19",
+                                "children": [
+                                    {
+                                        "name": "Satralizumab",
+                                        "drugbank_id": "DB15762"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Risankizumab (L04AC18)",
+                                "atc_code": "L04AC18",
+                                "children": [
+                                    {
+                                        "name": "Risankizumab",
+                                        "drugbank_id": "DB14762"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tildrakizumab (L04AC17)",
+                                "atc_code": "L04AC17",
+                                "children": [
+                                    {
+                                        "name": "Tildrakizumab",
+                                        "drugbank_id": "DB14004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guselkumab (L04AC16)",
+                                "atc_code": "L04AC16",
+                                "children": [
+                                    {
+                                        "name": "Guselkumab",
+                                        "drugbank_id": "DB11834"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sirukumab (L04AC15)",
+                                "atc_code": "L04AC15",
+                                "children": [
+                                    {
+                                        "name": "Sirukumab",
+                                        "drugbank_id": "DB11803"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sarilumab (L04AC14)",
+                                "atc_code": "L04AC14",
+                                "children": [
+                                    {
+                                        "name": "Sarilumab",
+                                        "drugbank_id": "DB11767"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ixekizumab (L04AC13)",
+                                "atc_code": "L04AC13",
+                                "children": [
+                                    {
+                                        "name": "Ixekizumab",
+                                        "drugbank_id": "DB11569"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Brodalumab (L04AC12)",
+                                "atc_code": "L04AC12",
+                                "children": [
+                                    {
+                                        "name": "Brodalumab",
+                                        "drugbank_id": "DB11776"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Siltuximab (L04AC11)",
+                                "atc_code": "L04AC11",
+                                "children": [
+                                    {
+                                        "name": "Siltuximab",
+                                        "drugbank_id": "DB09036"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Secukinumab (L04AC10)",
+                                "atc_code": "L04AC10",
+                                "children": [
+                                    {
+                                        "name": "Secukinumab",
+                                        "drugbank_id": "DB09029"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Briakinumab (L04AC09)",
+                                "atc_code": "L04AC09",
+                                "children": [
+                                    {
+                                        "name": "Briakinumab",
+                                        "drugbank_id": "DB05459"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Canakinumab (L04AC08)",
+                                "atc_code": "L04AC08",
+                                "children": [
+                                    {
+                                        "name": "Canakinumab",
+                                        "drugbank_id": "DB06168"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tocilizumab (L04AC07)",
+                                "atc_code": "L04AC07",
+                                "children": [
+                                    {
+                                        "name": "Tocilizumab",
+                                        "drugbank_id": "DB06273"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ustekinumab (L04AC05)",
+                                "atc_code": "L04AC05",
+                                "children": [
+                                    {
+                                        "name": "Ustekinumab",
+                                        "drugbank_id": "DB05679"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rilonacept (L04AC04)",
+                                "atc_code": "L04AC04",
+                                "children": [
+                                    {
+                                        "name": "Rilonacept",
+                                        "drugbank_id": "DB06372"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anakinra (L04AC03)",
+                                "atc_code": "L04AC03",
+                                "children": [
+                                    {
+                                        "name": "Anakinra",
+                                        "drugbank_id": "DB00026"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Basiliximab (L04AC02)",
+                                "atc_code": "L04AC02",
+                                "children": [
+                                    {
+                                        "name": "Basiliximab",
+                                        "drugbank_id": "DB00074"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Daclizumab (L04AC01)",
+                                "atc_code": "L04AC01",
+                                "children": [
+                                    {
+                                        "name": "Daclizumab",
+                                        "drugbank_id": "DB00111"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tumor necrosis factor alpha (tnf-alpha) inhibitors (L04AB)",
+                        "atc_code": "L04AB",
+                        "children": [
+                            {
+                                "name": "Opinercept (L04AB07)",
+                                "atc_code": "L04AB07"
+                            },
+                            {
+                                "name": "Golimumab (L04AB06)",
+                                "atc_code": "L04AB06",
+                                "children": [
+                                    {
+                                        "name": "Golimumab",
+                                        "drugbank_id": "DB06674"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Certolizumab pegol (L04AB05)",
+                                "atc_code": "L04AB05",
+                                "children": [
+                                    {
+                                        "name": "Certolizumab pegol",
+                                        "drugbank_id": "DB08904"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adalimumab (L04AB04)",
+                                "atc_code": "L04AB04",
+                                "children": [
+                                    {
+                                        "name": "Adalimumab",
+                                        "drugbank_id": "DB00051"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Afelimomab (L04AB03)",
+                                "atc_code": "L04AB03",
+                                "children": [
+                                    {
+                                        "name": "Afelimomab",
+                                        "drugbank_id": "DB04956"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Infliximab (L04AB02)",
+                                "atc_code": "L04AB02",
+                                "children": [
+                                    {
+                                        "name": "Infliximab",
+                                        "drugbank_id": "DB00065"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etanercept (L04AB01)",
+                                "atc_code": "L04AB01",
+                                "children": [
+                                    {
+                                        "name": "Etanercept",
+                                        "drugbank_id": "DB00005"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Selective immunosuppressants (L04AA)",
+                        "atc_code": "L04AA",
+                        "children": [
+                            {
+                                "name": "Remibrutinib (L04AA60)",
+                                "atc_code": "L04AA60",
+                                "children": [
+                                    {
+                                        "name": "Remibrutinib",
+                                        "drugbank_id": "DB16852"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Efgartigimod alfa (L04AA58)",
+                                "atc_code": "L04AA58",
+                                "children": [
+                                    {
+                                        "name": "Efgartigimod alfa",
+                                        "drugbank_id": "DB15270"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Belumosudil (L04AA48)",
+                                "atc_code": "L04AA48",
+                                "children": [
+                                    {
+                                        "name": "Belumosudil",
+                                        "drugbank_id": "DB16703"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imlifidase (L04AA41)",
+                                "atc_code": "L04AA41",
+                                "children": [
+                                    {
+                                        "name": "Imlifidase",
+                                        "drugbank_id": "DB15258"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cladribine (L04AA40)",
+                                "atc_code": "L04AA40",
+                                "children": [
+                                    {
+                                        "name": "Cladribine",
+                                        "drugbank_id": "DB00242"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Apremilast (L04AA32)",
+                                "atc_code": "L04AA32",
+                                "children": [
+                                    {
+                                        "name": "Apremilast",
+                                        "drugbank_id": "DB05676"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Belatacept (L04AA28)",
+                                "atc_code": "L04AA28",
+                                "children": [
+                                    {
+                                        "name": "Belatacept",
+                                        "drugbank_id": "DB06681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abatacept (L04AA24)",
+                                "atc_code": "L04AA24",
+                                "children": [
+                                    {
+                                        "name": "Abatacept",
+                                        "drugbank_id": "DB01281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abetimus (L04AA22)",
+                                "atc_code": "L04AA22",
+                                "children": [
+                                    {
+                                        "name": "Abetimus",
+                                        "drugbank_id": "DB06662"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gusperimus (L04AA19)",
+                                "atc_code": "L04AA19",
+                                "children": [
+                                    {
+                                        "name": "Gusperimus",
+                                        "drugbank_id": "DB12692"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alefacept (L04AA15)",
+                                "atc_code": "L04AA15",
+                                "children": [
+                                    {
+                                        "name": "Alefacept",
+                                        "drugbank_id": "DB00092"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mycophenolic acid (L04AA06)",
+                                "atc_code": "L04AA06",
+                                "children": [
+                                    {
+                                        "name": "Mycophenolic acid",
+                                        "drugbank_id": "DB01024"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antithymocyte immunoglobulin (rabbit) (L04AA04)",
+                                "atc_code": "L04AA04",
+                                "children": [
+                                    {
+                                        "name": "Antithymocyte immunoglobulin (rabbit)",
+                                        "drugbank_id": "DB00098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Antilymphocyte immunoglobulin (horse) (L04AA03)",
+                                "atc_code": "L04AA03",
+                                "children": [
+                                    {
+                                        "name": "Antilymphocyte immunoglobulin (horse)",
+                                        "drugbank_id": "DB09312"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "name": "Antibiotics and chemotherapeutics for dermatological use (D06)",
+        "atc_code": "D06",
+        "children": [
+            {
+                "name": "Antibiotics and chemotherapeutics, combinations (D06C)",
+                "atc_code": "D06C"
+            },
+            {
+                "name": "Chemotherapeutics for topical use (D06B)",
+                "atc_code": "D06B",
+                "children": [
+                    {
+                        "name": "Other chemotherapeutics (D06BX)",
+                        "atc_code": "D06BX",
+                        "children": [
+                            {
+                                "name": "Tirbanibulin (D06BX03)",
+                                "atc_code": "D06BX03",
+                                "children": [
+                                    {
+                                        "name": "Tirbanibulin",
+                                        "drugbank_id": "DB06137"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ingenol mebutate (D06BX02)",
+                                "atc_code": "D06BX02",
+                                "children": [
+                                    {
+                                        "name": "Ingenol mebutate",
+                                        "drugbank_id": "DB05013"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metronidazole (D06BX01)",
+                                "atc_code": "D06BX01",
+                                "children": [
+                                    {
+                                        "name": "Metronidazole",
+                                        "drugbank_id": "DB00916"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antivirals (D06BB)",
+                        "atc_code": "D06BB",
+                        "children": [
+                            {
+                                "name": "Aciclovir, combinations (D06BB53)",
+                                "atc_code": "D06BB53",
+                                "children": [
+                                    {
+                                        "name": "Acyclovir",
+                                        "drugbank_id": "DB00787"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sinecatechins (D06BB12)",
+                                "atc_code": "D06BB12",
+                                "children": [
+                                    {
+                                        "name": "Sinecatechins",
+                                        "drugbank_id": "DB01266"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Docosanol (D06BB11)",
+                                "atc_code": "D06BB11",
+                                "children": [
+                                    {
+                                        "name": "Docosanol",
+                                        "drugbank_id": "DB00632"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imiquimod (D06BB10)",
+                                "atc_code": "D06BB10",
+                                "children": [
+                                    {
+                                        "name": "Imiquimod",
+                                        "drugbank_id": "DB00724"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Edoxudine (D06BB09)",
+                                "atc_code": "D06BB09",
+                                "children": [
+                                    {
+                                        "name": "Edoxudine",
+                                        "drugbank_id": "DB13421"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibacitabine (D06BB08)",
+                                "atc_code": "D06BB08",
+                                "children": [
+                                    {
+                                        "name": "Ibacitabine",
+                                        "drugbank_id": "DB13776"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lysozyme (D06BB07)",
+                                "atc_code": "D06BB07",
+                                "children": [
+                                    {
+                                        "name": "Lysozyme",
+                                        "drugbank_id": "DB13260"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Penciclovir (D06BB06)",
+                                "atc_code": "D06BB06",
+                                "children": [
+                                    {
+                                        "name": "Penciclovir",
+                                        "drugbank_id": "DB00299"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inosine (D06BB05)",
+                                "atc_code": "D06BB05",
+                                "children": [
+                                    {
+                                        "name": "Inosine",
+                                        "drugbank_id": "DB04335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Podophyllotoxin (D06BB04)",
+                                "atc_code": "D06BB04",
+                                "children": [
+                                    {
+                                        "name": "Podofilox",
+                                        "drugbank_id": "DB01179"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aciclovir (D06BB03)",
+                                "atc_code": "D06BB03",
+                                "children": [
+                                    {
+                                        "name": "Acyclovir",
+                                        "drugbank_id": "DB00787"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tromantadine (D06BB02)",
+                                "atc_code": "D06BB02",
+                                "children": [
+                                    {
+                                        "name": "Tromantadine",
+                                        "drugbank_id": "DB13288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Idoxuridine (D06BB01)",
+                                "atc_code": "D06BB01",
+                                "children": [
+                                    {
+                                        "name": "Idoxuridine",
+                                        "drugbank_id": "DB00249"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sulfonamides (D06BA)",
+                        "atc_code": "D06BA",
+                        "children": [
+                            {
+                                "name": "Silver sulfadiazine, combinations (D06BA51)",
+                                "atc_code": "D06BA51",
+                                "children": [
+                                    {
+                                        "name": "Silver sulfadiazine",
+                                        "drugbank_id": "DB05245"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamerazine (D06BA06)",
+                                "atc_code": "D06BA06",
+                                "children": [
+                                    {
+                                        "name": "Sulfamerazine",
+                                        "drugbank_id": "DB01581"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfanilamide (D06BA05)",
+                                "atc_code": "D06BA05",
+                                "children": [
+                                    {
+                                        "name": "Sulfanilamide",
+                                        "drugbank_id": "DB00259"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfamethizole (D06BA04)",
+                                "atc_code": "D06BA04",
+                                "children": [
+                                    {
+                                        "name": "Sulfamethizole",
+                                        "drugbank_id": "DB00576"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mafenide (D06BA03)",
+                                "atc_code": "D06BA03",
+                                "children": [
+                                    {
+                                        "name": "Mafenide",
+                                        "drugbank_id": "DB06795"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sulfathiazole (D06BA02)",
+                                "atc_code": "D06BA02",
+                                "children": [
+                                    {
+                                        "name": "Sulfathiazole",
+                                        "drugbank_id": "DB06147"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Silver sulfadiazine (D06BA01)",
+                                "atc_code": "D06BA01",
+                                "children": [
+                                    {
+                                        "name": "Silver sulfadiazine",
+                                        "drugbank_id": "DB05245"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Antibiotics for topical use (D06A)",
+                "atc_code": "D06A",
+                "children": [
+                    {
+                        "name": "Other antibiotics for topical use (D06AX)",
+                        "atc_code": "D06AX",
+                        "children": [
+                            {
+                                "name": "Rifamycin (D06AX15)",
+                                "atc_code": "D06AX15",
+                                "children": [
+                                    {
+                                        "name": "Rifamycin",
+                                        "drugbank_id": "DB11753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ozenoxacin (D06AX14)",
+                                "atc_code": "D06AX14",
+                                "children": [
+                                    {
+                                        "name": "Ozenoxacin",
+                                        "drugbank_id": "DB12924"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Retapamulin (D06AX13)",
+                                "atc_code": "D06AX13",
+                                "children": [
+                                    {
+                                        "name": "Retapamulin",
+                                        "drugbank_id": "DB01256"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Amikacin (D06AX12)",
+                                "atc_code": "D06AX12",
+                                "children": [
+                                    {
+                                        "name": "Amikacin",
+                                        "drugbank_id": "DB00479"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rifaximin (D06AX11)",
+                                "atc_code": "D06AX11",
+                                "children": [
+                                    {
+                                        "name": "Rifaximin",
+                                        "drugbank_id": "DB01220"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Virginiamycin (D06AX10)",
+                                "atc_code": "D06AX10",
+                                "children": [
+                                    {
+                                        "name": "Virginiamycin",
+                                        "drugbank_id": "DB11476"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mupirocin (D06AX09)",
+                                "atc_code": "D06AX09",
+                                "children": [
+                                    {
+                                        "name": "Mupirocin",
+                                        "drugbank_id": "DB00410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tyrothricin (D06AX08)",
+                                "atc_code": "D06AX08",
+                                "children": [
+                                    {
+                                        "name": "Tyrothricin",
+                                        "drugbank_id": "DB13503"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gentamicin (D06AX07)",
+                                "atc_code": "D06AX07",
+                                "children": [
+                                    {
+                                        "name": "Gentamicin",
+                                        "drugbank_id": "DB00798"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bacitracin (D06AX05)",
+                                "atc_code": "D06AX05",
+                                "children": [
+                                    {
+                                        "name": "Bacitracin",
+                                        "drugbank_id": "DB00626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (D06AX04)",
+                                "atc_code": "D06AX04",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chloramphenicol (D06AX02)",
+                                "atc_code": "D06AX02",
+                                "children": [
+                                    {
+                                        "name": "Chloramphenicol",
+                                        "drugbank_id": "DB00446"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fusidic acid (D06AX01)",
+                                "atc_code": "D06AX01",
+                                "children": [
+                                    {
+                                        "name": "Fusidic acid",
+                                        "drugbank_id": "DB02703"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tetracycline and derivatives (D06AA)",
+                        "atc_code": "D06AA",
+                        "children": [
+                            {
+                                "name": "Tetracycline (D06AA04)",
+                                "atc_code": "D06AA04",
+                                "children": [
+                                    {
+                                        "name": "Tetracycline",
+                                        "drugbank_id": "DB00759"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxytetracycline (D06AA03)",
+                                "atc_code": "D06AA03",
+                                "children": [
+                                    {
+                                        "name": "Oxytetracycline",
+                                        "drugbank_id": "DB00595"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlortetracycline (D06AA02)",
+                                "atc_code": "D06AA02",
+                                "children": [
+                                    {
+                                        "name": "Chlortetracycline",
+                                        "drugbank_id": "DB09093"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Demeclocycline (D06AA01)",
+                                "atc_code": "D06AA01",
+                                "children": [
+                                    {
+                                        "name": "Demeclocycline",
+                                        "drugbank_id": "DB00618"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

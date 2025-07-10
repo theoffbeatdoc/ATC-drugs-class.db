@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Preparations for treatment of wounds and ulcers (D03)",
+        "atc_code": "D03",
+        "children": [
+            {
+                "name": "Enzymes (D03B)",
+                "atc_code": "D03B",
+                "children": [
+                    {
+                        "name": "Proteolytic enzymes (D03BA)",
+                        "atc_code": "D03BA",
+                        "children": [
+                            {
+                                "name": "Collagenase, combinations (D03BA52)",
+                                "atc_code": "D03BA52",
+                                "children": [
+                                    {
+                                        "name": "Collagenase clostridium histolyticum",
+                                        "drugbank_id": "DB00048"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bromelains (D03BA03)",
+                                "atc_code": "D03BA03",
+                                "children": [
+                                    {
+                                        "name": "Bromelains",
+                                        "drugbank_id": "DB13281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Collagenase (D03BA02)",
+                                "atc_code": "D03BA02",
+                                "children": [
+                                    {
+                                        "name": "Collagenase clostridium histolyticum",
+                                        "drugbank_id": "DB00048"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trypsin (D03BA01)",
+                                "atc_code": "D03BA01",
+                                "children": [
+                                    {
+                                        "name": "Trypsin",
+                                        "drugbank_id": "DB11237"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cicatrizants (D03A)",
+                "atc_code": "D03A",
+                "children": [
+                    {
+                        "name": "Other cicatrizants (D03AX)",
+                        "atc_code": "D03AX",
+                        "children": [
+                            {
+                                "name": "Beremagene geperpavec (D03AX16)",
+                                "atc_code": "D03AX16",
+                                "children": [
+                                    {
+                                        "name": "Beremagene geperpavec",
+                                        "drugbank_id": "DB17831"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trafermin (D03AX15)",
+                                "atc_code": "D03AX15",
+                                "children": [
+                                    {
+                                        "name": "Trafermin",
+                                        "drugbank_id": "DB06244"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Centella asiatica herba, incl. combinations (D03AX14)",
+                                "atc_code": "D03AX14"
+                            },
+                            {
+                                "name": "Betulae cortex (D03AX13)",
+                                "atc_code": "D03AX13"
+                            },
+                            {
+                                "name": "Trolamine (D03AX12)",
+                                "atc_code": "D03AX12",
+                                "children": [
+                                    {
+                                        "name": "Trolamine",
+                                        "drugbank_id": "DB13747"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium chlorite (D03AX11)",
+                                "atc_code": "D03AX11",
+                                "children": [
+                                    {
+                                        "name": "Sodium chlorite",
+                                        "drugbank_id": "DB13210"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Enoxolone (D03AX10)",
+                                "atc_code": "D03AX10",
+                                "children": [
+                                    {
+                                        "name": "Enoxolone",
+                                        "drugbank_id": "DB13089"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crilanomer (D03AX09)",
+                                "atc_code": "D03AX09"
+                            },
+                            {
+                                "name": "Becaplermin (D03AX06)",
+                                "atc_code": "D03AX06",
+                                "children": [
+                                    {
+                                        "name": "Becaplermin",
+                                        "drugbank_id": "DB00102"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hyaluronic acid (D03AX05)",
+                                "atc_code": "D03AX05",
+                                "children": [
+                                    {
+                                        "name": "Hyaluronic acid",
+                                        "drugbank_id": "DB08818"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcium pantothenate (D03AX04)",
+                                "atc_code": "D03AX04",
+                                "children": [
+                                    {
+                                        "name": "Pantothenic acid",
+                                        "drugbank_id": "DB01783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dexpanthenol (D03AX03)",
+                                "atc_code": "D03AX03",
+                                "children": [
+                                    {
+                                        "name": "Dexpanthenol",
+                                        "drugbank_id": "DB09357"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextranomer (D03AX02)",
+                                "atc_code": "D03AX02",
+                                "children": [
+                                    {
+                                        "name": "Dextranomer",
+                                        "drugbank_id": "DB13560"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cadexomer iodine (D03AX01)",
+                                "atc_code": "D03AX01",
+                                "children": [
+                                    {
+                                        "name": "Cadexomer iodine",
+                                        "drugbank_id": "DB16572"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cod-liver oil ointments (D03AA)",
+                        "atc_code": "D03AA"
+                    }
+                ]
+            }
+        ]
+    }
+]

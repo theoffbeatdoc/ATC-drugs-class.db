@@ -1,0 +1,1638 @@
+[
+    {
+        "name": "Analgesics (N02)",
+        "atc_code": "N02",
+        "children": [
+            {
+                "name": "Antimigraine preparations (N02C)",
+                "atc_code": "N02C",
+                "children": [
+                    {
+                        "name": "Calcitonin gene-related peptide (cgrp) antagonists (N02CD)",
+                        "atc_code": "N02CD",
+                        "children": [
+                            {
+                                "name": "Zavegepant (N02CD08)",
+                                "atc_code": "N02CD08",
+                                "children": [
+                                    {
+                                        "name": "Zavegepant",
+                                        "drugbank_id": "DB15688"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Atogepant (N02CD07)",
+                                "atc_code": "N02CD07",
+                                "children": [
+                                    {
+                                        "name": "Atogepant",
+                                        "drugbank_id": "DB16098"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rimegepant (N02CD06)",
+                                "atc_code": "N02CD06",
+                                "children": [
+                                    {
+                                        "name": "Rimegepant",
+                                        "drugbank_id": "DB12457"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eptinezumab (N02CD05)",
+                                "atc_code": "N02CD05",
+                                "children": [
+                                    {
+                                        "name": "Eptinezumab",
+                                        "drugbank_id": "DB14040"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ubrogepant (N02CD04)",
+                                "atc_code": "N02CD04",
+                                "children": [
+                                    {
+                                        "name": "Ubrogepant",
+                                        "drugbank_id": "DB15328"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fremanezumab (N02CD03)",
+                                "atc_code": "N02CD03",
+                                "children": [
+                                    {
+                                        "name": "Fremanezumab",
+                                        "drugbank_id": "DB14041"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Galcanezumab (N02CD02)",
+                                "atc_code": "N02CD02",
+                                "children": [
+                                    {
+                                        "name": "Galcanezumab",
+                                        "drugbank_id": "DB14042"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Erenumab (N02CD01)",
+                                "atc_code": "N02CD01",
+                                "children": [
+                                    {
+                                        "name": "Erenumab",
+                                        "drugbank_id": "DB14039"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other antimigraine preparations (N02CX)",
+                        "atc_code": "N02CX"
+                    },
+                    {
+                        "name": "Selective serotonin (5ht1) agonists (N02CC)",
+                        "atc_code": "N02CC",
+                        "children": [
+                            {
+                                "name": "Sumatriptan and naproxen (N02CC51)",
+                                "atc_code": "N02CC51",
+                                "children": [
+                                    {
+                                        "name": "Sumatriptan",
+                                        "drugbank_id": "DB00669"
+                                    },
+                                    {
+                                        "name": "Naproxen",
+                                        "drugbank_id": "DB00788"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lasmiditan (N02CC08)",
+                                "atc_code": "N02CC08",
+                                "children": [
+                                    {
+                                        "name": "Lasmiditan",
+                                        "drugbank_id": "DB11732"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Frovatriptan (N02CC07)",
+                                "atc_code": "N02CC07",
+                                "children": [
+                                    {
+                                        "name": "Frovatriptan",
+                                        "drugbank_id": "DB00998"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eletriptan (N02CC06)",
+                                "atc_code": "N02CC06",
+                                "children": [
+                                    {
+                                        "name": "Eletriptan",
+                                        "drugbank_id": "DB00216"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Almotriptan (N02CC05)",
+                                "atc_code": "N02CC05",
+                                "children": [
+                                    {
+                                        "name": "Almotriptan",
+                                        "drugbank_id": "DB00918"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rizatriptan (N02CC04)",
+                                "atc_code": "N02CC04",
+                                "children": [
+                                    {
+                                        "name": "Rizatriptan",
+                                        "drugbank_id": "DB00953"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Zolmitriptan (N02CC03)",
+                                "atc_code": "N02CC03",
+                                "children": [
+                                    {
+                                        "name": "Zolmitriptan",
+                                        "drugbank_id": "DB00315"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naratriptan (N02CC02)",
+                                "atc_code": "N02CC02",
+                                "children": [
+                                    {
+                                        "name": "Naratriptan",
+                                        "drugbank_id": "DB00952"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sumatriptan (N02CC01)",
+                                "atc_code": "N02CC01",
+                                "children": [
+                                    {
+                                        "name": "Sumatriptan",
+                                        "drugbank_id": "DB00669"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corticosteroid derivatives (N02CB)",
+                        "atc_code": "N02CB",
+                        "children": [
+                            {
+                                "name": "Flumedroxone (N02CB01)",
+                                "atc_code": "N02CB01",
+                                "children": [
+                                    {
+                                        "name": "Flumedroxone",
+                                        "drugbank_id": "DB13610"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ergot alkaloids (N02CA)",
+                        "atc_code": "N02CA",
+                        "children": [
+                            {
+                                "name": "Ergotamine, combinations with psycholeptics (N02CA72)",
+                                "atc_code": "N02CA72",
+                                "children": [
+                                    {
+                                        "name": "Ergotamine",
+                                        "drugbank_id": "DB00696"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergotamine, combinations excl. psycholeptics (N02CA52)",
+                                "atc_code": "N02CA52",
+                                "children": [
+                                    {
+                                        "name": "Ergotamine",
+                                        "drugbank_id": "DB00696"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydroergotamine, combinations (N02CA51)",
+                                "atc_code": "N02CA51",
+                                "children": [
+                                    {
+                                        "name": "Dihydroergotamine",
+                                        "drugbank_id": "DB00320"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lisuride (N02CA07)",
+                                "atc_code": "N02CA07",
+                                "children": [
+                                    {
+                                        "name": "Lisuride",
+                                        "drugbank_id": "DB00589"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methysergide (N02CA04)",
+                                "atc_code": "N02CA04",
+                                "children": [
+                                    {
+                                        "name": "Methysergide",
+                                        "drugbank_id": "DB00247"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergotamine (N02CA02)",
+                                "atc_code": "N02CA02",
+                                "children": [
+                                    {
+                                        "name": "Ergotamine",
+                                        "drugbank_id": "DB00696"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydroergotamine (N02CA01)",
+                                "atc_code": "N02CA01",
+                                "children": [
+                                    {
+                                        "name": "Dihydroergotamine",
+                                        "drugbank_id": "DB00320"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other analgesics and antipyretics (N02B)",
+                "atc_code": "N02B",
+                "children": [
+                    {
+                        "name": "Gabapentinoids (N02BF)",
+                        "atc_code": "N02BF",
+                        "children": [
+                            {
+                                "name": "Mirogabalin (N02BF03)",
+                                "atc_code": "N02BF03",
+                                "children": [
+                                    {
+                                        "name": "Mirogabalin",
+                                        "drugbank_id": "DB11825"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pregabalin (N02BF02)",
+                                "atc_code": "N02BF02",
+                                "children": [
+                                    {
+                                        "name": "Pregabalin",
+                                        "drugbank_id": "DB00230"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gabapentin (N02BF01)",
+                                "atc_code": "N02BF01",
+                                "children": [
+                                    {
+                                        "name": "Gabapentin",
+                                        "drugbank_id": "DB00996"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other analgesics and antipyretics (N02BG)",
+                        "atc_code": "N02BG",
+                        "children": [
+                            {
+                                "name": "Tanezumab (N02BG12)",
+                                "atc_code": "N02BG12",
+                                "children": [
+                                    {
+                                        "name": "Tanezumab",
+                                        "drugbank_id": "DB12335"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cannabinoids (N02BG10)",
+                                "atc_code": "N02BG10"
+                            },
+                            {
+                                "name": "Methoxyflurane (N02BG09)",
+                                "atc_code": "N02BG09",
+                                "children": [
+                                    {
+                                        "name": "Methoxyflurane",
+                                        "drugbank_id": "DB01028"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ziconotide (N02BG08)",
+                                "atc_code": "N02BG08",
+                                "children": [
+                                    {
+                                        "name": "Ziconotide",
+                                        "drugbank_id": "DB06283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flupirtine (N02BG07)",
+                                "atc_code": "N02BG07",
+                                "children": [
+                                    {
+                                        "name": "Flupirtine",
+                                        "drugbank_id": "DB06623"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nefopam (N02BG06)",
+                                "atc_code": "N02BG06",
+                                "children": [
+                                    {
+                                        "name": "Nefopam",
+                                        "drugbank_id": "DB12293"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Viminol (N02BG05)",
+                                "atc_code": "N02BG05",
+                                "children": [
+                                    {
+                                        "name": "Viminol",
+                                        "drugbank_id": "DB13353"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Floctafenine (N02BG04)",
+                                "atc_code": "N02BG04",
+                                "children": [
+                                    {
+                                        "name": "Floctafenine",
+                                        "drugbank_id": "DB08976"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Glafenine (N02BG03)",
+                                "atc_code": "N02BG03",
+                                "children": [
+                                    {
+                                        "name": "Glafenine",
+                                        "drugbank_id": "DB08963"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rimazolium (N02BG02)",
+                                "atc_code": "N02BG02",
+                                "children": [
+                                    {
+                                        "name": "Rimazolium",
+                                        "drugbank_id": "DB13289"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anilides (N02BE)",
+                        "atc_code": "N02BE",
+                        "children": [
+                            {
+                                "name": "Bucetin, combinations with psycholeptics (N02BE74)",
+                                "atc_code": "N02BE74",
+                                "children": [
+                                    {
+                                        "name": "Bucetin",
+                                        "drugbank_id": "DB13278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenacetin, combinations with psycholeptics (N02BE73)",
+                                "atc_code": "N02BE73",
+                                "children": [
+                                    {
+                                        "name": "Phenacetin",
+                                        "drugbank_id": "DB03783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paracetamol, combinations with psycholeptics (N02BE71)",
+                                "atc_code": "N02BE71",
+                                "children": [
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bucetin, combinations excl. psycholeptics (N02BE54)",
+                                "atc_code": "N02BE54",
+                                "children": [
+                                    {
+                                        "name": "Bucetin",
+                                        "drugbank_id": "DB13278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenacetin, combinations excl. psycholeptics (N02BE53)",
+                                "atc_code": "N02BE53",
+                                "children": [
+                                    {
+                                        "name": "Phenacetin",
+                                        "drugbank_id": "DB03783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paracetamol, combinations excl. psycholeptics (N02BE51)",
+                                "atc_code": "N02BE51",
+                                "children": [
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propacetamol (N02BE05)",
+                                "atc_code": "N02BE05",
+                                "children": [
+                                    {
+                                        "name": "Propacetamol",
+                                        "drugbank_id": "DB09288"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bucetin (N02BE04)",
+                                "atc_code": "N02BE04",
+                                "children": [
+                                    {
+                                        "name": "Bucetin",
+                                        "drugbank_id": "DB13278"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenacetin (N02BE03)",
+                                "atc_code": "N02BE03",
+                                "children": [
+                                    {
+                                        "name": "Phenacetin",
+                                        "drugbank_id": "DB03783"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paracetamol (N02BE01)",
+                                "atc_code": "N02BE01",
+                                "children": [
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pyrazolones (N02BB)",
+                        "atc_code": "N02BB",
+                        "children": [
+                            {
+                                "name": "Propyphenazone, combinations with psycholeptics (N02BB74)",
+                                "atc_code": "N02BB74",
+                                "children": [
+                                    {
+                                        "name": "Propyphenazone",
+                                        "drugbank_id": "DB13524"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophenazone, combinations with psycholeptics (N02BB73)",
+                                "atc_code": "N02BB73",
+                                "children": [
+                                    {
+                                        "name": "Aminophenazone",
+                                        "drugbank_id": "DB01424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metamizole sodium, combinations with psycholeptics (N02BB72)",
+                                "atc_code": "N02BB72",
+                                "children": [
+                                    {
+                                        "name": "Metamizole",
+                                        "drugbank_id": "DB04817"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenazone, combinations with psycholeptics (N02BB71)",
+                                "atc_code": "N02BB71",
+                                "children": [
+                                    {
+                                        "name": "Antipyrine",
+                                        "drugbank_id": "DB01435"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propyphenazone, combinations excl. psycholeptics (N02BB54)",
+                                "atc_code": "N02BB54",
+                                "children": [
+                                    {
+                                        "name": "Propyphenazone",
+                                        "drugbank_id": "DB13524"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophenazone, combinations excl. psycholeptics (N02BB53)",
+                                "atc_code": "N02BB53",
+                                "children": [
+                                    {
+                                        "name": "Aminophenazone",
+                                        "drugbank_id": "DB01424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metamizole sodium, combinations excl. psycholeptics (N02BB52)",
+                                "atc_code": "N02BB52",
+                                "children": [
+                                    {
+                                        "name": "Metamizole",
+                                        "drugbank_id": "DB04817"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenazone, combinations excl. psycholeptics (N02BB51)",
+                                "atc_code": "N02BB51",
+                                "children": [
+                                    {
+                                        "name": "Antipyrine",
+                                        "drugbank_id": "DB01435"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nifenazone (N02BB05)",
+                                "atc_code": "N02BB05",
+                                "children": [
+                                    {
+                                        "name": "Nifenazone",
+                                        "drugbank_id": "DB13407"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Propyphenazone (N02BB04)",
+                                "atc_code": "N02BB04",
+                                "children": [
+                                    {
+                                        "name": "Propyphenazone",
+                                        "drugbank_id": "DB13524"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aminophenazone (N02BB03)",
+                                "atc_code": "N02BB03",
+                                "children": [
+                                    {
+                                        "name": "Aminophenazone",
+                                        "drugbank_id": "DB01424"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Metamizole sodium (N02BB02)",
+                                "atc_code": "N02BB02",
+                                "children": [
+                                    {
+                                        "name": "Metamizole",
+                                        "drugbank_id": "DB04817"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenazone (N02BB01)",
+                                "atc_code": "N02BB01",
+                                "children": [
+                                    {
+                                        "name": "Antipyrine",
+                                        "drugbank_id": "DB01435"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salicylic acid and derivatives (N02BA)",
+                        "atc_code": "N02BA",
+                        "children": [
+                            {
+                                "name": "Magnesium salicylate, combinations excl. psycholeptics (N02BA67)",
+                                "atc_code": "N02BA67",
+                                "children": [
+                                    {
+                                        "name": "Magnesium salicylate",
+                                        "drugbank_id": "DB01397"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dipyrocetyl, combinations with psycholeptics (N02BA79)",
+                                "atc_code": "N02BA79",
+                                "children": [
+                                    {
+                                        "name": "Dipyrocetyl",
+                                        "drugbank_id": "DB13839"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethenzamide, combinations with psycholeptics (N02BA77)",
+                                "atc_code": "N02BA77",
+                                "children": [
+                                    {
+                                        "name": "Ethenzamide",
+                                        "drugbank_id": "DB13544"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salicylamide, combinations with psycholeptics (N02BA75)",
+                                "atc_code": "N02BA75",
+                                "children": [
+                                    {
+                                        "name": "Salicylamide",
+                                        "drugbank_id": "DB08797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid, combinations with psycholeptics (N02BA71)",
+                                "atc_code": "N02BA71",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbasalate calcium combinations excl. psycholeptics (N02BA65)",
+                                "atc_code": "N02BA65"
+                            },
+                            {
+                                "name": "Dipyrocetyl, combinations excl. psycholeptics (N02BA59)",
+                                "atc_code": "N02BA59",
+                                "children": [
+                                    {
+                                        "name": "Dipyrocetyl",
+                                        "drugbank_id": "DB13839"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethenzamide, combinations excl. psycholeptics (N02BA57)",
+                                "atc_code": "N02BA57",
+                                "children": [
+                                    {
+                                        "name": "Ethenzamide",
+                                        "drugbank_id": "DB13544"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salicylamide, combinations excl. psycholeptics (N02BA55)",
+                                "atc_code": "N02BA55",
+                                "children": [
+                                    {
+                                        "name": "Salicylamide",
+                                        "drugbank_id": "DB08797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid, combinations excl. psycholeptics (N02BA51)",
+                                "atc_code": "N02BA51",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Imidazole salicylate (N02BA16)",
+                                "atc_code": "N02BA16",
+                                "children": [
+                                    {
+                                        "name": "Imidazole salicylate",
+                                        "drugbank_id": "DB13860"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Carbasalate calcium (N02BA15)",
+                                "atc_code": "N02BA15",
+                                "children": [
+                                    {
+                                        "name": "Carbaspirin calcium",
+                                        "drugbank_id": "DB13612"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Guacetisal (N02BA14)",
+                                "atc_code": "N02BA14",
+                                "children": [
+                                    {
+                                        "name": "Guacetisal",
+                                        "drugbank_id": "DB13538"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Potassium salicylate (N02BA12)",
+                                "atc_code": "N02BA12",
+                                "children": [
+                                    {
+                                        "name": "Salicylic acid",
+                                        "drugbank_id": "DB00936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Diflunisal (N02BA11)",
+                                "atc_code": "N02BA11",
+                                "children": [
+                                    {
+                                        "name": "Diflunisal",
+                                        "drugbank_id": "DB00861"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benorilate (N02BA10)",
+                                "atc_code": "N02BA10",
+                                "children": [
+                                    {
+                                        "name": "Benorilate",
+                                        "drugbank_id": "DB13657"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dipyrocetyl (N02BA09)",
+                                "atc_code": "N02BA09",
+                                "children": [
+                                    {
+                                        "name": "Dipyrocetyl",
+                                        "drugbank_id": "DB13839"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morpholine salicylate (N02BA08)",
+                                "atc_code": "N02BA08",
+                                "children": [
+                                    {
+                                        "name": "Morpholine",
+                                        "drugbank_id": "DB13669"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ethenzamide (N02BA07)",
+                                "atc_code": "N02BA07",
+                                "children": [
+                                    {
+                                        "name": "Ethenzamide",
+                                        "drugbank_id": "DB13544"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salsalate (N02BA06)",
+                                "atc_code": "N02BA06",
+                                "children": [
+                                    {
+                                        "name": "Salsalate",
+                                        "drugbank_id": "DB01399"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Salicylamide (N02BA05)",
+                                "atc_code": "N02BA05",
+                                "children": [
+                                    {
+                                        "name": "Salicylamide",
+                                        "drugbank_id": "DB08797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sodium salicylate (N02BA04)",
+                                "atc_code": "N02BA04",
+                                "children": [
+                                    {
+                                        "name": "Salicylic acid",
+                                        "drugbank_id": "DB00936"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Choline salicylate (N02BA03)",
+                                "atc_code": "N02BA03",
+                                "children": [
+                                    {
+                                        "name": "Choline salicylate",
+                                        "drugbank_id": "DB14006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aloxiprin (N02BA02)",
+                                "atc_code": "N02BA02",
+                                "children": [
+                                    {
+                                        "name": "Aloxiprin",
+                                        "drugbank_id": "DB13509"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acetylsalicylic acid (N02BA01)",
+                                "atc_code": "N02BA01",
+                                "children": [
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Opioids (N02A)",
+                "atc_code": "N02A",
+                "children": [
+                    {
+                        "name": "Opioids in combination with non-opioid analgesics (N02AJ)",
+                        "atc_code": "N02AJ",
+                        "children": [
+                            {
+                                "name": "Hydrocodone and ibuprofen (N02AJ23)",
+                                "atc_code": "N02AJ23",
+                                "children": [
+                                    {
+                                        "name": "Hydrocodone",
+                                        "drugbank_id": "DB00956"
+                                    },
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydrocodone and paracetamol (N02AJ22)",
+                                "atc_code": "N02AJ22",
+                                "children": [
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    },
+                                    {
+                                        "name": "Hydrocodone",
+                                        "drugbank_id": "DB00956"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tramadol and celecoxib (N02AJ16)",
+                                "atc_code": "N02AJ16",
+                                "children": [
+                                    {
+                                        "name": "Tramadol",
+                                        "drugbank_id": "DB00193"
+                                    },
+                                    {
+                                        "name": "Celecoxib",
+                                        "drugbank_id": "DB00482"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone and ibuprofen (N02AJ19)",
+                                "atc_code": "N02AJ19",
+                                "children": [
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    },
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone and acetylsalicylic acid (N02AJ18)",
+                                "atc_code": "N02AJ18",
+                                "children": [
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone and paracetamol (N02AJ17)",
+                                "atc_code": "N02AJ17",
+                                "children": [
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    },
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tramadol and other non-opioid analgesics (N02AJ15)",
+                                "atc_code": "N02AJ15"
+                            },
+                            {
+                                "name": "Tramadol and dexketoprofen (N02AJ14)",
+                                "atc_code": "N02AJ14",
+                                "children": [
+                                    {
+                                        "name": "Dexketoprofen",
+                                        "drugbank_id": "DB09214"
+                                    },
+                                    {
+                                        "name": "Tramadol",
+                                        "drugbank_id": "DB00193"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tramadol and paracetamol (N02AJ13)",
+                                "atc_code": "N02AJ13",
+                                "children": [
+                                    {
+                                        "name": "Tramadol",
+                                        "drugbank_id": "DB00193"
+                                    },
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Codeine and other non-opioid analgesics (N02AJ09)",
+                                "atc_code": "N02AJ09"
+                            },
+                            {
+                                "name": "Codeine and ibuprofen (N02AJ08)",
+                                "atc_code": "N02AJ08",
+                                "children": [
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    },
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Codeine and acetylsalicylic acid (N02AJ07)",
+                                "atc_code": "N02AJ07",
+                                "children": [
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Codeine and paracetamol (N02AJ06)",
+                                "atc_code": "N02AJ06",
+                                "children": [
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    },
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydrocodeine and other non-opioid analgesics (N02AJ03)",
+                                "atc_code": "N02AJ03"
+                            },
+                            {
+                                "name": "Dihydrocodeine and acetylsalicylic acid (N02AJ02)",
+                                "atc_code": "N02AJ02",
+                                "children": [
+                                    {
+                                        "name": "Dihydrocodeine",
+                                        "drugbank_id": "DB01551"
+                                    },
+                                    {
+                                        "name": "Acetylsalicylic acid",
+                                        "drugbank_id": "DB00945"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydrocodeine and paracetamol (N02AJ01)",
+                                "atc_code": "N02AJ01",
+                                "children": [
+                                    {
+                                        "name": "Dihydrocodeine",
+                                        "drugbank_id": "DB01551"
+                                    },
+                                    {
+                                        "name": "Acetaminophen",
+                                        "drugbank_id": "DB00316"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Other opioids (N02AX)",
+                        "atc_code": "N02AX",
+                        "children": [
+                            {
+                                "name": "Tilidine and naloxone (N02AX51)",
+                                "atc_code": "N02AX51",
+                                "children": [
+                                    {
+                                        "name": "Tilidine",
+                                        "drugbank_id": "DB13787"
+                                    },
+                                    {
+                                        "name": "Naloxone",
+                                        "drugbank_id": "DB01183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oliceridine (N02AX07)",
+                                "atc_code": "N02AX07",
+                                "children": [
+                                    {
+                                        "name": "Oliceridine",
+                                        "drugbank_id": "DB14881"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tapentadol (N02AX06)",
+                                "atc_code": "N02AX06",
+                                "children": [
+                                    {
+                                        "name": "Tapentadol",
+                                        "drugbank_id": "DB06204"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meptazinol (N02AX05)",
+                                "atc_code": "N02AX05",
+                                "children": [
+                                    {
+                                        "name": "Meptazinol",
+                                        "drugbank_id": "DB13478"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dezocine (N02AX03)",
+                                "atc_code": "N02AX03",
+                                "children": [
+                                    {
+                                        "name": "Dezocine",
+                                        "drugbank_id": "DB01209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tramadol (N02AX02)",
+                                "atc_code": "N02AX02",
+                                "children": [
+                                    {
+                                        "name": "Tramadol",
+                                        "drugbank_id": "DB00193"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tilidine (N02AX01)",
+                                "atc_code": "N02AX01",
+                                "children": [
+                                    {
+                                        "name": "Tilidine",
+                                        "drugbank_id": "DB13787"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opioids in combination with antispasmodics (N02AG)",
+                        "atc_code": "N02AG",
+                        "children": [
+                            {
+                                "name": "Hydromorphone and antispasmodics (N02AG04)",
+                                "atc_code": "N02AG04",
+                                "children": [
+                                    {
+                                        "name": "Hydromorphone",
+                                        "drugbank_id": "DB00327"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pethidine and antispasmodics (N02AG03)",
+                                "atc_code": "N02AG03",
+                                "children": [
+                                    {
+                                        "name": "Meperidine",
+                                        "drugbank_id": "DB00454"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketobemidone and antispasmodics (N02AG02)",
+                                "atc_code": "N02AG02",
+                                "children": [
+                                    {
+                                        "name": "Ketobemidone",
+                                        "drugbank_id": "DB06738"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morphine and antispasmodics (N02AG01)",
+                                "atc_code": "N02AG01",
+                                "children": [
+                                    {
+                                        "name": "Morphine",
+                                        "drugbank_id": "DB00295"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Morphinan derivatives (N02AF)",
+                        "atc_code": "N02AF",
+                        "children": [
+                            {
+                                "name": "Nalbuphine (N02AF02)",
+                                "atc_code": "N02AF02",
+                                "children": [
+                                    {
+                                        "name": "Nalbuphine",
+                                        "drugbank_id": "DB00844"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butorphanol (N02AF01)",
+                                "atc_code": "N02AF01",
+                                "children": [
+                                    {
+                                        "name": "Butorphanol",
+                                        "drugbank_id": "DB00611"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oripavine derivatives (N02AE)",
+                        "atc_code": "N02AE",
+                        "children": [
+                            {
+                                "name": "Buprenorphine (N02AE01)",
+                                "atc_code": "N02AE01",
+                                "children": [
+                                    {
+                                        "name": "Buprenorphine",
+                                        "drugbank_id": "DB00921"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Benzomorphan derivatives (N02AD)",
+                        "atc_code": "N02AD",
+                        "children": [
+                            {
+                                "name": "Pentazocine and naloxone (N02AD51)",
+                                "atc_code": "N02AD51",
+                                "children": [
+                                    {
+                                        "name": "Naloxone",
+                                        "drugbank_id": "DB01183"
+                                    },
+                                    {
+                                        "name": "Pentazocine",
+                                        "drugbank_id": "DB00652"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenazocine (N02AD02)",
+                                "atc_code": "N02AD02",
+                                "children": [
+                                    {
+                                        "name": "Phenazocine",
+                                        "drugbank_id": "DB13606"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentazocine (N02AD01)",
+                                "atc_code": "N02AD01",
+                                "children": [
+                                    {
+                                        "name": "Pentazocine",
+                                        "drugbank_id": "DB00652"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diphenylpropylamine derivatives (N02AC)",
+                        "atc_code": "N02AC",
+                        "children": [
+                            {
+                                "name": "Dextropropoxyphene, combinations with psycholeptics (N02AC74)",
+                                "atc_code": "N02AC74",
+                                "children": [
+                                    {
+                                        "name": "Dextropropoxyphene",
+                                        "drugbank_id": "DB00647"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextropropoxyphene, combinations excl. psycholeptics (N02AC54)",
+                                "atc_code": "N02AC54",
+                                "children": [
+                                    {
+                                        "name": "Dextropropoxyphene",
+                                        "drugbank_id": "DB00647"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Methadone, combinations excl. psycholeptics (N02AC52)",
+                                "atc_code": "N02AC52",
+                                "children": [
+                                    {
+                                        "name": "Methadone",
+                                        "drugbank_id": "DB00333"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bezitramide (N02AC05)",
+                                "atc_code": "N02AC05",
+                                "children": [
+                                    {
+                                        "name": "Bezitramide",
+                                        "drugbank_id": "DB01459"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextropropoxyphene (N02AC04)",
+                                "atc_code": "N02AC04",
+                                "children": [
+                                    {
+                                        "name": "Dextropropoxyphene",
+                                        "drugbank_id": "DB00647"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Piritramide (N02AC03)",
+                                "atc_code": "N02AC03",
+                                "children": [
+                                    {
+                                        "name": "Piritramide",
+                                        "drugbank_id": "DB12492"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dextromoramide (N02AC01)",
+                                "atc_code": "N02AC01",
+                                "children": [
+                                    {
+                                        "name": "Dextromoramide",
+                                        "drugbank_id": "DB01529"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phenylpiperidine derivatives (N02AB)",
+                        "atc_code": "N02AB",
+                        "children": [
+                            {
+                                "name": "Pethidine, combinations with psycholeptics (N02AB72)",
+                                "atc_code": "N02AB72",
+                                "children": [
+                                    {
+                                        "name": "Meperidine",
+                                        "drugbank_id": "DB00454"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pethidine, combinations excl. psycholeptics (N02AB52)",
+                                "atc_code": "N02AB52",
+                                "children": [
+                                    {
+                                        "name": "Meperidine",
+                                        "drugbank_id": "DB00454"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fentanyl (N02AB03)",
+                                "atc_code": "N02AB03",
+                                "children": [
+                                    {
+                                        "name": "Fentanyl",
+                                        "drugbank_id": "DB00813"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pethidine (N02AB02)",
+                                "atc_code": "N02AB02",
+                                "children": [
+                                    {
+                                        "name": "Meperidine",
+                                        "drugbank_id": "DB00454"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ketobemidone (N02AB01)",
+                                "atc_code": "N02AB01",
+                                "children": [
+                                    {
+                                        "name": "Ketobemidone",
+                                        "drugbank_id": "DB06738"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Natural opium alkaloids (N02AA)",
+                        "atc_code": "N02AA",
+                        "children": [
+                            {
+                                "name": "Oxymorphone (N02AA11)",
+                                "atc_code": "N02AA11",
+                                "children": [
+                                    {
+                                        "name": "Oxymorphone",
+                                        "drugbank_id": "DB01192"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone and naltrexone (N02AA56)",
+                                "atc_code": "N02AA56",
+                                "children": [
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    },
+                                    {
+                                        "name": "Naltrexone",
+                                        "drugbank_id": "DB00704"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydromorphone and naloxone (N02AA53)",
+                                "atc_code": "N02AA53",
+                                "children": [
+                                    {
+                                        "name": "Hydromorphone",
+                                        "drugbank_id": "DB00327"
+                                    },
+                                    {
+                                        "name": "Naloxone",
+                                        "drugbank_id": "DB01183"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Codeine, combinations with psycholeptics (N02AA79)",
+                                "atc_code": "N02AA79",
+                                "children": [
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Codeine, combinations excl. psycholeptics (N02AA59)",
+                                "atc_code": "N02AA59",
+                                "children": [
+                                    {
+                                        "name": "Codeine",
+                                        "drugbank_id": "DB00318"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dihydrocodeine, combinations (N02AA58)",
+                                "atc_code": "N02AA58",
+                                "children": [
+                                    {
+                                        "name": "Dihydrocodeine",
+                                        "drugbank_id": "DB01551"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone and naloxone (N02AA55)",
+                                "atc_code": "N02AA55",
+                                "children": [
+                                    {
+                                        "name": "Naloxone",
+                                        "drugbank_id": "DB01183"
+                                    },
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morphine, combinations (N02AA51)",
+                                "atc_code": "N02AA51",
+                                "children": [
+                                    {
+                                        "name": "Morphine",
+                                        "drugbank_id": "DB00295"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Papaveretum (N02AA10)",
+                                "atc_code": "N02AA10"
+                            },
+                            {
+                                "name": "Dihydrocodeine (N02AA08)",
+                                "atc_code": "N02AA08",
+                                "children": [
+                                    {
+                                        "name": "Dihydrocodeine",
+                                        "drugbank_id": "DB01551"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxycodone (N02AA05)",
+                                "atc_code": "N02AA05",
+                                "children": [
+                                    {
+                                        "name": "Oxycodone",
+                                        "drugbank_id": "DB00497"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicomorphine (N02AA04)",
+                                "atc_code": "N02AA04",
+                                "children": [
+                                    {
+                                        "name": "Nicomorphine",
+                                        "drugbank_id": "DB13454"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hydromorphone (N02AA03)",
+                                "atc_code": "N02AA03",
+                                "children": [
+                                    {
+                                        "name": "Hydromorphone",
+                                        "drugbank_id": "DB00327"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opium (N02AA02)",
+                                "atc_code": "N02AA02",
+                                "children": [
+                                    {
+                                        "name": "Opium",
+                                        "drugbank_id": "DB11130"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Morphine (N02AA01)",
+                                "atc_code": "N02AA01",
+                                "children": [
+                                    {
+                                        "name": "Morphine",
+                                        "drugbank_id": "DB00295"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

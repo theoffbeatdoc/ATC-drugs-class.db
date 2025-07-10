@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Immune sera and immunoglobulins (J06)",
+        "atc_code": "J06",
+        "children": [
+            {
+                "name": "Immunoglobulins (J06B)",
+                "atc_code": "J06B",
+                "children": [
+                    {
+                        "name": "Antiviral monoclonal antibodies (J06BD)",
+                        "atc_code": "J06BD",
+                        "children": [
+                            {
+                                "name": "Sipavibart (J06BD09)",
+                                "atc_code": "J06BD09",
+                                "children": [
+                                    {
+                                        "name": "Sipavibart",
+                                        "drugbank_id": "DB21908"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nirsevimab (J06BD08)",
+                                "atc_code": "J06BD08",
+                                "children": [
+                                    {
+                                        "name": "Nirsevimab",
+                                        "drugbank_id": "DB16258"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Casirivimab and imdevimab (J06BD07)",
+                                "atc_code": "J06BD07",
+                                "children": [
+                                    {
+                                        "name": "Casirivimab",
+                                        "drugbank_id": "DB15941"
+                                    },
+                                    {
+                                        "name": "Imdevimab",
+                                        "drugbank_id": "DB15940"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Regdanvimab (J06BD06)",
+                                "atc_code": "J06BD06",
+                                "children": [
+                                    {
+                                        "name": "Regdanvimab",
+                                        "drugbank_id": "DB16405"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sotrovimab (J06BD05)",
+                                "atc_code": "J06BD05",
+                                "children": [
+                                    {
+                                        "name": "Sotrovimab",
+                                        "drugbank_id": "DB16355"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ansuvimab (J06BD04)",
+                                "atc_code": "J06BD04",
+                                "children": [
+                                    {
+                                        "name": "Ansuvimab",
+                                        "drugbank_id": "DB16385"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tixagevimab and cilgavimab (J06BD03)",
+                                "atc_code": "J06BD03",
+                                "children": [
+                                    {
+                                        "name": "Cilgavimab",
+                                        "drugbank_id": "DB16393"
+                                    },
+                                    {
+                                        "name": "Tixagevimab",
+                                        "drugbank_id": "DB16394"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Motavizumab (J06BD02)",
+                                "atc_code": "J06BD02",
+                                "children": [
+                                    {
+                                        "name": "Motavizumab",
+                                        "drugbank_id": "DB06310"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Palivizumab (J06BD01)",
+                                "atc_code": "J06BD01",
+                                "children": [
+                                    {
+                                        "name": "Palivizumab",
+                                        "drugbank_id": "DB00110"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibacterial monoclonal antibodies (J06BC)",
+                        "atc_code": "J06BC",
+                        "children": [
+                            {
+                                "name": "Obiltoxaximab (J06BC04)",
+                                "atc_code": "J06BC04",
+                                "children": [
+                                    {
+                                        "name": "Obiltoxaximab",
+                                        "drugbank_id": "DB05336"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bezlotoxumab (J06BC03)",
+                                "atc_code": "J06BC03",
+                                "children": [
+                                    {
+                                        "name": "Bezlotoxumab",
+                                        "drugbank_id": "DB13140"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Raxibacumab (J06BC02)",
+                                "atc_code": "J06BC02",
+                                "children": [
+                                    {
+                                        "name": "Raxibacumab",
+                                        "drugbank_id": "DB08902"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nebacumab (J06BC01)",
+                                "atc_code": "J06BC01",
+                                "children": [
+                                    {
+                                        "name": "Nebacumab",
+                                        "drugbank_id": "DB13535"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Specific immunoglobulins (J06BB)",
+                        "atc_code": "J06BB",
+                        "children": [
+                            {
+                                "name": "Combinations (J06BB30)",
+                                "atc_code": "J06BB30"
+                            },
+                            {
+                                "name": "Anthrax immunoglobulin (J06BB19)",
+                                "atc_code": "J06BB19"
+                            },
+                            {
+                                "name": "Mumps immunoglobulin (J06BB15)",
+                                "atc_code": "J06BB15"
+                            },
+                            {
+                                "name": "Measles immunoglobulin (J06BB14)",
+                                "atc_code": "J06BB14"
+                            },
+                            {
+                                "name": "Pertussis immunoglobulin (J06BB13)",
+                                "atc_code": "J06BB13"
+                            },
+                            {
+                                "name": "Encephalitis, tick borne immunoglobulin (J06BB12)",
+                                "atc_code": "J06BB12"
+                            },
+                            {
+                                "name": "Hepatitis a immunoglobulin (J06BB11)",
+                                "atc_code": "J06BB11"
+                            },
+                            {
+                                "name": "Diphtheria immunoglobulin (J06BB10)",
+                                "atc_code": "J06BB10"
+                            },
+                            {
+                                "name": "Cytomegalovirus immunoglobulin (J06BB09)",
+                                "atc_code": "J06BB09",
+                                "children": [
+                                    {
+                                        "name": "Human cytomegalovirus immune globulin",
+                                        "drugbank_id": "DB13886"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Staphylococcus immunoglobulin (J06BB08)",
+                                "atc_code": "J06BB08"
+                            },
+                            {
+                                "name": "Vaccinia immunoglobulin (J06BB07)",
+                                "atc_code": "J06BB07"
+                            },
+                            {
+                                "name": "Rubella immunoglobulin (J06BB06)",
+                                "atc_code": "J06BB06"
+                            },
+                            {
+                                "name": "Rabies immunoglobulin (J06BB05)",
+                                "atc_code": "J06BB05"
+                            },
+                            {
+                                "name": "Hepatitis b immunoglobulin (J06BB04)",
+                                "atc_code": "J06BB04",
+                                "children": [
+                                    {
+                                        "name": "Hepatitis B immune globulin",
+                                        "drugbank_id": "DB05276"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Varicella/zoster immunoglobulin (J06BB03)",
+                                "atc_code": "J06BB03"
+                            },
+                            {
+                                "name": "Tetanus immunoglobulin (J06BB02)",
+                                "atc_code": "J06BB02",
+                                "children": [
+                                    {
+                                        "name": "Tetanus immune globulin, human",
+                                        "drugbank_id": "DB11604"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Anti-d (rh) immunoglobulin (J06BB01)",
+                                "atc_code": "J06BB01",
+                                "children": [
+                                    {
+                                        "name": "Human Rho(D) immune globulin",
+                                        "drugbank_id": "DB11597"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Immunoglobulins, normal human (J06BA)",
+                        "atc_code": "J06BA",
+                        "children": [
+                            {
+                                "name": "Immunoglobulins, normal human, for intravascular adm. (J06BA02)",
+                                "atc_code": "J06BA02"
+                            },
+                            {
+                                "name": "Immunoglobulins, normal human, for extravascular adm. (J06BA01)",
+                                "atc_code": "J06BA01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Immune sera (J06A)",
+                "atc_code": "J06A",
+                "children": [
+                    {
+                        "name": "Immune sera (J06AA)",
+                        "atc_code": "J06AA",
+                        "children": [
+                            {
+                                "name": "Rabies serum (J06AA06)",
+                                "atc_code": "J06AA06",
+                                "children": [
+                                    {
+                                        "name": "Rabies virus inactivated antigen, B",
+                                        "drugbank_id": "DB10062"
+                                    },
+                                    {
+                                        "name": "Rabies virus inactivated antigen, A",
+                                        "drugbank_id": "DB10283"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Gas-gangrene sera (J06AA05)",
+                                "atc_code": "J06AA05"
+                            },
+                            {
+                                "name": "Botulinum antitoxin (J06AA04)",
+                                "atc_code": "J06AA04"
+                            },
+                            {
+                                "name": "Snake venom antiserum (J06AA03)",
+                                "atc_code": "J06AA03"
+                            },
+                            {
+                                "name": "Tetanus antitoxin (J06AA02)",
+                                "atc_code": "J06AA02"
+                            },
+                            {
+                                "name": "Diphtheria antitoxin (J06AA01)",
+                                "atc_code": "J06AA01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

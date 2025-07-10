@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Throat preparations (R02)",
+        "atc_code": "R02",
+        "children": [
+            {
+                "name": "Throat preparations (R02A)",
+                "atc_code": "R02A",
+                "children": [
+                    {
+                        "name": "Other throat preparations (R02AX)",
+                        "atc_code": "R02AX",
+                        "children": [
+                            {
+                                "name": "Benzydamine (R02AX03)",
+                                "atc_code": "R02AX03",
+                                "children": [
+                                    {
+                                        "name": "Benzydamine",
+                                        "drugbank_id": "DB09084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ibuprofen (R02AX02)",
+                                "atc_code": "R02AX02",
+                                "children": [
+                                    {
+                                        "name": "Ibuprofen",
+                                        "drugbank_id": "DB01050"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flurbiprofen (R02AX01)",
+                                "atc_code": "R02AX01",
+                                "children": [
+                                    {
+                                        "name": "Flurbiprofen",
+                                        "drugbank_id": "DB00712"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anesthetics, local (R02AD)",
+                        "atc_code": "R02AD",
+                        "children": [
+                            {
+                                "name": "Ambroxol (R02AD05)",
+                                "atc_code": "R02AD05",
+                                "children": [
+                                    {
+                                        "name": "Ambroxol",
+                                        "drugbank_id": "DB06742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dyclonine (R02AD04)",
+                                "atc_code": "R02AD04",
+                                "children": [
+                                    {
+                                        "name": "Dyclonine",
+                                        "drugbank_id": "DB00645"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cocaine (R02AD03)",
+                                "atc_code": "R02AD03",
+                                "children": [
+                                    {
+                                        "name": "Cocaine",
+                                        "drugbank_id": "DB00907"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lidocaine (R02AD02)",
+                                "atc_code": "R02AD02",
+                                "children": [
+                                    {
+                                        "name": "Lidocaine",
+                                        "drugbank_id": "DB00281"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzocaine (R02AD01)",
+                                "atc_code": "R02AD01",
+                                "children": [
+                                    {
+                                        "name": "Benzocaine",
+                                        "drugbank_id": "DB01086"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antibiotics (R02AB)",
+                        "atc_code": "R02AB",
+                        "children": [
+                            {
+                                "name": "Gramicidin (R02AB30)",
+                                "atc_code": "R02AB30",
+                                "children": [
+                                    {
+                                        "name": "Gramicidin D",
+                                        "drugbank_id": "DB00027"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bacitracin (R02AB04)",
+                                "atc_code": "R02AB04",
+                                "children": [
+                                    {
+                                        "name": "Bacitracin",
+                                        "drugbank_id": "DB00626"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fusafungine (R02AB03)",
+                                "atc_code": "R02AB03",
+                                "children": [
+                                    {
+                                        "name": "Fusafungine",
+                                        "drugbank_id": "DB08965"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tyrothricin (R02AB02)",
+                                "atc_code": "R02AB02",
+                                "children": [
+                                    {
+                                        "name": "Tyrothricin",
+                                        "drugbank_id": "DB13503"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Neomycin (R02AB01)",
+                                "atc_code": "R02AB01",
+                                "children": [
+                                    {
+                                        "name": "Neomycin",
+                                        "drugbank_id": "DB00994"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antiseptics (R02AA)",
+                        "atc_code": "R02AA",
+                        "children": [
+                            {
+                                "name": "Octenidine (R02AA21)",
+                                "atc_code": "R02AA21",
+                                "children": [
+                                    {
+                                        "name": "Octenidine",
+                                        "drugbank_id": "DB12624"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Various (R02AA20)",
+                                "atc_code": "R02AA20"
+                            },
+                            {
+                                "name": "Phenol (R02AA19)",
+                                "atc_code": "R02AA19",
+                                "children": [
+                                    {
+                                        "name": "Phenol",
+                                        "drugbank_id": "DB03255"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexamidine (R02AA18)",
+                                "atc_code": "R02AA18",
+                                "children": [
+                                    {
+                                        "name": "Hexamidine",
+                                        "drugbank_id": "DB03808"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetrimonium (R02AA17)",
+                                "atc_code": "R02AA17",
+                                "children": [
+                                    {
+                                        "name": "Cetrimonium",
+                                        "drugbank_id": "DB01718"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzalkonium (R02AA16)",
+                                "atc_code": "R02AA16",
+                                "children": [
+                                    {
+                                        "name": "Benzalkonium",
+                                        "drugbank_id": "DB11105"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Povidone-iodine (R02AA15)",
+                                "atc_code": "R02AA15",
+                                "children": [
+                                    {
+                                        "name": "Povidone-iodine",
+                                        "drugbank_id": "DB06812"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Oxyquinoline (R02AA14)",
+                                "atc_code": "R02AA14",
+                                "children": [
+                                    {
+                                        "name": "Oxyquinoline",
+                                        "drugbank_id": "DB11145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Acriflavinium chloride (R02AA13)",
+                                "atc_code": "R02AA13",
+                                "children": [
+                                    {
+                                        "name": "Acriflavine",
+                                        "drugbank_id": "DB13373"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hexylresorcinol (R02AA12)",
+                                "atc_code": "R02AA12",
+                                "children": [
+                                    {
+                                        "name": "Hexylresorcinol",
+                                        "drugbank_id": "DB11254"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorquinaldol (R02AA11)",
+                                "atc_code": "R02AA11",
+                                "children": [
+                                    {
+                                        "name": "Chlorquinaldol",
+                                        "drugbank_id": "DB13306"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Myristyl-benzalkonium (R02AA10)",
+                                "atc_code": "R02AA10",
+                                "children": [
+                                    {
+                                        "name": "Myristalkonium",
+                                        "drugbank_id": "DB13774"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Benzethonium (R02AA09)",
+                                "atc_code": "R02AA09",
+                                "children": [
+                                    {
+                                        "name": "Benzethonium",
+                                        "drugbank_id": "DB11125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetylpyridinium (R02AA06)",
+                                "atc_code": "R02AA06",
+                                "children": [
+                                    {
+                                        "name": "Cetylpyridinium",
+                                        "drugbank_id": "DB11073"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chlorhexidine (R02AA05)",
+                                "atc_code": "R02AA05",
+                                "children": [
+                                    {
+                                        "name": "Chlorhexidine",
+                                        "drugbank_id": "DB00878"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dichlorobenzyl alcohol (R02AA03)",
+                                "atc_code": "R02AA03",
+                                "children": [
+                                    {
+                                        "name": "Dichlorobenzyl alcohol",
+                                        "drugbank_id": "DB13269"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dequalinium (R02AA02)",
+                                "atc_code": "R02AA02",
+                                "children": [
+                                    {
+                                        "name": "Dequalinium",
+                                        "drugbank_id": "DB04209"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ambazone (R02AA01)",
+                                "atc_code": "R02AA01",
+                                "children": [
+                                    {
+                                        "name": "Ambazone",
+                                        "drugbank_id": "DB13697"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

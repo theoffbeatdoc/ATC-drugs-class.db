@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Calcium homeostasis (H05)",
+        "atc_code": "H05",
+        "children": [
+            {
+                "name": "Anti-parathyroid agents (H05B)",
+                "atc_code": "H05B",
+                "children": [
+                    {
+                        "name": "Other anti-parathyroid agents (H05BX)",
+                        "atc_code": "H05BX",
+                        "children": [
+                            {
+                                "name": "Evocalcet (H05BX06)",
+                                "atc_code": "H05BX06",
+                                "children": [
+                                    {
+                                        "name": "Evocalcet",
+                                        "drugbank_id": "DB12388"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcifediol (H05BX05)",
+                                "atc_code": "H05BX05",
+                                "children": [
+                                    {
+                                        "name": "Calcifediol",
+                                        "drugbank_id": "DB00146"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Etelcalcetide (H05BX04)",
+                                "atc_code": "H05BX04",
+                                "children": [
+                                    {
+                                        "name": "Etelcalcetide",
+                                        "drugbank_id": "DB12865"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Doxercalciferol (H05BX03)",
+                                "atc_code": "H05BX03",
+                                "children": [
+                                    {
+                                        "name": "Doxercalciferol",
+                                        "drugbank_id": "DB06410"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Paricalcitol (H05BX02)",
+                                "atc_code": "H05BX02",
+                                "children": [
+                                    {
+                                        "name": "Paricalcitol",
+                                        "drugbank_id": "DB00910"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinacalcet (H05BX01)",
+                                "atc_code": "H05BX01",
+                                "children": [
+                                    {
+                                        "name": "Cinacalcet",
+                                        "drugbank_id": "DB01012"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Calcitonin preparations (H05BA)",
+                        "atc_code": "H05BA",
+                        "children": [
+                            {
+                                "name": "Elcatonin (H05BA04)",
+                                "atc_code": "H05BA04",
+                                "children": [
+                                    {
+                                        "name": "Elcatonin",
+                                        "drugbank_id": "DB13742"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcitonin (human synthetic) (H05BA03)",
+                                "atc_code": "H05BA03",
+                                "children": [
+                                    {
+                                        "name": "Human calcitonin",
+                                        "drugbank_id": "DB06773"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcitonin (pork natural) (H05BA02)",
+                                "atc_code": "H05BA02",
+                                "children": [
+                                    {
+                                        "name": "Calcitonin porcine",
+                                        "drugbank_id": "DB13189"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Calcitonin (salmon synthetic) (H05BA01)",
+                                "atc_code": "H05BA01",
+                                "children": [
+                                    {
+                                        "name": "Salmon calcitonin",
+                                        "drugbank_id": "DB00017"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Parathyroid hormones and analogues (H05A)",
+                "atc_code": "H05A",
+                "children": [
+                    {
+                        "name": "Parathyroid hormones and analogues (H05AA)",
+                        "atc_code": "H05AA",
+                        "children": [
+                            {
+                                "name": "Palopegteriparatide (H05AA05)",
+                                "atc_code": "H05AA05",
+                                "children": [
+                                    {
+                                        "name": "Palopegteriparatide",
+                                        "drugbank_id": "DB18676"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Abaloparatide (H05AA04)",
+                                "atc_code": "H05AA04",
+                                "children": [
+                                    {
+                                        "name": "Abaloparatide",
+                                        "drugbank_id": "DB05084"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Parathyroid hormone (H05AA03)",
+                                "atc_code": "H05AA03",
+                                "children": [
+                                    {
+                                        "name": "Parathyroid hormone",
+                                        "drugbank_id": "DB05829"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Teriparatide (H05AA02)",
+                                "atc_code": "H05AA02",
+                                "children": [
+                                    {
+                                        "name": "Teriparatide",
+                                        "drugbank_id": "DB06285"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Parathyroid gland extract (H05AA01)",
+                                "atc_code": "H05AA01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

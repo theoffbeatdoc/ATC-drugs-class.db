@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Other hematological agents (B06)",
+        "atc_code": "B06",
+        "children": [
+            {
+                "name": "Other hematological agents (B06A)",
+                "atc_code": "B06A",
+                "children": [
+                    {
+                        "name": "Other hematological agents (B06AX)",
+                        "atc_code": "B06AX",
+                        "children": [
+                            {
+                                "name": "Exagamglogene autotemcel (B06AX05)",
+                                "atc_code": "B06AX05",
+                                "children": [
+                                    {
+                                        "name": "Exagamglogene autotemcel",
+                                        "drugbank_id": "DB15572"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mitapivat (B06AX04)",
+                                "atc_code": "B06AX04",
+                                "children": [
+                                    {
+                                        "name": "Mitapivat",
+                                        "drugbank_id": "DB16236"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Voxelotor (B06AX03)",
+                                "atc_code": "B06AX03",
+                                "children": [
+                                    {
+                                        "name": "Voxelotor",
+                                        "drugbank_id": "DB14975"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Betibeglogene autotemcel (B06AX02)",
+                                "atc_code": "B06AX02",
+                                "children": [
+                                    {
+                                        "name": "Betibeglogene autotemcel",
+                                        "drugbank_id": "DB16900"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Crizanlizumab (B06AX01)",
+                                "atc_code": "B06AX01",
+                                "children": [
+                                    {
+                                        "name": "Crizanlizumab",
+                                        "drugbank_id": "DB15271"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drugs used in hereditary angioedema (B06AC)",
+                        "atc_code": "B06AC",
+                        "children": [
+                            {
+                                "name": "Sebetralstat (B06AC08)",
+                                "atc_code": "B06AC08",
+                                "children": [
+                                    {
+                                        "name": "Sebetralstat",
+                                        "drugbank_id": "DB18305"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Garadacimab (B06AC07)",
+                                "atc_code": "B06AC07",
+                                "children": [
+                                    {
+                                        "name": "Garadacimab",
+                                        "drugbank_id": "DB15629"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Berotralstat (B06AC06)",
+                                "atc_code": "B06AC06",
+                                "children": [
+                                    {
+                                        "name": "Berotralstat",
+                                        "drugbank_id": "DB15982"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lanadelumab (B06AC05)",
+                                "atc_code": "B06AC05",
+                                "children": [
+                                    {
+                                        "name": "Lanadelumab",
+                                        "drugbank_id": "DB14597"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Conestat alfa (B06AC04)",
+                                "atc_code": "B06AC04",
+                                "children": [
+                                    {
+                                        "name": "Conestat alfa",
+                                        "drugbank_id": "DB09228"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ecallantide (B06AC03)",
+                                "atc_code": "B06AC03",
+                                "children": [
+                                    {
+                                        "name": "Ecallantide",
+                                        "drugbank_id": "DB05311"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Icatibant (B06AC02)",
+                                "atc_code": "B06AC02",
+                                "children": [
+                                    {
+                                        "name": "Icatibant",
+                                        "drugbank_id": "DB06196"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "C1-inhibitor, plasma derived (B06AC01)",
+                                "atc_code": "B06AC01",
+                                "children": [
+                                    {
+                                        "name": "Human C1-esterase inhibitor",
+                                        "drugbank_id": "DB06404"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heme products (B06AB)",
+                        "atc_code": "B06AB",
+                        "children": [
+                            {
+                                "name": "Hemin (B06AB01)",
+                                "atc_code": "B06AB01",
+                                "children": [
+                                    {
+                                        "name": "Hemin",
+                                        "drugbank_id": "DB03404"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzymes (B06AA)",
+                        "atc_code": "B06AA",
+                        "children": [
+                            {
+                                "name": "Streptokinase, combinations (B06AA55)",
+                                "atc_code": "B06AA55",
+                                "children": [
+                                    {
+                                        "name": "Streptokinase",
+                                        "drugbank_id": "DB00086"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Desoxyribonuclease (B06AA10)",
+                                "atc_code": "B06AA10",
+                                "children": [
+                                    {
+                                        "name": "Desoxyribonuclease",
+                                        "drugbank_id": "DB09551"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trypsin (B06AA07)",
+                                "atc_code": "B06AA07",
+                                "children": [
+                                    {
+                                        "name": "Trypsin",
+                                        "drugbank_id": "DB11237"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chymotrypsin (B06AA04)",
+                                "atc_code": "B06AA04",
+                                "children": [
+                                    {
+                                        "name": "Chymotrypsin",
+                                        "drugbank_id": "DB09375"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hyaluronidase (B06AA03)",
+                                "atc_code": "B06AA03",
+                                "children": [
+                                    {
+                                        "name": "Hyaluronidase",
+                                        "drugbank_id": "DB14740"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fibrinolysin and desoxyribonuclease (B06AA02)",
+                                "atc_code": "B06AA02",
+                                "children": [
+                                    {
+                                        "name": "Desoxyribonuclease",
+                                        "drugbank_id": "DB09551"
+                                    },
+                                    {
+                                        "name": "Fibrinolysin",
+                                        "drugbank_id": "DB05254"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

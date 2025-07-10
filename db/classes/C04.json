@@ -1,0 +1,404 @@
+[
+    {
+        "name": "Peripheral vasodilators (C04)",
+        "atc_code": "C04",
+        "children": [
+            {
+                "name": "Peripheral vasodilators (C04A)",
+                "atc_code": "C04A",
+                "children": [
+                    {
+                        "name": "Other peripheral vasodilators (C04AX)",
+                        "atc_code": "C04AX",
+                        "children": [
+                            {
+                                "name": "Clazosentan (C04AX33)",
+                                "atc_code": "C04AX33",
+                                "children": [
+                                    {
+                                        "name": "Clazosentan",
+                                        "drugbank_id": "DB06677"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fasudil (C04AX32)",
+                                "atc_code": "C04AX32",
+                                "children": [
+                                    {
+                                        "name": "Fasudil",
+                                        "drugbank_id": "DB08162"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Azapetine (C04AX30)",
+                                "atc_code": "C04AX30",
+                                "children": [
+                                    {
+                                        "name": "Azapetine",
+                                        "drugbank_id": "DB13727"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ifenprodil (C04AX28)",
+                                "atc_code": "C04AX28",
+                                "children": [
+                                    {
+                                        "name": "Ifenprodil",
+                                        "drugbank_id": "DB08954"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cinepazide (C04AX27)",
+                                "atc_code": "C04AX27",
+                                "children": [
+                                    {
+                                        "name": "Cinepazide",
+                                        "drugbank_id": "DB12123"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cetiedil (C04AX26)",
+                                "atc_code": "C04AX26",
+                                "children": [
+                                    {
+                                        "name": "Cetiedil",
+                                        "drugbank_id": "DB13753"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Visnadine (C04AX24)",
+                                "atc_code": "C04AX24",
+                                "children": [
+                                    {
+                                        "name": "Visnadine",
+                                        "drugbank_id": "DB13355"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Butalamine (C04AX23)",
+                                "atc_code": "C04AX23",
+                                "children": [
+                                    {
+                                        "name": "Butalamine",
+                                        "drugbank_id": "DB13681"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Naftidrofuryl (C04AX21)",
+                                "atc_code": "C04AX21",
+                                "children": [
+                                    {
+                                        "name": "Naftidrofuryl",
+                                        "drugbank_id": "DB13588"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buflomedil (C04AX20)",
+                                "atc_code": "C04AX20",
+                                "children": [
+                                    {
+                                        "name": "Buflomedil",
+                                        "drugbank_id": "DB13510"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Suloctidil (C04AX19)",
+                                "atc_code": "C04AX19",
+                                "children": [
+                                    {
+                                        "name": "Suloctidil",
+                                        "drugbank_id": "DB13340"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vinburnine (C04AX17)",
+                                "atc_code": "C04AX17",
+                                "children": [
+                                    {
+                                        "name": "Vinburnine",
+                                        "drugbank_id": "DB13793"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bencyclane (C04AX11)",
+                                "atc_code": "C04AX11",
+                                "children": [
+                                    {
+                                        "name": "Bencyclane",
+                                        "drugbank_id": "DB13488"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Moxisylyte (C04AX10)",
+                                "atc_code": "C04AX10",
+                                "children": [
+                                    {
+                                        "name": "Moxisylyte",
+                                        "drugbank_id": "DB09205"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vincamine (C04AX07)",
+                                "atc_code": "C04AX07",
+                                "children": [
+                                    {
+                                        "name": "Vincamine",
+                                        "drugbank_id": "DB13374"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phenoxybenzamine (C04AX02)",
+                                "atc_code": "C04AX02",
+                                "children": [
+                                    {
+                                        "name": "Phenoxybenzamine",
+                                        "drugbank_id": "DB00925"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cyclandelate (C04AX01)",
+                                "atc_code": "C04AX01",
+                                "children": [
+                                    {
+                                        "name": "Cyclandelate",
+                                        "drugbank_id": "DB04838"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Enzymes (C04AF)",
+                        "atc_code": "C04AF",
+                        "children": [
+                            {
+                                "name": "Kallidinogenase (C04AF01)",
+                                "atc_code": "C04AF01",
+                                "children": [
+                                    {
+                                        "name": "Kallidinogenase",
+                                        "drugbank_id": "DB13197"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ergot alkaloids (C04AE)",
+                        "atc_code": "C04AE",
+                        "children": [
+                            {
+                                "name": "Dihydroergocristine, combinations (C04AE54)",
+                                "atc_code": "C04AE54",
+                                "children": [
+                                    {
+                                        "name": "Dihydroergocristine",
+                                        "drugbank_id": "DB13345"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergoloid mesylates, combinations (C04AE51)",
+                                "atc_code": "C04AE51"
+                            },
+                            {
+                                "name": "Dihydroergocristine (C04AE04)",
+                                "atc_code": "C04AE04",
+                                "children": [
+                                    {
+                                        "name": "Dihydroergocristine",
+                                        "drugbank_id": "DB13345"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicergoline (C04AE02)",
+                                "atc_code": "C04AE02",
+                                "children": [
+                                    {
+                                        "name": "Nicergoline",
+                                        "drugbank_id": "DB00699"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ergoloid mesylates (C04AE01)",
+                                "atc_code": "C04AE01"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purine derivatives (C04AD)",
+                        "atc_code": "C04AD",
+                        "children": [
+                            {
+                                "name": "Etofylline nicotinate (C04AD04)",
+                                "atc_code": "C04AD04",
+                                "children": [
+                                    {
+                                        "name": "Etofylline nicotinate",
+                                        "drugbank_id": "DB13842"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentoxifylline (C04AD03)",
+                                "atc_code": "C04AD03",
+                                "children": [
+                                    {
+                                        "name": "Pentoxifylline",
+                                        "drugbank_id": "DB00806"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Xantinol nicotinate (C04AD02)",
+                                "atc_code": "C04AD02",
+                                "children": [
+                                    {
+                                        "name": "Xanthinol",
+                                        "drugbank_id": "DB09092"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pentifylline (C04AD01)",
+                                "atc_code": "C04AD01",
+                                "children": [
+                                    {
+                                        "name": "Pentifylline",
+                                        "drugbank_id": "DB13634"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nicotinic acid and derivatives (C04AC)",
+                        "atc_code": "C04AC",
+                        "children": [
+                            {
+                                "name": "Ciclonicate (C04AC07)",
+                                "atc_code": "C04AC07",
+                                "children": [
+                                    {
+                                        "name": "Ciclonicate",
+                                        "drugbank_id": "DB13709"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Inositol nicotinate (C04AC03)",
+                                "atc_code": "C04AC03",
+                                "children": [
+                                    {
+                                        "name": "Inositol nicotinate",
+                                        "drugbank_id": "DB08949"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotinyl alcohol (pyridylcarbinol) (C04AC02)",
+                                "atc_code": "C04AC02",
+                                "children": [
+                                    {
+                                        "name": "Nicotinyl alcohol",
+                                        "drugbank_id": "DB04145"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nicotinic acid (C04AC01)",
+                                "atc_code": "C04AC01",
+                                "children": [
+                                    {
+                                        "name": "Niacin",
+                                        "drugbank_id": "DB00627"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imidazoline derivatives (C04AB)",
+                        "atc_code": "C04AB",
+                        "children": [
+                            {
+                                "name": "Tolazoline (C04AB02)",
+                                "atc_code": "C04AB02",
+                                "children": [
+                                    {
+                                        "name": "Tolazoline",
+                                        "drugbank_id": "DB00797"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phentolamine (C04AB01)",
+                                "atc_code": "C04AB01",
+                                "children": [
+                                    {
+                                        "name": "Phentolamine",
+                                        "drugbank_id": "DB00692"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2-amino-1-phenylethanol derivatives (C04AA)",
+                        "atc_code": "C04AA",
+                        "children": [
+                            {
+                                "name": "Bamethan (C04AA31)",
+                                "atc_code": "C04AA31",
+                                "children": [
+                                    {
+                                        "name": "Bamethan",
+                                        "drugbank_id": "DB13206"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Buphenine (C04AA02)",
+                                "atc_code": "C04AA02",
+                                "children": [
+                                    {
+                                        "name": "Nylidrin",
+                                        "drugbank_id": "DB06152"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Isoxsuprine (C04AA01)",
+                                "atc_code": "C04AA01",
+                                "children": [
+                                    {
+                                        "name": "Isoxsuprine",
+                                        "drugbank_id": "DB08941"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
