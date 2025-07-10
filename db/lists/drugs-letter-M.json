@@ -1,0 +1,2252 @@
+[
+  {
+    "name": "Migalastat",
+    "atc_code": "A16AX14",
+    "drugbank_id": "DB05018"
+  },
+  {
+    "name": "Miglustat",
+    "atc_code": "A16AX06",
+    "drugbank_id": "DB00419"
+  },
+  {
+    "name": "Metreleptin",
+    "atc_code": "A16AA07",
+    "drugbank_id": "DB09046"
+  },
+  {
+    "name": "Metenolone",
+    "atc_code": "A14AA04",
+    "drugbank_id": "DB13710"
+  },
+  {
+    "name": "Metandienone",
+    "atc_code": "A14AA03",
+    "drugbank_id": "DB13586"
+  },
+  {
+    "name": "Magnesium oxide",
+    "atc_code": "A12CC10",
+    "drugbank_id": "DB01377"
+  },
+  {
+    "name": "Magnesium orotate",
+    "atc_code": "A12CC09",
+    "drugbank_id": "DB13786"
+  },
+  {
+    "name": "Magnesium levulinate",
+    "atc_code": "A12CC07",
+    "drugbank_id": "DB14514"
+  },
+  {
+    "name": "Magnesium lactate",
+    "atc_code": "A12CC06",
+    "drugbank_id": "DB14515"
+  },
+  {
+    "name": "Magnesium aspartate",
+    "atc_code": "A12CC05",
+    "drugbank_id": "DB13359"
+  },
+  {
+    "name": "Magnesium citrate",
+    "atc_code": "A12CC04",
+    "drugbank_id": "DB11110"
+  },
+  {
+    "name": "Magnesium gluconate",
+    "atc_code": "A12CC03",
+    "drugbank_id": "DB13749"
+  },
+  {
+    "name": "Magnesium sulfate",
+    "atc_code": "A12CC02",
+    "drugbank_id": "DB00653"
+  },
+  {
+    "name": "Magnesium chloride",
+    "atc_code": "A12CC01",
+    "drugbank_id": "DB09407"
+  },
+  {
+    "name": "Mitiglinide",
+    "atc_code": "A10BX08",
+    "drugbank_id": "DB01252"
+  },
+  {
+    "name": "Miglitol",
+    "atc_code": "A10BF02",
+    "drugbank_id": "DB00491"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD28",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD27",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD26",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD25",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD23",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD22",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD20",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD18",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD17",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD16",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD15",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD14",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD13",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD11",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD10",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD08",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD07",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD05",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD03",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BD02",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Metahexamide",
+    "atc_code": "A10BB10",
+    "drugbank_id": "DB13675"
+  },
+  {
+    "name": "Metformin",
+    "atc_code": "A10BA02",
+    "drugbank_id": "DB00331"
+  },
+  {
+    "name": "Mefenorex",
+    "atc_code": "A08AA09",
+    "drugbank_id": "DB13852"
+  },
+  {
+    "name": "Mazindol",
+    "atc_code": "A08AA05",
+    "drugbank_id": "DB00579"
+  },
+  {
+    "name": "Mesalazine",
+    "atc_code": "A07EC02",
+    "drugbank_id": "DB00244"
+  },
+  {
+    "name": "Morphine",
+    "atc_code": "A07DA52",
+    "drugbank_id": "DB00295"
+  },
+  {
+    "name": "Montmorillonite",
+    "atc_code": "A07BC05",
+    "drugbank_id": "DB13654"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "A07AC01",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Methylnaltrexone",
+    "atc_code": "A06AH01",
+    "drugbank_id": "DB06800"
+  },
+  {
+    "name": "Magnesium citrate",
+    "atc_code": "A06AD19",
+    "drugbank_id": "DB11110"
+  },
+  {
+    "name": "Mannitol",
+    "atc_code": "A06AD16",
+    "drugbank_id": "DB00742"
+  },
+  {
+    "name": "Magnesium sulfate",
+    "atc_code": "A06AD04",
+    "drugbank_id": "DB00653"
+  },
+  {
+    "name": "Magnesium peroxide",
+    "atc_code": "A06AD03",
+    "drugbank_id": "DB13486"
+  },
+  {
+    "name": "Magnesium oxide",
+    "atc_code": "A06AD02",
+    "drugbank_id": "DB01377"
+  },
+  {
+    "name": "Magnesium carbonate",
+    "atc_code": "A06AD01",
+    "drugbank_id": "DB09481"
+  },
+  {
+    "name": "Methylcellulose",
+    "atc_code": "A06AC06",
+    "drugbank_id": "DB11228"
+  },
+  {
+    "name": "Mineral oil",
+    "atc_code": "A06AA51",
+    "drugbank_id": "DB11057"
+  },
+  {
+    "name": "Mineral oil",
+    "atc_code": "A06AA01",
+    "drugbank_id": "DB11057"
+  },
+  {
+    "name": "Metadoxine",
+    "atc_code": "A05BA09",
+    "drugbank_id": "DB16554"
+  },
+  {
+    "name": "Maralixibat",
+    "atc_code": "A05AX04",
+    "drugbank_id": "DB16226"
+  },
+  {
+    "name": "Metopimazine",
+    "atc_code": "A04AD05",
+    "drugbank_id": "DB13591"
+  },
+  {
+    "name": "Mosapride",
+    "atc_code": "A03FA09",
+    "drugbank_id": "DB11675"
+  },
+  {
+    "name": "Metoclopramide",
+    "atc_code": "A03FA01",
+    "drugbank_id": "DB01233"
+  },
+  {
+    "name": "Methscopolamine",
+    "atc_code": "A03CB01",
+    "drugbank_id": "DB11315"
+  },
+  {
+    "name": "Methscopolamine",
+    "atc_code": "A03BB03",
+    "drugbank_id": "DB11315"
+  },
+  {
+    "name": "Methylatropine",
+    "atc_code": "A03BB02",
+    "drugbank_id": "DB13833"
+  },
+  {
+    "name": "Moxaverine",
+    "atc_code": "A03AD30",
+    "drugbank_id": "DB12251"
+  },
+  {
+    "name": "Mepenzolate",
+    "atc_code": "A03AB12",
+    "drugbank_id": "DB04843"
+  },
+  {
+    "name": "Methantheline",
+    "atc_code": "A03AB07",
+    "drugbank_id": "DB00940"
+  },
+  {
+    "name": "Mebeverine",
+    "atc_code": "A03AA04",
+    "drugbank_id": "DB12554"
+  },
+  {
+    "name": "Methylmethionine chloride",
+    "atc_code": "A02BX04",
+    "drugbank_id": "DB13250"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD15",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD13",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD11",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD08",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD03",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD02",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A02BD01",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Misoprostol",
+    "atc_code": "A02BB01",
+    "drugbank_id": "DB00929"
+  },
+  {
+    "name": "Magaldrate",
+    "atc_code": "A02AF01",
+    "drugbank_id": "DB08938"
+  },
+  {
+    "name": "Magaldrate",
+    "atc_code": "A02AD02",
+    "drugbank_id": "DB08938"
+  },
+  {
+    "name": "Magnesium silicate",
+    "atc_code": "A02AA05",
+    "drugbank_id": "DB13249"
+  },
+  {
+    "name": "Magnesium hydroxide",
+    "atc_code": "A02AA04",
+    "drugbank_id": "DB09104"
+  },
+  {
+    "name": "Magnesium peroxide",
+    "atc_code": "A02AA03",
+    "drugbank_id": "DB13486"
+  },
+  {
+    "name": "Magnesium oxide",
+    "atc_code": "A02AA02",
+    "drugbank_id": "DB01377"
+  },
+  {
+    "name": "Magnesium carbonate",
+    "atc_code": "A02AA01",
+    "drugbank_id": "DB09481"
+  },
+  {
+    "name": "Minocycline",
+    "atc_code": "A01AB23",
+    "drugbank_id": "DB01017"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "A01AB17",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Mepartricin",
+    "atc_code": "A01AB16",
+    "drugbank_id": "DB13633"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "A01AB09",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Mitapivat",
+    "atc_code": "B06AX04",
+    "drugbank_id": "DB16236"
+  },
+  {
+    "name": "Magnesium chloride",
+    "atc_code": "B05XA11",
+    "drugbank_id": "DB09407"
+  },
+  {
+    "name": "Magnesium phosphate",
+    "atc_code": "B05XA10",
+    "drugbank_id": "DB13862"
+  },
+  {
+    "name": "Magnesium sulfate",
+    "atc_code": "B05XA05",
+    "drugbank_id": "DB00653"
+  },
+  {
+    "name": "Mannitol",
+    "atc_code": "B05CX04",
+    "drugbank_id": "DB00742"
+  },
+  {
+    "name": "Magnesium citrate",
+    "atc_code": "B05CB03",
+    "drugbank_id": "DB11110"
+  },
+  {
+    "name": "Mandelic acid",
+    "atc_code": "B05CA06",
+    "drugbank_id": "DB13218"
+  },
+  {
+    "name": "Mannitol",
+    "atc_code": "B05BC01",
+    "drugbank_id": "DB00742"
+  },
+  {
+    "name": "Molidustat",
+    "atc_code": "B03XA09",
+    "drugbank_id": "DB15642"
+  },
+  {
+    "name": "Methoxy polyethylene glycol-epoetin beta",
+    "atc_code": "B03XA03",
+    "drugbank_id": "DB09107"
+  },
+  {
+    "name": "Mecobalamin",
+    "atc_code": "B03BA05",
+    "drugbank_id": "DB03614"
+  },
+  {
+    "name": "Marstacimab",
+    "atc_code": "B02BX11",
+    "drugbank_id": "DB17725"
+  },
+  {
+    "name": "Menadione",
+    "atc_code": "B02BA02",
+    "drugbank_id": "DB00170"
+  },
+  {
+    "name": "Melagatran",
+    "atc_code": "B01AE04",
+    "drugbank_id": "DB13616"
+  },
+  {
+    "name": "Mipomersen",
+    "atc_code": "C10AX11",
+    "drugbank_id": "DB05528"
+  },
+  {
+    "name": "Meglutol",
+    "atc_code": "C10AX05",
+    "drugbank_id": "DB04377"
+  },
+  {
+    "name": "Manidipine",
+    "atc_code": "C09BB12",
+    "drugbank_id": "DB09238"
+  },
+  {
+    "name": "Moexipril",
+    "atc_code": "C09BA13",
+    "drugbank_id": "DB00691"
+  },
+  {
+    "name": "Moexipril",
+    "atc_code": "C09AA13",
+    "drugbank_id": "DB00691"
+  },
+  {
+    "name": "Mibefradil",
+    "atc_code": "C08CX01",
+    "drugbank_id": "DB01388"
+  },
+  {
+    "name": "Manidipine",
+    "atc_code": "C08CA11",
+    "drugbank_id": "DB09238"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07FX05",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07FX03",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07FB13",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07FB02",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07CB02",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07BB52",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07BB02",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Metipranolol",
+    "atc_code": "C07BA68",
+    "drugbank_id": "DB01214"
+  },
+  {
+    "name": "Metoprolol",
+    "atc_code": "C07AB02",
+    "drugbank_id": "DB00264"
+  },
+  {
+    "name": "Mepindolol",
+    "atc_code": "C07AA14",
+    "drugbank_id": "DB13530"
+  },
+  {
+    "name": "Monoxerutin",
+    "atc_code": "C05CA02",
+    "drugbank_id": "DB13764"
+  },
+  {
+    "name": "Moxisylyte",
+    "atc_code": "C04AX10",
+    "drugbank_id": "DB09205"
+  },
+  {
+    "name": "Metolazone",
+    "atc_code": "C03EA12",
+    "drugbank_id": "DB00524"
+  },
+  {
+    "name": "Mebutizide",
+    "atc_code": "C03EA05",
+    "drugbank_id": "DB13430"
+  },
+  {
+    "name": "Muzolimine",
+    "atc_code": "C03CD01",
+    "drugbank_id": "DB13801"
+  },
+  {
+    "name": "Mersalyl",
+    "atc_code": "C03BC01",
+    "drugbank_id": "DB09338"
+  },
+  {
+    "name": "Mefruside",
+    "atc_code": "C03BB05",
+    "drugbank_id": "DB13405"
+  },
+  {
+    "name": "Meticrane",
+    "atc_code": "C03BA09",
+    "drugbank_id": "DB13284"
+  },
+  {
+    "name": "Metolazone",
+    "atc_code": "C03BA08",
+    "drugbank_id": "DB00524"
+  },
+  {
+    "name": "Mefruside",
+    "atc_code": "C03BA05",
+    "drugbank_id": "DB13405"
+  },
+  {
+    "name": "Methyclothiazide",
+    "atc_code": "C03AB08",
+    "drugbank_id": "DB00232"
+  },
+  {
+    "name": "Mebutizide",
+    "atc_code": "C03AA13",
+    "drugbank_id": "DB13430"
+  },
+  {
+    "name": "Methyclothiazide",
+    "atc_code": "C03AA08",
+    "drugbank_id": "DB00232"
+  },
+  {
+    "name": "Moxonidine",
+    "atc_code": "C02LC05",
+    "drugbank_id": "DB09242"
+  },
+  {
+    "name": "Methoserpidine",
+    "atc_code": "C02LA04",
+    "drugbank_id": "DB13631"
+  },
+  {
+    "name": "Macitentan",
+    "atc_code": "C02KX54",
+    "drugbank_id": "DB08932"
+  },
+  {
+    "name": "Macitentan",
+    "atc_code": "C02KX04",
+    "drugbank_id": "DB08932"
+  },
+  {
+    "name": "Metyrosine",
+    "atc_code": "C02KB01",
+    "drugbank_id": "DB00765"
+  },
+  {
+    "name": "Minoxidil",
+    "atc_code": "C02DC01",
+    "drugbank_id": "DB00350"
+  },
+  {
+    "name": "Mecamylamine",
+    "atc_code": "C02BB01",
+    "drugbank_id": "DB00657"
+  },
+  {
+    "name": "Moxonidine",
+    "atc_code": "C02AC05",
+    "drugbank_id": "DB09242"
+  },
+  {
+    "name": "Methyldopa",
+    "atc_code": "C02AB01",
+    "drugbank_id": "DB00968"
+  },
+  {
+    "name": "Methoserpidine",
+    "atc_code": "C02AA06",
+    "drugbank_id": "DB13631"
+  },
+  {
+    "name": "Mavacamten",
+    "atc_code": "C01EB24",
+    "drugbank_id": "DB14921"
+  },
+  {
+    "name": "Meldonium",
+    "atc_code": "C01EB22",
+    "drugbank_id": "DB13723"
+  },
+  {
+    "name": "Molsidomine",
+    "atc_code": "C01DX12",
+    "drugbank_id": "DB09282"
+  },
+  {
+    "name": "Methylpropylpropanediol dinitrate",
+    "atc_code": "C01DA54",
+    "drugbank_id": "DB13408"
+  },
+  {
+    "name": "Methylpropylpropanediol dinitrate",
+    "atc_code": "C01DA04",
+    "drugbank_id": "DB13408"
+  },
+  {
+    "name": "Milrinone",
+    "atc_code": "C01CE02",
+    "drugbank_id": "DB00235"
+  },
+  {
+    "name": "Midodrine",
+    "atc_code": "C01CA17",
+    "drugbank_id": "DB00211"
+  },
+  {
+    "name": "Mephentermine",
+    "atc_code": "C01CA11",
+    "drugbank_id": "DB01365"
+  },
+  {
+    "name": "Methoxamine",
+    "atc_code": "C01CA10",
+    "drugbank_id": "DB00723"
+  },
+  {
+    "name": "Metaraminol",
+    "atc_code": "C01CA09",
+    "drugbank_id": "DB00610"
+  },
+  {
+    "name": "Moricizine",
+    "atc_code": "C01BG01",
+    "drugbank_id": "DB00680"
+  },
+  {
+    "name": "Mexiletine",
+    "atc_code": "C01BB02",
+    "drugbank_id": "DB00379"
+  },
+  {
+    "name": "Metildigoxin",
+    "atc_code": "C01AA08",
+    "drugbank_id": "DB13401"
+  },
+  {
+    "name": "Monobenzone",
+    "atc_code": "D11AX13",
+    "drugbank_id": "DB00600"
+  },
+  {
+    "name": "Mequinol",
+    "atc_code": "D11AX06",
+    "drugbank_id": "DB09516"
+  },
+  {
+    "name": "Magnesium sulfate",
+    "atc_code": "D11AX05",
+    "drugbank_id": "DB00653"
+  },
+  {
+    "name": "Minoxidil",
+    "atc_code": "D11AX01",
+    "drugbank_id": "DB00350"
+  },
+  {
+    "name": "Metandienone",
+    "atc_code": "D11AE01",
+    "drugbank_id": "DB13586"
+  },
+  {
+    "name": "Minocycline",
+    "atc_code": "D10AF07",
+    "drugbank_id": "DB01017"
+  },
+  {
+    "name": "Meclocycline",
+    "atc_code": "D10AF04",
+    "drugbank_id": "DB13092"
+  },
+  {
+    "name": "Motretinide",
+    "atc_code": "D10AD05",
+    "drugbank_id": "DB13368"
+  },
+  {
+    "name": "Mesulfen",
+    "atc_code": "D10AB05",
+    "drugbank_id": "DB13356"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "D10AA02",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Mercuric iodide",
+    "atc_code": "D08AK30",
+    "drugbank_id": "DB04445"
+  },
+  {
+    "name": "Merbromin",
+    "atc_code": "D08AK04",
+    "drugbank_id": "DB13392"
+  },
+  {
+    "name": "Mercuric chloride",
+    "atc_code": "D08AK03",
+    "drugbank_id": "DB13765"
+  },
+  {
+    "name": "Mercuric amidochloride",
+    "atc_code": "D08AK01",
+    "drugbank_id": "DB13344"
+  },
+  {
+    "name": "Mometasone furoate",
+    "atc_code": "D07XC03",
+    "drugbank_id": "DB14512"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "D07CA02",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Methylprednisolone aceponate",
+    "atc_code": "D07AC14",
+    "drugbank_id": "DB14643"
+  },
+  {
+    "name": "Mometasone furoate",
+    "atc_code": "D07AC13",
+    "drugbank_id": "DB14512"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "D07AA01",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "D06BX01",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Mafenide",
+    "atc_code": "D06BA03",
+    "drugbank_id": "DB06795"
+  },
+  {
+    "name": "Mupirocin",
+    "atc_code": "D06AX09",
+    "drugbank_id": "DB00410"
+  },
+  {
+    "name": "Methoxsalen",
+    "atc_code": "D05BA02",
+    "drugbank_id": "DB00553"
+  },
+  {
+    "name": "Methoxsalen",
+    "atc_code": "D05AD02",
+    "drugbank_id": "DB00553"
+  },
+  {
+    "name": "Mepyramine",
+    "atc_code": "D04AA02",
+    "drugbank_id": "DB06691"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "D01AC52",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "D01AC02",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Mepartricin",
+    "atc_code": "D01AA06",
+    "drugbank_id": "DB13633"
+  },
+  {
+    "name": "Mepartricin",
+    "atc_code": "G04CX03",
+    "drugbank_id": "DB13633"
+  },
+  {
+    "name": "Methenamine",
+    "atc_code": "G04BX17",
+    "drugbank_id": "DB06799"
+  },
+  {
+    "name": "Magnesium hydroxide",
+    "atc_code": "G04BX01",
+    "drugbank_id": "DB09104"
+  },
+  {
+    "name": "Moxisylyte",
+    "atc_code": "G04BE06",
+    "drugbank_id": "DB09205"
+  },
+  {
+    "name": "Mirabegron",
+    "atc_code": "G04BD12",
+    "drugbank_id": "DB08893"
+  },
+  {
+    "name": "Meladrazine",
+    "atc_code": "G04BD03",
+    "drugbank_id": "DB13272"
+  },
+  {
+    "name": "Mifepristone",
+    "atc_code": "G03XB51",
+    "drugbank_id": "DB00834"
+  },
+  {
+    "name": "Mifepristone",
+    "atc_code": "G03XB01",
+    "drugbank_id": "DB00834"
+  },
+  {
+    "name": "Menotropins",
+    "atc_code": "G03GA03",
+    "drugbank_id": "DB00032"
+  },
+  {
+    "name": "Menotropins",
+    "atc_code": "G03GA02",
+    "drugbank_id": "DB00032"
+  },
+  {
+    "name": "Medrogestone",
+    "atc_code": "G03FB07",
+    "drugbank_id": "DB09124"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03FB06",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03FB04",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03FA12",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03FA08",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Methyltestosterone",
+    "atc_code": "G03EK01",
+    "drugbank_id": "DB06710"
+  },
+  {
+    "name": "Methyltestosterone",
+    "atc_code": "G03EA01",
+    "drugbank_id": "DB06710"
+  },
+  {
+    "name": "Methylestrenolone",
+    "atc_code": "G03DC31",
+    "drugbank_id": "DB13533"
+  },
+  {
+    "name": "Medrogestone",
+    "atc_code": "G03DB03",
+    "drugbank_id": "DB09124"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03DB02",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03DA02",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Methallenestril",
+    "atc_code": "G03CC03",
+    "drugbank_id": "DB13143"
+  },
+  {
+    "name": "Moxestrol",
+    "atc_code": "G03CB04",
+    "drugbank_id": "DB13418"
+  },
+  {
+    "name": "Methallenestril",
+    "atc_code": "G03CB03",
+    "drugbank_id": "DB13143"
+  },
+  {
+    "name": "Mesterolone",
+    "atc_code": "G03BB01",
+    "drugbank_id": "DB13587"
+  },
+  {
+    "name": "Methyltestosterone",
+    "atc_code": "G03BA02",
+    "drugbank_id": "DB06710"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03AC06",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03AC05",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03AB01",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03AA17",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "G03AA08",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "G03AA04",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Metergoline",
+    "atc_code": "G02CB05",
+    "drugbank_id": "DB13520"
+  },
+  {
+    "name": "Misoprostol",
+    "atc_code": "G02AD06",
+    "drugbank_id": "DB00929"
+  },
+  {
+    "name": "Methylergometrine",
+    "atc_code": "G02AC01",
+    "drugbank_id": "DB00353"
+  },
+  {
+    "name": "Methylergometrine",
+    "atc_code": "G02AB01",
+    "drugbank_id": "DB00353"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "G01AF04",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "G01AF01",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Mitapivat",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB16236"
+  },
+  {
+    "name": "Methazolamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00703"
+  },
+  {
+    "name": "Mafenide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06795"
+  },
+  {
+    "name": "Metolazone",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00524"
+  },
+  {
+    "name": "Methyclothiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00232"
+  },
+  {
+    "name": "Meticrane",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB13284"
+  },
+  {
+    "name": "Mepartricin",
+    "atc_code": "G01AA09",
+    "drugbank_id": "DB13633"
+  },
+  {
+    "name": "Methimazole",
+    "atc_code": "H03BB52",
+    "drugbank_id": "DB00763"
+  },
+  {
+    "name": "Methimazole",
+    "atc_code": "H03BB02",
+    "drugbank_id": "DB00763"
+  },
+  {
+    "name": "Methylthiouracil",
+    "atc_code": "H03BA01",
+    "drugbank_id": "DB13644"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "H02BX01",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Meprednisone",
+    "atc_code": "H02AB15",
+    "drugbank_id": "DB09383"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "H02AB04",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Mecasermin rinfabate",
+    "atc_code": "H01AC05",
+    "drugbank_id": "DB14751"
+  },
+  {
+    "name": "Mecasermin",
+    "atc_code": "H01AC03",
+    "drugbank_id": "DB01277"
+  },
+  {
+    "name": "Motavizumab",
+    "atc_code": "J06BD02",
+    "drugbank_id": "DB06310"
+  },
+  {
+    "name": "Maribavir",
+    "atc_code": "J05AX10",
+    "drugbank_id": "DB06234"
+  },
+  {
+    "name": "Maraviroc",
+    "atc_code": "J05AX09",
+    "drugbank_id": "DB04835"
+  },
+  {
+    "name": "Moroxydine",
+    "atc_code": "J05AX01",
+    "drugbank_id": "DB13597"
+  },
+  {
+    "name": "Molnupiravir",
+    "atc_code": "J05AB18",
+    "drugbank_id": "DB15661"
+  },
+  {
+    "name": "Metisazone",
+    "atc_code": "J05AA01",
+    "drugbank_id": "DB13641"
+  },
+  {
+    "name": "Morinamide",
+    "atc_code": "J04AK04",
+    "drugbank_id": "DB13417"
+  },
+  {
+    "name": "Micafungin",
+    "atc_code": "J02AX05",
+    "drugbank_id": "DB01141"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "J02AB01",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Mandelic acid",
+    "atc_code": "J01XX06",
+    "drugbank_id": "DB13218"
+  },
+  {
+    "name": "Methenamine",
+    "atc_code": "J01XX05",
+    "drugbank_id": "DB06799"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "J01XD01",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "J01RA14",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "J01RA10",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "J01RA04",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "J01RA03",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Moxifloxacin",
+    "atc_code": "J01MA14",
+    "drugbank_id": "DB00218"
+  },
+  {
+    "name": "Miocamycin",
+    "atc_code": "J01FA11",
+    "drugbank_id": "DB13287"
+  },
+  {
+    "name": "Midecamycin",
+    "atc_code": "J01FA03",
+    "drugbank_id": "DB13456"
+  },
+  {
+    "name": "Meropenem",
+    "atc_code": "J01DH52",
+    "drugbank_id": "DB00760"
+  },
+  {
+    "name": "Meropenem",
+    "atc_code": "J01DH02",
+    "drugbank_id": "DB00760"
+  },
+  {
+    "name": "Meticillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01603"
+  },
+  {
+    "name": "Mezlocillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00948"
+  },
+  {
+    "name": "Meticillin",
+    "atc_code": "J01CF03",
+    "drugbank_id": "DB01603"
+  },
+  {
+    "name": "Metampicillin",
+    "atc_code": "J01CA14",
+    "drugbank_id": "DB13836"
+  },
+  {
+    "name": "Mezlocillin",
+    "atc_code": "J01CA10",
+    "drugbank_id": "DB00948"
+  },
+  {
+    "name": "Metacycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00931"
+  },
+  {
+    "name": "Minocycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB01017"
+  },
+  {
+    "name": "Minocycline",
+    "atc_code": "J01AA08",
+    "drugbank_id": "DB01017"
+  },
+  {
+    "name": "Metacycline",
+    "atc_code": "J01AA05",
+    "drugbank_id": "DB00931"
+  },
+  {
+    "name": "Muromonab",
+    "atc_code": "L04AG01",
+    "drugbank_id": "DB00075"
+  },
+  {
+    "name": "Methotrexate",
+    "atc_code": "L04AX03",
+    "drugbank_id": "DB00563"
+  },
+  {
+    "name": "Mirikizumab",
+    "atc_code": "L04AC24",
+    "drugbank_id": "DB14910"
+  },
+  {
+    "name": "Mycophenolic acid",
+    "atc_code": "L04AA06",
+    "drugbank_id": "DB01024"
+  },
+  {
+    "name": "Mavorixafor",
+    "atc_code": "L03AX24",
+    "drugbank_id": "DB05501"
+  },
+  {
+    "name": "Motixafortide",
+    "atc_code": "L03AX23",
+    "drugbank_id": "DB14939"
+  },
+  {
+    "name": "Mifamurtide",
+    "atc_code": "L03AX15",
+    "drugbank_id": "DB13615"
+  },
+  {
+    "name": "Molgramostim",
+    "atc_code": "L03AA03",
+    "drugbank_id": "DB12525"
+  },
+  {
+    "name": "Medroxyprogesterone acetate",
+    "atc_code": "L02AB02",
+    "drugbank_id": "DB00603"
+  },
+  {
+    "name": "Megestrol",
+    "atc_code": "L02AB01",
+    "drugbank_id": "DB19378"
+  },
+  {
+    "name": "Mirvetuximab soravtansine",
+    "atc_code": "L01FX26",
+    "drugbank_id": "DB12489"
+  },
+  {
+    "name": "Mosunetuzumab",
+    "atc_code": "L01FX25",
+    "drugbank_id": "DB15434"
+  },
+  {
+    "name": "Mogamulizumab",
+    "atc_code": "L01FX09",
+    "drugbank_id": "DB12498"
+  },
+  {
+    "name": "Margetuximab",
+    "atc_code": "L01FD06",
+    "drugbank_id": "DB14967"
+  },
+  {
+    "name": "Moxetumomab pasudotox",
+    "atc_code": "L01FB02",
+    "drugbank_id": "DB12688"
+  },
+  {
+    "name": "Midostaurin",
+    "atc_code": "L01EX10",
+    "drugbank_id": "DB06595"
+  },
+  {
+    "name": "Masitinib",
+    "atc_code": "L01EX06",
+    "drugbank_id": "DB11526"
+  },
+  {
+    "name": "Momelotinib",
+    "atc_code": "L01EJ04",
+    "drugbank_id": "DB11763"
+  },
+  {
+    "name": "Mirdametinib",
+    "atc_code": "L01EE05",
+    "drugbank_id": "DB07101"
+  },
+  {
+    "name": "Mobocertinib",
+    "atc_code": "L01EB10",
+    "drugbank_id": "DB16390"
+  },
+  {
+    "name": "Masoprocol",
+    "atc_code": "L01XX10",
+    "drugbank_id": "DB00179"
+  },
+  {
+    "name": "Mitoguazone",
+    "atc_code": "L01XX16",
+    "drugbank_id": "DB12967"
+  },
+  {
+    "name": "Mitotane",
+    "atc_code": "L01XX23",
+    "drugbank_id": "DB00648"
+  },
+  {
+    "name": "Methyl aminolevulinate",
+    "atc_code": "L01XD03",
+    "drugbank_id": "DB00992"
+  },
+  {
+    "name": "Mitomycin",
+    "atc_code": "L01DC03",
+    "drugbank_id": "DB00305"
+  },
+  {
+    "name": "Mitoxantrone",
+    "atc_code": "L01DB07",
+    "drugbank_id": "DB01204"
+  },
+  {
+    "name": "Mercaptopurine",
+    "atc_code": "L01BB02",
+    "drugbank_id": "DB01033"
+  },
+  {
+    "name": "Methotrexate",
+    "atc_code": "L01BA01",
+    "drugbank_id": "DB00563"
+  },
+  {
+    "name": "Mitobronitol",
+    "atc_code": "L01AX01",
+    "drugbank_id": "DB13543"
+  },
+  {
+    "name": "Mannosulfan",
+    "atc_code": "L01AB03",
+    "drugbank_id": "DB13334"
+  },
+  {
+    "name": "Melphalan flufenamide",
+    "atc_code": "L01AA10",
+    "drugbank_id": "DB16627"
+  },
+  {
+    "name": "Mechlorethamine",
+    "atc_code": "L01AA05",
+    "drugbank_id": "DB00888"
+  },
+  {
+    "name": "Melphalan",
+    "atc_code": "L01AA03",
+    "drugbank_id": "DB01042"
+  },
+  {
+    "name": "Menatetrenone",
+    "atc_code": "M05BX08",
+    "drugbank_id": "DB12148"
+  },
+  {
+    "name": "Mephenesin",
+    "atc_code": "M03BX06",
+    "drugbank_id": "DB13583"
+  },
+  {
+    "name": "Methocarbamol",
+    "atc_code": "M03BA73",
+    "drugbank_id": "DB00423"
+  },
+  {
+    "name": "Methocarbamol",
+    "atc_code": "M03BA53",
+    "drugbank_id": "DB00423"
+  },
+  {
+    "name": "Methocarbamol",
+    "atc_code": "M03BA03",
+    "drugbank_id": "DB00423"
+  },
+  {
+    "name": "Mivacurium",
+    "atc_code": "M03AC10",
+    "drugbank_id": "DB01226"
+  },
+  {
+    "name": "Meclofenamic acid",
+    "atc_code": "M02AA18",
+    "drugbank_id": "DB00939"
+  },
+  {
+    "name": "Mofebutazone",
+    "atc_code": "M02AA02",
+    "drugbank_id": "DB13629"
+  },
+  {
+    "name": "Morniflumate",
+    "atc_code": "M01AX22",
+    "drugbank_id": "DB09285"
+  },
+  {
+    "name": "Meclofenamic acid",
+    "atc_code": "M01AG04",
+    "drugbank_id": "DB00939"
+  },
+  {
+    "name": "Mefenamic acid",
+    "atc_code": "M01AG01",
+    "drugbank_id": "DB00784"
+  },
+  {
+    "name": "Misoprostol",
+    "atc_code": "M01AE56",
+    "drugbank_id": "DB00929"
+  },
+  {
+    "name": "Meloxicam",
+    "atc_code": "M01AC56",
+    "drugbank_id": "DB00814"
+  },
+  {
+    "name": "Meloxicam",
+    "atc_code": "M01AC06",
+    "drugbank_id": "DB00814"
+  },
+  {
+    "name": "Mofebutazone",
+    "atc_code": "M01AA02",
+    "drugbank_id": "DB13629"
+  },
+  {
+    "name": "Methadone",
+    "atc_code": "N07BC02",
+    "drugbank_id": "DB00333"
+  },
+  {
+    "name": "Memantine",
+    "atc_code": "N06DX01",
+    "drugbank_id": "DB01043"
+  },
+  {
+    "name": "Memantine",
+    "atc_code": "N06DA53",
+    "drugbank_id": "DB01043"
+  },
+  {
+    "name": "Memantine",
+    "atc_code": "N06DA52",
+    "drugbank_id": "DB01043"
+  },
+  {
+    "name": "Melitracen",
+    "atc_code": "N06CA02",
+    "drugbank_id": "DB13384"
+  },
+  {
+    "name": "Meclofenoxate",
+    "atc_code": "N06BX01",
+    "drugbank_id": "DB13758"
+  },
+  {
+    "name": "Modafinil",
+    "atc_code": "N06BA07",
+    "drugbank_id": "DB00745"
+  },
+  {
+    "name": "Methylphenidate",
+    "atc_code": "N06BA04",
+    "drugbank_id": "DB00422"
+  },
+  {
+    "name": "Metamfetamine",
+    "atc_code": "N06BA03",
+    "drugbank_id": "DB01577"
+  },
+  {
+    "name": "Milnacipran",
+    "atc_code": "N06AX17",
+    "drugbank_id": "DB04896"
+  },
+  {
+    "name": "Medifoxamine",
+    "atc_code": "N06AX13",
+    "drugbank_id": "DB13219"
+  },
+  {
+    "name": "Mirtazapine",
+    "atc_code": "N06AX11",
+    "drugbank_id": "DB00370"
+  },
+  {
+    "name": "Minaprine",
+    "atc_code": "N06AX07",
+    "drugbank_id": "DB00805"
+  },
+  {
+    "name": "Mianserin",
+    "atc_code": "N06AX03",
+    "drugbank_id": "DB06148"
+  },
+  {
+    "name": "Moclobemide",
+    "atc_code": "N06AG02",
+    "drugbank_id": "DB01171"
+  },
+  {
+    "name": "Maprotiline",
+    "atc_code": "N06AA21",
+    "drugbank_id": "DB00934"
+  },
+  {
+    "name": "Melitracen",
+    "atc_code": "N06AA14",
+    "drugbank_id": "DB13384"
+  },
+  {
+    "name": "Methylpentynol",
+    "atc_code": "N05CX03",
+    "drugbank_id": "DB13733"
+  },
+  {
+    "name": "Methaqualone",
+    "atc_code": "N05CX02",
+    "drugbank_id": "DB04833"
+  },
+  {
+    "name": "Meprobamate",
+    "atc_code": "N05CX01",
+    "drugbank_id": "DB00371"
+  },
+  {
+    "name": "Methylpentynol",
+    "atc_code": "N05CM15",
+    "drugbank_id": "DB13733"
+  },
+  {
+    "name": "Methaqualone",
+    "atc_code": "N05CM01",
+    "drugbank_id": "DB04833"
+  },
+  {
+    "name": "Melatonin",
+    "atc_code": "N05CH01",
+    "drugbank_id": "DB01065"
+  },
+  {
+    "name": "Methyprylon",
+    "atc_code": "N05CE02",
+    "drugbank_id": "DB01107"
+  },
+  {
+    "name": "Midazolam",
+    "atc_code": "N05CD08",
+    "drugbank_id": "DB00683"
+  },
+  {
+    "name": "Methylphenobarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00849"
+  },
+  {
+    "name": "Methohexital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00474"
+  },
+  {
+    "name": "Methohexital",
+    "atc_code": "N05CA15",
+    "drugbank_id": "DB00474"
+  },
+  {
+    "name": "Mephenoxalone",
+    "atc_code": "N05BX01",
+    "drugbank_id": "DB13754"
+  },
+  {
+    "name": "Meprobamate",
+    "atc_code": "N05BC51",
+    "drugbank_id": "DB00371"
+  },
+  {
+    "name": "Mebutamate",
+    "atc_code": "N05BC04",
+    "drugbank_id": "DB06797"
+  },
+  {
+    "name": "Meprobamate",
+    "atc_code": "N05BC01",
+    "drugbank_id": "DB00371"
+  },
+  {
+    "name": "Mexazolam",
+    "atc_code": "N05BA25",
+    "drugbank_id": "DB15489"
+  },
+  {
+    "name": "Medazepam",
+    "atc_code": "N05BA03",
+    "drugbank_id": "DB13437"
+  },
+  {
+    "name": "Mosapramine",
+    "atc_code": "N05AX10",
+    "drugbank_id": "DB13676"
+  },
+  {
+    "name": "Molindone",
+    "atc_code": "N05AE02",
+    "drugbank_id": "DB01618"
+  },
+  {
+    "name": "Moperone",
+    "atc_code": "N05AD04",
+    "drugbank_id": "DB13554"
+  },
+  {
+    "name": "Melperone",
+    "atc_code": "N05AD03",
+    "drugbank_id": "DB09224"
+  },
+  {
+    "name": "Mesoridazine",
+    "atc_code": "N05AC03",
+    "drugbank_id": "DB00933"
+  },
+  {
+    "name": "Methotrimeprazine",
+    "atc_code": "N05AA02",
+    "drugbank_id": "DB01403"
+  },
+  {
+    "name": "Melevodopa",
+    "atc_code": "N04BA05",
+    "drugbank_id": "DB13313"
+  },
+  {
+    "name": "Melevodopa",
+    "atc_code": "N04BA04",
+    "drugbank_id": "DB13313"
+  },
+  {
+    "name": "Mazaticol",
+    "atc_code": "N04AA10",
+    "drugbank_id": "DB13448"
+  },
+  {
+    "name": "Metixene",
+    "atc_code": "N04AA03",
+    "drugbank_id": "DB00340"
+  },
+  {
+    "name": "Methsuximide",
+    "atc_code": "N03AD03",
+    "drugbank_id": "DB05246"
+  },
+  {
+    "name": "Mephenytoin",
+    "atc_code": "N03AB54",
+    "drugbank_id": "DB00532"
+  },
+  {
+    "name": "Mephenytoin",
+    "atc_code": "N03AB04",
+    "drugbank_id": "DB00532"
+  },
+  {
+    "name": "Metharbital",
+    "atc_code": "N03AA30",
+    "drugbank_id": "DB00463"
+  },
+  {
+    "name": "Methylphenobarbital",
+    "atc_code": "N03AA01",
+    "drugbank_id": "DB00849"
+  },
+  {
+    "name": "Methysergide",
+    "atc_code": "N02CA04",
+    "drugbank_id": "DB00247"
+  },
+  {
+    "name": "Mirogabalin",
+    "atc_code": "N02BF03",
+    "drugbank_id": "DB11825"
+  },
+  {
+    "name": "Methoxyflurane",
+    "atc_code": "N02BG09",
+    "drugbank_id": "DB01028"
+  },
+  {
+    "name": "Metamizole",
+    "atc_code": "N02BB72",
+    "drugbank_id": "DB04817"
+  },
+  {
+    "name": "Metamizole",
+    "atc_code": "N02BB52",
+    "drugbank_id": "DB04817"
+  },
+  {
+    "name": "Metamizole",
+    "atc_code": "N02BB02",
+    "drugbank_id": "DB04817"
+  },
+  {
+    "name": "Magnesium salicylate",
+    "atc_code": "N02BA67",
+    "drugbank_id": "DB01397"
+  },
+  {
+    "name": "Morpholine",
+    "atc_code": "N02BA08",
+    "drugbank_id": "DB13669"
+  },
+  {
+    "name": "Meptazinol",
+    "atc_code": "N02AX05",
+    "drugbank_id": "DB13478"
+  },
+  {
+    "name": "Meperidine",
+    "atc_code": "N02AG03",
+    "drugbank_id": "DB00454"
+  },
+  {
+    "name": "Morphine",
+    "atc_code": "N02AG01",
+    "drugbank_id": "DB00295"
+  },
+  {
+    "name": "Methadone",
+    "atc_code": "N02AC52",
+    "drugbank_id": "DB00333"
+  },
+  {
+    "name": "Meperidine",
+    "atc_code": "N02AB72",
+    "drugbank_id": "DB00454"
+  },
+  {
+    "name": "Meperidine",
+    "atc_code": "N02AB52",
+    "drugbank_id": "DB00454"
+  },
+  {
+    "name": "Meperidine",
+    "atc_code": "N02AB02",
+    "drugbank_id": "DB00454"
+  },
+  {
+    "name": "Morphine",
+    "atc_code": "N02AA51",
+    "drugbank_id": "DB00295"
+  },
+  {
+    "name": "Morphine",
+    "atc_code": "N02AA01",
+    "drugbank_id": "DB00295"
+  },
+  {
+    "name": "Meloxicam",
+    "atc_code": "N01BB59",
+    "drugbank_id": "DB00814"
+  },
+  {
+    "name": "Mepivacaine",
+    "atc_code": "N01BB53",
+    "drugbank_id": "DB00961"
+  },
+  {
+    "name": "Mepivacaine",
+    "atc_code": "N01BB03",
+    "drugbank_id": "DB00961"
+  },
+  {
+    "name": "Metabutethamine",
+    "atc_code": "N01BA01",
+    "drugbank_id": "DB13578"
+  },
+  {
+    "name": "Methohexital",
+    "atc_code": "N01AF01",
+    "drugbank_id": "DB00474"
+  },
+  {
+    "name": "Malathion",
+    "atc_code": "P03AX03",
+    "drugbank_id": "DB00772"
+  },
+  {
+    "name": "Mesulfen",
+    "atc_code": "P03AA03",
+    "drugbank_id": "DB13356"
+  },
+  {
+    "name": "Moxidectin",
+    "atc_code": "P02CX03",
+    "drugbank_id": "DB11431"
+  },
+  {
+    "name": "Mebendazole",
+    "atc_code": "P02CA51",
+    "drugbank_id": "DB00643"
+  },
+  {
+    "name": "Mebendazole",
+    "atc_code": "P02CA01",
+    "drugbank_id": "DB00643"
+  },
+  {
+    "name": "Metrifonate",
+    "atc_code": "P02BB01",
+    "drugbank_id": "DB11473"
+  },
+  {
+    "name": "Miltefosine",
+    "atc_code": "P01CX04",
+    "drugbank_id": "DB09031"
+  },
+  {
+    "name": "Melarsoprol",
+    "atc_code": "P01CD01",
+    "drugbank_id": "DB12864"
+  },
+  {
+    "name": "Meglumine antimoniate",
+    "atc_code": "P01CB01",
+    "drugbank_id": "DB13732"
+  },
+  {
+    "name": "Mefloquine",
+    "atc_code": "P01BF02",
+    "drugbank_id": "DB00358"
+  },
+  {
+    "name": "Mefloquine",
+    "atc_code": "P01BC02",
+    "drugbank_id": "DB00358"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "P01AB52",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "P01AB51",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Metronidazole",
+    "atc_code": "P01AB01",
+    "drugbank_id": "DB00916"
+  },
+  {
+    "name": "Mepixanox",
+    "atc_code": "R07AB09",
+    "drugbank_id": "DB13579"
+  },
+  {
+    "name": "Mizolastine",
+    "atc_code": "R06AX25",
+    "drugbank_id": "DB12523"
+  },
+  {
+    "name": "Mebhydrolin",
+    "atc_code": "R06AX15",
+    "drugbank_id": "DB13808"
+  },
+  {
+    "name": "Meclizine",
+    "atc_code": "R06AE55",
+    "drugbank_id": "DB00737"
+  },
+  {
+    "name": "Meclizine",
+    "atc_code": "R06AE05",
+    "drugbank_id": "DB00737"
+  },
+  {
+    "name": "Mequitazine",
+    "atc_code": "R06AD07",
+    "drugbank_id": "DB01071"
+  },
+  {
+    "name": "Methdilazine",
+    "atc_code": "R06AD04",
+    "drugbank_id": "DB00902"
+  },
+  {
+    "name": "Methapyrilene",
+    "atc_code": "R06AC05",
+    "drugbank_id": "DB04819"
+  },
+  {
+    "name": "Mepyramine",
+    "atc_code": "R06AC01",
+    "drugbank_id": "DB06691"
+  },
+  {
+    "name": "Morclofone",
+    "atc_code": "R05DB25",
+    "drugbank_id": "DB13558"
+  },
+  {
+    "name": "Meprotixol",
+    "atc_code": "R05DB22",
+    "drugbank_id": "DB13822"
+  },
+  {
+    "name": "Mannitol",
+    "atc_code": "R05CB16",
+    "drugbank_id": "DB00742"
+  },
+  {
+    "name": "Mepolizumab",
+    "atc_code": "R03DX09",
+    "drugbank_id": "DB06612"
+  },
+  {
+    "name": "Montelukast",
+    "atc_code": "R03DC53",
+    "drugbank_id": "DB00471"
+  },
+  {
+    "name": "Montelukast",
+    "atc_code": "R03DC03",
+    "drugbank_id": "DB00471"
+  },
+  {
+    "name": "Mercaptopurine",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB01033"
+  },
+  {
+    "name": "Methoxyphenamine",
+    "atc_code": "R03CB02",
+    "drugbank_id": "DB13624"
+  },
+  {
+    "name": "Mometasone furoate",
+    "atc_code": "R03BA07",
+    "drugbank_id": "DB14512"
+  },
+  {
+    "name": "Mometasone",
+    "atc_code": "R03AL12",
+    "drugbank_id": "DB00764"
+  },
+  {
+    "name": "Mometasone",
+    "atc_code": "R03AK14",
+    "drugbank_id": "DB00764"
+  },
+  {
+    "name": "Mometasone furoate",
+    "atc_code": "R03AK09",
+    "drugbank_id": "DB14512"
+  },
+  {
+    "name": "Myristalkonium",
+    "atc_code": "R02AA10",
+    "drugbank_id": "DB13774"
+  },
+  {
+    "name": "Mupirocin",
+    "atc_code": "R01AX06",
+    "drugbank_id": "DB00410"
+  },
+  {
+    "name": "Mometasone",
+    "atc_code": "R01AD59",
+    "drugbank_id": "DB00764"
+  },
+  {
+    "name": "Mometasone furoate",
+    "atc_code": "R01AD09",
+    "drugbank_id": "DB14512"
+  },
+  {
+    "name": "Metizoline",
+    "atc_code": "R01AA10",
+    "drugbank_id": "DB13614"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "S03CA07",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Miconazole",
+    "atc_code": "S02AA13",
+    "drugbank_id": "DB01110"
+  },
+  {
+    "name": "Methscopolamine",
+    "atc_code": "S01FA03",
+    "drugbank_id": "DB11315"
+  },
+  {
+    "name": "Metipranolol",
+    "atc_code": "S01ED54",
+    "drugbank_id": "DB01214"
+  },
+  {
+    "name": "Metipranolol",
+    "atc_code": "S01ED04",
+    "drugbank_id": "DB01214"
+  },
+  {
+    "name": "Methazolamide",
+    "atc_code": "S01EC05",
+    "drugbank_id": "DB00703"
+  },
+  {
+    "name": "Methylprednisolone",
+    "atc_code": "S01CA08",
+    "drugbank_id": "DB00959"
+  },
+  {
+    "name": "Medrysone",
+    "atc_code": "S01BA08",
+    "drugbank_id": "DB00253"
+  },
+  {
+    "name": "Moxifloxacin",
+    "atc_code": "S01AE07",
+    "drugbank_id": "DB00218"
+  },
+  {
+    "name": "Micronomicin",
+    "atc_code": "S01AA22",
+    "drugbank_id": "DB13274"
+  },
+  {
+    "name": "Methionine C-11",
+    "atc_code": "V09IX13",
+    "drugbank_id": "DB17147"
+  },
+  {
+    "name": "Mangafodipir",
+    "atc_code": "V08CA05",
+    "drugbank_id": "DB06796"
+  },
+  {
+    "name": "Metrizamide",
+    "atc_code": "V08AB01",
+    "drugbank_id": "DB01578"
+  },
+  {
+    "name": "Methiodal",
+    "atc_code": "V08AA09",
+    "drugbank_id": "DB13321"
+  },
+  {
+    "name": "Metrizoic acid",
+    "atc_code": "V08AA02",
+    "drugbank_id": "DB09346"
+  },
+  {
+    "name": "Mannitol",
+    "atc_code": "V04CX04",
+    "drugbank_id": "DB00742"
+  },
+  {
+    "name": "Methacholine",
+    "atc_code": "V04CX03",
+    "drugbank_id": "DB06709"
+  },
+  {
+    "name": "Methylene blue",
+    "atc_code": "V04CG05",
+    "drugbank_id": "DB09241"
+  },
+  {
+    "name": "Macimorelin",
+    "atc_code": "V04CD06",
+    "drugbank_id": "DB13074"
+  },
+  {
+    "name": "Metyrapone",
+    "atc_code": "V04CD01",
+    "drugbank_id": "DB01011"
+  },
+  {
+    "name": "Magnesium sulfate",
+    "atc_code": "V04CC02",
+    "drugbank_id": "DB00653"
+  },
+  {
+    "name": "Medical air",
+    "atc_code": "V03AN05",
+    "drugbank_id": "DB09337"
+  },
+  {
+    "name": "Magnesium carbonate",
+    "atc_code": "V03AE04",
+    "drugbank_id": "DB09481"
+  },
+  {
+    "name": "Methionine",
+    "atc_code": "V03AB26",
+    "drugbank_id": "DB00134"
+  },
+  {
+    "name": "Methylene blue",
+    "atc_code": "V03AB17",
+    "drugbank_id": "DB09241"
+  }
+]

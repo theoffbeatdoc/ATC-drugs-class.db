@@ -1,0 +1,687 @@
+[
+  {
+    "name": "Hydrochloric acid",
+    "atc_code": "A09AB03",
+    "drugbank_id": "DB13366"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "A07EA02",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hymecromone",
+    "atc_code": "A05AX02",
+    "drugbank_id": "DB07118"
+  },
+  {
+    "name": "Hyoscyamine",
+    "atc_code": "A03CB31",
+    "drugbank_id": "DB00424"
+  },
+  {
+    "name": "Homatropine methylbromide",
+    "atc_code": "A03CB04",
+    "drugbank_id": "DB00725"
+  },
+  {
+    "name": "Homatropine methylbromide",
+    "atc_code": "A03BB06",
+    "drugbank_id": "DB00725"
+  },
+  {
+    "name": "Hyoscyamine",
+    "atc_code": "A03BA03",
+    "drugbank_id": "DB00424"
+  },
+  {
+    "name": "Hexocyclium",
+    "atc_code": "A03AB10",
+    "drugbank_id": "DB06787"
+  },
+  {
+    "name": "Hydrotalcite",
+    "atc_code": "A02AD04",
+    "drugbank_id": "DB13322"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "A01AC03",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hexetidine",
+    "atc_code": "A01AB12",
+    "drugbank_id": "DB08958"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "atc_code": "A01AB02",
+    "drugbank_id": "DB11091"
+  },
+  {
+    "name": "Human C1-esterase inhibitor",
+    "atc_code": "B06AC01",
+    "drugbank_id": "DB06404"
+  },
+  {
+    "name": "Hemin",
+    "atc_code": "B06AB01",
+    "drugbank_id": "DB03404"
+  },
+  {
+    "name": "Hyaluronidase",
+    "atc_code": "B06AA03",
+    "drugbank_id": "DB14740"
+  },
+  {
+    "name": "Hydrochloric acid",
+    "atc_code": "B05XA13",
+    "drugbank_id": "DB13366"
+  },
+  {
+    "name": "Hemoglobin raffimer",
+    "atc_code": "B05AA09",
+    "drugbank_id": "DB13658"
+  },
+  {
+    "name": "Hemoglobin crosfumaril",
+    "atc_code": "B05AA08",
+    "drugbank_id": "DB13864"
+  },
+  {
+    "name": "Hydroxyethyl Starch",
+    "atc_code": "B05AA07",
+    "drugbank_id": "DB09106"
+  },
+  {
+    "name": "Hydroxocobalamin",
+    "atc_code": "B03BA53",
+    "drugbank_id": "DB00200"
+  },
+  {
+    "name": "Hydroxocobalamin",
+    "atc_code": "B03BA03",
+    "drugbank_id": "DB00200"
+  },
+  {
+    "name": "Heparin",
+    "atc_code": "B01AB51",
+    "drugbank_id": "DB01109"
+  },
+  {
+    "name": "Heparin",
+    "atc_code": "B01AB01",
+    "drugbank_id": "DB01109"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09XA54",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09XA52",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09DX08",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09DX07",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09DX06",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09DX03",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09DX01",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C09BX03",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Horse chestnut",
+    "atc_code": "C05CX03",
+    "drugbank_id": "DB13195"
+  },
+  {
+    "name": "Hidrosmin",
+    "atc_code": "C05CA05",
+    "drugbank_id": "DB13490"
+  },
+  {
+    "name": "Heparin",
+    "atc_code": "C05BA53",
+    "drugbank_id": "DB01109"
+  },
+  {
+    "name": "Heparin",
+    "atc_code": "C05BA03",
+    "drugbank_id": "DB01109"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "C05AA01",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C03EA01",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C03AX01",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydroflumethiazide",
+    "atc_code": "C03AH02",
+    "drugbank_id": "DB00774"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C03AB03",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydroflumethiazide",
+    "atc_code": "C03AB02",
+    "drugbank_id": "DB00774"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "C03AA03",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hydroflumethiazide",
+    "atc_code": "C03AA02",
+    "drugbank_id": "DB00774"
+  },
+  {
+    "name": "Hydralazine",
+    "atc_code": "C02LG02",
+    "drugbank_id": "DB01275"
+  },
+  {
+    "name": "Hydralazine",
+    "atc_code": "C02DB02",
+    "drugbank_id": "DB01275"
+  },
+  {
+    "name": "Heptaminol",
+    "atc_code": "C01DX08",
+    "drugbank_id": "DB13574"
+  },
+  {
+    "name": "Hexobendine",
+    "atc_code": "C01DX06",
+    "drugbank_id": "DB13265"
+  },
+  {
+    "name": "Hydroquinidine",
+    "atc_code": "C01BA13",
+    "drugbank_id": "DB15300"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "atc_code": "D11AX25",
+    "drugbank_id": "DB11091"
+  },
+  {
+    "name": "Hydroquinone",
+    "atc_code": "D11AX11",
+    "drugbank_id": "DB09526"
+  },
+  {
+    "name": "Hypochlorite",
+    "atc_code": "D08AX07",
+    "drugbank_id": "DB11123"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "atc_code": "D08AX01",
+    "drugbank_id": "DB11091"
+  },
+  {
+    "name": "Hexachlorophene",
+    "atc_code": "D08AE01",
+    "drugbank_id": "DB00756"
+  },
+  {
+    "name": "Hexamidine",
+    "atc_code": "D08AC04",
+    "drugbank_id": "DB03808"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "D07XA01",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "D07CA01",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone butyrate",
+    "atc_code": "D07BB04",
+    "drugbank_id": "DB14540"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "D07BA04",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Halcinonide",
+    "atc_code": "D07AD02",
+    "drugbank_id": "DB06786"
+  },
+  {
+    "name": "Hydrocortisone aceponate",
+    "atc_code": "D07AC16",
+    "drugbank_id": "DB14538"
+  },
+  {
+    "name": "Halometasone",
+    "atc_code": "D07AC12",
+    "drugbank_id": "DB13728"
+  },
+  {
+    "name": "Hydrocortisone probutate",
+    "atc_code": "D07AB11",
+    "drugbank_id": "DB14543"
+  },
+  {
+    "name": "Hydrocortisone butyrate",
+    "atc_code": "D07AB02",
+    "drugbank_id": "DB14540"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "D07AA02",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hyaluronic acid",
+    "atc_code": "D03AX05",
+    "drugbank_id": "DB08818"
+  },
+  {
+    "name": "Haloprogin",
+    "atc_code": "D01AE11",
+    "drugbank_id": "DB00793"
+  },
+  {
+    "name": "Hachimycin",
+    "atc_code": "D01AA03",
+    "drugbank_id": "DB13302"
+  },
+  {
+    "name": "Hydroxyprogesterone",
+    "atc_code": "G03FA02",
+    "drugbank_id": "DB14570"
+  },
+  {
+    "name": "Hydroxyprogesterone",
+    "atc_code": "G03DA03",
+    "drugbank_id": "DB14570"
+  },
+  {
+    "name": "Hexetidine",
+    "atc_code": "G01AX16",
+    "drugbank_id": "DB08958"
+  },
+  {
+    "name": "Hydroflumethiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00774"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00999"
+  },
+  {
+    "name": "Hachimycin",
+    "atc_code": "G01AA06",
+    "drugbank_id": "DB13302"
+  },
+  {
+    "name": "Human calcitonin",
+    "atc_code": "H05BA03",
+    "drugbank_id": "DB06773"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "H02AB09",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hepatitis B Vaccine (Recombinant)",
+    "atc_code": "J07CA08",
+    "drugbank_id": "DB11627"
+  },
+  {
+    "name": "Human cytomegalovirus immune globulin",
+    "atc_code": "J06BB09",
+    "drugbank_id": "DB13886"
+  },
+  {
+    "name": "Hepatitis B immune globulin",
+    "atc_code": "J06BB04",
+    "drugbank_id": "DB05276"
+  },
+  {
+    "name": "Human Rho(D) immune globulin",
+    "atc_code": "J06BB01",
+    "drugbank_id": "DB11597"
+  },
+  {
+    "name": "Hachimycin",
+    "atc_code": "J02AA02",
+    "drugbank_id": "DB13302"
+  },
+  {
+    "name": "Hetacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00739"
+  },
+  {
+    "name": "Hetacillin",
+    "atc_code": "J01CA18",
+    "drugbank_id": "DB00739"
+  },
+  {
+    "name": "Histamine",
+    "atc_code": "L03AX14",
+    "drugbank_id": "DB05381"
+  },
+  {
+    "name": "Hiltonol",
+    "atc_code": "L03AX08",
+    "drugbank_id": "DB17293"
+  },
+  {
+    "name": "Histrelin",
+    "atc_code": "L02AE05",
+    "drugbank_id": "DB06788"
+  },
+  {
+    "name": "Hydroxyurea",
+    "atc_code": "L01XX05",
+    "drugbank_id": "DB01005"
+  },
+  {
+    "name": "Hyaluronic acid",
+    "atc_code": "M09AX01",
+    "drugbank_id": "DB08818"
+  },
+  {
+    "name": "Hydroquinine",
+    "atc_code": "M09AA01",
+    "drugbank_id": "DB13718"
+  },
+  {
+    "name": "Hexafluronium",
+    "atc_code": "M03AC05",
+    "drugbank_id": "DB00941"
+  },
+  {
+    "name": "Hexapropymate",
+    "atc_code": "N05CM10",
+    "drugbank_id": "DB13662"
+  },
+  {
+    "name": "Hexobarbital",
+    "atc_code": "N05CA16",
+    "drugbank_id": "DB01355"
+  },
+  {
+    "name": "Heptabarbital",
+    "atc_code": "N05CA11",
+    "drugbank_id": "DB01354"
+  },
+  {
+    "name": "Hydroxyzine",
+    "atc_code": "N05BB51",
+    "drugbank_id": "DB00557"
+  },
+  {
+    "name": "Hydroxyzine",
+    "atc_code": "N05BB01",
+    "drugbank_id": "DB00557"
+  },
+  {
+    "name": "Halazepam",
+    "atc_code": "N05BA13",
+    "drugbank_id": "DB00801"
+  },
+  {
+    "name": "Haloperidol",
+    "atc_code": "N05AD01",
+    "drugbank_id": "DB00502"
+  },
+  {
+    "name": "Hydrocodone",
+    "atc_code": "N02AJ23",
+    "drugbank_id": "DB00956"
+  },
+  {
+    "name": "Hydrocodone",
+    "atc_code": "N02AJ22",
+    "drugbank_id": "DB00956"
+  },
+  {
+    "name": "Hydromorphone",
+    "atc_code": "N02AG04",
+    "drugbank_id": "DB00327"
+  },
+  {
+    "name": "Hydromorphone",
+    "atc_code": "N02AA53",
+    "drugbank_id": "DB00327"
+  },
+  {
+    "name": "Hydromorphone",
+    "atc_code": "N02AA03",
+    "drugbank_id": "DB00327"
+  },
+  {
+    "name": "Hexobarbital",
+    "atc_code": "N01AF02",
+    "drugbank_id": "DB01355"
+  },
+  {
+    "name": "Halothane",
+    "atc_code": "N01AB01",
+    "drugbank_id": "DB01159"
+  },
+  {
+    "name": "Halofantrine",
+    "atc_code": "P01BX01",
+    "drugbank_id": "DB01218"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "atc_code": "P01BA02",
+    "drugbank_id": "DB01611"
+  },
+  {
+    "name": "Hydroxyethylpromethazine",
+    "atc_code": "R06AD55",
+    "drugbank_id": "DB13840"
+  },
+  {
+    "name": "Hydroxyethylpromethazine",
+    "atc_code": "R06AD05",
+    "drugbank_id": "DB13840"
+  },
+  {
+    "name": "Histapyrrodine",
+    "atc_code": "R06AC52",
+    "drugbank_id": "DB13479"
+  },
+  {
+    "name": "Histapyrrodine",
+    "atc_code": "R06AC02",
+    "drugbank_id": "DB13479"
+  },
+  {
+    "name": "Hydrocodone",
+    "atc_code": "R05DA03",
+    "drugbank_id": "DB00956"
+  },
+  {
+    "name": "Hedera helix leaf extract",
+    "atc_code": "R05CA12",
+    "drugbank_id": "DB13194"
+  },
+  {
+    "name": "Hexoprenaline",
+    "atc_code": "R03CC05",
+    "drugbank_id": "DB08957"
+  },
+  {
+    "name": "Hexoprenaline",
+    "atc_code": "R03AC06",
+    "drugbank_id": "DB08957"
+  },
+  {
+    "name": "Hexamidine",
+    "atc_code": "R02AA18",
+    "drugbank_id": "DB03808"
+  },
+  {
+    "name": "Hexylresorcinol",
+    "atc_code": "R02AA12",
+    "drugbank_id": "DB11254"
+  },
+  {
+    "name": "Hyaluronic acid",
+    "atc_code": "R01AX09",
+    "drugbank_id": "DB08818"
+  },
+  {
+    "name": "Hexamidine",
+    "atc_code": "R01AX07",
+    "drugbank_id": "DB03808"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "R01AD60",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S03CA04",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hexamidine",
+    "atc_code": "S03AA05",
+    "drugbank_id": "DB03808"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S02CA03",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S02BA01",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "atc_code": "S02AA06",
+    "drugbank_id": "DB11091"
+  },
+  {
+    "name": "Heparin",
+    "atc_code": "S01XA14",
+    "drugbank_id": "DB01109"
+  },
+  {
+    "name": "Hyaluronic acid",
+    "atc_code": "S01KA51",
+    "drugbank_id": "DB08818"
+  },
+  {
+    "name": "Hypromellose",
+    "atc_code": "S01KA02",
+    "drugbank_id": "DB11075"
+  },
+  {
+    "name": "Hyaluronic acid",
+    "atc_code": "S01KA01",
+    "drugbank_id": "DB08818"
+  },
+  {
+    "name": "Homatropine",
+    "atc_code": "S01FA05",
+    "drugbank_id": "DB11181"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S01CB03",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S01CA03",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S01BB01",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hydrocortisone",
+    "atc_code": "S01BA02",
+    "drugbank_id": "DB00741"
+  },
+  {
+    "name": "Hexamidine",
+    "atc_code": "S01AX08",
+    "drugbank_id": "DB03808"
+  },
+  {
+    "name": "Hexaminolevulinate",
+    "atc_code": "V04CX06",
+    "drugbank_id": "DB06261"
+  },
+  {
+    "name": "Histamine",
+    "atc_code": "V04CG03",
+    "drugbank_id": "DB05381"
+  },
+  {
+    "name": "Helium",
+    "atc_code": "V03AN03",
+    "drugbank_id": "DB09155"
+  },
+  {
+    "name": "Hydroxocobalamin",
+    "atc_code": "V03AB33",
+    "drugbank_id": "DB00200"
+  }
+]

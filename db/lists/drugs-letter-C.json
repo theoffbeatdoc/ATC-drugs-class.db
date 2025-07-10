@@ -1,0 +1,2842 @@
+[
+  {
+    "name": "Cipaglucosidase alfa",
+    "atc_code": "A16AB23",
+    "drugbank_id": "DB16708"
+  },
+  {
+    "name": "Cerliponase alfa",
+    "atc_code": "A16AB17",
+    "drugbank_id": "DB13173"
+  },
+  {
+    "name": "Carglumic acid",
+    "atc_code": "A16AA05",
+    "drugbank_id": "DB06775"
+  },
+  {
+    "name": "Cysteamine",
+    "atc_code": "A16AA04",
+    "drugbank_id": "DB00847"
+  },
+  {
+    "name": "Calcium levulinate",
+    "atc_code": "A12AA30",
+    "drugbank_id": "DB13800"
+  },
+  {
+    "name": "Calcium citrate",
+    "atc_code": "A12AA13",
+    "drugbank_id": "DB11093"
+  },
+  {
+    "name": "Calcium pangamate",
+    "atc_code": "A12AA11",
+    "drugbank_id": "DB13590"
+  },
+  {
+    "name": "Calcium glucoheptonate",
+    "atc_code": "A12AA10",
+    "drugbank_id": "DB00326"
+  },
+  {
+    "name": "Calcium chloride",
+    "atc_code": "A12AA07",
+    "drugbank_id": "DB01164"
+  },
+  {
+    "name": "Calcium lactate gluconate",
+    "atc_code": "A12AA06",
+    "drugbank_id": "DB13365"
+  },
+  {
+    "name": "Calcium lactate",
+    "atc_code": "A12AA05",
+    "drugbank_id": "DB13231"
+  },
+  {
+    "name": "Calcium carbonate",
+    "atc_code": "A12AA04",
+    "drugbank_id": "DB06724"
+  },
+  {
+    "name": "Calcium gluconate",
+    "atc_code": "A12AA03",
+    "drugbank_id": "DB11126"
+  },
+  {
+    "name": "Calcium glubionate anhydrous",
+    "atc_code": "A12AA02",
+    "drugbank_id": "DB13142"
+  },
+  {
+    "name": "Calcium Phosphate",
+    "atc_code": "A12AA01",
+    "drugbank_id": "DB11348"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Calcium chloride",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB01164"
+  },
+  {
+    "name": "Calcium Phosphate",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB11348"
+  },
+  {
+    "name": "Calcium carbonate",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB06724"
+  },
+  {
+    "name": "Calcium acetate",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB00258"
+  },
+  {
+    "name": "Calcium citrate",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB11093"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "A11CC55",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Calcifediol",
+    "atc_code": "A11CC06",
+    "drugbank_id": "DB00146"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "A11CC05",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Calcitriol",
+    "atc_code": "A11CC04",
+    "drugbank_id": "DB00136"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "A11AA02",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Canagliflozin",
+    "atc_code": "A10BK02",
+    "drugbank_id": "DB08907"
+  },
+  {
+    "name": "Canagliflozin",
+    "atc_code": "A10BD16",
+    "drugbank_id": "DB08907"
+  },
+  {
+    "name": "Carbutamide",
+    "atc_code": "A10BB06",
+    "drugbank_id": "DB13406"
+  },
+  {
+    "name": "Chlorpropamide",
+    "atc_code": "A10BB02",
+    "drugbank_id": "DB00672"
+  },
+  {
+    "name": "Citric acid",
+    "atc_code": "A09AB04",
+    "drugbank_id": "DB04272"
+  },
+  {
+    "name": "Clobenzorex",
+    "atc_code": "A08AA08",
+    "drugbank_id": "DB13561"
+  },
+  {
+    "name": "Cathine",
+    "atc_code": "A08AA07",
+    "drugbank_id": "DB01486"
+  },
+  {
+    "name": "Crofelemer",
+    "atc_code": "A07XA06",
+    "drugbank_id": "DB04941"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "A07EB01",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Colistin",
+    "atc_code": "A07AA10",
+    "drugbank_id": "DB00803"
+  },
+  {
+    "name": "Calcium polycarbophil",
+    "atc_code": "A06AC08",
+    "drugbank_id": "DB14684"
+  },
+  {
+    "name": "Castor oil",
+    "atc_code": "A06AB05",
+    "drugbank_id": "DB11113"
+  },
+  {
+    "name": "Citiolone",
+    "atc_code": "A05BA04",
+    "drugbank_id": "DB13442"
+  },
+  {
+    "name": "Cyclobutyrol",
+    "atc_code": "A05AX03",
+    "drugbank_id": "DB13493"
+  },
+  {
+    "name": "Cholic Acid",
+    "atc_code": "A05AA03",
+    "drugbank_id": "DB02659"
+  },
+  {
+    "name": "Chenodeoxycholic acid",
+    "atc_code": "A05AA01",
+    "drugbank_id": "DB06777"
+  },
+  {
+    "name": "Chlorobutanol",
+    "atc_code": "A04AD54",
+    "drugbank_id": "DB11386"
+  },
+  {
+    "name": "Casopitant",
+    "atc_code": "A04AD13",
+    "drugbank_id": "DB06634"
+  },
+  {
+    "name": "Chlorobutanol",
+    "atc_code": "A04AD04",
+    "drugbank_id": "DB11386"
+  },
+  {
+    "name": "Cerium oxalate",
+    "atc_code": "A04AD02",
+    "drugbank_id": "DB13519"
+  },
+  {
+    "name": "Cinitapride",
+    "atc_code": "A03FA08",
+    "drugbank_id": "DB08810"
+  },
+  {
+    "name": "Clebopride",
+    "atc_code": "A03FA06",
+    "drugbank_id": "DB13511"
+  },
+  {
+    "name": "Cisapride",
+    "atc_code": "A03FA02",
+    "drugbank_id": "DB00604"
+  },
+  {
+    "name": "Camylofin",
+    "atc_code": "A03DA05",
+    "drugbank_id": "DB13738"
+  },
+  {
+    "name": "Clidinium",
+    "atc_code": "A03CA02",
+    "drugbank_id": "DB00771"
+  },
+  {
+    "name": "Cimetropium",
+    "atc_code": "A03BB05",
+    "drugbank_id": "DB09271"
+  },
+  {
+    "name": "Caroverine",
+    "atc_code": "A03AX11",
+    "drugbank_id": "DB13835"
+  },
+  {
+    "name": "Chlorbenzoxamine",
+    "atc_code": "A03AX03",
+    "drugbank_id": "DB13788"
+  },
+  {
+    "name": "Cilansetron",
+    "atc_code": "A03AE03",
+    "drugbank_id": "DB04885"
+  },
+  {
+    "name": "Camylofin",
+    "atc_code": "A03AA03",
+    "drugbank_id": "DB13738"
+  },
+  {
+    "name": "Carbenoxolone",
+    "atc_code": "A02BX71",
+    "drugbank_id": "DB02329"
+  },
+  {
+    "name": "Carbenoxolone",
+    "atc_code": "A02BX51",
+    "drugbank_id": "DB02329"
+  },
+  {
+    "name": "Carbenoxolone",
+    "atc_code": "A02BX01",
+    "drugbank_id": "DB02329"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD14",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD12",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD11",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD09",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD07",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD06",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD05",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "A02BD04",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Cimetidine",
+    "atc_code": "A02BA51",
+    "drugbank_id": "DB00501"
+  },
+  {
+    "name": "Cimetidine",
+    "atc_code": "A02BA01",
+    "drugbank_id": "DB00501"
+  },
+  {
+    "name": "Calcium silicate",
+    "atc_code": "A02AC02",
+    "drugbank_id": "DB13829"
+  },
+  {
+    "name": "Calcium carbonate",
+    "atc_code": "A02AC01",
+    "drugbank_id": "DB06724"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "A01AB53",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Cetylpyridinium",
+    "atc_code": "A01AB53",
+    "drugbank_id": "DB11073"
+  },
+  {
+    "name": "Chlortetracycline",
+    "atc_code": "A01AB21",
+    "drugbank_id": "DB09093"
+  },
+  {
+    "name": "Clotrimazole",
+    "atc_code": "A01AB18",
+    "drugbank_id": "DB00257"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "A01AB03",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Crizanlizumab",
+    "atc_code": "B06AX01",
+    "drugbank_id": "DB15271"
+  },
+  {
+    "name": "Conestat alfa",
+    "atc_code": "B06AC04",
+    "drugbank_id": "DB09228"
+  },
+  {
+    "name": "Chymotrypsin",
+    "atc_code": "B06AA04",
+    "drugbank_id": "DB09375"
+  },
+  {
+    "name": "Calcium gluconate",
+    "atc_code": "B05XA19",
+    "drugbank_id": "DB11126"
+  },
+  {
+    "name": "Calcium chloride",
+    "atc_code": "B05XA07",
+    "drugbank_id": "DB01164"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "B05CA02",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Cetylpyridinium",
+    "atc_code": "B05CA01",
+    "drugbank_id": "DB11073"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "atc_code": "B03BA51",
+    "drugbank_id": "DB00115"
+  },
+  {
+    "name": "Cobamamide",
+    "atc_code": "B03BA04",
+    "drugbank_id": "DB11191"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "atc_code": "B03BA01",
+    "drugbank_id": "DB00115"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "atc_code": "B03AE01",
+    "drugbank_id": "DB00115"
+  },
+  {
+    "name": "Concizumab",
+    "atc_code": "B02BX10",
+    "drugbank_id": "DB12820"
+  },
+  {
+    "name": "Carbazochrome",
+    "atc_code": "B02BX02",
+    "drugbank_id": "DB09012"
+  },
+  {
+    "name": "Coagulation factor X human",
+    "atc_code": "B02BD13",
+    "drugbank_id": "DB13148"
+  },
+  {
+    "name": "Catridecacog",
+    "atc_code": "B02BD11",
+    "drugbank_id": "DB09310"
+  },
+  {
+    "name": "Coagulation factor VIIa Recombinant Human",
+    "atc_code": "B02BD08",
+    "drugbank_id": "DB00036"
+  },
+  {
+    "name": "Coagulation factor VII human",
+    "atc_code": "B02BD05",
+    "drugbank_id": "DB13150"
+  },
+  {
+    "name": "Coagulation Factor IX Human",
+    "atc_code": "B02BD04",
+    "drugbank_id": "DB13152"
+  },
+  {
+    "name": "Coagulation factor VII human",
+    "atc_code": "B02BD01",
+    "drugbank_id": "DB13150"
+  },
+  {
+    "name": "Coagulation Factor IX Human",
+    "atc_code": "B02BD01",
+    "drugbank_id": "DB13152"
+  },
+  {
+    "name": "Calcium alginate",
+    "atc_code": "B02BC08",
+    "drugbank_id": "DB13372"
+  },
+  {
+    "name": "Camostat",
+    "atc_code": "B02AB04",
+    "drugbank_id": "DB13729"
+  },
+  {
+    "name": "Caplacizumab",
+    "atc_code": "B01AX07",
+    "drugbank_id": "DB06081"
+  },
+  {
+    "name": "Cangrelor",
+    "atc_code": "B01AC25",
+    "drugbank_id": "DB06441"
+  },
+  {
+    "name": "Cilostazol",
+    "atc_code": "B01AC23",
+    "drugbank_id": "DB01166"
+  },
+  {
+    "name": "Carbaspirin calcium",
+    "atc_code": "B01AC08",
+    "drugbank_id": "DB13612"
+  },
+  {
+    "name": "Clopidogrel",
+    "atc_code": "B01AC04",
+    "drugbank_id": "DB00758"
+  },
+  {
+    "name": "Cloricromen",
+    "atc_code": "B01AC02",
+    "drugbank_id": "DB13367"
+  },
+  {
+    "name": "Clorindione",
+    "atc_code": "B01AA09",
+    "drugbank_id": "DB13275"
+  },
+  {
+    "name": "Candesartan",
+    "atc_code": "C10BX19",
+    "drugbank_id": "DB13919"
+  },
+  {
+    "name": "Colesevelam",
+    "atc_code": "C10AC04",
+    "drugbank_id": "DB00930"
+  },
+  {
+    "name": "Colestipol",
+    "atc_code": "C10AC02",
+    "drugbank_id": "DB00375"
+  },
+  {
+    "name": "Cholestyramine",
+    "atc_code": "C10AC01",
+    "drugbank_id": "DB01432"
+  },
+  {
+    "name": "Clofibride",
+    "atc_code": "C10AB10",
+    "drugbank_id": "DB13849"
+  },
+  {
+    "name": "Ciprofibrate",
+    "atc_code": "C10AB08",
+    "drugbank_id": "DB09064"
+  },
+  {
+    "name": "Clofibrate",
+    "atc_code": "C10AB01",
+    "drugbank_id": "DB00636"
+  },
+  {
+    "name": "Cerivastatin",
+    "atc_code": "C10AA06",
+    "drugbank_id": "DB00439"
+  },
+  {
+    "name": "Candesartan",
+    "atc_code": "C09DX06",
+    "drugbank_id": "DB13919"
+  },
+  {
+    "name": "Candesartan",
+    "atc_code": "C09DB07",
+    "drugbank_id": "DB13919"
+  },
+  {
+    "name": "Candesartan",
+    "atc_code": "C09DA06",
+    "drugbank_id": "DB13919"
+  },
+  {
+    "name": "Candesartan",
+    "atc_code": "C09CA06",
+    "drugbank_id": "DB13919"
+  },
+  {
+    "name": "Cilazapril",
+    "atc_code": "C09BA08",
+    "drugbank_id": "DB01340"
+  },
+  {
+    "name": "Captopril",
+    "atc_code": "C09BA01",
+    "drugbank_id": "DB01197"
+  },
+  {
+    "name": "Cilazapril",
+    "atc_code": "C09AA08",
+    "drugbank_id": "DB01340"
+  },
+  {
+    "name": "Captopril",
+    "atc_code": "C09AA01",
+    "drugbank_id": "DB01197"
+  },
+  {
+    "name": "Celecoxib",
+    "atc_code": "C08CA51",
+    "drugbank_id": "DB00482"
+  },
+  {
+    "name": "Clevidipine",
+    "atc_code": "C08CA16",
+    "drugbank_id": "DB04920"
+  },
+  {
+    "name": "Cilnidipine",
+    "atc_code": "C08CA14",
+    "drugbank_id": "DB09232"
+  },
+  {
+    "name": "Carvedilol",
+    "atc_code": "C07FX06",
+    "drugbank_id": "DB01136"
+  },
+  {
+    "name": "Carvedilol",
+    "atc_code": "C07AG02",
+    "drugbank_id": "DB01136"
+  },
+  {
+    "name": "Celiprolol",
+    "atc_code": "C07AB08",
+    "drugbank_id": "DB04846"
+  },
+  {
+    "name": "Cloranolol",
+    "atc_code": "C07AA27",
+    "drugbank_id": "DB13508"
+  },
+  {
+    "name": "Carteolol",
+    "atc_code": "C07AA15",
+    "drugbank_id": "DB00521"
+  },
+  {
+    "name": "Cinchocaine",
+    "atc_code": "C05AD04",
+    "drugbank_id": "DB00527"
+  },
+  {
+    "name": "Clazosentan",
+    "atc_code": "C04AX33",
+    "drugbank_id": "DB06677"
+  },
+  {
+    "name": "Cinepazide",
+    "atc_code": "C04AX27",
+    "drugbank_id": "DB12123"
+  },
+  {
+    "name": "Cetiedil",
+    "atc_code": "C04AX26",
+    "drugbank_id": "DB13753"
+  },
+  {
+    "name": "Cyclandelate",
+    "atc_code": "C04AX01",
+    "drugbank_id": "DB04838"
+  },
+  {
+    "name": "Ciclonicate",
+    "atc_code": "C04AC07",
+    "drugbank_id": "DB13709"
+  },
+  {
+    "name": "Conivaptan",
+    "atc_code": "C03XA02",
+    "drugbank_id": "DB00872"
+  },
+  {
+    "name": "Cyclopenthiazide",
+    "atc_code": "C03EA07",
+    "drugbank_id": "DB13532"
+  },
+  {
+    "name": "Chlorthalidone",
+    "atc_code": "C03EA06",
+    "drugbank_id": "DB00310"
+  },
+  {
+    "name": "Canrenone",
+    "atc_code": "C03DA03",
+    "drugbank_id": "DB12221"
+  },
+  {
+    "name": "Canrenoic acid",
+    "atc_code": "C03DA02",
+    "drugbank_id": "DB09015"
+  },
+  {
+    "name": "Cicletanine",
+    "atc_code": "C03BX03",
+    "drugbank_id": "DB12766"
+  },
+  {
+    "name": "Clofenamide",
+    "atc_code": "C03BB07",
+    "drugbank_id": "DB13663"
+  },
+  {
+    "name": "Chlorthalidone",
+    "atc_code": "C03BB04",
+    "drugbank_id": "DB00310"
+  },
+  {
+    "name": "Clopamide",
+    "atc_code": "C03BB03",
+    "drugbank_id": "DB13792"
+  },
+  {
+    "name": "Clorexolone",
+    "atc_code": "C03BA82",
+    "drugbank_id": "DB13617"
+  },
+  {
+    "name": "Clorexolone",
+    "atc_code": "C03BA12",
+    "drugbank_id": "DB13617"
+  },
+  {
+    "name": "Clofenamide",
+    "atc_code": "C03BA07",
+    "drugbank_id": "DB13663"
+  },
+  {
+    "name": "Chlorthalidone",
+    "atc_code": "C03BA04",
+    "drugbank_id": "DB00310"
+  },
+  {
+    "name": "Clopamide",
+    "atc_code": "C03BA03",
+    "drugbank_id": "DB13792"
+  },
+  {
+    "name": "Chlorothiazide",
+    "atc_code": "C03AH01",
+    "drugbank_id": "DB00880"
+  },
+  {
+    "name": "Cyclothiazide",
+    "atc_code": "C03AB09",
+    "drugbank_id": "DB00606"
+  },
+  {
+    "name": "Cyclopenthiazide",
+    "atc_code": "C03AB07",
+    "drugbank_id": "DB13532"
+  },
+  {
+    "name": "Chlorothiazide",
+    "atc_code": "C03AB04",
+    "drugbank_id": "DB00880"
+  },
+  {
+    "name": "Cyclothiazide",
+    "atc_code": "C03AA09",
+    "drugbank_id": "DB00606"
+  },
+  {
+    "name": "Cyclopenthiazide",
+    "atc_code": "C03AA07",
+    "drugbank_id": "DB13532"
+  },
+  {
+    "name": "Chlorothiazide",
+    "atc_code": "C03AA04",
+    "drugbank_id": "DB00880"
+  },
+  {
+    "name": "Clonidine",
+    "atc_code": "C02LC51",
+    "drugbank_id": "DB00575"
+  },
+  {
+    "name": "Clonidine",
+    "atc_code": "C02LC01",
+    "drugbank_id": "DB00575"
+  },
+  {
+    "name": "Cadralazine",
+    "atc_code": "C02DB04",
+    "drugbank_id": "DB13452"
+  },
+  {
+    "name": "Clonidine",
+    "atc_code": "C02AC01",
+    "drugbank_id": "DB00575"
+  },
+  {
+    "name": "Creatinolfosfate",
+    "atc_code": "C01EB05",
+    "drugbank_id": "DB13071"
+  },
+  {
+    "name": "Camphor",
+    "atc_code": "C01EB02",
+    "drugbank_id": "DB01744"
+  },
+  {
+    "name": "Cloridarol",
+    "atc_code": "C01DX15",
+    "drugbank_id": "DB13291"
+  },
+  {
+    "name": "Cinepazet",
+    "atc_code": "C01DX14",
+    "drugbank_id": "DB13342"
+  },
+  {
+    "name": "Carbocromen",
+    "atc_code": "C01DX05",
+    "drugbank_id": "DB13279"
+  },
+  {
+    "name": "Centhaquine",
+    "atc_code": "C01CA28",
+    "drugbank_id": "DB16122"
+  },
+  {
+    "name": "Cafedrine",
+    "atc_code": "C01CA21",
+    "drugbank_id": "DB12926"
+  },
+  {
+    "name": "Cibenzoline",
+    "atc_code": "C01BG07",
+    "drugbank_id": "DB13358"
+  },
+  {
+    "name": "Cymarin",
+    "atc_code": "C01AC03",
+    "drugbank_id": "DB13240"
+  },
+  {
+    "name": "Caffeine",
+    "atc_code": "D11AX26",
+    "drugbank_id": "DB00201"
+  },
+  {
+    "name": "Calcium gluconate",
+    "atc_code": "D11AX03",
+    "drugbank_id": "DB11126"
+  },
+  {
+    "name": "Crisaborole",
+    "atc_code": "D11AH06",
+    "drugbank_id": "DB05219"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "D11AH03",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cetrimonium",
+    "atc_code": "D11AC01",
+    "drugbank_id": "DB01718"
+  },
+  {
+    "name": "Clascoterone",
+    "atc_code": "D10AX06",
+    "drugbank_id": "DB12499"
+  },
+  {
+    "name": "Clindamycin",
+    "atc_code": "D10AF51",
+    "drugbank_id": "DB01190"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "D10AF03",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Clindamycin",
+    "atc_code": "D10AF01",
+    "drugbank_id": "DB01190"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "D09AA12",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "D09AA10",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Cetylpyridinium",
+    "atc_code": "D09AA07",
+    "drugbank_id": "DB11073"
+  },
+  {
+    "name": "Cetrimonium",
+    "atc_code": "D08AJ04",
+    "drugbank_id": "DB01718"
+  },
+  {
+    "name": "Cetylpyridinium",
+    "atc_code": "D08AJ03",
+    "drugbank_id": "DB11073"
+  },
+  {
+    "name": "Cetrimonium",
+    "atc_code": "D08AJ02",
+    "drugbank_id": "DB01718"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "D08AH30",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Chlorquinaldol",
+    "atc_code": "D08AH02",
+    "drugbank_id": "DB13306"
+  },
+  {
+    "name": "Chloroxylenol",
+    "atc_code": "D08AE05",
+    "drugbank_id": "DB11121"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "D08AC52",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "D08AC02",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Clobetasol",
+    "atc_code": "D07CD01",
+    "drugbank_id": "DB11750"
+  },
+  {
+    "name": "Clobetasol",
+    "atc_code": "D07AD01",
+    "drugbank_id": "DB11750"
+  },
+  {
+    "name": "Clocortolone",
+    "atc_code": "D07AB21",
+    "drugbank_id": "DB00838"
+  },
+  {
+    "name": "Clobetasone",
+    "atc_code": "D07AB01",
+    "drugbank_id": "DB13158"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "D06AX02",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Chlortetracycline",
+    "atc_code": "D06AA02",
+    "drugbank_id": "DB09093"
+  },
+  {
+    "name": "Calcipotriol",
+    "atc_code": "D05AX52",
+    "drugbank_id": "DB02300"
+  },
+  {
+    "name": "Calcitriol",
+    "atc_code": "D05AX03",
+    "drugbank_id": "DB00136"
+  },
+  {
+    "name": "Calcipotriol",
+    "atc_code": "D05AX02",
+    "drugbank_id": "DB02300"
+  },
+  {
+    "name": "Cinchocaine",
+    "atc_code": "D04AB02",
+    "drugbank_id": "DB00527"
+  },
+  {
+    "name": "Chlorphenoxamine",
+    "atc_code": "D04AA34",
+    "drugbank_id": "DB09007"
+  },
+  {
+    "name": "Clemastine",
+    "atc_code": "D04AA14",
+    "drugbank_id": "DB00283"
+  },
+  {
+    "name": "Chloropyramine",
+    "atc_code": "D04AA09",
+    "drugbank_id": "DB08800"
+  },
+  {
+    "name": "Collagenase clostridium histolyticum",
+    "atc_code": "D03BA52",
+    "drugbank_id": "DB00048"
+  },
+  {
+    "name": "Collagenase clostridium histolyticum",
+    "atc_code": "D03BA02",
+    "drugbank_id": "DB00048"
+  },
+  {
+    "name": "Cadexomer iodine",
+    "atc_code": "D03AX01",
+    "drugbank_id": "DB16572"
+  },
+  {
+    "name": "Ciclopirox",
+    "atc_code": "D01AE14",
+    "drugbank_id": "DB01188"
+  },
+  {
+    "name": "Chlorphenesin",
+    "atc_code": "D01AE07",
+    "drugbank_id": "DB00856"
+  },
+  {
+    "name": "Chlorophetanol",
+    "atc_code": "D01AE06",
+    "drugbank_id": "DB11368"
+  },
+  {
+    "name": "Chlormidazole",
+    "atc_code": "D01AC04",
+    "drugbank_id": "DB13611"
+  },
+  {
+    "name": "Clotrimazole",
+    "atc_code": "D01AC01",
+    "drugbank_id": "DB00257"
+  },
+  {
+    "name": "Calcium chloride",
+    "atc_code": "G04BA03",
+    "drugbank_id": "DB01164"
+  },
+  {
+    "name": "Cyproterone acetate",
+    "atc_code": "G03HB01",
+    "drugbank_id": "DB04839"
+  },
+  {
+    "name": "Cyproterone acetate",
+    "atc_code": "G03HA01",
+    "drugbank_id": "DB04839"
+  },
+  {
+    "name": "Clomifene",
+    "atc_code": "G03GB02",
+    "drugbank_id": "DB00882"
+  },
+  {
+    "name": "Cyclofenil",
+    "atc_code": "G03GB01",
+    "drugbank_id": "DB13472"
+  },
+  {
+    "name": "Corifollitropin alfa",
+    "atc_code": "G03GA09",
+    "drugbank_id": "DB09066"
+  },
+  {
+    "name": "Choriogonadotropin alfa",
+    "atc_code": "G03GA08",
+    "drugbank_id": "DB00097"
+  },
+  {
+    "name": "Chorionic Gonadotropin (Human)",
+    "atc_code": "G03GA01",
+    "drugbank_id": "DB09126"
+  },
+  {
+    "name": "Chlormadinone",
+    "atc_code": "G03FB03",
+    "drugbank_id": "DB13528"
+  },
+  {
+    "name": "Chlormadinone",
+    "atc_code": "G03DB06",
+    "drugbank_id": "DB13528"
+  },
+  {
+    "name": "Conjugated estrogens",
+    "atc_code": "G03CC07",
+    "drugbank_id": "DB00286"
+  },
+  {
+    "name": "Conjugated estrogens",
+    "atc_code": "G03CA57",
+    "drugbank_id": "DB00286"
+  },
+  {
+    "name": "Chlorotrianisene",
+    "atc_code": "G03CA06",
+    "drugbank_id": "DB00269"
+  },
+  {
+    "name": "Chlormadinone",
+    "atc_code": "G03AB07",
+    "drugbank_id": "DB13528"
+  },
+  {
+    "name": "Chlormadinone",
+    "atc_code": "G03AA15",
+    "drugbank_id": "DB13528"
+  },
+  {
+    "name": "Cabergoline",
+    "atc_code": "G02CB03",
+    "drugbank_id": "DB00248"
+  },
+  {
+    "name": "Carboprost",
+    "atc_code": "G02AD04",
+    "drugbank_id": "DB19356"
+  },
+  {
+    "name": "Copper usnate",
+    "atc_code": "G01AX15",
+    "drugbank_id": "DB13830"
+  },
+  {
+    "name": "Ciclopirox",
+    "atc_code": "G01AX12",
+    "drugbank_id": "DB01188"
+  },
+  {
+    "name": "Clodantoin",
+    "atc_code": "G01AX01",
+    "drugbank_id": "DB13516"
+  },
+  {
+    "name": "Clotrimazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB00257"
+  },
+  {
+    "name": "Clotrimazole",
+    "atc_code": "G01AF02",
+    "drugbank_id": "DB00257"
+  },
+  {
+    "name": "Celecoxib",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00482"
+  },
+  {
+    "name": "Chlorthalidone",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00310"
+  },
+  {
+    "name": "Chlorothiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00880"
+  },
+  {
+    "name": "Cyclothiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00606"
+  },
+  {
+    "name": "Chlorpropamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00672"
+  },
+  {
+    "name": "Cyclopenthiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB13532"
+  },
+  {
+    "name": "Chlorquinaldol",
+    "atc_code": "G01AC03",
+    "drugbank_id": "DB13306"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "G01AC02",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Clindamycin",
+    "atc_code": "G01AA10",
+    "drugbank_id": "DB01190"
+  },
+  {
+    "name": "Carfecillin",
+    "atc_code": "G01AA08",
+    "drugbank_id": "DB13506"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "G01AA05",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Candicidin",
+    "atc_code": "G01AA04",
+    "drugbank_id": "DB01152"
+  },
+  {
+    "name": "Calcifediol",
+    "atc_code": "H05BX05",
+    "drugbank_id": "DB00146"
+  },
+  {
+    "name": "Cinacalcet",
+    "atc_code": "H05BX01",
+    "drugbank_id": "DB01012"
+  },
+  {
+    "name": "Calcitonin porcine",
+    "atc_code": "H05BA02",
+    "drugbank_id": "DB13189"
+  },
+  {
+    "name": "Carbimazole",
+    "atc_code": "H03BB01",
+    "drugbank_id": "DB00389"
+  },
+  {
+    "name": "Cortivazol",
+    "atc_code": "H02AB17",
+    "drugbank_id": "DB13003"
+  },
+  {
+    "name": "Cloprednol",
+    "atc_code": "H02AB14",
+    "drugbank_id": "DB13843"
+  },
+  {
+    "name": "Cortisone",
+    "atc_code": "H02AB10",
+    "drugbank_id": "DB14681"
+  },
+  {
+    "name": "Cetrorelix",
+    "atc_code": "H01CC02",
+    "drugbank_id": "DB00050"
+  },
+  {
+    "name": "Carbetocin",
+    "atc_code": "H01BB03",
+    "drugbank_id": "DB01282"
+  },
+  {
+    "name": "Corticotropin",
+    "atc_code": "H01AA01",
+    "drugbank_id": "DB01285"
+  },
+  {
+    "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+    "atc_code": "J07AM52",
+    "drugbank_id": "DB10583"
+  },
+  {
+    "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+    "atc_code": "J07AM51",
+    "drugbank_id": "DB10583"
+  },
+  {
+    "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+    "atc_code": "J07AM01",
+    "drugbank_id": "DB10583"
+  },
+  {
+    "name": "Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)",
+    "atc_code": "J07AF01",
+    "drugbank_id": "DB10584"
+  },
+  {
+    "name": "Casirivimab",
+    "atc_code": "J06BD07",
+    "drugbank_id": "DB15941"
+  },
+  {
+    "name": "Cilgavimab",
+    "atc_code": "J06BD03",
+    "drugbank_id": "DB16393"
+  },
+  {
+    "name": "Cabotegravir",
+    "atc_code": "J05AJ04",
+    "drugbank_id": "DB11751"
+  },
+  {
+    "name": "Coblopasvir",
+    "atc_code": "J05AP12",
+    "drugbank_id": "DB15315"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "J05AR22",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "J05AR18",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "J05AR15",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "J05AR14",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "J05AR09",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Clevudine",
+    "atc_code": "J05AF12",
+    "drugbank_id": "DB06683"
+  },
+  {
+    "name": "Cidofovir",
+    "atc_code": "J05AB12",
+    "drugbank_id": "DB00369"
+  },
+  {
+    "name": "Capreomycin",
+    "atc_code": "J04AB30",
+    "drugbank_id": "DB00314"
+  },
+  {
+    "name": "Cycloserine",
+    "atc_code": "J04AB01",
+    "drugbank_id": "DB00260"
+  },
+  {
+    "name": "Caspofungin",
+    "atc_code": "J02AX04",
+    "drugbank_id": "DB00520"
+  },
+  {
+    "name": "Clofoctol",
+    "atc_code": "J01XX03",
+    "drugbank_id": "DB13237"
+  },
+  {
+    "name": "Colistin",
+    "atc_code": "J01XB01",
+    "drugbank_id": "DB00803"
+  },
+  {
+    "name": "Cefixime",
+    "atc_code": "J01RA16",
+    "drugbank_id": "DB00671"
+  },
+  {
+    "name": "Cefixime",
+    "atc_code": "J01RA15",
+    "drugbank_id": "DB00671"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "J01RA12",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "J01RA11",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "J01RA10",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Cefepime",
+    "atc_code": "J01RA06",
+    "drugbank_id": "DB01413"
+  },
+  {
+    "name": "Cefuroxime",
+    "atc_code": "J01RA03",
+    "drugbank_id": "DB01112"
+  },
+  {
+    "name": "Cinoxacin",
+    "atc_code": "J01MB06",
+    "drugbank_id": "DB00827"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "J01MA02",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Clindamycin",
+    "atc_code": "J01FF01",
+    "drugbank_id": "DB01190"
+  },
+  {
+    "name": "Clarithromycin",
+    "atc_code": "J01FA09",
+    "drugbank_id": "DB01211"
+  },
+  {
+    "name": "Cefiderocol",
+    "atc_code": "J01DI04",
+    "drugbank_id": "DB14879"
+  },
+  {
+    "name": "Ceftaroline fosamil",
+    "atc_code": "J01DI02",
+    "drugbank_id": "DB06590"
+  },
+  {
+    "name": "Ceftobiprole medocaril",
+    "atc_code": "J01DI01",
+    "drugbank_id": "DB14733"
+  },
+  {
+    "name": "Cilastatin",
+    "atc_code": "J01DH56",
+    "drugbank_id": "DB01597"
+  },
+  {
+    "name": "Cilastatin",
+    "atc_code": "J01DH51",
+    "drugbank_id": "DB01597"
+  },
+  {
+    "name": "Carumonam",
+    "atc_code": "J01DF02",
+    "drugbank_id": "DB13553"
+  },
+  {
+    "name": "Cefozopran",
+    "atc_code": "J01DE03",
+    "drugbank_id": "DB13667"
+  },
+  {
+    "name": "Cefpirome",
+    "atc_code": "J01DE02",
+    "drugbank_id": "DB13682"
+  },
+  {
+    "name": "Cefepime",
+    "atc_code": "J01DE01",
+    "drugbank_id": "DB01413"
+  },
+  {
+    "name": "Ceftriaxone",
+    "atc_code": "J01DD54",
+    "drugbank_id": "DB01212"
+  },
+  {
+    "name": "Cefcapene",
+    "atc_code": "J01DD17",
+    "drugbank_id": "DB13461"
+  },
+  {
+    "name": "Cefditoren",
+    "atc_code": "J01DD16",
+    "drugbank_id": "DB01066"
+  },
+  {
+    "name": "Cefdinir",
+    "atc_code": "J01DD15",
+    "drugbank_id": "DB00535"
+  },
+  {
+    "name": "Ceftibuten",
+    "atc_code": "J01DD14",
+    "drugbank_id": "DB01415"
+  },
+  {
+    "name": "Cefpodoxime",
+    "atc_code": "J01DD13",
+    "drugbank_id": "DB01416"
+  },
+  {
+    "name": "Cefoperazone",
+    "atc_code": "J01DD12",
+    "drugbank_id": "DB01329"
+  },
+  {
+    "name": "Cefpiramide",
+    "atc_code": "J01DD11",
+    "drugbank_id": "DB00430"
+  },
+  {
+    "name": "Cefetamet",
+    "atc_code": "J01DD10",
+    "drugbank_id": "DB13504"
+  },
+  {
+    "name": "Cefodizime",
+    "atc_code": "J01DD09",
+    "drugbank_id": "DB13470"
+  },
+  {
+    "name": "Cefixime",
+    "atc_code": "J01DD08",
+    "drugbank_id": "DB00671"
+  },
+  {
+    "name": "Ceftizoxime",
+    "atc_code": "J01DD07",
+    "drugbank_id": "DB01332"
+  },
+  {
+    "name": "Cefmenoxime",
+    "atc_code": "J01DD05",
+    "drugbank_id": "DB00267"
+  },
+  {
+    "name": "Ceftriaxone",
+    "atc_code": "J01DD04",
+    "drugbank_id": "DB01212"
+  },
+  {
+    "name": "Cefsulodin",
+    "atc_code": "J01DD03",
+    "drugbank_id": "DB13499"
+  },
+  {
+    "name": "Ceftazidime",
+    "atc_code": "J01DD02",
+    "drugbank_id": "DB00438"
+  },
+  {
+    "name": "Cefotaxime",
+    "atc_code": "J01DD01",
+    "drugbank_id": "DB00493"
+  },
+  {
+    "name": "Cefbuperazone",
+    "atc_code": "J01DC13",
+    "drugbank_id": "DB13638"
+  },
+  {
+    "name": "Cefminox",
+    "atc_code": "J01DC12",
+    "drugbank_id": "DB09062"
+  },
+  {
+    "name": "Ceforanide",
+    "atc_code": "J01DC11",
+    "drugbank_id": "DB00923"
+  },
+  {
+    "name": "Cefprozil",
+    "atc_code": "J01DC10",
+    "drugbank_id": "DB01150"
+  },
+  {
+    "name": "Cefmetazole",
+    "atc_code": "J01DC09",
+    "drugbank_id": "DB00274"
+  },
+  {
+    "name": "Cefotiam",
+    "atc_code": "J01DC07",
+    "drugbank_id": "DB00229"
+  },
+  {
+    "name": "Cefonicid",
+    "atc_code": "J01DC06",
+    "drugbank_id": "DB01328"
+  },
+  {
+    "name": "Cefotetan",
+    "atc_code": "J01DC05",
+    "drugbank_id": "DB01330"
+  },
+  {
+    "name": "Cefaclor",
+    "atc_code": "J01DC04",
+    "drugbank_id": "DB00833"
+  },
+  {
+    "name": "Cefamandole",
+    "atc_code": "J01DC03",
+    "drugbank_id": "DB01326"
+  },
+  {
+    "name": "Cefuroxime",
+    "atc_code": "J01DC02",
+    "drugbank_id": "DB01112"
+  },
+  {
+    "name": "Cefoxitin",
+    "atc_code": "J01DC01",
+    "drugbank_id": "DB01331"
+  },
+  {
+    "name": "Ceftezole",
+    "atc_code": "J01DB12",
+    "drugbank_id": "DB13821"
+  },
+  {
+    "name": "Cefroxadine",
+    "atc_code": "J01DB11",
+    "drugbank_id": "DB11367"
+  },
+  {
+    "name": "Cefacetrile",
+    "atc_code": "J01DB10",
+    "drugbank_id": "DB01414"
+  },
+  {
+    "name": "Cefradine",
+    "atc_code": "J01DB09",
+    "drugbank_id": "DB01333"
+  },
+  {
+    "name": "Cefapirin",
+    "atc_code": "J01DB08",
+    "drugbank_id": "DB01139"
+  },
+  {
+    "name": "Cefatrizine",
+    "atc_code": "J01DB07",
+    "drugbank_id": "DB13266"
+  },
+  {
+    "name": "Cefazedone",
+    "atc_code": "J01DB06",
+    "drugbank_id": "DB13778"
+  },
+  {
+    "name": "Cefadroxil",
+    "atc_code": "J01DB05",
+    "drugbank_id": "DB01140"
+  },
+  {
+    "name": "Cefazolin",
+    "atc_code": "J01DB04",
+    "drugbank_id": "DB01327"
+  },
+  {
+    "name": "Cefalotin",
+    "atc_code": "J01DB03",
+    "drugbank_id": "DB00456"
+  },
+  {
+    "name": "Cefaloridine",
+    "atc_code": "J01DB02",
+    "drugbank_id": "DB09008"
+  },
+  {
+    "name": "Cephalexin",
+    "atc_code": "J01DB01",
+    "drugbank_id": "DB00567"
+  },
+  {
+    "name": "Carbenicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00578"
+  },
+  {
+    "name": "Cyclacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01000"
+  },
+  {
+    "name": "Carindacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB09319"
+  },
+  {
+    "name": "Cloxacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01147"
+  },
+  {
+    "name": "Cloxacillin",
+    "atc_code": "J01CF02",
+    "drugbank_id": "DB01147"
+  },
+  {
+    "name": "Clometocillin",
+    "atc_code": "J01CE07",
+    "drugbank_id": "DB13686"
+  },
+  {
+    "name": "Carindacillin",
+    "atc_code": "J01CA05",
+    "drugbank_id": "DB09319"
+  },
+  {
+    "name": "Carbenicillin",
+    "atc_code": "J01CA03",
+    "drugbank_id": "DB00578"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "J01BA01",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Chlortetracycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB09093"
+  },
+  {
+    "name": "Clomocycline",
+    "atc_code": "J01AA11",
+    "drugbank_id": "DB00453"
+  },
+  {
+    "name": "Chlortetracycline",
+    "atc_code": "J01AA03",
+    "drugbank_id": "DB09093"
+  },
+  {
+    "name": "Crovalimab",
+    "atc_code": "L04AJ07",
+    "drugbank_id": "DB16128"
+  },
+  {
+    "name": "Cyclosporine",
+    "atc_code": "L04AD01",
+    "drugbank_id": "DB00091"
+  },
+  {
+    "name": "Canakinumab",
+    "atc_code": "L04AC08",
+    "drugbank_id": "DB06168"
+  },
+  {
+    "name": "Certolizumab pegol",
+    "atc_code": "L04AB05",
+    "drugbank_id": "DB08904"
+  },
+  {
+    "name": "Cladribine",
+    "atc_code": "L04AA40",
+    "drugbank_id": "DB00242"
+  },
+  {
+    "name": "Cridanimod",
+    "atc_code": "L03AX18",
+    "drugbank_id": "DB13674"
+  },
+  {
+    "name": "Cepeginterferon alfa-2B",
+    "atc_code": "L03AB14",
+    "drugbank_id": "DB12814"
+  },
+  {
+    "name": "Catumaxomab",
+    "atc_code": "L01FX03",
+    "drugbank_id": "DB06607"
+  },
+  {
+    "name": "Cemiplimab",
+    "atc_code": "L01FF06",
+    "drugbank_id": "DB14707"
+  },
+  {
+    "name": "Cetuximab",
+    "atc_code": "L01FE01",
+    "drugbank_id": "DB00002"
+  },
+  {
+    "name": "Capivasertib",
+    "atc_code": "L01EX27",
+    "drugbank_id": "DB12218"
+  },
+  {
+    "name": "Capmatinib",
+    "atc_code": "L01EX17",
+    "drugbank_id": "DB11791"
+  },
+  {
+    "name": "Cabozantinib",
+    "atc_code": "L01EX07",
+    "drugbank_id": "DB08875"
+  },
+  {
+    "name": "Copanlisib",
+    "atc_code": "L01EM02",
+    "drugbank_id": "DB12483"
+  },
+  {
+    "name": "Cediranib",
+    "atc_code": "L01EK02",
+    "drugbank_id": "DB04849"
+  },
+  {
+    "name": "Cobimetinib",
+    "atc_code": "L01EE02",
+    "drugbank_id": "DB05239"
+  },
+  {
+    "name": "Ceritinib",
+    "atc_code": "L01ED02",
+    "drugbank_id": "DB09063"
+  },
+  {
+    "name": "Crizotinib",
+    "atc_code": "L01ED01",
+    "drugbank_id": "DB08865"
+  },
+  {
+    "name": "Ciltacabtagene autoleucel",
+    "atc_code": "L01XL05",
+    "drugbank_id": "DB16738"
+  },
+  {
+    "name": "Carfilzomib",
+    "atc_code": "L01XG02",
+    "drugbank_id": "DB08889"
+  },
+  {
+    "name": "Cytarabine",
+    "atc_code": "L01XY01",
+    "drugbank_id": "DB00987"
+  },
+  {
+    "name": "Calaspargase pegol",
+    "atc_code": "L01XX86",
+    "drugbank_id": "DB14730"
+  },
+  {
+    "name": "Celecoxib",
+    "atc_code": "L01XX33",
+    "drugbank_id": "DB00482"
+  },
+  {
+    "name": "Carboplatin",
+    "atc_code": "L01XA02",
+    "drugbank_id": "DB00958"
+  },
+  {
+    "name": "Cisplatin",
+    "atc_code": "L01XA01",
+    "drugbank_id": "DB00515"
+  },
+  {
+    "name": "Cabazitaxel",
+    "atc_code": "L01CD04",
+    "drugbank_id": "DB06772"
+  },
+  {
+    "name": "Capecitabine",
+    "atc_code": "L01BC06",
+    "drugbank_id": "DB01101"
+  },
+  {
+    "name": "Carmofur",
+    "atc_code": "L01BC04",
+    "drugbank_id": "DB09010"
+  },
+  {
+    "name": "Cytarabine",
+    "atc_code": "L01BC01",
+    "drugbank_id": "DB00987"
+  },
+  {
+    "name": "Clofarabine",
+    "atc_code": "L01BB06",
+    "drugbank_id": "DB00631"
+  },
+  {
+    "name": "Cladribine",
+    "atc_code": "L01BB04",
+    "drugbank_id": "DB00242"
+  },
+  {
+    "name": "Carmustine",
+    "atc_code": "L01AD01",
+    "drugbank_id": "DB00262"
+  },
+  {
+    "name": "Carboquone",
+    "atc_code": "L01AC03",
+    "drugbank_id": "DB13677"
+  },
+  {
+    "name": "Chlorambucil",
+    "atc_code": "L01AA02",
+    "drugbank_id": "DB00291"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "atc_code": "L01AA01",
+    "drugbank_id": "DB00531"
+  },
+  {
+    "name": "Casimersen",
+    "atc_code": "M09AX13",
+    "drugbank_id": "DB14984"
+  },
+  {
+    "name": "Collagenase clostridium histolyticum",
+    "atc_code": "M09AB02",
+    "drugbank_id": "DB00048"
+  },
+  {
+    "name": "Chymopapain",
+    "atc_code": "M09AB01",
+    "drugbank_id": "DB06752"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BX53",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB09",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB08",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "M05BB08",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB07",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB05",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "M05BB05",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "M05BB04",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB04",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Cholecalciferol",
+    "atc_code": "M05BB03",
+    "drugbank_id": "DB00169"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "M05BB02",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Calcium",
+    "atc_code": "M05BB01",
+    "drugbank_id": "DB01373"
+  },
+  {
+    "name": "Clodronic acid",
+    "atc_code": "M05BA02",
+    "drugbank_id": "DB00720"
+  },
+  {
+    "name": "Colchicine",
+    "atc_code": "M04AC51",
+    "drugbank_id": "DB01394"
+  },
+  {
+    "name": "Cinchophen",
+    "atc_code": "M04AC02",
+    "drugbank_id": "DB13551"
+  },
+  {
+    "name": "Colchicine",
+    "atc_code": "M04AC01",
+    "drugbank_id": "DB01394"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "atc_code": "M03BX08",
+    "drugbank_id": "DB00924"
+  },
+  {
+    "name": "Chlorzoxazone",
+    "atc_code": "M03BB73",
+    "drugbank_id": "DB00356"
+  },
+  {
+    "name": "Chlormezanone",
+    "atc_code": "M03BB72",
+    "drugbank_id": "DB01178"
+  },
+  {
+    "name": "Chlorzoxazone",
+    "atc_code": "M03BB53",
+    "drugbank_id": "DB00356"
+  },
+  {
+    "name": "Chlormezanone",
+    "atc_code": "M03BB52",
+    "drugbank_id": "DB01178"
+  },
+  {
+    "name": "Chlorzoxazone",
+    "atc_code": "M03BB03",
+    "drugbank_id": "DB00356"
+  },
+  {
+    "name": "Chlormezanone",
+    "atc_code": "M03BB02",
+    "drugbank_id": "DB01178"
+  },
+  {
+    "name": "Carisoprodol",
+    "atc_code": "M03BA72",
+    "drugbank_id": "DB00395"
+  },
+  {
+    "name": "Carisoprodol",
+    "atc_code": "M03BA52",
+    "drugbank_id": "DB00395"
+  },
+  {
+    "name": "Carisoprodol",
+    "atc_code": "M03BA02",
+    "drugbank_id": "DB00395"
+  },
+  {
+    "name": "Cisatracurium",
+    "atc_code": "M03AC11",
+    "drugbank_id": "DB00565"
+  },
+  {
+    "name": "Capsaicin",
+    "atc_code": "M02AB01",
+    "drugbank_id": "DB06774"
+  },
+  {
+    "name": "Chondroitin sulfate",
+    "atc_code": "M01AX25",
+    "drugbank_id": "DB09301"
+  },
+  {
+    "name": "Celecoxib",
+    "atc_code": "M01AH01",
+    "drugbank_id": "DB00482"
+  },
+  {
+    "name": "Cinnarizine",
+    "atc_code": "N07CA52",
+    "drugbank_id": "DB00568"
+  },
+  {
+    "name": "Cinnarizine",
+    "atc_code": "N07CA02",
+    "drugbank_id": "DB00568"
+  },
+  {
+    "name": "Calcium carbimide",
+    "atc_code": "N07BB02",
+    "drugbank_id": "DB09116"
+  },
+  {
+    "name": "Cevimeline",
+    "atc_code": "N07AX03",
+    "drugbank_id": "DB00185"
+  },
+  {
+    "name": "Choline alfoscerate",
+    "atc_code": "N07AX02",
+    "drugbank_id": "DB04660"
+  },
+  {
+    "name": "Carbamoylcholine",
+    "atc_code": "N07AB01",
+    "drugbank_id": "DB00411"
+  },
+  {
+    "name": "Citicoline",
+    "atc_code": "N06BX06",
+    "drugbank_id": "DB12153"
+  },
+  {
+    "name": "Caffeine",
+    "atc_code": "N06BC01",
+    "drugbank_id": "DB00201"
+  },
+  {
+    "name": "Citalopram",
+    "atc_code": "N06AB04",
+    "drugbank_id": "DB00215"
+  },
+  {
+    "name": "Clomipramine",
+    "atc_code": "N06AA04",
+    "drugbank_id": "DB01242"
+  },
+  {
+    "name": "Clomethiazole",
+    "atc_code": "N05CX04",
+    "drugbank_id": "DB06470"
+  },
+  {
+    "name": "Carbromal",
+    "atc_code": "N05CM04",
+    "drugbank_id": "DB13817"
+  },
+  {
+    "name": "Clomethiazole",
+    "atc_code": "N05CM02",
+    "drugbank_id": "DB06470"
+  },
+  {
+    "name": "Cinolazepam",
+    "atc_code": "N05CD13",
+    "drugbank_id": "DB01594"
+  },
+  {
+    "name": "Chlorhexadol",
+    "atc_code": "N05CC02",
+    "drugbank_id": "DB01534"
+  },
+  {
+    "name": "Chloral hydrate",
+    "atc_code": "N05CC01",
+    "drugbank_id": "DB01563"
+  },
+  {
+    "name": "Cyclobarbital",
+    "atc_code": "N05CA10",
+    "drugbank_id": "DB13737"
+  },
+  {
+    "name": "Captodiame",
+    "atc_code": "N05BB02",
+    "drugbank_id": "DB09014"
+  },
+  {
+    "name": "Cloxazolam",
+    "atc_code": "N05BA22",
+    "drugbank_id": "DB01553"
+  },
+  {
+    "name": "Clotiazepam",
+    "atc_code": "N05BA21",
+    "drugbank_id": "DB01559"
+  },
+  {
+    "name": "Camazepam",
+    "atc_code": "N05BA15",
+    "drugbank_id": "DB01489"
+  },
+  {
+    "name": "Clobazam",
+    "atc_code": "N05BA09",
+    "drugbank_id": "DB00349"
+  },
+  {
+    "name": "Clorazepic acid",
+    "atc_code": "N05BA05",
+    "drugbank_id": "DB00628"
+  },
+  {
+    "name": "Chlordiazepoxide",
+    "atc_code": "N05BA02",
+    "drugbank_id": "DB00475"
+  },
+  {
+    "name": "Cariprazine",
+    "atc_code": "N05AX15",
+    "drugbank_id": "DB06016"
+  },
+  {
+    "name": "Clothiapine",
+    "atc_code": "N05AH06",
+    "drugbank_id": "DB13256"
+  },
+  {
+    "name": "Clozapine",
+    "atc_code": "N05AH02",
+    "drugbank_id": "DB00363"
+  },
+  {
+    "name": "Chlorprothixene",
+    "atc_code": "N05AF03",
+    "drugbank_id": "DB01239"
+  },
+  {
+    "name": "Clopenthixol",
+    "atc_code": "N05AF02",
+    "drugbank_id": "DB13841"
+  },
+  {
+    "name": "Chlorproethazine",
+    "atc_code": "N05AA07",
+    "drugbank_id": "DB13382"
+  },
+  {
+    "name": "Cyamemazine",
+    "atc_code": "N05AA06",
+    "drugbank_id": "DB09000"
+  },
+  {
+    "name": "Chlorpromazine",
+    "atc_code": "N05AA01",
+    "drugbank_id": "DB00477"
+  },
+  {
+    "name": "Cabergoline",
+    "atc_code": "N04BC06",
+    "drugbank_id": "DB00248"
+  },
+  {
+    "name": "Cenobamate",
+    "atc_code": "N03AX25",
+    "drugbank_id": "DB06119"
+  },
+  {
+    "name": "Cannabidiol",
+    "atc_code": "N03AX24",
+    "drugbank_id": "DB09061"
+  },
+  {
+    "name": "Carisbamate",
+    "atc_code": "N03AX19",
+    "drugbank_id": "DB12338"
+  },
+  {
+    "name": "Carbamazepine",
+    "atc_code": "N03AF01",
+    "drugbank_id": "DB00564"
+  },
+  {
+    "name": "Clonazepam",
+    "atc_code": "N03AE01",
+    "drugbank_id": "DB01068"
+  },
+  {
+    "name": "Carbaspirin calcium",
+    "atc_code": "N02BA15",
+    "drugbank_id": "DB13612"
+  },
+  {
+    "name": "Choline salicylate",
+    "atc_code": "N02BA03",
+    "drugbank_id": "DB14006"
+  },
+  {
+    "name": "Celecoxib",
+    "atc_code": "N02AJ16",
+    "drugbank_id": "DB00482"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "N02AJ08",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "N02AJ07",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "N02AJ06",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "N02AA79",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "N02AA59",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Capsaicin",
+    "atc_code": "N01BX04",
+    "drugbank_id": "DB06774"
+  },
+  {
+    "name": "Cocaine",
+    "atc_code": "N01BC01",
+    "drugbank_id": "DB00907"
+  },
+  {
+    "name": "Cinchocaine",
+    "atc_code": "N01BB06",
+    "drugbank_id": "DB00527"
+  },
+  {
+    "name": "Chloroprocaine",
+    "atc_code": "N01BA04",
+    "drugbank_id": "DB01161"
+  },
+  {
+    "name": "Chloroform",
+    "atc_code": "N01AB02",
+    "drugbank_id": "DB11387"
+  },
+  {
+    "name": "Cypermethrin",
+    "atc_code": "P03BA02",
+    "drugbank_id": "DB13721"
+  },
+  {
+    "name": "Cyfluthrin",
+    "atc_code": "P03BA01",
+    "drugbank_id": "DB13828"
+  },
+  {
+    "name": "Clofenotane",
+    "atc_code": "P03AB51",
+    "drugbank_id": "DB13424"
+  },
+  {
+    "name": "Clofenotane",
+    "atc_code": "P03AB01",
+    "drugbank_id": "DB13424"
+  },
+  {
+    "name": "Ciclobendazole",
+    "atc_code": "P02CA04",
+    "drugbank_id": "DB13465"
+  },
+  {
+    "name": "Chloroquine",
+    "atc_code": "P01BB52",
+    "drugbank_id": "DB00608"
+  },
+  {
+    "name": "Cycloguanil",
+    "atc_code": "P01BB02",
+    "drugbank_id": "DB14763"
+  },
+  {
+    "name": "Chloroquine",
+    "atc_code": "P01BA01",
+    "drugbank_id": "DB00608"
+  },
+  {
+    "name": "Chiniofon",
+    "atc_code": "P01AX01",
+    "drugbank_id": "DB13379"
+  },
+  {
+    "name": "Clefamide",
+    "atc_code": "P01AC02",
+    "drugbank_id": "DB13512"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "P01AA52",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Chlorquinaldol",
+    "atc_code": "P01AA04",
+    "drugbank_id": "DB13306"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "P01AA02",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Colfosceril palmitate",
+    "atc_code": "R07AA01",
+    "drugbank_id": "DB09114"
+  },
+  {
+    "name": "Cyproheptadine",
+    "atc_code": "R06AX02",
+    "drugbank_id": "DB00434"
+  },
+  {
+    "name": "Cyclizine",
+    "atc_code": "R06AE53",
+    "drugbank_id": "DB01176"
+  },
+  {
+    "name": "Cetirizine",
+    "atc_code": "R06AE07",
+    "drugbank_id": "DB00341"
+  },
+  {
+    "name": "Chlorcyclizine",
+    "atc_code": "R06AE04",
+    "drugbank_id": "DB08936"
+  },
+  {
+    "name": "Cyclizine",
+    "atc_code": "R06AE03",
+    "drugbank_id": "DB01176"
+  },
+  {
+    "name": "Chloropyramine",
+    "atc_code": "R06AC53",
+    "drugbank_id": "DB08800"
+  },
+  {
+    "name": "Chloropyramine",
+    "atc_code": "R06AC03",
+    "drugbank_id": "DB08800"
+  },
+  {
+    "name": "Chlorpheniramine",
+    "atc_code": "R06AB54",
+    "drugbank_id": "DB01114"
+  },
+  {
+    "name": "Chlorpheniramine",
+    "atc_code": "R06AB04",
+    "drugbank_id": "DB01114"
+  },
+  {
+    "name": "Chlorphenoxamine",
+    "atc_code": "R06AA56",
+    "drugbank_id": "DB09007"
+  },
+  {
+    "name": "Clemastine",
+    "atc_code": "R06AA54",
+    "drugbank_id": "DB00283"
+  },
+  {
+    "name": "Carbinoxamine",
+    "atc_code": "R06AA08",
+    "drugbank_id": "DB00748"
+  },
+  {
+    "name": "Chlorphenoxamine",
+    "atc_code": "R06AA06",
+    "drugbank_id": "DB09007"
+  },
+  {
+    "name": "Clemastine",
+    "atc_code": "R06AA04",
+    "drugbank_id": "DB00283"
+  },
+  {
+    "name": "Cloperastine",
+    "atc_code": "R05DB21",
+    "drugbank_id": "DB09002"
+  },
+  {
+    "name": "Clofedanol",
+    "atc_code": "R05DB10",
+    "drugbank_id": "DB04837"
+  },
+  {
+    "name": "Clobutinol",
+    "atc_code": "R05DB03",
+    "drugbank_id": "DB09004"
+  },
+  {
+    "name": "Codeine",
+    "atc_code": "R05DA04",
+    "drugbank_id": "DB00318"
+  },
+  {
+    "name": "Coenzyme M",
+    "atc_code": "R05CB05",
+    "drugbank_id": "DB09110"
+  },
+  {
+    "name": "Carbocisteine",
+    "atc_code": "R05CB03",
+    "drugbank_id": "DB04339"
+  },
+  {
+    "name": "Caffeine",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB00201"
+  },
+  {
+    "name": "Clenbuterol",
+    "atc_code": "R03CC63",
+    "drugbank_id": "DB01407"
+  },
+  {
+    "name": "Clenbuterol",
+    "atc_code": "R03CC13",
+    "drugbank_id": "DB01407"
+  },
+  {
+    "name": "Carbuterol",
+    "atc_code": "R03CC10",
+    "drugbank_id": "DB13625"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "R03BC01",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Ciclesonide",
+    "atc_code": "R03BA08",
+    "drugbank_id": "DB01410"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "R03AK05",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "R03AK04",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Clenbuterol",
+    "atc_code": "R03AC14",
+    "drugbank_id": "DB01407"
+  },
+  {
+    "name": "Carbuterol",
+    "atc_code": "R03AC10",
+    "drugbank_id": "DB13625"
+  },
+  {
+    "name": "Cocaine",
+    "atc_code": "R02AD03",
+    "drugbank_id": "DB00907"
+  },
+  {
+    "name": "Cetrimonium",
+    "atc_code": "R02AA17",
+    "drugbank_id": "DB01718"
+  },
+  {
+    "name": "Chlorquinaldol",
+    "atc_code": "R02AA11",
+    "drugbank_id": "DB13306"
+  },
+  {
+    "name": "Cetylpyridinium",
+    "atc_code": "R02AA06",
+    "drugbank_id": "DB11073"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "R02AA05",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Ciclesonide",
+    "atc_code": "R01AD13",
+    "drugbank_id": "DB01410"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "R01AC51",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "R01AC01",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cyclopentamine",
+    "atc_code": "R01AA02",
+    "drugbank_id": "DB08999"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "S03AA08",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "S03AA07",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "S03AA04",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Cinchocaine",
+    "atc_code": "S02DA04",
+    "drugbank_id": "DB00527"
+  },
+  {
+    "name": "Cocaine",
+    "atc_code": "S02DA02",
+    "drugbank_id": "DB00907"
+  },
+  {
+    "name": "Cefmenoxime",
+    "atc_code": "S02AA18",
+    "drugbank_id": "DB00267"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "S02AA15",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "S02AA09",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Clioquinol",
+    "atc_code": "S02AA05",
+    "drugbank_id": "DB04815"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "S02AA01",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Cenegermin",
+    "atc_code": "S01XA24",
+    "drugbank_id": "DB13926"
+  },
+  {
+    "name": "Cysteamine",
+    "atc_code": "S01XA21",
+    "drugbank_id": "DB00847"
+  },
+  {
+    "name": "Cyclosporine",
+    "atc_code": "S01XA18",
+    "drugbank_id": "DB00091"
+  },
+  {
+    "name": "Chymotrypsin",
+    "atc_code": "S01KX01",
+    "drugbank_id": "DB09375"
+  },
+  {
+    "name": "Chloroprocaine",
+    "atc_code": "S01HA08",
+    "drugbank_id": "DB01161"
+  },
+  {
+    "name": "Cinchocaine",
+    "atc_code": "S01HA06",
+    "drugbank_id": "DB00527"
+  },
+  {
+    "name": "Cocaine",
+    "atc_code": "S01HA01",
+    "drugbank_id": "DB00907"
+  },
+  {
+    "name": "Cetirizine",
+    "atc_code": "S01GX12",
+    "drugbank_id": "DB00341"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "S01GX51",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cromoglicic acid",
+    "atc_code": "S01GX01",
+    "drugbank_id": "DB01003"
+  },
+  {
+    "name": "Cyclopentolate",
+    "atc_code": "S01FA54",
+    "drugbank_id": "DB00979"
+  },
+  {
+    "name": "Cyclopentolate",
+    "atc_code": "S01FA04",
+    "drugbank_id": "DB00979"
+  },
+  {
+    "name": "Carteolol",
+    "atc_code": "S01ED55",
+    "drugbank_id": "DB00521"
+  },
+  {
+    "name": "Carteolol",
+    "atc_code": "S01ED05",
+    "drugbank_id": "DB00521"
+  },
+  {
+    "name": "Carbamoylcholine",
+    "atc_code": "S01EB02",
+    "drugbank_id": "DB00411"
+  },
+  {
+    "name": "Clonidine",
+    "atc_code": "S01EA04",
+    "drugbank_id": "DB00575"
+  },
+  {
+    "name": "Clobetasone",
+    "atc_code": "S01CA11",
+    "drugbank_id": "DB13158"
+  },
+  {
+    "name": "Chloroprednisone",
+    "atc_code": "S01CA09",
+    "drugbank_id": "DB15970"
+  },
+  {
+    "name": "Clobetasone",
+    "atc_code": "S01BA09",
+    "drugbank_id": "DB13158"
+  },
+  {
+    "name": "Cortisone",
+    "atc_code": "S01BA03",
+    "drugbank_id": "DB14681"
+  },
+  {
+    "name": "Chlorhexidine",
+    "atc_code": "S01AX09",
+    "drugbank_id": "DB00878"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "atc_code": "S01AE03",
+    "drugbank_id": "DB00537"
+  },
+  {
+    "name": "Cefmenoxime",
+    "atc_code": "S01AA31",
+    "drugbank_id": "DB00267"
+  },
+  {
+    "name": "Cefuroxime",
+    "atc_code": "S01AA27",
+    "drugbank_id": "DB01112"
+  },
+  {
+    "name": "Chlortetracycline",
+    "atc_code": "S01AA02",
+    "drugbank_id": "DB09093"
+  },
+  {
+    "name": "Chloramphenicol",
+    "atc_code": "S01AA01",
+    "drugbank_id": "DB00446"
+  },
+  {
+    "name": "Capromab pendetide",
+    "atc_code": "V09IB04",
+    "drugbank_id": "DB00089"
+  },
+  {
+    "name": "Carbon monoxide",
+    "atc_code": "V04CX08",
+    "drugbank_id": "DB11588"
+  },
+  {
+    "name": "Cholecystokinin",
+    "atc_code": "V04CK02",
+    "drugbank_id": "DB08862"
+  },
+  {
+    "name": "Caffeine",
+    "atc_code": "V04CG30",
+    "drugbank_id": "DB00201"
+  },
+  {
+    "name": "Corticorelin",
+    "atc_code": "V04CD04",
+    "drugbank_id": "DB05394"
+  },
+  {
+    "name": "Ceruletide",
+    "atc_code": "V04CC04",
+    "drugbank_id": "DB00403"
+  },
+  {
+    "name": "Cobicistat",
+    "atc_code": "V03AX03",
+    "drugbank_id": "DB09065"
+  },
+  {
+    "name": "Carbon dioxide",
+    "atc_code": "V03AN02",
+    "drugbank_id": "DB09157"
+  },
+  {
+    "name": "Coenzyme M",
+    "atc_code": "V03AF01",
+    "drugbank_id": "DB09110"
+  },
+  {
+    "name": "Calcium acetate",
+    "atc_code": "V03AE07",
+    "drugbank_id": "DB00258"
+  },
+  {
+    "name": "Colestilan chloride",
+    "atc_code": "V03AE06",
+    "drugbank_id": "DB11634"
+  },
+  {
+    "name": "Calcium acetate",
+    "atc_code": "V03AE04",
+    "drugbank_id": "DB00258"
+  },
+  {
+    "name": "Cupric sulfate",
+    "atc_code": "V03AB20",
+    "drugbank_id": "DB06778"
+  }
+]

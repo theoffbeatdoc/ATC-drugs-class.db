@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Leriglitazone",
+    "atc_code": "A16AX23",
+    "drugbank_id": "DB15021"
+  },
+  {
+    "name": "Lonafarnib",
+    "atc_code": "A16AX20",
+    "drugbank_id": "DB06448"
+  },
+  {
+    "name": "Lumasiran",
+    "atc_code": "A16AX18",
+    "drugbank_id": "DB15935"
+  },
+  {
+    "name": "Lipoic acid",
+    "atc_code": "A16AX01",
+    "drugbank_id": "DB00166"
+  },
+  {
+    "name": "Laronidase",
+    "atc_code": "A16AB05",
+    "drugbank_id": "DB00090"
+  },
+  {
+    "name": "L-Glutamine",
+    "atc_code": "A16AA03",
+    "drugbank_id": "DB00130"
+  },
+  {
+    "name": "Levocarnitine",
+    "atc_code": "A16AA01",
+    "drugbank_id": "DB00583"
+  },
+  {
+    "name": "Luseogliflozin",
+    "atc_code": "A10BK07",
+    "drugbank_id": "DB12214"
+  },
+  {
+    "name": "Lixisenatide",
+    "atc_code": "A10BJ03",
+    "drugbank_id": "DB09265"
+  },
+  {
+    "name": "Liraglutide",
+    "atc_code": "A10BJ02",
+    "drugbank_id": "DB06655"
+  },
+  {
+    "name": "Linagliptin",
+    "atc_code": "A10BH05",
+    "drugbank_id": "DB08882"
+  },
+  {
+    "name": "Lobeglitazone",
+    "atc_code": "A10BG04",
+    "drugbank_id": "DB09198"
+  },
+  {
+    "name": "Linagliptin",
+    "atc_code": "A10BD27",
+    "drugbank_id": "DB08882"
+  },
+  {
+    "name": "Lobeglitazone",
+    "atc_code": "A10BD26",
+    "drugbank_id": "DB09198"
+  },
+  {
+    "name": "Linagliptin",
+    "atc_code": "A10BD19",
+    "drugbank_id": "DB08882"
+  },
+  {
+    "name": "Linagliptin",
+    "atc_code": "A10BD11",
+    "drugbank_id": "DB08882"
+  },
+  {
+    "name": "Lixisenatide",
+    "atc_code": "A10AE54",
+    "drugbank_id": "DB09265"
+  },
+  {
+    "name": "Liraglutide",
+    "atc_code": "A10AE56",
+    "drugbank_id": "DB06655"
+  },
+  {
+    "name": "Lorcaserin",
+    "atc_code": "A08AA11",
+    "drugbank_id": "DB04871"
+  },
+  {
+    "name": "Loperamide",
+    "atc_code": "A07DA53",
+    "drugbank_id": "DB00836"
+  },
+  {
+    "name": "Loperamide oxide",
+    "atc_code": "A07DA05",
+    "drugbank_id": "DB14661"
+  },
+  {
+    "name": "Loperamide",
+    "atc_code": "A07DA03",
+    "drugbank_id": "DB00836"
+  },
+  {
+    "name": "Linaclotide",
+    "atc_code": "A06AX04",
+    "drugbank_id": "DB08890"
+  },
+  {
+    "name": "Lubiprostone",
+    "atc_code": "A06AX03",
+    "drugbank_id": "DB01046"
+  },
+  {
+    "name": "Lactulose",
+    "atc_code": "A06AD61",
+    "drugbank_id": "DB00581"
+  },
+  {
+    "name": "Lactitol",
+    "atc_code": "A06AD12",
+    "drugbank_id": "DB12942"
+  },
+  {
+    "name": "Lactulose",
+    "atc_code": "A06AD11",
+    "drugbank_id": "DB00581"
+  },
+  {
+    "name": "Levofloxacin",
+    "atc_code": "A02BD10",
+    "drugbank_id": "DB01137"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BD10",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BD09",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BD07",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BD03",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BD02",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BC53",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lansoprazole",
+    "atc_code": "A02BC03",
+    "drugbank_id": "DB00448"
+  },
+  {
+    "name": "Lafutidine",
+    "atc_code": "A02BA08",
+    "drugbank_id": "DB12770"
+  },
+  {
+    "name": "Lanadelumab",
+    "atc_code": "B06AC05",
+    "drugbank_id": "DB14597"
+  },
+  {
+    "name": "Lysine",
+    "atc_code": "B05XB03",
+    "drugbank_id": "DB00123"
+  },
+  {
+    "name": "Luspatercept",
+    "atc_code": "B03XA06",
+    "drugbank_id": "DB12281"
+  },
+  {
+    "name": "Lusutrombopag",
+    "atc_code": "B02BX07",
+    "drugbank_id": "DB13125"
+  },
+  {
+    "name": "Lepirudin",
+    "atc_code": "B01AE02",
+    "drugbank_id": "DB00001"
+  },
+  {
+    "name": "Limaprost",
+    "atc_code": "B01AC28",
+    "drugbank_id": "DB09211"
+  },
+  {
+    "name": "Lisinopril",
+    "atc_code": "C10BX07",
+    "drugbank_id": "DB00722"
+  },
+  {
+    "name": "Lovastatin",
+    "atc_code": "C10BA01",
+    "drugbank_id": "DB00227"
+  },
+  {
+    "name": "Lomitapide",
+    "atc_code": "C10AX12",
+    "drugbank_id": "DB08827"
+  },
+  {
+    "name": "Lovastatin",
+    "atc_code": "C10AA02",
+    "drugbank_id": "DB00227"
+  },
+  {
+    "name": "Lercanidipine",
+    "atc_code": "C09DB08",
+    "drugbank_id": "DB00528"
+  },
+  {
+    "name": "Losartan",
+    "atc_code": "C09DB06",
+    "drugbank_id": "DB00678"
+  },
+  {
+    "name": "Losartan",
+    "atc_code": "C09DA01",
+    "drugbank_id": "DB00678"
+  },
+  {
+    "name": "Losartan",
+    "atc_code": "C09CA01",
+    "drugbank_id": "DB00678"
+  },
+  {
+    "name": "Lisinopril",
+    "atc_code": "C09BB03",
+    "drugbank_id": "DB00722"
+  },
+  {
+    "name": "Lercanidipine",
+    "atc_code": "C09BB02",
+    "drugbank_id": "DB00528"
+  },
+  {
+    "name": "Lisinopril",
+    "atc_code": "C09BA03",
+    "drugbank_id": "DB00722"
+  },
+  {
+    "name": "Lisinopril",
+    "atc_code": "C09AA03",
+    "drugbank_id": "DB00722"
+  },
+  {
+    "name": "Lidoflazine",
+    "atc_code": "C08EX01",
+    "drugbank_id": "DB13766"
+  },
+  {
+    "name": "Levamlodipine",
+    "atc_code": "C08CA17",
+    "drugbank_id": "DB09237"
+  },
+  {
+    "name": "Lercanidipine",
+    "atc_code": "C08CA13",
+    "drugbank_id": "DB00528"
+  },
+  {
+    "name": "Lacidipine",
+    "atc_code": "C08CA09",
+    "drugbank_id": "DB09236"
+  },
+  {
+    "name": "Labetalol",
+    "atc_code": "C07CG01",
+    "drugbank_id": "DB00598"
+  },
+  {
+    "name": "Labetalol",
+    "atc_code": "C07BG01",
+    "drugbank_id": "DB00598"
+  },
+  {
+    "name": "Labetalol",
+    "atc_code": "C07AG01",
+    "drugbank_id": "DB00598"
+  },
+  {
+    "name": "Landiolol",
+    "atc_code": "C07AB14",
+    "drugbank_id": "DB12212"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "C05AD01",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Linsidomine",
+    "atc_code": "C01DX18",
+    "drugbank_id": "DB13400"
+  },
+  {
+    "name": "Levosimendan",
+    "atc_code": "C01CX08",
+    "drugbank_id": "DB00922"
+  },
+  {
+    "name": "Lorcainide",
+    "atc_code": "C01BC07",
+    "drugbank_id": "DB13653"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "C01BB01",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Lorajmine",
+    "atc_code": "C01BA12",
+    "drugbank_id": "DB13651"
+  },
+  {
+    "name": "Lanatoside C",
+    "atc_code": "C01AA06",
+    "drugbank_id": "DB13467"
+  },
+  {
+    "name": "Lithium succinate",
+    "atc_code": "D11AX04",
+    "drugbank_id": "DB14508"
+  },
+  {
+    "name": "Lebrikizumab",
+    "atc_code": "D11AH10",
+    "drugbank_id": "DB11914"
+  },
+  {
+    "name": "Lysozyme",
+    "atc_code": "D06BB07",
+    "drugbank_id": "DB13260"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "D04AB01",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Luliconazole",
+    "atc_code": "D01AC18",
+    "drugbank_id": "DB08933"
+  },
+  {
+    "name": "Lasofoxifene",
+    "atc_code": "G03XC03",
+    "drugbank_id": "DB06202"
+  },
+  {
+    "name": "Lutropin alfa",
+    "atc_code": "G03GA07",
+    "drugbank_id": "DB00044"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03FB09",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03FB02",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03FA11",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03FA07",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03DC03",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03AD01",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03AC03",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03AC02",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03AB03",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03AB02",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Levonorgestrel",
+    "atc_code": "G03AA07",
+    "drugbank_id": "DB00367"
+  },
+  {
+    "name": "Lynestrenol",
+    "atc_code": "G03AA03",
+    "drugbank_id": "DB12474"
+  },
+  {
+    "name": "Lisuride",
+    "atc_code": "G02CB02",
+    "drugbank_id": "DB00589"
+  },
+  {
+    "name": "Lactic acid",
+    "atc_code": "G01AD01",
+    "drugbank_id": "DB04398"
+  },
+  {
+    "name": "Levothyroxine",
+    "atc_code": "H03AA51",
+    "drugbank_id": "DB00451"
+  },
+  {
+    "name": "Liothyronine",
+    "atc_code": "H03AA03",
+    "drugbank_id": "DB00279"
+  },
+  {
+    "name": "Liothyronine",
+    "atc_code": "H03AA02",
+    "drugbank_id": "DB00279"
+  },
+  {
+    "name": "Levothyroxine",
+    "atc_code": "H03AA01",
+    "drugbank_id": "DB00451"
+  },
+  {
+    "name": "Levoketoconazole",
+    "atc_code": "H02CA04",
+    "drugbank_id": "DB05667"
+  },
+  {
+    "name": "Linzagolix",
+    "atc_code": "H01CC04",
+    "drugbank_id": "DB17083"
+  },
+  {
+    "name": "Lanreotide",
+    "atc_code": "H01CB03",
+    "drugbank_id": "DB06791"
+  },
+  {
+    "name": "Lypressin",
+    "atc_code": "H01BA03",
+    "drugbank_id": "DB14642"
+  },
+  {
+    "name": "Lonapegsomatropin",
+    "atc_code": "H01AC09",
+    "drugbank_id": "DB16220"
+  },
+  {
+    "name": "Ledipasvir",
+    "atc_code": "J05AP51",
+    "drugbank_id": "DB09027"
+  },
+  {
+    "name": "Lenacapavir",
+    "atc_code": "J05AX31",
+    "drugbank_id": "DB15673"
+  },
+  {
+    "name": "Letermovir",
+    "atc_code": "J05AX18",
+    "drugbank_id": "DB12070"
+  },
+  {
+    "name": "Lysozyme",
+    "atc_code": "J05AX02",
+    "drugbank_id": "DB13260"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR28",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR27",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR25",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR24",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR16",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR13",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR12",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR11",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lopinavir",
+    "atc_code": "J05AR10",
+    "drugbank_id": "DB01601"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR07",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR05",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR04",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR02",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AR01",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Laninamivir",
+    "atc_code": "J05AH04",
+    "drugbank_id": "DB12791"
+  },
+  {
+    "name": "Lamivudine",
+    "atc_code": "J05AF05",
+    "drugbank_id": "DB00709"
+  },
+  {
+    "name": "Levofloxacin",
+    "atc_code": "J04AM12",
+    "drugbank_id": "DB01137"
+  },
+  {
+    "name": "Lomefloxacin",
+    "atc_code": "J04AM10",
+    "drugbank_id": "DB00978"
+  },
+  {
+    "name": "Lomefloxacin",
+    "atc_code": "J04AM09",
+    "drugbank_id": "DB00978"
+  },
+  {
+    "name": "Lefamulin",
+    "atc_code": "J01XX12",
+    "drugbank_id": "DB12825"
+  },
+  {
+    "name": "Linezolid",
+    "atc_code": "J01XX08",
+    "drugbank_id": "DB00601"
+  },
+  {
+    "name": "Levofloxacin",
+    "atc_code": "J01RA05",
+    "drugbank_id": "DB01137"
+  },
+  {
+    "name": "Levonadifloxacin",
+    "atc_code": "J01MA24",
+    "drugbank_id": "DB16219"
+  },
+  {
+    "name": "Levofloxacin",
+    "atc_code": "J01MA12",
+    "drugbank_id": "DB01137"
+  },
+  {
+    "name": "Lomefloxacin",
+    "atc_code": "J01MA07",
+    "drugbank_id": "DB00978"
+  },
+  {
+    "name": "Lincomycin",
+    "atc_code": "J01FF02",
+    "drugbank_id": "DB01627"
+  },
+  {
+    "name": "Latamoxef",
+    "atc_code": "J01DD06",
+    "drugbank_id": "DB04570"
+  },
+  {
+    "name": "Loracarbef",
+    "atc_code": "J01DC08",
+    "drugbank_id": "DB00447"
+  },
+  {
+    "name": "Lymecycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00256"
+  },
+  {
+    "name": "Lymecycline",
+    "atc_code": "J01AA04",
+    "drugbank_id": "DB00256"
+  },
+  {
+    "name": "Leflunomide",
+    "atc_code": "L04AK01",
+    "drugbank_id": "DB01097"
+  },
+  {
+    "name": "Lenalidomide",
+    "atc_code": "L04AX04",
+    "drugbank_id": "DB00480"
+  },
+  {
+    "name": "Levilimab",
+    "atc_code": "L04AC25",
+    "drugbank_id": "DB16387"
+  },
+  {
+    "name": "Leniolisib",
+    "atc_code": "L03AX22",
+    "drugbank_id": "DB16217"
+  },
+  {
+    "name": "Lentinan",
+    "atc_code": "L03AX01",
+    "drugbank_id": "DB13480"
+  },
+  {
+    "name": "Lipegfilgrastim",
+    "atc_code": "L03AA14",
+    "drugbank_id": "DB13200"
+  },
+  {
+    "name": "Lenograstim",
+    "atc_code": "L03AA10",
+    "drugbank_id": "DB13144"
+  },
+  {
+    "name": "Letrozole",
+    "atc_code": "L02BG04",
+    "drugbank_id": "DB01006"
+  },
+  {
+    "name": "Leuprolide",
+    "atc_code": "L02AE51",
+    "drugbank_id": "DB00007"
+  },
+  {
+    "name": "Leuprolide",
+    "atc_code": "L02AE02",
+    "drugbank_id": "DB00007"
+  },
+  {
+    "name": "Loncastuximab tesirine",
+    "atc_code": "L01FX22",
+    "drugbank_id": "DB16222"
+  },
+  {
+    "name": "Larotrectinib",
+    "atc_code": "L01EX12",
+    "drugbank_id": "DB14723"
+  },
+  {
+    "name": "Lenvatinib",
+    "atc_code": "L01EX08",
+    "drugbank_id": "DB09078"
+  },
+  {
+    "name": "Lapatinib",
+    "atc_code": "L01EH01",
+    "drugbank_id": "DB01259"
+  },
+  {
+    "name": "Lorlatinib",
+    "atc_code": "L01ED05",
+    "drugbank_id": "DB12130"
+  },
+  {
+    "name": "Lazertinib",
+    "atc_code": "L01EB09",
+    "drugbank_id": "DB16216"
+  },
+  {
+    "name": "Lifileucel",
+    "atc_code": "L01XL11",
+    "drugbank_id": "DB17107"
+  },
+  {
+    "name": "Lisocabtagene maraleucel",
+    "atc_code": "L01XL08",
+    "drugbank_id": "DB16582"
+  },
+  {
+    "name": "Lurbinectedin",
+    "atc_code": "L01XX69",
+    "drugbank_id": "DB12674"
+  },
+  {
+    "name": "Lonidamine",
+    "atc_code": "L01XX07",
+    "drugbank_id": "DB06266"
+  },
+  {
+    "name": "Lomustine",
+    "atc_code": "L01AD02",
+    "drugbank_id": "DB01206"
+  },
+  {
+    "name": "Lesinurad",
+    "atc_code": "M04AB05",
+    "drugbank_id": "DB11560"
+  },
+  {
+    "name": "Loxoprofen",
+    "atc_code": "M02AA31",
+    "drugbank_id": "DB09212"
+  },
+  {
+    "name": "Lumiracoxib",
+    "atc_code": "M01AH06",
+    "drugbank_id": "DB01283"
+  },
+  {
+    "name": "Loxoprofen",
+    "atc_code": "M01AE19",
+    "drugbank_id": "DB09212"
+  },
+  {
+    "name": "Lornoxicam",
+    "atc_code": "M01AC05",
+    "drugbank_id": "DB06725"
+  },
+  {
+    "name": "Lonazolac",
+    "atc_code": "M01AB09",
+    "drugbank_id": "DB13432"
+  },
+  {
+    "name": "Laquinimod",
+    "atc_code": "N07XX10",
+    "drugbank_id": "DB06685"
+  },
+  {
+    "name": "Levomethadone",
+    "atc_code": "N07BC05",
+    "drugbank_id": "DB13515"
+  },
+  {
+    "name": "Lofexidine",
+    "atc_code": "N07BC04",
+    "drugbank_id": "DB04948"
+  },
+  {
+    "name": "Levacetylmethadol",
+    "atc_code": "N07BC03",
+    "drugbank_id": "DB01227"
+  },
+  {
+    "name": "Lecanemab",
+    "atc_code": "N06DX04",
+    "drugbank_id": "DB14580"
+  },
+  {
+    "name": "Linopirdine",
+    "atc_code": "N06BX09",
+    "drugbank_id": "DB13806"
+  },
+  {
+    "name": "Lisdexamfetamine",
+    "atc_code": "N06BA12",
+    "drugbank_id": "DB01255"
+  },
+  {
+    "name": "Levomilnacipran",
+    "atc_code": "N06AX28",
+    "drugbank_id": "DB08918"
+  },
+  {
+    "name": "Lofepramine",
+    "atc_code": "N06AA07",
+    "drugbank_id": "DB13411"
+  },
+  {
+    "name": "Lemborexant",
+    "atc_code": "N05CJ02",
+    "drugbank_id": "DB11951"
+  },
+  {
+    "name": "Loprazolam",
+    "atc_code": "N05CD11",
+    "drugbank_id": "DB13643"
+  },
+  {
+    "name": "Lormetazepam",
+    "atc_code": "N05CD06",
+    "drugbank_id": "DB13872"
+  },
+  {
+    "name": "Lavender oil",
+    "atc_code": "N05BX05",
+    "drugbank_id": "DB14566"
+  },
+  {
+    "name": "Lorazepam",
+    "atc_code": "N05BA56",
+    "drugbank_id": "DB00186"
+  },
+  {
+    "name": "Lorazepam",
+    "atc_code": "N05BA06",
+    "drugbank_id": "DB00186"
+  },
+  {
+    "name": "Levosulpiride",
+    "atc_code": "N05AL07",
+    "drugbank_id": "DB16021"
+  },
+  {
+    "name": "Loxapine",
+    "atc_code": "N05AH01",
+    "drugbank_id": "DB00408"
+  },
+  {
+    "name": "Lurasidone",
+    "atc_code": "N05AE05",
+    "drugbank_id": "DB08815"
+  },
+  {
+    "name": "Lumateperone",
+    "atc_code": "N05AD10",
+    "drugbank_id": "DB06077"
+  },
+  {
+    "name": "Levodopa",
+    "atc_code": "N04BA03",
+    "drugbank_id": "DB01235"
+  },
+  {
+    "name": "Levodopa",
+    "atc_code": "N04BA02",
+    "drugbank_id": "DB01235"
+  },
+  {
+    "name": "Levodopa",
+    "atc_code": "N04BA01",
+    "drugbank_id": "DB01235"
+  },
+  {
+    "name": "Lacosamide",
+    "atc_code": "N03AX18",
+    "drugbank_id": "DB06218"
+  },
+  {
+    "name": "Levetiracetam",
+    "atc_code": "N03AX14",
+    "drugbank_id": "DB01202"
+  },
+  {
+    "name": "Lamotrigine",
+    "atc_code": "N03AX09",
+    "drugbank_id": "DB00555"
+  },
+  {
+    "name": "Lasmiditan",
+    "atc_code": "N02CC08",
+    "drugbank_id": "DB11732"
+  },
+  {
+    "name": "Lisuride",
+    "atc_code": "N02CA07",
+    "drugbank_id": "DB00589"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "N01BB52",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Levobupivacaine",
+    "atc_code": "N01BB10",
+    "drugbank_id": "DB01002"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "N01BB02",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Lindane",
+    "atc_code": "P03AB02",
+    "drugbank_id": "DB00431"
+  },
+  {
+    "name": "Levamisole",
+    "atc_code": "P02CE01",
+    "drugbank_id": "DB00848"
+  },
+  {
+    "name": "Lumefantrine",
+    "atc_code": "P01BF01",
+    "drugbank_id": "DB06708"
+  },
+  {
+    "name": "Lumacaftor",
+    "atc_code": "R07AX30",
+    "drugbank_id": "DB09280"
+  },
+  {
+    "name": "Loratadine",
+    "atc_code": "R06AX13",
+    "drugbank_id": "DB00455"
+  },
+  {
+    "name": "Levocetirizine",
+    "atc_code": "R06AE09",
+    "drugbank_id": "DB06282"
+  },
+  {
+    "name": "Levodropropizine",
+    "atc_code": "R05DB27",
+    "drugbank_id": "DB12472"
+  },
+  {
+    "name": "Letosteine",
+    "atc_code": "R05CB09",
+    "drugbank_id": "DB08939"
+  },
+  {
+    "name": "Levoverbenone",
+    "atc_code": "R05CA11",
+    "drugbank_id": "DB13391"
+  },
+  {
+    "name": "Lomifylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB18002"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "R02AD02",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Levocabastine",
+    "atc_code": "R01AC02",
+    "drugbank_id": "DB01106"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "S02DA01",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Lifitegrast",
+    "atc_code": "S01XA25",
+    "drugbank_id": "DB11611"
+  },
+  {
+    "name": "Lidocaine",
+    "atc_code": "S01HA07",
+    "drugbank_id": "DB00281"
+  },
+  {
+    "name": "Lodoxamide",
+    "atc_code": "S01GX05",
+    "drugbank_id": "DB06794"
+  },
+  {
+    "name": "Levocabastine",
+    "atc_code": "S01GX02",
+    "drugbank_id": "DB01106"
+  },
+  {
+    "name": "Latanoprost",
+    "atc_code": "S01EE52",
+    "drugbank_id": "DB00654"
+  },
+  {
+    "name": "Latanoprost",
+    "atc_code": "S01EE51",
+    "drugbank_id": "DB00654"
+  },
+  {
+    "name": "Latanoprostene bunod",
+    "atc_code": "S01EE06",
+    "drugbank_id": "DB11660"
+  },
+  {
+    "name": "Latanoprost",
+    "atc_code": "S01EE01",
+    "drugbank_id": "DB00654"
+  },
+  {
+    "name": "Levobunolol",
+    "atc_code": "S01ED03",
+    "drugbank_id": "DB01210"
+  },
+  {
+    "name": "Loteprednol",
+    "atc_code": "S01CA12",
+    "drugbank_id": "DB00873"
+  },
+  {
+    "name": "Loteprednol",
+    "atc_code": "S01BA14",
+    "drugbank_id": "DB00873"
+  },
+  {
+    "name": "Lotilaner",
+    "atc_code": "S01AX25",
+    "drugbank_id": "DB17992"
+  },
+  {
+    "name": "Levofloxacin",
+    "atc_code": "S01AE05",
+    "drugbank_id": "DB01137"
+  },
+  {
+    "name": "Lomefloxacin",
+    "atc_code": "S01AE04",
+    "drugbank_id": "DB00978"
+  },
+  {
+    "name": "Lithium chloride",
+    "atc_code": "V04CX11",
+    "drugbank_id": "DB16607"
+  },
+  {
+    "name": "Lysine",
+    "atc_code": "V03AF11",
+    "drugbank_id": "DB00123"
+  },
+  {
+    "name": "Levoleucovorin",
+    "atc_code": "V03AF10",
+    "drugbank_id": "DB11596"
+  },
+  {
+    "name": "Leucovorin",
+    "atc_code": "V03AF06",
+    "drugbank_id": "DB00650"
+  },
+  {
+    "name": "Levoleucovorin",
+    "atc_code": "V03AF04",
+    "drugbank_id": "DB11596"
+  },
+  {
+    "name": "Leucovorin",
+    "atc_code": "V03AF03",
+    "drugbank_id": "DB00650"
+  },
+  {
+    "name": "Lanthanum carbonate",
+    "atc_code": "V03AE03",
+    "drugbank_id": "DB06792"
+  }
+]

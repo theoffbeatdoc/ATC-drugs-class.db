@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "Nedosiran",
+    "atc_code": "A16AX25",
+    "drugbank_id": "DB17635"
+  },
+  {
+    "name": "Nitisinone",
+    "atc_code": "A16AX04",
+    "drugbank_id": "DB00348"
+  },
+  {
+    "name": "Nandrolone",
+    "atc_code": "A14AB01",
+    "drugbank_id": "DB13169"
+  },
+  {
+    "name": "Norethandrolone",
+    "atc_code": "A14AA09",
+    "drugbank_id": "DB12787"
+  },
+  {
+    "name": "Nicotinamide",
+    "atc_code": "A11HA01",
+    "drugbank_id": "DB02701"
+  },
+  {
+    "name": "Nateglinide",
+    "atc_code": "A10BX03",
+    "drugbank_id": "DB00731"
+  },
+  {
+    "name": "Naltrexone",
+    "atc_code": "A08AA62",
+    "drugbank_id": "DB00704"
+  },
+  {
+    "name": "Nifurzide",
+    "atc_code": "A07AX04",
+    "drugbank_id": "DB13325"
+  },
+  {
+    "name": "Nifuroxazide",
+    "atc_code": "A07AX03",
+    "drugbank_id": "DB13855"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "A07AA51",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Natamycin",
+    "atc_code": "A07AA03",
+    "drugbank_id": "DB00826"
+  },
+  {
+    "name": "Nystatin",
+    "atc_code": "A07AA02",
+    "drugbank_id": "DB00646"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "A07AA01",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Naldemedine",
+    "atc_code": "A06AH05",
+    "drugbank_id": "DB11691"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "A06AH04",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Naloxegol",
+    "atc_code": "A06AH03",
+    "drugbank_id": "DB09049"
+  },
+  {
+    "name": "N-methylnicotinamide",
+    "atc_code": "A05AB01",
+    "drugbank_id": "DB08840"
+  },
+  {
+    "name": "Nabilone",
+    "atc_code": "A04AD11",
+    "drugbank_id": "DB00486"
+  },
+  {
+    "name": "Nicofetamide",
+    "atc_code": "A03AC04",
+    "drugbank_id": "DB13531"
+  },
+  {
+    "name": "Niperotidine",
+    "atc_code": "A02BA05",
+    "drugbank_id": "DB13760"
+  },
+  {
+    "name": "Nizatidine",
+    "atc_code": "A02BA04",
+    "drugbank_id": "DB00585"
+  },
+  {
+    "name": "Natamycin",
+    "atc_code": "A01AB10",
+    "drugbank_id": "DB00826"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "A01AB08",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "B05CA09",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Noxytiolin",
+    "atc_code": "B05CA07",
+    "drugbank_id": "DB13838"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "B05CA03",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Nadroparin",
+    "atc_code": "B01AB06",
+    "drugbank_id": "DB08813"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C10BX22",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Niacin",
+    "atc_code": "C10BA01",
+    "drugbank_id": "DB00627"
+  },
+  {
+    "name": "Niacin",
+    "atc_code": "C10AD52",
+    "drugbank_id": "DB00627"
+  },
+  {
+    "name": "Nicotinyl alcohol",
+    "atc_code": "C10AD05",
+    "drugbank_id": "DB04145"
+  },
+  {
+    "name": "Nicofuranose",
+    "atc_code": "C10AD03",
+    "drugbank_id": "DB13422"
+  },
+  {
+    "name": "Niacin",
+    "atc_code": "C10AD02",
+    "drugbank_id": "DB00627"
+  },
+  {
+    "name": "Niceritrol",
+    "atc_code": "C10AD01",
+    "drugbank_id": "DB13441"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C09DX05",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C09BX07",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Nitrendipine",
+    "atc_code": "C09BB06",
+    "drugbank_id": "DB01054"
+  },
+  {
+    "name": "Nifedipine",
+    "atc_code": "C08GA01",
+    "drugbank_id": "DB01115"
+  },
+  {
+    "name": "Nifedipine",
+    "atc_code": "C08CA55",
+    "drugbank_id": "DB01115"
+  },
+  {
+    "name": "Nilvadipine",
+    "atc_code": "C08CA10",
+    "drugbank_id": "DB06712"
+  },
+  {
+    "name": "Nitrendipine",
+    "atc_code": "C08CA08",
+    "drugbank_id": "DB01054"
+  },
+  {
+    "name": "Nisoldipine",
+    "atc_code": "C08CA07",
+    "drugbank_id": "DB00401"
+  },
+  {
+    "name": "Nimodipine",
+    "atc_code": "C08CA06",
+    "drugbank_id": "DB00393"
+  },
+  {
+    "name": "Nifedipine",
+    "atc_code": "C08CA05",
+    "drugbank_id": "DB01115"
+  },
+  {
+    "name": "Nicardipine",
+    "atc_code": "C08CA04",
+    "drugbank_id": "DB00622"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C07FB12",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Nifedipine",
+    "atc_code": "C07FB03",
+    "drugbank_id": "DB01115"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C07BB12",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Nadolol",
+    "atc_code": "C07BA12",
+    "drugbank_id": "DB01203"
+  },
+  {
+    "name": "Nebivolol",
+    "atc_code": "C07AB12",
+    "drugbank_id": "DB04861"
+  },
+  {
+    "name": "Nadolol",
+    "atc_code": "C07AA12",
+    "drugbank_id": "DB01203"
+  },
+  {
+    "name": "Naftazone",
+    "atc_code": "C05CX02",
+    "drugbank_id": "DB13680"
+  },
+  {
+    "name": "Nitroglycerin",
+    "atc_code": "C05AE01",
+    "drugbank_id": "DB00727"
+  },
+  {
+    "name": "Naftidrofuryl",
+    "atc_code": "C04AX21",
+    "drugbank_id": "DB13588"
+  },
+  {
+    "name": "Nicergoline",
+    "atc_code": "C04AE02",
+    "drugbank_id": "DB00699"
+  },
+  {
+    "name": "Nicotinyl alcohol",
+    "atc_code": "C04AC02",
+    "drugbank_id": "DB04145"
+  },
+  {
+    "name": "Niacin",
+    "atc_code": "C04AC01",
+    "drugbank_id": "DB00627"
+  },
+  {
+    "name": "Nylidrin",
+    "atc_code": "C04AA02",
+    "drugbank_id": "DB06152"
+  },
+  {
+    "name": "Nitroprusside",
+    "atc_code": "C02DD01",
+    "drugbank_id": "DB00325"
+  },
+  {
+    "name": "Nesiritide",
+    "atc_code": "C01DX19",
+    "drugbank_id": "DB04899"
+  },
+  {
+    "name": "Nicorandil",
+    "atc_code": "C01DX16",
+    "drugbank_id": "DB09220"
+  },
+  {
+    "name": "Nitroglycerin",
+    "atc_code": "C01DA52",
+    "drugbank_id": "DB00727"
+  },
+  {
+    "name": "Nitroglycerin",
+    "atc_code": "C01DA02",
+    "drugbank_id": "DB00727"
+  },
+  {
+    "name": "Norfenefrine",
+    "atc_code": "C01CA05",
+    "drugbank_id": "DB13378"
+  },
+  {
+    "name": "Norepinephrine",
+    "atc_code": "C01CA03",
+    "drugbank_id": "DB00368"
+  },
+  {
+    "name": "Nemolizumab",
+    "atc_code": "D11AH12",
+    "drugbank_id": "DB15252"
+  },
+  {
+    "name": "Nadifloxacin",
+    "atc_code": "D10AF05",
+    "drugbank_id": "DB12447"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "D09AA03",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "D08AF01",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "D06AX04",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Naftifine",
+    "atc_code": "D01AE22",
+    "drugbank_id": "DB00735"
+  },
+  {
+    "name": "Natamycin",
+    "atc_code": "D01AA02",
+    "drugbank_id": "DB00826"
+  },
+  {
+    "name": "Nystatin",
+    "atc_code": "D01AA01",
+    "drugbank_id": "DB00646"
+  },
+  {
+    "name": "Nomegestrol",
+    "atc_code": "G03FB12",
+    "drugbank_id": "DB11636"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03FB05",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Norgestrel",
+    "atc_code": "G03FB01",
+    "drugbank_id": "DB09389"
+  },
+  {
+    "name": "Norgestimate",
+    "atc_code": "G03FA13",
+    "drugbank_id": "DB00957"
+  },
+  {
+    "name": "Norgestrel",
+    "atc_code": "G03FA10",
+    "drugbank_id": "DB09389"
+  },
+  {
+    "name": "Norethynodrel",
+    "atc_code": "G03FA09",
+    "drugbank_id": "DB09371"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03FA01",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03DC02",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Nomegestrol",
+    "atc_code": "G03DB04",
+    "drugbank_id": "DB11636"
+  },
+  {
+    "name": "Norgestrienone",
+    "atc_code": "G03AC07",
+    "drugbank_id": "DB13563"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03AC01",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Norgestimate",
+    "atc_code": "G03AB09",
+    "drugbank_id": "DB00957"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03AB04",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Nomegestrol",
+    "atc_code": "G03AA14",
+    "drugbank_id": "DB11636"
+  },
+  {
+    "name": "Norelgestromin",
+    "atc_code": "G03AA13",
+    "drugbank_id": "DB06713"
+  },
+  {
+    "name": "Norgestimate",
+    "atc_code": "G03AA11",
+    "drugbank_id": "DB00957"
+  },
+  {
+    "name": "Norgestrel",
+    "atc_code": "G03AA06",
+    "drugbank_id": "DB09389"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "G03AA05",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "G02CC02",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Nylidrin",
+    "atc_code": "G02CA02",
+    "drugbank_id": "DB06152"
+  },
+  {
+    "name": "Nifuratel",
+    "atc_code": "G01AX05",
+    "drugbank_id": "DB13724"
+  },
+  {
+    "name": "Nystatin",
+    "atc_code": "G01AA51",
+    "drugbank_id": "DB00646"
+  },
+  {
+    "name": "Natamycin",
+    "atc_code": "G01AA02",
+    "drugbank_id": "DB00826"
+  },
+  {
+    "name": "Nystatin",
+    "atc_code": "G01AA01",
+    "drugbank_id": "DB00646"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "H01CC53",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Norethisterone",
+    "atc_code": "H01CC54",
+    "drugbank_id": "DB00717"
+  },
+  {
+    "name": "Nafarelin",
+    "atc_code": "H01CA02",
+    "drugbank_id": "DB00666"
+  },
+  {
+    "name": "Nirsevimab",
+    "atc_code": "J06BD08",
+    "drugbank_id": "DB16258"
+  },
+  {
+    "name": "Nebacumab",
+    "atc_code": "J06BC01",
+    "drugbank_id": "DB13535"
+  },
+  {
+    "name": "Narlaprevir",
+    "atc_code": "J05AP14",
+    "drugbank_id": "DB14760"
+  },
+  {
+    "name": "Nevirapine",
+    "atc_code": "J05AR07",
+    "drugbank_id": "DB00238"
+  },
+  {
+    "name": "Nevirapine",
+    "atc_code": "J05AR05",
+    "drugbank_id": "DB00238"
+  },
+  {
+    "name": "Nevirapine",
+    "atc_code": "J05AG01",
+    "drugbank_id": "DB00238"
+  },
+  {
+    "name": "Nirmatrelvir",
+    "atc_code": "J05AE30",
+    "drugbank_id": "DB16691"
+  },
+  {
+    "name": "Nelfinavir",
+    "atc_code": "J05AE04",
+    "drugbank_id": "DB00220"
+  },
+  {
+    "name": "Nitroxoline",
+    "atc_code": "J01XX07",
+    "drugbank_id": "DB01422"
+  },
+  {
+    "name": "Nitrofurantoin",
+    "atc_code": "J01XE51",
+    "drugbank_id": "DB00698"
+  },
+  {
+    "name": "Nifurtoinol",
+    "atc_code": "J01XE02",
+    "drugbank_id": "DB13730"
+  },
+  {
+    "name": "Nitrofurantoin",
+    "atc_code": "J01XE01",
+    "drugbank_id": "DB00698"
+  },
+  {
+    "name": "Nystatin",
+    "atc_code": "J01RA19",
+    "drugbank_id": "DB00646"
+  },
+  {
+    "name": "Nitazoxanide",
+    "atc_code": "J01RA17",
+    "drugbank_id": "DB00507"
+  },
+  {
+    "name": "Norfloxacin",
+    "atc_code": "J01RA14",
+    "drugbank_id": "DB01059"
+  },
+  {
+    "name": "Norfloxacin",
+    "atc_code": "J01RA13",
+    "drugbank_id": "DB01059"
+  },
+  {
+    "name": "Nemonoxacin",
+    "atc_code": "J01MB08",
+    "drugbank_id": "DB06600"
+  },
+  {
+    "name": "Nalidixic acid",
+    "atc_code": "J01MB02",
+    "drugbank_id": "DB00779"
+  },
+  {
+    "name": "Norfloxacin",
+    "atc_code": "J01MA06",
+    "drugbank_id": "DB01059"
+  },
+  {
+    "name": "Netilmicin",
+    "atc_code": "J01GB07",
+    "drugbank_id": "DB00955"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "J01GB05",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Nafcillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00607"
+  },
+  {
+    "name": "Nafcillin",
+    "atc_code": "J01CF06",
+    "drugbank_id": "DB00607"
+  },
+  {
+    "name": "Natalizumab",
+    "atc_code": "L04AG03",
+    "drugbank_id": "DB00108"
+  },
+  {
+    "name": "Netakimab",
+    "atc_code": "L04AC20",
+    "drugbank_id": "DB18870"
+  },
+  {
+    "name": "Nilutamide",
+    "atc_code": "L02BB02",
+    "drugbank_id": "DB00665"
+  },
+  {
+    "name": "Nurulimab",
+    "atc_code": "L01FY03",
+    "drugbank_id": "DB18946"
+  },
+  {
+    "name": "Nivolumab",
+    "atc_code": "L01FY02",
+    "drugbank_id": "DB09035"
+  },
+  {
+    "name": "Naxitamab",
+    "atc_code": "L01FX21",
+    "drugbank_id": "DB15965"
+  },
+  {
+    "name": "Nivolumab",
+    "atc_code": "L01FF01",
+    "drugbank_id": "DB09035"
+  },
+  {
+    "name": "Necitumumab",
+    "atc_code": "L01FE03",
+    "drugbank_id": "DB09559"
+  },
+  {
+    "name": "Nintedanib",
+    "atc_code": "L01EX09",
+    "drugbank_id": "DB09079"
+  },
+  {
+    "name": "Neratinib",
+    "atc_code": "L01EH02",
+    "drugbank_id": "DB11828"
+  },
+  {
+    "name": "Nilotinib",
+    "atc_code": "L01EA03",
+    "drugbank_id": "DB04868"
+  },
+  {
+    "name": "Nadofaragene firadenovec",
+    "atc_code": "L01XL10",
+    "drugbank_id": "DB17381"
+  },
+  {
+    "name": "Niraparib",
+    "atc_code": "L01XK52",
+    "drugbank_id": "DB11793"
+  },
+  {
+    "name": "Niraparib",
+    "atc_code": "L01XK02",
+    "drugbank_id": "DB11793"
+  },
+  {
+    "name": "Nirogacestat",
+    "atc_code": "L01XX81",
+    "drugbank_id": "DB12005"
+  },
+  {
+    "name": "Navitoclax",
+    "atc_code": "L01XX78",
+    "drugbank_id": "DB12340"
+  },
+  {
+    "name": "Nelarabine",
+    "atc_code": "L01BB07",
+    "drugbank_id": "DB01280"
+  },
+  {
+    "name": "Nimustine",
+    "atc_code": "L01AD06",
+    "drugbank_id": "DB13069"
+  },
+  {
+    "name": "Nusinersen",
+    "atc_code": "M09AX07",
+    "drugbank_id": "DB13161"
+  },
+  {
+    "name": "Nimesulide",
+    "atc_code": "M02AA26",
+    "drugbank_id": "DB04743"
+  },
+  {
+    "name": "Nifenazone",
+    "atc_code": "M02AA24",
+    "drugbank_id": "DB13407"
+  },
+  {
+    "name": "Niflumic acid",
+    "atc_code": "M02AA17",
+    "drugbank_id": "DB04552"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "M02AA12",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Nimesulide",
+    "atc_code": "M01AX17",
+    "drugbank_id": "DB04743"
+  },
+  {
+    "name": "Niflumic acid",
+    "atc_code": "M01AX02",
+    "drugbank_id": "DB04552"
+  },
+  {
+    "name": "Nabumetone",
+    "atc_code": "M01AX01",
+    "drugbank_id": "DB00461"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "M01AE57",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "M01AE56",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "M01AE52",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Naproxcinod",
+    "atc_code": "M01AE18",
+    "drugbank_id": "DB06682"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "M01AE02",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Nalmefene",
+    "atc_code": "N07BB05",
+    "drugbank_id": "DB06230"
+  },
+  {
+    "name": "Naltrexone",
+    "atc_code": "N07BB04",
+    "drugbank_id": "DB00704"
+  },
+  {
+    "name": "Nicotine",
+    "atc_code": "N07BA01",
+    "drugbank_id": "DB00184"
+  },
+  {
+    "name": "Neostigmine",
+    "atc_code": "N07AA51",
+    "drugbank_id": "DB01400"
+  },
+  {
+    "name": "Neostigmine",
+    "atc_code": "N07AA01",
+    "drugbank_id": "DB01400"
+  },
+  {
+    "name": "Nizofenone",
+    "atc_code": "N06BX10",
+    "drugbank_id": "DB13546"
+  },
+  {
+    "name": "Nefazodone",
+    "atc_code": "N06AX06",
+    "drugbank_id": "DB01149"
+  },
+  {
+    "name": "Nomifensine",
+    "atc_code": "N06AX04",
+    "drugbank_id": "DB04821"
+  },
+  {
+    "name": "Nialamide",
+    "atc_code": "N06AF02",
+    "drugbank_id": "DB04820"
+  },
+  {
+    "name": "Nortriptyline",
+    "atc_code": "N06AA10",
+    "drugbank_id": "DB00540"
+  },
+  {
+    "name": "Niaprazine",
+    "atc_code": "N05CM16",
+    "drugbank_id": "DB13687"
+  },
+  {
+    "name": "Nitrazepam",
+    "atc_code": "N05CD02",
+    "drugbank_id": "DB01595"
+  },
+  {
+    "name": "Nordazepam",
+    "atc_code": "N05BA16",
+    "drugbank_id": "DB14028"
+  },
+  {
+    "name": "Neocitrullamon",
+    "atc_code": "N03AB03",
+    "drugbank_id": "DB13396"
+  },
+  {
+    "name": "Naproxen",
+    "atc_code": "N02CC51",
+    "drugbank_id": "DB00788"
+  },
+  {
+    "name": "Naratriptan",
+    "atc_code": "N02CC02",
+    "drugbank_id": "DB00952"
+  },
+  {
+    "name": "Nefopam",
+    "atc_code": "N02BG06",
+    "drugbank_id": "DB12293"
+  },
+  {
+    "name": "Nifenazone",
+    "atc_code": "N02BB05",
+    "drugbank_id": "DB13407"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "N02AX51",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Nalbuphine",
+    "atc_code": "N02AF02",
+    "drugbank_id": "DB00844"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "N02AD51",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Naltrexone",
+    "atc_code": "N02AA56",
+    "drugbank_id": "DB00704"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "N02AA53",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "N02AA55",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Nicomorphine",
+    "atc_code": "N02AA04",
+    "drugbank_id": "DB13454"
+  },
+  {
+    "name": "Nitrous oxide",
+    "atc_code": "N01AX63",
+    "drugbank_id": "DB06690"
+  },
+  {
+    "name": "Nitrous oxide",
+    "atc_code": "N01AX13",
+    "drugbank_id": "DB06690"
+  },
+  {
+    "name": "Niclosamide",
+    "atc_code": "P02DA01",
+    "drugbank_id": "DB06803"
+  },
+  {
+    "name": "Niridazole",
+    "atc_code": "P02BX02",
+    "drugbank_id": "DB13661"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "P01CC02",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Nifurtimox",
+    "atc_code": "P01CC01",
+    "drugbank_id": "DB11820"
+  },
+  {
+    "name": "Naphthoquine",
+    "atc_code": "P01BF08",
+    "drugbank_id": "DB16249"
+  },
+  {
+    "name": "Nitazoxanide",
+    "atc_code": "P01AX11",
+    "drugbank_id": "DB00507"
+  },
+  {
+    "name": "Nimorazole",
+    "atc_code": "P01AB06",
+    "drugbank_id": "DB12172"
+  },
+  {
+    "name": "Nitric Oxide",
+    "atc_code": "R07AX01",
+    "drugbank_id": "DB00435"
+  },
+  {
+    "name": "Nikethamide",
+    "atc_code": "R07AB52",
+    "drugbank_id": "DB13655"
+  },
+  {
+    "name": "Nikethamide",
+    "atc_code": "R07AB02",
+    "drugbank_id": "DB13655"
+  },
+  {
+    "name": "Nepinalone",
+    "atc_code": "R05DB26",
+    "drugbank_id": "DB13445"
+  },
+  {
+    "name": "Noscapine",
+    "atc_code": "R05DA07",
+    "drugbank_id": "DB06174"
+  },
+  {
+    "name": "Normethadone",
+    "atc_code": "R05DA06",
+    "drugbank_id": "DB11609"
+  },
+  {
+    "name": "Neltenexine",
+    "atc_code": "R05CB14",
+    "drugbank_id": "DB13239"
+  },
+  {
+    "name": "Nedocromil",
+    "atc_code": "R03BC03",
+    "drugbank_id": "DB00716"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "R02AB01",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Nedocromil",
+    "atc_code": "R01AC07",
+    "drugbank_id": "DB00716"
+  },
+  {
+    "name": "Naphazoline",
+    "atc_code": "R01AB02",
+    "drugbank_id": "DB06711"
+  },
+  {
+    "name": "Naphazoline",
+    "atc_code": "R01AA08",
+    "drugbank_id": "DB06711"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "S03AA01",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "S02AA07",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "S02AA02",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Nandrolone",
+    "atc_code": "S01XA11",
+    "drugbank_id": "DB13169"
+  },
+  {
+    "name": "Nedocromil",
+    "atc_code": "S01GX04",
+    "drugbank_id": "DB00716"
+  },
+  {
+    "name": "Naphazoline",
+    "atc_code": "S01GA51",
+    "drugbank_id": "DB06711"
+  },
+  {
+    "name": "Naphazoline",
+    "atc_code": "S01GA01",
+    "drugbank_id": "DB06711"
+  },
+  {
+    "name": "Netarsudil",
+    "atc_code": "S01EX05",
+    "drugbank_id": "DB13931"
+  },
+  {
+    "name": "Netarsudil",
+    "atc_code": "S01EE51",
+    "drugbank_id": "DB13931"
+  },
+  {
+    "name": "Neostigmine",
+    "atc_code": "S01EB06",
+    "drugbank_id": "DB01400"
+  },
+  {
+    "name": "Nepafenac",
+    "atc_code": "S01BC10",
+    "drugbank_id": "DB06802"
+  },
+  {
+    "name": "Nitrofural",
+    "atc_code": "S01AX04",
+    "drugbank_id": "DB00336"
+  },
+  {
+    "name": "Norfloxacin",
+    "atc_code": "S01AE02",
+    "drugbank_id": "DB01059"
+  },
+  {
+    "name": "Netilmicin",
+    "atc_code": "S01AA23",
+    "drugbank_id": "DB00955"
+  },
+  {
+    "name": "Natamycin",
+    "atc_code": "S01AA10",
+    "drugbank_id": "DB00826"
+  },
+  {
+    "name": "Neomycin",
+    "atc_code": "S01AA03",
+    "drugbank_id": "DB00994"
+  },
+  {
+    "name": "Nalfurafine",
+    "atc_code": "V03AX02",
+    "drugbank_id": "DB13471"
+  },
+  {
+    "name": "Nitrogen",
+    "atc_code": "V03AN04",
+    "drugbank_id": "DB09152"
+  },
+  {
+    "name": "Naloxone",
+    "atc_code": "V03AB15",
+    "drugbank_id": "DB01183"
+  },
+  {
+    "name": "Nitrous acid",
+    "atc_code": "V03AB08",
+    "drugbank_id": "DB09112"
+  },
+  {
+    "name": "Nalorphine",
+    "atc_code": "V03AB02",
+    "drugbank_id": "DB11490"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Riboflavin",
+    "atc_code": "A11HA04",
+    "drugbank_id": "DB00140"
+  },
+  {
+    "name": "Repaglinide",
+    "atc_code": "A10BX02",
+    "drugbank_id": "DB00912"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "A10BH52",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosiglitazone",
+    "atc_code": "A10BG02",
+    "drugbank_id": "DB00412"
+  },
+  {
+    "name": "Repaglinide",
+    "atc_code": "A10BD14",
+    "drugbank_id": "DB00912"
+  },
+  {
+    "name": "Rosiglitazone",
+    "atc_code": "A10BD04",
+    "drugbank_id": "DB00412"
+  },
+  {
+    "name": "Rosiglitazone",
+    "atc_code": "A10BD03",
+    "drugbank_id": "DB00412"
+  },
+  {
+    "name": "Rimonabant",
+    "atc_code": "A08AX01",
+    "drugbank_id": "DB06155"
+  },
+  {
+    "name": "Racecadotril",
+    "atc_code": "A07XA04",
+    "drugbank_id": "DB11696"
+  },
+  {
+    "name": "Rifamycin",
+    "atc_code": "A07AA13",
+    "drugbank_id": "DB11753"
+  },
+  {
+    "name": "Rifaximin",
+    "atc_code": "A07AA11",
+    "drugbank_id": "DB01220"
+  },
+  {
+    "name": "Rolapitant",
+    "atc_code": "A04AD14",
+    "drugbank_id": "DB09291"
+  },
+  {
+    "name": "Rociverine",
+    "atc_code": "A03AA06",
+    "drugbank_id": "DB13581"
+  },
+  {
+    "name": "Rebamipide",
+    "atc_code": "A02BX14",
+    "drugbank_id": "DB11656"
+  },
+  {
+    "name": "Rifabutin",
+    "atc_code": "A02BD16",
+    "drugbank_id": "DB00615"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "A02BD13",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "A02BD12",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "A02BC54",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "A02BC04",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Ranitidine",
+    "atc_code": "A02BA07",
+    "drugbank_id": "DB00863"
+  },
+  {
+    "name": "Roxatidine acetate",
+    "atc_code": "A02BA06",
+    "drugbank_id": "DB08806"
+  },
+  {
+    "name": "Ranitidine",
+    "atc_code": "A02BA02",
+    "drugbank_id": "DB00863"
+  },
+  {
+    "name": "Roxadustat",
+    "atc_code": "B03XA05",
+    "drugbank_id": "DB04847"
+  },
+  {
+    "name": "Romiplostim",
+    "atc_code": "B02BX04",
+    "drugbank_id": "DB05332"
+  },
+  {
+    "name": "Rivaroxaban",
+    "atc_code": "B01AF51",
+    "drugbank_id": "DB06228"
+  },
+  {
+    "name": "Rivaroxaban",
+    "atc_code": "B01AF01",
+    "drugbank_id": "DB06228"
+  },
+  {
+    "name": "Reteplase",
+    "atc_code": "B01AD07",
+    "drugbank_id": "DB00015"
+  },
+  {
+    "name": "Reviparin",
+    "atc_code": "B01AB08",
+    "drugbank_id": "DB09259"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX22",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX21",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX20",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C10BX18",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C10BX17",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX17",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX16",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX14",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX13",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX10",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX09",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX07",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C10BX06",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BX05",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C10BX04",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BA09",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10BA06",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Ronifibrate",
+    "atc_code": "C10AB07",
+    "drugbank_id": "DB13460"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "C10AA07",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Remikiren",
+    "atc_code": "C09XA01",
+    "drugbank_id": "DB00212"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09BX05",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09BX03",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09BB07",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09BB05",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09BA05",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Ramipril",
+    "atc_code": "C09AA05",
+    "drugbank_id": "DB00178"
+  },
+  {
+    "name": "Rutin",
+    "atc_code": "C05CA51",
+    "drugbank_id": "DB01698"
+  },
+  {
+    "name": "Rutin",
+    "atc_code": "C05CA01",
+    "drugbank_id": "DB01698"
+  },
+  {
+    "name": "Reserpine",
+    "atc_code": "C02LA71",
+    "drugbank_id": "DB00206"
+  },
+  {
+    "name": "Rescinnamine",
+    "atc_code": "C02LA52",
+    "drugbank_id": "DB01180"
+  },
+  {
+    "name": "Reserpine",
+    "atc_code": "C02LA51",
+    "drugbank_id": "DB00206"
+  },
+  {
+    "name": "Rauwolfia serpentina root",
+    "atc_code": "C02LA08",
+    "drugbank_id": "DB09363"
+  },
+  {
+    "name": "Rescinnamine",
+    "atc_code": "C02LA02",
+    "drugbank_id": "DB01180"
+  },
+  {
+    "name": "Reserpine",
+    "atc_code": "C02LA01",
+    "drugbank_id": "DB00206"
+  },
+  {
+    "name": "Riociguat",
+    "atc_code": "C02KX05",
+    "drugbank_id": "DB08931"
+  },
+  {
+    "name": "Rilmenidine",
+    "atc_code": "C02AC06",
+    "drugbank_id": "DB11738"
+  },
+  {
+    "name": "Reserpine",
+    "atc_code": "C02AA52",
+    "drugbank_id": "DB00206"
+  },
+  {
+    "name": "Rauwolfia serpentina root",
+    "atc_code": "C02AA03",
+    "drugbank_id": "DB09363"
+  },
+  {
+    "name": "Reserpine",
+    "atc_code": "C02AA02",
+    "drugbank_id": "DB00206"
+  },
+  {
+    "name": "Rescinnamine",
+    "atc_code": "C02AA01",
+    "drugbank_id": "DB01180"
+  },
+  {
+    "name": "Regadenoson",
+    "atc_code": "C01EB21",
+    "drugbank_id": "DB06213"
+  },
+  {
+    "name": "Ranolazine",
+    "atc_code": "C01EB18",
+    "drugbank_id": "DB00243"
+  },
+  {
+    "name": "Ruxolitinib",
+    "atc_code": "D11AH09",
+    "drugbank_id": "DB08877"
+  },
+  {
+    "name": "Resorcinol",
+    "atc_code": "D10AX02",
+    "drugbank_id": "DB11085"
+  },
+  {
+    "name": "Rifamycin",
+    "atc_code": "D06AX15",
+    "drugbank_id": "DB11753"
+  },
+  {
+    "name": "Retapamulin",
+    "atc_code": "D06AX13",
+    "drugbank_id": "DB01256"
+  },
+  {
+    "name": "Rifaximin",
+    "atc_code": "D06AX11",
+    "drugbank_id": "DB01220"
+  },
+  {
+    "name": "Roflumilast",
+    "atc_code": "D05AX06",
+    "drugbank_id": "DB01656"
+  },
+  {
+    "name": "Raloxifene",
+    "atc_code": "G03XC01",
+    "drugbank_id": "DB00481"
+  },
+  {
+    "name": "Ritodrine",
+    "atc_code": "G02CA01",
+    "drugbank_id": "DB00867"
+  },
+  {
+    "name": "Rosuvastatin",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01098"
+  },
+  {
+    "name": "Rimexolone",
+    "atc_code": "H02AB12",
+    "drugbank_id": "DB00896"
+  },
+  {
+    "name": "Relugolix",
+    "atc_code": "H01CC54",
+    "drugbank_id": "DB11853"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BJ51",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BJ01",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Rotavirus vaccine",
+    "atc_code": "J07BH01",
+    "drugbank_id": "DB10276"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BD54",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BD53",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BD52",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Rubella virus vaccine",
+    "atc_code": "J07BD51",
+    "drugbank_id": "DB10317"
+  },
+  {
+    "name": "Regdanvimab",
+    "atc_code": "J06BD06",
+    "drugbank_id": "DB16405"
+  },
+  {
+    "name": "Raxibacumab",
+    "atc_code": "J06BC02",
+    "drugbank_id": "DB08902"
+  },
+  {
+    "name": "Rabies virus inactivated antigen, B",
+    "atc_code": "J06AA06",
+    "drugbank_id": "DB10062"
+  },
+  {
+    "name": "Rabies virus inactivated antigen, A",
+    "atc_code": "J06AA06",
+    "drugbank_id": "DB10283"
+  },
+  {
+    "name": "Raltegravir",
+    "atc_code": "J05AJ01",
+    "drugbank_id": "DB06817"
+  },
+  {
+    "name": "Ravidasvir",
+    "atc_code": "J05AP13",
+    "drugbank_id": "DB15652"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AP53",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AP52",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Ribavirin",
+    "atc_code": "J05AP01",
+    "drugbank_id": "DB00811"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AR26",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AR23",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Rilpivirine",
+    "atc_code": "J05AR21",
+    "drugbank_id": "DB08864"
+  },
+  {
+    "name": "Rilpivirine",
+    "atc_code": "J05AR19",
+    "drugbank_id": "DB08864"
+  },
+  {
+    "name": "Raltegravir",
+    "atc_code": "J05AR16",
+    "drugbank_id": "DB06817"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AR10",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Rilpivirine",
+    "atc_code": "J05AR08",
+    "drugbank_id": "DB08864"
+  },
+  {
+    "name": "Rilpivirine",
+    "atc_code": "J05AG05",
+    "drugbank_id": "DB08864"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AE30",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Ritonavir",
+    "atc_code": "J05AE03",
+    "drugbank_id": "DB00503"
+  },
+  {
+    "name": "Rimantadine",
+    "atc_code": "J05AC02",
+    "drugbank_id": "DB00478"
+  },
+  {
+    "name": "Remdesivir",
+    "atc_code": "J05AB16",
+    "drugbank_id": "DB14761"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AM12",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rifabutin",
+    "atc_code": "J04AM11",
+    "drugbank_id": "DB00615"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AM07",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AM06",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AM05",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AM02",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rifapentine",
+    "atc_code": "J04AB05",
+    "drugbank_id": "DB01201"
+  },
+  {
+    "name": "Rifabutin",
+    "atc_code": "J04AB04",
+    "drugbank_id": "DB00615"
+  },
+  {
+    "name": "Rifamycin",
+    "atc_code": "J04AB03",
+    "drugbank_id": "DB11753"
+  },
+  {
+    "name": "Rifampin",
+    "atc_code": "J04AB02",
+    "drugbank_id": "DB01045"
+  },
+  {
+    "name": "Rosoxacin",
+    "atc_code": "J01MB01",
+    "drugbank_id": "DB00817"
+  },
+  {
+    "name": "Rufloxacin",
+    "atc_code": "J01MA10",
+    "drugbank_id": "DB13772"
+  },
+  {
+    "name": "Ribostamycin",
+    "atc_code": "J01GB10",
+    "drugbank_id": "DB03615"
+  },
+  {
+    "name": "Rokitamycin",
+    "atc_code": "J01FA12",
+    "drugbank_id": "DB13409"
+  },
+  {
+    "name": "Roxithromycin",
+    "atc_code": "J01FA06",
+    "drugbank_id": "DB00778"
+  },
+  {
+    "name": "Relebactam",
+    "atc_code": "J01DH56",
+    "drugbank_id": "DB12377"
+  },
+  {
+    "name": "Rolitetracycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB01301"
+  },
+  {
+    "name": "Rolitetracycline",
+    "atc_code": "J01AA09",
+    "drugbank_id": "DB01301"
+  },
+  {
+    "name": "Ravulizumab",
+    "atc_code": "L04AJ02",
+    "drugbank_id": "DB11580"
+  },
+  {
+    "name": "Rozanolixizumab",
+    "atc_code": "L04AG16",
+    "drugbank_id": "DB14919"
+  },
+  {
+    "name": "Ritlecitinib",
+    "atc_code": "L04AF08",
+    "drugbank_id": "DB14924"
+  },
+  {
+    "name": "Risankizumab",
+    "atc_code": "L04AC18",
+    "drugbank_id": "DB14762"
+  },
+  {
+    "name": "Rilonacept",
+    "atc_code": "L04AC04",
+    "drugbank_id": "DB06372"
+  },
+  {
+    "name": "Remibrutinib",
+    "atc_code": "L04AA60",
+    "drugbank_id": "DB16852"
+  },
+  {
+    "name": "Roquinimex",
+    "atc_code": "L03AX02",
+    "drugbank_id": "DB11366"
+  },
+  {
+    "name": "Ropeginterferon alfa-2b",
+    "atc_code": "L03AB15",
+    "drugbank_id": "DB15119"
+  },
+  {
+    "name": "Relugolix",
+    "atc_code": "L02BX04",
+    "drugbank_id": "DB11853"
+  },
+  {
+    "name": "Relatlimab",
+    "atc_code": "L01FY02",
+    "drugbank_id": "DB14851"
+  },
+  {
+    "name": "Ramucirumab",
+    "atc_code": "L01FG02",
+    "drugbank_id": "DB05578"
+  },
+  {
+    "name": "Retifanlimab",
+    "atc_code": "L01FF10",
+    "drugbank_id": "DB15766"
+  },
+  {
+    "name": "Rituximab",
+    "atc_code": "L01FA01",
+    "drugbank_id": "DB00073"
+  },
+  {
+    "name": "Repotrectinib",
+    "atc_code": "L01EX28",
+    "drugbank_id": "DB16826"
+  },
+  {
+    "name": "Ripretinib",
+    "atc_code": "L01EX19",
+    "drugbank_id": "DB14840"
+  },
+  {
+    "name": "Regorafenib",
+    "atc_code": "L01EX05",
+    "drugbank_id": "DB08896"
+  },
+  {
+    "name": "Ruxolitinib",
+    "atc_code": "L01EJ01",
+    "drugbank_id": "DB08877"
+  },
+  {
+    "name": "Ridaforolimus",
+    "atc_code": "L01EG03",
+    "drugbank_id": "DB06233"
+  },
+  {
+    "name": "Ribociclib",
+    "atc_code": "L01EF02",
+    "drugbank_id": "DB11730"
+  },
+  {
+    "name": "Rociletinib",
+    "atc_code": "L01EB05",
+    "drugbank_id": "DB11907"
+  },
+  {
+    "name": "Rucaparib",
+    "atc_code": "L01XK03",
+    "drugbank_id": "DB12332"
+  },
+  {
+    "name": "Resminostat",
+    "atc_code": "L01XH07",
+    "drugbank_id": "DB12392"
+  },
+  {
+    "name": "Romidepsin",
+    "atc_code": "L01XH02",
+    "drugbank_id": "DB06176"
+  },
+  {
+    "name": "Raltitrexed",
+    "atc_code": "L01BA03",
+    "drugbank_id": "DB00293"
+  },
+  {
+    "name": "Ranimustine",
+    "atc_code": "L01AD07",
+    "drugbank_id": "DB13832"
+  },
+  {
+    "name": "Risdiplam",
+    "atc_code": "M09AX10",
+    "drugbank_id": "DB15305"
+  },
+  {
+    "name": "Romosozumab",
+    "atc_code": "M05BX06",
+    "drugbank_id": "DB11866"
+  },
+  {
+    "name": "Risedronic acid",
+    "atc_code": "M05BB07",
+    "drugbank_id": "DB00884"
+  },
+  {
+    "name": "Risedronic acid",
+    "atc_code": "M05BB04",
+    "drugbank_id": "DB00884"
+  },
+  {
+    "name": "Risedronic acid",
+    "atc_code": "M05BB02",
+    "drugbank_id": "DB00884"
+  },
+  {
+    "name": "Risedronic acid",
+    "atc_code": "M05BA07",
+    "drugbank_id": "DB00884"
+  },
+  {
+    "name": "Rasburicase",
+    "atc_code": "M04AX01",
+    "drugbank_id": "DB00049"
+  },
+  {
+    "name": "Rocuronium",
+    "atc_code": "M03AC09",
+    "drugbank_id": "DB00728"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "M02AA03",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Rofecoxib",
+    "atc_code": "M01AH02",
+    "drugbank_id": "DB00533"
+  },
+  {
+    "name": "Rabeprazole",
+    "atc_code": "M01AA05",
+    "drugbank_id": "DB01129"
+  },
+  {
+    "name": "Riluzole",
+    "atc_code": "N07XX02",
+    "drugbank_id": "DB00740"
+  },
+  {
+    "name": "Rivastigmine",
+    "atc_code": "N06DA03",
+    "drugbank_id": "DB00989"
+  },
+  {
+    "name": "Reboxetine",
+    "atc_code": "N06AX18",
+    "drugbank_id": "DB00234"
+  },
+  {
+    "name": "Ramelteon",
+    "atc_code": "N05CH02",
+    "drugbank_id": "DB00980"
+  },
+  {
+    "name": "Remimazolam",
+    "atc_code": "N05CD14",
+    "drugbank_id": "DB12404"
+  },
+  {
+    "name": "Reposal",
+    "atc_code": "N05CA12",
+    "drugbank_id": "DB13805"
+  },
+  {
+    "name": "Risperidone",
+    "atc_code": "N05AX08",
+    "drugbank_id": "DB00734"
+  },
+  {
+    "name": "Remoxipride",
+    "atc_code": "N05AL04",
+    "drugbank_id": "DB00409"
+  },
+  {
+    "name": "Rasagiline",
+    "atc_code": "N04BD02",
+    "drugbank_id": "DB01367"
+  },
+  {
+    "name": "Rotigotine",
+    "atc_code": "N04BC09",
+    "drugbank_id": "DB05271"
+  },
+  {
+    "name": "Ropinirole",
+    "atc_code": "N04BC04",
+    "drugbank_id": "DB00268"
+  },
+  {
+    "name": "Rufinamide",
+    "atc_code": "N03AF03",
+    "drugbank_id": "DB06201"
+  },
+  {
+    "name": "Rimegepant",
+    "atc_code": "N02CD06",
+    "drugbank_id": "DB12457"
+  },
+  {
+    "name": "Rizatriptan",
+    "atc_code": "N02CC04",
+    "drugbank_id": "DB00953"
+  },
+  {
+    "name": "Rimazolium",
+    "atc_code": "N02BG02",
+    "drugbank_id": "DB13289"
+  },
+  {
+    "name": "Ropivacaine",
+    "atc_code": "N01BB09",
+    "drugbank_id": "DB00296"
+  },
+  {
+    "name": "Remifentanil",
+    "atc_code": "N01AH06",
+    "drugbank_id": "DB00899"
+  },
+  {
+    "name": "Rupatadine",
+    "atc_code": "R06AX28",
+    "drugbank_id": "DB11614"
+  },
+  {
+    "name": "Reslizumab",
+    "atc_code": "R03DX08",
+    "drugbank_id": "DB06602"
+  },
+  {
+    "name": "Roflumilast",
+    "atc_code": "R03DX07",
+    "drugbank_id": "DB01656"
+  },
+  {
+    "name": "Reproterol",
+    "atc_code": "R03CC14",
+    "drugbank_id": "DB12846"
+  },
+  {
+    "name": "Revefenacin",
+    "atc_code": "R03BB08",
+    "drugbank_id": "DB11855"
+  },
+  {
+    "name": "Reproterol",
+    "atc_code": "R03AK05",
+    "drugbank_id": "DB12846"
+  },
+  {
+    "name": "Reproterol",
+    "atc_code": "R03AC15",
+    "drugbank_id": "DB12846"
+  },
+  {
+    "name": "Rimiterol",
+    "atc_code": "R03AC05",
+    "drugbank_id": "DB13559"
+  },
+  {
+    "name": "Ritiometan",
+    "atc_code": "R01AX05",
+    "drugbank_id": "DB13267"
+  },
+  {
+    "name": "Rifamycin",
+    "atc_code": "S02AA12",
+    "drugbank_id": "DB11753"
+  },
+  {
+    "name": "Riboflavin",
+    "atc_code": "S01XA26",
+    "drugbank_id": "DB00140"
+  },
+  {
+    "name": "Ranibizumab",
+    "atc_code": "S01LA04",
+    "drugbank_id": "DB01270"
+  },
+  {
+    "name": "Rose bengal",
+    "atc_code": "S01JA02",
+    "drugbank_id": "DB11182"
+  },
+  {
+    "name": "Ripasudil",
+    "atc_code": "S01EX07",
+    "drugbank_id": "DB13165"
+  },
+  {
+    "name": "Ripasudil",
+    "atc_code": "S01EA55",
+    "drugbank_id": "DB13165"
+  },
+  {
+    "name": "Rimexolone",
+    "atc_code": "S01BA13",
+    "drugbank_id": "DB00896"
+  },
+  {
+    "name": "Resorcinol",
+    "atc_code": "S01AX06",
+    "drugbank_id": "DB11085"
+  },
+  {
+    "name": "Rifamycin",
+    "atc_code": "S01AA16",
+    "drugbank_id": "DB11753"
+  },
+  {
+    "name": "Rhenium Re-186 sulfide",
+    "atc_code": "V10AX05",
+    "drugbank_id": "DB13847"
+  },
+  {
+    "name": "Rasburicase",
+    "atc_code": "V03AF07",
+    "drugbank_id": "DB00049"
+  }
+]

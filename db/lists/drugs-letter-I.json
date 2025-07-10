@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "Idursulfase beta",
+    "atc_code": "A16AB16",
+    "drugbank_id": "DB16190"
+  },
+  {
+    "name": "Idursulfase",
+    "atc_code": "A16AB09",
+    "drugbank_id": "DB01271"
+  },
+  {
+    "name": "Imiglucerase",
+    "atc_code": "A16AB02",
+    "drugbank_id": "DB00053"
+  },
+  {
+    "name": "Inositol",
+    "atc_code": "A11HA07",
+    "drugbank_id": "DB13178"
+  },
+  {
+    "name": "Iron",
+    "atc_code": "A11AA01",
+    "drugbank_id": "DB01592"
+  },
+  {
+    "name": "Ipragliflozin",
+    "atc_code": "A10BK05",
+    "drugbank_id": "DB11698"
+  },
+  {
+    "name": "Imeglimin",
+    "atc_code": "A10BX15",
+    "drugbank_id": "DB12509"
+  },
+  {
+    "name": "Insulin human",
+    "atc_code": "A10AF01",
+    "drugbank_id": "DB00030"
+  },
+  {
+    "name": "Insulin icodec",
+    "atc_code": "A10AE07",
+    "drugbank_id": "DB16693"
+  },
+  {
+    "name": "Insulin glargine",
+    "atc_code": "A10AE54",
+    "drugbank_id": "DB00047"
+  },
+  {
+    "name": "Insulin degludec",
+    "atc_code": "A10AE56",
+    "drugbank_id": "DB09564"
+  },
+  {
+    "name": "Insulin degludec",
+    "atc_code": "A10AE06",
+    "drugbank_id": "DB09564"
+  },
+  {
+    "name": "Insulin detemir",
+    "atc_code": "A10AE05",
+    "drugbank_id": "DB01307"
+  },
+  {
+    "name": "Insulin glargine",
+    "atc_code": "A10AE04",
+    "drugbank_id": "DB00047"
+  },
+  {
+    "name": "Insulin pork",
+    "atc_code": "A10AE03",
+    "drugbank_id": "DB00071"
+  },
+  {
+    "name": "Insulin beef",
+    "atc_code": "A10AE02",
+    "drugbank_id": "DB09456"
+  },
+  {
+    "name": "Insulin human",
+    "atc_code": "A10AE01",
+    "drugbank_id": "DB00030"
+  },
+  {
+    "name": "Insulin degludec",
+    "atc_code": "A10AD06",
+    "drugbank_id": "DB09564"
+  },
+  {
+    "name": "Insulin aspart",
+    "atc_code": "A10AD06",
+    "drugbank_id": "DB01306"
+  },
+  {
+    "name": "Insulin aspart",
+    "atc_code": "A10AD05",
+    "drugbank_id": "DB01306"
+  },
+  {
+    "name": "Insulin lispro",
+    "atc_code": "A10AD04",
+    "drugbank_id": "DB00046"
+  },
+  {
+    "name": "Insulin pork",
+    "atc_code": "A10AD03",
+    "drugbank_id": "DB00071"
+  },
+  {
+    "name": "Insulin beef",
+    "atc_code": "A10AD02",
+    "drugbank_id": "DB09456"
+  },
+  {
+    "name": "Insulin human",
+    "atc_code": "A10AD01",
+    "drugbank_id": "DB00030"
+  },
+  {
+    "name": "Insulin lispro",
+    "atc_code": "A10AC04",
+    "drugbank_id": "DB00046"
+  },
+  {
+    "name": "Insulin pork",
+    "atc_code": "A10AC03",
+    "drugbank_id": "DB00071"
+  },
+  {
+    "name": "Insulin beef",
+    "atc_code": "A10AC02",
+    "drugbank_id": "DB09456"
+  },
+  {
+    "name": "Insulin human",
+    "atc_code": "A10AC01",
+    "drugbank_id": "DB00030"
+  },
+  {
+    "name": "Insulin glulisine",
+    "atc_code": "A10AB06",
+    "drugbank_id": "DB01309"
+  },
+  {
+    "name": "Insulin aspart",
+    "atc_code": "A10AB05",
+    "drugbank_id": "DB01306"
+  },
+  {
+    "name": "Insulin lispro",
+    "atc_code": "A10AB04",
+    "drugbank_id": "DB00046"
+  },
+  {
+    "name": "Insulin pork",
+    "atc_code": "A10AB03",
+    "drugbank_id": "DB00071"
+  },
+  {
+    "name": "Insulin beef",
+    "atc_code": "A10AB02",
+    "drugbank_id": "DB09456"
+  },
+  {
+    "name": "Insulin human",
+    "atc_code": "A10AB01",
+    "drugbank_id": "DB00030"
+  },
+  {
+    "name": "Itopride",
+    "atc_code": "A03FA07",
+    "drugbank_id": "DB04924"
+  },
+  {
+    "name": "Isopropamide",
+    "atc_code": "A03CA01",
+    "drugbank_id": "DB01625"
+  },
+  {
+    "name": "Isometheptene",
+    "atc_code": "A03AX10",
+    "drugbank_id": "DB06706"
+  },
+  {
+    "name": "Idanpramine",
+    "atc_code": "A03AX06",
+    "drugbank_id": "DB13276"
+  },
+  {
+    "name": "Isopropamide",
+    "atc_code": "A03AB09",
+    "drugbank_id": "DB01625"
+  },
+  {
+    "name": "Irsogladine",
+    "atc_code": "A02BX16",
+    "drugbank_id": "DB13056"
+  },
+  {
+    "name": "Ilaprazole",
+    "atc_code": "A02BC11",
+    "drugbank_id": "DB11964"
+  },
+  {
+    "name": "Icatibant",
+    "atc_code": "B06AC02",
+    "drugbank_id": "DB06196"
+  },
+  {
+    "name": "Iron",
+    "atc_code": "B03AE04",
+    "drugbank_id": "DB01592"
+  },
+  {
+    "name": "Iron",
+    "atc_code": "B03AE03",
+    "drugbank_id": "DB01592"
+  },
+  {
+    "name": "Iron",
+    "atc_code": "B03AE02",
+    "drugbank_id": "DB01592"
+  },
+  {
+    "name": "Iron",
+    "atc_code": "B03AE01",
+    "drugbank_id": "DB01592"
+  },
+  {
+    "name": "Iron protein succinylate",
+    "atc_code": "B03AB09",
+    "drugbank_id": "DB11209"
+  },
+  {
+    "name": "Iron sucrose",
+    "atc_code": "B03AB02",
+    "drugbank_id": "DB09146"
+  },
+  {
+    "name": "Iloprost",
+    "atc_code": "B01AC11",
+    "drugbank_id": "DB01088"
+  },
+  {
+    "name": "Indobufen",
+    "atc_code": "B01AC10",
+    "drugbank_id": "DB12545"
+  },
+  {
+    "name": "Indapamide",
+    "atc_code": "C10BX13",
+    "drugbank_id": "DB00808"
+  },
+  {
+    "name": "Inclisiran",
+    "atc_code": "C10AX16",
+    "drugbank_id": "DB14901"
+  },
+  {
+    "name": "Irbesartan",
+    "atc_code": "C09DX07",
+    "drugbank_id": "DB01029"
+  },
+  {
+    "name": "Irbesartan",
+    "atc_code": "C09DB05",
+    "drugbank_id": "DB01029"
+  },
+  {
+    "name": "Irbesartan",
+    "atc_code": "C09DA04",
+    "drugbank_id": "DB01029"
+  },
+  {
+    "name": "Irbesartan",
+    "atc_code": "C09CA04",
+    "drugbank_id": "DB01029"
+  },
+  {
+    "name": "Indapamide",
+    "atc_code": "C09BX06",
+    "drugbank_id": "DB00808"
+  },
+  {
+    "name": "Indapamide",
+    "atc_code": "C09BX01",
+    "drugbank_id": "DB00808"
+  },
+  {
+    "name": "Imidapril",
+    "atc_code": "C09AA16",
+    "drugbank_id": "DB11783"
+  },
+  {
+    "name": "Isradipine",
+    "atc_code": "C08CA03",
+    "drugbank_id": "DB00270"
+  },
+  {
+    "name": "Ivabradine",
+    "atc_code": "C07FX06",
+    "drugbank_id": "DB09083"
+  },
+  {
+    "name": "Ivabradine",
+    "atc_code": "C07FX05",
+    "drugbank_id": "DB09083"
+  },
+  {
+    "name": "Invert sugar",
+    "atc_code": "C05BB03",
+    "drugbank_id": "DB09344"
+  },
+  {
+    "name": "Isosorbide dinitrate",
+    "atc_code": "C05AE02",
+    "drugbank_id": "DB00883"
+  },
+  {
+    "name": "Ifenprodil",
+    "atc_code": "C04AX28",
+    "drugbank_id": "DB08954"
+  },
+  {
+    "name": "Inositol nicotinate",
+    "atc_code": "C04AC03",
+    "drugbank_id": "DB08949"
+  },
+  {
+    "name": "Isoxsuprine",
+    "atc_code": "C04AA01",
+    "drugbank_id": "DB08941"
+  },
+  {
+    "name": "Indapamide",
+    "atc_code": "C03BA11",
+    "drugbank_id": "DB00808"
+  },
+  {
+    "name": "Indoramin",
+    "atc_code": "C02CA02",
+    "drugbank_id": "DB08950"
+  },
+  {
+    "name": "Ivabradine",
+    "atc_code": "C01EB17",
+    "drugbank_id": "DB09083"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "C01EB16",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "C01EB03",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Imolamine",
+    "atc_code": "C01DX09",
+    "drugbank_id": "DB09284"
+  },
+  {
+    "name": "Isosorbide dinitrate",
+    "atc_code": "C01DA58",
+    "drugbank_id": "DB00883"
+  },
+  {
+    "name": "Isosorbide mononitrate",
+    "atc_code": "C01DA14",
+    "drugbank_id": "DB01020"
+  },
+  {
+    "name": "Isosorbide dinitrate",
+    "atc_code": "C01DA08",
+    "drugbank_id": "DB00883"
+  },
+  {
+    "name": "Ibopamine",
+    "atc_code": "C01CA16",
+    "drugbank_id": "DB13316"
+  },
+  {
+    "name": "Isoprenaline",
+    "atc_code": "C01CA02",
+    "drugbank_id": "DB01064"
+  },
+  {
+    "name": "Ibutilide",
+    "atc_code": "C01BD05",
+    "drugbank_id": "DB00308"
+  },
+  {
+    "name": "Ivermectin",
+    "atc_code": "D11AX22",
+    "drugbank_id": "DB00602"
+  },
+  {
+    "name": "Isotretinoin",
+    "atc_code": "D10BA01",
+    "drugbank_id": "DB00982"
+  },
+  {
+    "name": "Isotretinoin",
+    "atc_code": "D10AD54",
+    "drugbank_id": "DB00982"
+  },
+  {
+    "name": "Isotretinoin",
+    "atc_code": "D10AD04",
+    "drugbank_id": "DB00982"
+  },
+  {
+    "name": "Iodoform",
+    "atc_code": "D09AA13",
+    "drugbank_id": "DB13813"
+  },
+  {
+    "name": "Isopropyl alcohol",
+    "atc_code": "D08AX05",
+    "drugbank_id": "DB02325"
+  },
+  {
+    "name": "Iodine",
+    "atc_code": "D08AG03",
+    "drugbank_id": "DB05382"
+  },
+  {
+    "name": "Ingenol mebutate",
+    "atc_code": "D06BX02",
+    "drugbank_id": "DB05013"
+  },
+  {
+    "name": "Imiquimod",
+    "atc_code": "D06BB10",
+    "drugbank_id": "DB00724"
+  },
+  {
+    "name": "Ibacitabine",
+    "atc_code": "D06BB08",
+    "drugbank_id": "DB13776"
+  },
+  {
+    "name": "Inosine",
+    "atc_code": "D06BB05",
+    "drugbank_id": "DB04335"
+  },
+  {
+    "name": "Idoxuridine",
+    "atc_code": "D06BB01",
+    "drugbank_id": "DB00249"
+  },
+  {
+    "name": "Isothipendyl",
+    "atc_code": "D04AA22",
+    "drugbank_id": "DB08802"
+  },
+  {
+    "name": "Isoconazole",
+    "atc_code": "D01AC05",
+    "drugbank_id": "DB08943"
+  },
+  {
+    "name": "Imidafenacin",
+    "atc_code": "G04BD14",
+    "drugbank_id": "DB09262"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "G02CC01",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Inosine",
+    "atc_code": "G01AX02",
+    "drugbank_id": "DB04335"
+  },
+  {
+    "name": "Isoconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB08943"
+  },
+  {
+    "name": "Isoconazole",
+    "atc_code": "G01AF07",
+    "drugbank_id": "DB08943"
+  },
+  {
+    "name": "Indapamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00808"
+  },
+  {
+    "name": "Imdevimab",
+    "atc_code": "J06BD07",
+    "drugbank_id": "DB15940"
+  },
+  {
+    "name": "Ibalizumab",
+    "atc_code": "J05AX23",
+    "drugbank_id": "DB12698"
+  },
+  {
+    "name": "Inosine pranobex",
+    "atc_code": "J05AX05",
+    "drugbank_id": "DB13156"
+  },
+  {
+    "name": "Indinavir",
+    "atc_code": "J05AE02",
+    "drugbank_id": "DB00224"
+  },
+  {
+    "name": "Idoxuridine",
+    "atc_code": "J05AB02",
+    "drugbank_id": "DB00249"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM12",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM09",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM08",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM07",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM06",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM05",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM04",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM03",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM02",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AM01",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AC51",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Isoniazid",
+    "atc_code": "J04AC01",
+    "drugbank_id": "DB00951"
+  },
+  {
+    "name": "Ibrexafungerp",
+    "atc_code": "J02AX07",
+    "drugbank_id": "DB12471"
+  },
+  {
+    "name": "Isavuconazole",
+    "atc_code": "J02AC05",
+    "drugbank_id": "DB11633"
+  },
+  {
+    "name": "Itraconazole",
+    "atc_code": "J02AC02",
+    "drugbank_id": "DB01167"
+  },
+  {
+    "name": "Isepamicin",
+    "atc_code": "J01GB11",
+    "drugbank_id": "DB13540"
+  },
+  {
+    "name": "Iclaprim",
+    "atc_code": "J01EA03",
+    "drugbank_id": "DB06358"
+  },
+  {
+    "name": "Imipenem",
+    "atc_code": "J01DH56",
+    "drugbank_id": "DB01598"
+  },
+  {
+    "name": "Imipenem",
+    "atc_code": "J01DH51",
+    "drugbank_id": "DB01598"
+  },
+  {
+    "name": "Iptacopan",
+    "atc_code": "L04AJ08",
+    "drugbank_id": "DB16200"
+  },
+  {
+    "name": "Inebilizumab",
+    "atc_code": "L04AG10",
+    "drugbank_id": "DB12530"
+  },
+  {
+    "name": "Itacitinib",
+    "atc_code": "L04AF05",
+    "drugbank_id": "DB12154"
+  },
+  {
+    "name": "Ixekizumab",
+    "atc_code": "L04AC13",
+    "drugbank_id": "DB11569"
+  },
+  {
+    "name": "Infliximab",
+    "atc_code": "L04AB02",
+    "drugbank_id": "DB00065"
+  },
+  {
+    "name": "Imlifidase",
+    "atc_code": "L04AA41",
+    "drugbank_id": "DB15258"
+  },
+  {
+    "name": "Interferon alfacon-1",
+    "atc_code": "L03AB09",
+    "drugbank_id": "DB00069"
+  },
+  {
+    "name": "Interferon beta-1b",
+    "atc_code": "L03AB08",
+    "drugbank_id": "DB00068"
+  },
+  {
+    "name": "Interferon beta-1a",
+    "atc_code": "L03AB07",
+    "drugbank_id": "DB00060"
+  },
+  {
+    "name": "Interferon alfa-n1",
+    "atc_code": "L03AB06",
+    "drugbank_id": "DB00011"
+  },
+  {
+    "name": "Interferon alfa-2b",
+    "atc_code": "L03AB05",
+    "drugbank_id": "DB00105"
+  },
+  {
+    "name": "Interferon alfa-2a",
+    "atc_code": "L03AB04",
+    "drugbank_id": "DB00034"
+  },
+  {
+    "name": "Interferon Gamma",
+    "atc_code": "L03AB03",
+    "drugbank_id": "DB15753"
+  },
+  {
+    "name": "Ipilimumab",
+    "atc_code": "L01FX04",
+    "drugbank_id": "DB06186"
+  },
+  {
+    "name": "Isatuximab",
+    "atc_code": "L01FC02",
+    "drugbank_id": "DB14811"
+  },
+  {
+    "name": "Inotuzumab ozogamicin",
+    "atc_code": "L01FB01",
+    "drugbank_id": "DB05889"
+  },
+  {
+    "name": "Infigratinib",
+    "atc_code": "L01EN03",
+    "drugbank_id": "DB11886"
+  },
+  {
+    "name": "Idelalisib",
+    "atc_code": "L01EM01",
+    "drugbank_id": "DB09054"
+  },
+  {
+    "name": "Ibrutinib",
+    "atc_code": "L01EL01",
+    "drugbank_id": "DB09053"
+  },
+  {
+    "name": "Icotinib",
+    "atc_code": "L01EB08",
+    "drugbank_id": "DB11737"
+  },
+  {
+    "name": "Imatinib",
+    "atc_code": "L01EA01",
+    "drugbank_id": "DB00619"
+  },
+  {
+    "name": "Ivosidenib",
+    "atc_code": "L01XM02",
+    "drugbank_id": "DB14568"
+  },
+  {
+    "name": "Idecabtagene vicleucel",
+    "atc_code": "L01XL07",
+    "drugbank_id": "DB16665"
+  },
+  {
+    "name": "Ixazomib",
+    "atc_code": "L01XG03",
+    "drugbank_id": "DB09570"
+  },
+  {
+    "name": "Idroxioleic acid",
+    "atc_code": "L01XX85",
+    "drugbank_id": "DB18213"
+  },
+  {
+    "name": "Imetelstat",
+    "atc_code": "L01XX80",
+    "drugbank_id": "DB14909"
+  },
+  {
+    "name": "Ixabepilone",
+    "atc_code": "L01DC04",
+    "drugbank_id": "DB04845"
+  },
+  {
+    "name": "Idarubicin",
+    "atc_code": "L01DB06",
+    "drugbank_id": "DB01177"
+  },
+  {
+    "name": "Irinotecan",
+    "atc_code": "L01CE02",
+    "drugbank_id": "DB00762"
+  },
+  {
+    "name": "Ifosfamide",
+    "atc_code": "L01AA06",
+    "drugbank_id": "DB01181"
+  },
+  {
+    "name": "Ipriflavone",
+    "atc_code": "M05BX01",
+    "drugbank_id": "DB13618"
+  },
+  {
+    "name": "Ibandronate",
+    "atc_code": "M05BB09",
+    "drugbank_id": "DB00710"
+  },
+  {
+    "name": "Ibandronate",
+    "atc_code": "M05BA06",
+    "drugbank_id": "DB00710"
+  },
+  {
+    "name": "Isobromindione",
+    "atc_code": "M04AB04",
+    "drugbank_id": "DB13545"
+  },
+  {
+    "name": "Idrocilamide",
+    "atc_code": "M02AX05",
+    "drugbank_id": "DB13297"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "M02AA23",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "M02AA13",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "M01AE51",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Ibuproxam",
+    "atc_code": "M01AE13",
+    "drugbank_id": "DB08955"
+  },
+  {
+    "name": "Indoprofen",
+    "atc_code": "M01AE10",
+    "drugbank_id": "DB08951"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "M01AE01",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "M01AB51",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "M01AB01",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Inotersen",
+    "atc_code": "N07XX15",
+    "drugbank_id": "DB14713"
+  },
+  {
+    "name": "Ipidacrine",
+    "atc_code": "N06DA05",
+    "drugbank_id": "DB13668"
+  },
+  {
+    "name": "Idebenone",
+    "atc_code": "N06BX13",
+    "drugbank_id": "DB09081"
+  },
+  {
+    "name": "Iproclozide",
+    "atc_code": "N06AF06",
+    "drugbank_id": "DB09247"
+  },
+  {
+    "name": "Iproniazid",
+    "atc_code": "N06AF05",
+    "drugbank_id": "DB04818"
+  },
+  {
+    "name": "Isocarboxazid",
+    "atc_code": "N06AF01",
+    "drugbank_id": "DB01247"
+  },
+  {
+    "name": "Iprindole",
+    "atc_code": "N06AA13",
+    "drugbank_id": "DB13496"
+  },
+  {
+    "name": "Imipramine oxide",
+    "atc_code": "N06AA03",
+    "drugbank_id": "DB13782"
+  },
+  {
+    "name": "Imipramine",
+    "atc_code": "N06AA02",
+    "drugbank_id": "DB00458"
+  },
+  {
+    "name": "Iloperidone",
+    "atc_code": "N05AX14",
+    "drugbank_id": "DB04946"
+  },
+  {
+    "name": "Istradefylline",
+    "atc_code": "N04CX01",
+    "drugbank_id": "DB11757"
+  },
+  {
+    "name": "Imidazole salicylate",
+    "atc_code": "N02BA16",
+    "drugbank_id": "DB13860"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "N02AJ23",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "N02AJ19",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "N02AJ08",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Isoflurane",
+    "atc_code": "N01AB06",
+    "drugbank_id": "DB00753"
+  },
+  {
+    "name": "Ivermectin",
+    "atc_code": "P02CF01",
+    "drugbank_id": "DB00602"
+  },
+  {
+    "name": "Ivacaftor",
+    "atc_code": "R07AX32",
+    "drugbank_id": "DB08820"
+  },
+  {
+    "name": "Ivacaftor",
+    "atc_code": "R07AX31",
+    "drugbank_id": "DB08820"
+  },
+  {
+    "name": "Ivacaftor",
+    "atc_code": "R07AX30",
+    "drugbank_id": "DB08820"
+  },
+  {
+    "name": "Ivacaftor",
+    "atc_code": "R07AX02",
+    "drugbank_id": "DB08820"
+  },
+  {
+    "name": "Isothipendyl",
+    "atc_code": "R06AD09",
+    "drugbank_id": "DB08802"
+  },
+  {
+    "name": "Isoaminile",
+    "atc_code": "R05DB04",
+    "drugbank_id": "DB08944"
+  },
+  {
+    "name": "Ipecac",
+    "atc_code": "R05CA04",
+    "drugbank_id": "DB13293"
+  },
+  {
+    "name": "Ibudilast",
+    "atc_code": "R03DC04",
+    "drugbank_id": "DB05266"
+  },
+  {
+    "name": "Isoetharine",
+    "atc_code": "R03CC06",
+    "drugbank_id": "DB00221"
+  },
+  {
+    "name": "Isoprenaline",
+    "atc_code": "R03CB51",
+    "drugbank_id": "DB01064"
+  },
+  {
+    "name": "Isoprenaline",
+    "atc_code": "R03CB01",
+    "drugbank_id": "DB01064"
+  },
+  {
+    "name": "Ipratropium",
+    "atc_code": "R03BB01",
+    "drugbank_id": "DB00332"
+  },
+  {
+    "name": "Indacaterol",
+    "atc_code": "R03AL12",
+    "drugbank_id": "DB05039"
+  },
+  {
+    "name": "Indacaterol",
+    "atc_code": "R03AL04",
+    "drugbank_id": "DB05039"
+  },
+  {
+    "name": "Ipratropium",
+    "atc_code": "R03AL02",
+    "drugbank_id": "DB00332"
+  },
+  {
+    "name": "Ipratropium",
+    "atc_code": "R03AL01",
+    "drugbank_id": "DB00332"
+  },
+  {
+    "name": "Indacaterol",
+    "atc_code": "R03AK14",
+    "drugbank_id": "DB05039"
+  },
+  {
+    "name": "Isoprenaline",
+    "atc_code": "R03AK02",
+    "drugbank_id": "DB01064"
+  },
+  {
+    "name": "Indacaterol",
+    "atc_code": "R03AC18",
+    "drugbank_id": "DB05039"
+  },
+  {
+    "name": "Isoetharine",
+    "atc_code": "R03AC07",
+    "drugbank_id": "DB00221"
+  },
+  {
+    "name": "Isoprenaline",
+    "atc_code": "R03AB02",
+    "drugbank_id": "DB01064"
+  },
+  {
+    "name": "Ibuprofen",
+    "atc_code": "R02AX02",
+    "drugbank_id": "DB01050"
+  },
+  {
+    "name": "Ipratropium",
+    "atc_code": "R01AX03",
+    "drugbank_id": "DB00332"
+  },
+  {
+    "name": "Indanazoline",
+    "atc_code": "R01AA15",
+    "drugbank_id": "DB13827"
+  },
+  {
+    "name": "Inosine",
+    "atc_code": "S01XA10",
+    "drugbank_id": "DB04335"
+  },
+  {
+    "name": "Ibopamine",
+    "atc_code": "S01FB03",
+    "drugbank_id": "DB13316"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "S01CC02",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Indomethacin",
+    "atc_code": "S01BC01",
+    "drugbank_id": "DB00328"
+  },
+  {
+    "name": "Idoxuridine",
+    "atc_code": "S01AD01",
+    "drugbank_id": "DB00249"
+  },
+  {
+    "name": "Ibritumomab tiuxetan",
+    "atc_code": "V10XX02",
+    "drugbank_id": "DB00078"
+  },
+  {
+    "name": "Iobenguane",
+    "atc_code": "V10XA02",
+    "drugbank_id": "DB06704"
+  },
+  {
+    "name": "Iodide I-131",
+    "atc_code": "V10XA01",
+    "drugbank_id": "DB09293"
+  },
+  {
+    "name": "Iobenguane",
+    "atc_code": "V09IX02",
+    "drugbank_id": "DB06704"
+  },
+  {
+    "name": "Iobenguane",
+    "atc_code": "V09IX01",
+    "drugbank_id": "DB06704"
+  },
+  {
+    "name": "Indium In-111 satumomab pendetide",
+    "atc_code": "V09IB02",
+    "drugbank_id": "DB00057"
+  },
+  {
+    "name": "Indium In-111 pentetreotide",
+    "atc_code": "V09IB01",
+    "drugbank_id": "DB11835"
+  },
+  {
+    "name": "Iodide I-131",
+    "atc_code": "V09FX03",
+    "drugbank_id": "DB09293"
+  },
+  {
+    "name": "Iodide I-123",
+    "atc_code": "V09FX02",
+    "drugbank_id": "DB09420"
+  },
+  {
+    "name": "Iodohippurate sodium I-131",
+    "atc_code": "V09CX02",
+    "drugbank_id": "DB09382"
+  },
+  {
+    "name": "Iodohippurate sodium I-123",
+    "atc_code": "V09CX01",
+    "drugbank_id": "DB09448"
+  },
+  {
+    "name": "Indium In-111 pentetate",
+    "atc_code": "V09AX01",
+    "drugbank_id": "DB09425"
+  },
+  {
+    "name": "Ioflupane I-123",
+    "atc_code": "V09AB03",
+    "drugbank_id": "DB08824"
+  },
+  {
+    "name": "Iofetamine I-123",
+    "atc_code": "V09AB01",
+    "drugbank_id": "DB09480"
+  },
+  {
+    "name": "Iophendylate",
+    "atc_code": "V08AD04",
+    "drugbank_id": "DB01187"
+  },
+  {
+    "name": "Iopydol",
+    "atc_code": "V08AD02",
+    "drugbank_id": "DB13389"
+  },
+  {
+    "name": "Iopodic acid",
+    "atc_code": "V08AC10",
+    "drugbank_id": "DB09333"
+  },
+  {
+    "name": "Iopodic acid",
+    "atc_code": "V08AC08",
+    "drugbank_id": "DB09333"
+  },
+  {
+    "name": "Iocetamic acid",
+    "atc_code": "V08AC07",
+    "drugbank_id": "DB09403"
+  },
+  {
+    "name": "Iopanoic acid",
+    "atc_code": "V08AC06",
+    "drugbank_id": "DB08946"
+  },
+  {
+    "name": "Iobenzamic acid",
+    "atc_code": "V08AC05",
+    "drugbank_id": "DB13428"
+  },
+  {
+    "name": "Iodipamide",
+    "atc_code": "V08AC04",
+    "drugbank_id": "DB04711"
+  },
+  {
+    "name": "Ioglycamic acid",
+    "atc_code": "V08AC03",
+    "drugbank_id": "DB13741"
+  },
+  {
+    "name": "Iotroxic acid",
+    "atc_code": "V08AC02",
+    "drugbank_id": "DB08945"
+  },
+  {
+    "name": "Iodoxamic acid",
+    "atc_code": "V08AC01",
+    "drugbank_id": "DB13539"
+  },
+  {
+    "name": "Ioxilan",
+    "atc_code": "V08AB12",
+    "drugbank_id": "DB09135"
+  },
+  {
+    "name": "Iobitridol",
+    "atc_code": "V08AB11",
+    "drugbank_id": "DB12407"
+  },
+  {
+    "name": "Iomeprol",
+    "atc_code": "V08AB10",
+    "drugbank_id": "DB11705"
+  },
+  {
+    "name": "Iodixanol",
+    "atc_code": "V08AB09",
+    "drugbank_id": "DB01249"
+  },
+  {
+    "name": "Iopentol",
+    "atc_code": "V08AB08",
+    "drugbank_id": "DB13861"
+  },
+  {
+    "name": "Ioversol",
+    "atc_code": "V08AB07",
+    "drugbank_id": "DB09134"
+  },
+  {
+    "name": "Iotrolan",
+    "atc_code": "V08AB06",
+    "drugbank_id": "DB09487"
+  },
+  {
+    "name": "Iopromide",
+    "atc_code": "V08AB05",
+    "drugbank_id": "DB09156"
+  },
+  {
+    "name": "Iopamidol",
+    "atc_code": "V08AB04",
+    "drugbank_id": "DB08947"
+  },
+  {
+    "name": "Ioxaglic acid",
+    "atc_code": "V08AB03",
+    "drugbank_id": "DB09313"
+  },
+  {
+    "name": "Iohexol",
+    "atc_code": "V08AB02",
+    "drugbank_id": "DB01362"
+  },
+  {
+    "name": "Iocarmic acid",
+    "atc_code": "V08AA08",
+    "drugbank_id": "DB13755"
+  },
+  {
+    "name": "Ioglicic acid",
+    "atc_code": "V08AA06",
+    "drugbank_id": "DB13701"
+  },
+  {
+    "name": "Ioxitalamic acid",
+    "atc_code": "V08AA05",
+    "drugbank_id": "DB13444"
+  },
+  {
+    "name": "Iothalamic acid",
+    "atc_code": "V08AA04",
+    "drugbank_id": "DB09133"
+  },
+  {
+    "name": "Iodamide",
+    "atc_code": "V08AA03",
+    "drugbank_id": "DB08948"
+  },
+  {
+    "name": "Indocyanine green",
+    "atc_code": "V04CX01",
+    "drugbank_id": "DB16024"
+  },
+  {
+    "name": "Indigotindisulfonic acid",
+    "atc_code": "V04CH02",
+    "drugbank_id": "DB11577"
+  },
+  {
+    "name": "Inulin",
+    "atc_code": "V04CH01",
+    "drugbank_id": "DB00638"
+  },
+  {
+    "name": "Iron sucrose",
+    "atc_code": "V03AE05",
+    "drugbank_id": "DB09146"
+  },
+  {
+    "name": "Idarucizumab",
+    "atc_code": "V03AB37",
+    "drugbank_id": "DB09264"
+  },
+  {
+    "name": "Ipecac",
+    "atc_code": "V03AB01",
+    "drugbank_id": "DB13293"
+  }
+]

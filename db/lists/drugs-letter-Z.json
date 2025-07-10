@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Zinc acetate",
+    "atc_code": "A16AX05",
+    "drugbank_id": "DB14487"
+  },
+  {
+    "name": "Zinc gluconate",
+    "atc_code": "A12CB02",
+    "drugbank_id": "DB11248"
+  },
+  {
+    "name": "Zinc sulfate",
+    "atc_code": "A12CB01",
+    "drugbank_id": "DB09322"
+  },
+  {
+    "name": "Zolimidine",
+    "atc_code": "A02BX10",
+    "drugbank_id": "DB13593"
+  },
+  {
+    "name": "Zinc sulfate",
+    "atc_code": "B05XA18",
+    "drugbank_id": "DB09322"
+  },
+  {
+    "name": "Zinc chloride",
+    "atc_code": "B05XA12",
+    "drugbank_id": "DB14533"
+  },
+  {
+    "name": "Zofenopril",
+    "atc_code": "C09BX07",
+    "drugbank_id": "DB13166"
+  },
+  {
+    "name": "Zofenopril",
+    "atc_code": "C09BA15",
+    "drugbank_id": "DB13166"
+  },
+  {
+    "name": "Zofenopril",
+    "atc_code": "C09AA15",
+    "drugbank_id": "DB13166"
+  },
+  {
+    "name": "Zinc ascorbate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14485"
+  },
+  {
+    "name": "Zinc sulfate, unspecified form",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14548"
+  },
+  {
+    "name": "Zinc acetate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14487"
+  },
+  {
+    "name": "Zinc oxide",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB09321"
+  },
+  {
+    "name": "Zinc dibutyldithiocarbamate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14194"
+  },
+  {
+    "name": "Zinc sulfate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB09322"
+  },
+  {
+    "name": "Zinc",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB01593"
+  },
+  {
+    "name": "Zinc citrate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB11154"
+  },
+  {
+    "name": "Zinc chloride",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14533"
+  },
+  {
+    "name": "Zinc gluconate",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB11248"
+  },
+  {
+    "name": "Zonisamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00909"
+  },
+  {
+    "name": "Zidovudine",
+    "atc_code": "J05AR05",
+    "drugbank_id": "DB00495"
+  },
+  {
+    "name": "Zidovudine",
+    "atc_code": "J05AR04",
+    "drugbank_id": "DB00495"
+  },
+  {
+    "name": "Zidovudine",
+    "atc_code": "J05AR01",
+    "drugbank_id": "DB00495"
+  },
+  {
+    "name": "Zanamivir",
+    "atc_code": "J05AH01",
+    "drugbank_id": "DB00558"
+  },
+  {
+    "name": "Zalcitabine",
+    "atc_code": "J05AF03",
+    "drugbank_id": "DB00943"
+  },
+  {
+    "name": "Zidovudine",
+    "atc_code": "J05AF01",
+    "drugbank_id": "DB00495"
+  },
+  {
+    "name": "Zilucoplan",
+    "atc_code": "L04AJ06",
+    "drugbank_id": "DB15636"
+  },
+  {
+    "name": "Zolbetuximab",
+    "atc_code": "L01FX31",
+    "drugbank_id": "DB15118"
+  },
+  {
+    "name": "Zanidatamab",
+    "atc_code": "L01FD07",
+    "drugbank_id": "DB15471"
+  },
+  {
+    "name": "Zanubrutinib",
+    "atc_code": "L01EL03",
+    "drugbank_id": "DB15035"
+  },
+  {
+    "name": "Zorubicin",
+    "atc_code": "L01DB05",
+    "drugbank_id": "DB11618"
+  },
+  {
+    "name": "Zoledronic acid",
+    "atc_code": "M05BB08",
+    "drugbank_id": "DB00399"
+  },
+  {
+    "name": "Zoledronic acid",
+    "atc_code": "M05BA08",
+    "drugbank_id": "DB00399"
+  },
+  {
+    "name": "Zucapsaicin",
+    "atc_code": "M02AB02",
+    "drugbank_id": "DB09120"
+  },
+  {
+    "name": "Zomepirac",
+    "atc_code": "M01AB04",
+    "drugbank_id": "DB04828"
+  },
+  {
+    "name": "Zuranolone",
+    "atc_code": "N06AX31",
+    "drugbank_id": "DB15490"
+  },
+  {
+    "name": "Zimelidine",
+    "atc_code": "N06AB02",
+    "drugbank_id": "DB04832"
+  },
+  {
+    "name": "Zaleplon",
+    "atc_code": "N05CF03",
+    "drugbank_id": "DB00962"
+  },
+  {
+    "name": "Zolpidem",
+    "atc_code": "N05CF02",
+    "drugbank_id": "DB00425"
+  },
+  {
+    "name": "Zopiclone",
+    "atc_code": "N05CF01",
+    "drugbank_id": "DB01198"
+  },
+  {
+    "name": "Zotepine",
+    "atc_code": "N05AX11",
+    "drugbank_id": "DB09225"
+  },
+  {
+    "name": "Zuclopenthixol",
+    "atc_code": "N05AF05",
+    "drugbank_id": "DB01624"
+  },
+  {
+    "name": "Ziprasidone",
+    "atc_code": "N05AE04",
+    "drugbank_id": "DB00246"
+  },
+  {
+    "name": "Zonisamide",
+    "atc_code": "N03AX15",
+    "drugbank_id": "DB00909"
+  },
+  {
+    "name": "Zavegepant",
+    "atc_code": "N02CD08",
+    "drugbank_id": "DB15688"
+  },
+  {
+    "name": "Zolmitriptan",
+    "atc_code": "N02CC03",
+    "drugbank_id": "DB00315"
+  },
+  {
+    "name": "Ziconotide",
+    "atc_code": "N02BG08",
+    "drugbank_id": "DB06283"
+  },
+  {
+    "name": "Zipeprol",
+    "atc_code": "R05DB15",
+    "drugbank_id": "DB13564"
+  },
+  {
+    "name": "Zafirlukast",
+    "atc_code": "R03DC01",
+    "drugbank_id": "DB00549"
+  }
+]

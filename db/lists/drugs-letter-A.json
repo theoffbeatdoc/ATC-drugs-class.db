@@ -1,0 +1,2437 @@
+[
+  {
+    "name": "Anethole trithione",
+    "atc_code": "A16AX02",
+    "drugbank_id": "DB13853"
+  },
+  {
+    "name": "Avalglucosidase alfa",
+    "atc_code": "A16AB22",
+    "drugbank_id": "DB16099"
+  },
+  {
+    "name": "Atidarsagene autotemcel",
+    "atc_code": "A16AB21",
+    "drugbank_id": "DB17538"
+  },
+  {
+    "name": "Asfotase alfa",
+    "atc_code": "A16AB13",
+    "drugbank_id": "DB09105"
+  },
+  {
+    "name": "Alglucosidase alfa",
+    "atc_code": "A16AB07",
+    "drugbank_id": "DB01272"
+  },
+  {
+    "name": "Agalsidase beta",
+    "atc_code": "A16AB04",
+    "drugbank_id": "DB00103"
+  },
+  {
+    "name": "Agalsidase alfa",
+    "atc_code": "A16AB03",
+    "drugbank_id": "DB15874"
+  },
+  {
+    "name": "Alglucerase",
+    "atc_code": "A16AB01",
+    "drugbank_id": "DB00088"
+  },
+  {
+    "name": "Ademetionine",
+    "atc_code": "A16AA02",
+    "drugbank_id": "DB00118"
+  },
+  {
+    "name": "Ascorbic acid",
+    "atc_code": "A11GB01",
+    "drugbank_id": "DB00126"
+  },
+  {
+    "name": "Ascorbic acid",
+    "atc_code": "A11GA01",
+    "drugbank_id": "DB00126"
+  },
+  {
+    "name": "Alfacalcidol",
+    "atc_code": "A11CC03",
+    "drugbank_id": "DB01436"
+  },
+  {
+    "name": "Albiglutide",
+    "atc_code": "A10BJ04",
+    "drugbank_id": "DB09043"
+  },
+  {
+    "name": "Alogliptin",
+    "atc_code": "A10BH04",
+    "drugbank_id": "DB06203"
+  },
+  {
+    "name": "Acarbose",
+    "atc_code": "A10BF01",
+    "drugbank_id": "DB00284"
+  },
+  {
+    "name": "Acarbose",
+    "atc_code": "A10BD17",
+    "drugbank_id": "DB00284"
+  },
+  {
+    "name": "Alogliptin",
+    "atc_code": "A10BD13",
+    "drugbank_id": "DB06203"
+  },
+  {
+    "name": "Alogliptin",
+    "atc_code": "A10BD09",
+    "drugbank_id": "DB06203"
+  },
+  {
+    "name": "Acetohexamide",
+    "atc_code": "A10BB31",
+    "drugbank_id": "DB00414"
+  },
+  {
+    "name": "Attapulgite",
+    "atc_code": "A07BC54",
+    "drugbank_id": "DB01574"
+  },
+  {
+    "name": "Attapulgite",
+    "atc_code": "A07BC04",
+    "drugbank_id": "DB01574"
+  },
+  {
+    "name": "Activated charcoal",
+    "atc_code": "A07BA51",
+    "drugbank_id": "DB09278"
+  },
+  {
+    "name": "Activated charcoal",
+    "atc_code": "A07BA01",
+    "drugbank_id": "DB09278"
+  },
+  {
+    "name": "Acetarsol",
+    "atc_code": "A07AX02",
+    "drugbank_id": "DB13268"
+  },
+  {
+    "name": "Amphotericin B",
+    "atc_code": "A07AA07",
+    "drugbank_id": "DB00681"
+  },
+  {
+    "name": "Alvimopan",
+    "atc_code": "A06AH02",
+    "drugbank_id": "DB06274"
+  },
+  {
+    "name": "Arginine glutamate",
+    "atc_code": "A05BA01",
+    "drugbank_id": "DB13207"
+  },
+  {
+    "name": "Aprepitant",
+    "atc_code": "A04AD12",
+    "drugbank_id": "DB00673"
+  },
+  {
+    "name": "Acotiamide",
+    "atc_code": "A03FA10",
+    "drugbank_id": "DB12482"
+  },
+  {
+    "name": "Alizapride",
+    "atc_code": "A03FA05",
+    "drugbank_id": "DB01425"
+  },
+  {
+    "name": "Atropine",
+    "atc_code": "A03CB03",
+    "drugbank_id": "DB00572"
+  },
+  {
+    "name": "Atropine",
+    "atc_code": "A03BA01",
+    "drugbank_id": "DB00572"
+  },
+  {
+    "name": "Alverine",
+    "atc_code": "A03AX58",
+    "drugbank_id": "DB01616"
+  },
+  {
+    "name": "Alverine",
+    "atc_code": "A03AX08",
+    "drugbank_id": "DB01616"
+  },
+  {
+    "name": "Alosetron",
+    "atc_code": "A03AE01",
+    "drugbank_id": "DB00969"
+  },
+  {
+    "name": "Alginic acid",
+    "atc_code": "A02BX13",
+    "drugbank_id": "DB13518"
+  },
+  {
+    "name": "Acetoxolone",
+    "atc_code": "A02BX09",
+    "drugbank_id": "DB13640"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD17",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD16",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD15",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD14",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD13",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD12",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD11",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD10",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD07",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD06",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD05",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD04",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD03",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "A02BD01",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Almasilate",
+    "atc_code": "A02AD05",
+    "drugbank_id": "DB13595"
+  },
+  {
+    "name": "Aluminum hydroxide",
+    "atc_code": "A02AD03",
+    "drugbank_id": "DB06723"
+  },
+  {
+    "name": "Aluminium glycinate",
+    "atc_code": "A02AB07",
+    "drugbank_id": "DB13626"
+  },
+  {
+    "name": "Aloglutamol",
+    "atc_code": "A02AB06",
+    "drugbank_id": "DB13650"
+  },
+  {
+    "name": "Aluminium acetoacetate",
+    "atc_code": "A02AB05",
+    "drugbank_id": "DB13280"
+  },
+  {
+    "name": "Aluminium phosphate",
+    "atc_code": "A02AB03",
+    "drugbank_id": "DB14517"
+  },
+  {
+    "name": "Aluminum hydroxide",
+    "atc_code": "A02AB02",
+    "drugbank_id": "DB06723"
+  },
+  {
+    "name": "Aluminum hydroxide",
+    "atc_code": "A02AB01",
+    "drugbank_id": "DB06723"
+  },
+  {
+    "name": "Amlexanox",
+    "atc_code": "A01AD07",
+    "drugbank_id": "DB01025"
+  },
+  {
+    "name": "Adrenalone",
+    "atc_code": "A01AD06",
+    "drugbank_id": "DB13394"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "A01AD05",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Amphotericin B",
+    "atc_code": "A01AB04",
+    "drugbank_id": "DB00681"
+  },
+  {
+    "name": "Alanyl glutamine",
+    "atc_code": "B05XB02",
+    "drugbank_id": "DB11876"
+  },
+  {
+    "name": "Arginine",
+    "atc_code": "B05XB01",
+    "drugbank_id": "DB00125"
+  },
+  {
+    "name": "Ammonium chloride",
+    "atc_code": "B05XA04",
+    "drugbank_id": "DB06767"
+  },
+  {
+    "name": "Amino acids",
+    "atc_code": "B05BA01",
+    "drugbank_id": "DB09393"
+  },
+  {
+    "name": "Albumin human",
+    "atc_code": "B05AA01",
+    "drugbank_id": "DB00062"
+  },
+  {
+    "name": "Avatrombopag",
+    "atc_code": "B02BX08",
+    "drugbank_id": "DB11995"
+  },
+  {
+    "name": "Anti-inhibitor coagulant complex",
+    "atc_code": "B02BD03",
+    "drugbank_id": "DB13151"
+  },
+  {
+    "name": "Antihemophilic factor, human recombinant",
+    "atc_code": "B02BD02",
+    "drugbank_id": "DB00025"
+  },
+  {
+    "name": "Antihemophilic factor human",
+    "atc_code": "B02BD02",
+    "drugbank_id": "DB13192"
+  },
+  {
+    "name": "Adrenalone",
+    "atc_code": "B02BC05",
+    "drugbank_id": "DB13394"
+  },
+  {
+    "name": "Alpha-1-proteinase inhibitor",
+    "atc_code": "B02AB02",
+    "drugbank_id": "DB00058"
+  },
+  {
+    "name": "Aprotinin",
+    "atc_code": "B02AB01",
+    "drugbank_id": "DB06692"
+  },
+  {
+    "name": "Aminomethylbenzoic acid",
+    "atc_code": "B02AA03",
+    "drugbank_id": "DB13244"
+  },
+  {
+    "name": "Aminocaproic acid",
+    "atc_code": "B02AA01",
+    "drugbank_id": "DB00513"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "B01AF51",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Apixaban",
+    "atc_code": "B01AF02",
+    "drugbank_id": "DB06605"
+  },
+  {
+    "name": "Argatroban",
+    "atc_code": "B01AE03",
+    "drugbank_id": "DB00278"
+  },
+  {
+    "name": "Apadamtase alfa",
+    "atc_code": "B01AD13",
+    "drugbank_id": "DB15164"
+  },
+  {
+    "name": "Ancrod",
+    "atc_code": "B01AD09",
+    "drugbank_id": "DB05099"
+  },
+  {
+    "name": "Anistreplase",
+    "atc_code": "B01AD03",
+    "drugbank_id": "DB00029"
+  },
+  {
+    "name": "Alteplase",
+    "atc_code": "B01AD02",
+    "drugbank_id": "DB00009"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "B01AC56",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Aloxiprin",
+    "atc_code": "B01AC15",
+    "drugbank_id": "DB13509"
+  },
+  {
+    "name": "Abciximab",
+    "atc_code": "B01AC13",
+    "drugbank_id": "DB00054"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "B01AC06",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Antithrombin III human",
+    "atc_code": "B01AB02",
+    "drugbank_id": "DB11598"
+  },
+  {
+    "name": "Acenocoumarol",
+    "atc_code": "B01AA07",
+    "drugbank_id": "DB01418"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX19",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX19",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX18",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX18",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX15",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX14",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX12",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX12",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX11",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX11",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX09",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX08",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX08",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX07",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX06",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX06",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX05",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX04",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BX03",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C10BX03",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX02",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C10BX01",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10BA05",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Alirocumab",
+    "atc_code": "C10AX14",
+    "drugbank_id": "DB09302"
+  },
+  {
+    "name": "Alipogene tiparvovec",
+    "atc_code": "C10AX10",
+    "drugbank_id": "DB13521"
+  },
+  {
+    "name": "Acipimox",
+    "atc_code": "C10AD06",
+    "drugbank_id": "DB09055"
+  },
+  {
+    "name": "Aluminium nicotinate",
+    "atc_code": "C10AD04",
+    "drugbank_id": "DB13576"
+  },
+  {
+    "name": "Aluminium clofibrate",
+    "atc_code": "C10AB03",
+    "drugbank_id": "DB13780"
+  },
+  {
+    "name": "Atorvastatin",
+    "atc_code": "C10AA05",
+    "drugbank_id": "DB01076"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09XA54",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Aliskiren",
+    "atc_code": "C09XA54",
+    "drugbank_id": "DB09026"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09XA53",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Aliskiren",
+    "atc_code": "C09XA53",
+    "drugbank_id": "DB09026"
+  },
+  {
+    "name": "Aliskiren",
+    "atc_code": "C09XA52",
+    "drugbank_id": "DB09026"
+  },
+  {
+    "name": "Aliskiren",
+    "atc_code": "C09XA02",
+    "drugbank_id": "DB09026"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DX08",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DX07",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DX06",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DX03",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Aliskiren",
+    "atc_code": "C09DX02",
+    "drugbank_id": "DB09026"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DX01",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB09",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB07",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB06",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB05",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB04",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB02",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09DB01",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Azilsartan medoxomil",
+    "atc_code": "C09DA09",
+    "drugbank_id": "DB08822"
+  },
+  {
+    "name": "Azilsartan medoxomil",
+    "atc_code": "C09CA09",
+    "drugbank_id": "DB08822"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BX06",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BX04",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BX03",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BX01",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BB13",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BB07",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BB04",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C09BB03",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C08GA02",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C08CA51",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C08CA01",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C07FX04",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C07FX03",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "C07FX02",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C07FB13",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C07FB12",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Amlodipine",
+    "atc_code": "C07FB07",
+    "drugbank_id": "DB00381"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07FB03",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07DB01",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07CB53",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07CB03",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Acebutolol",
+    "atc_code": "C07BB04",
+    "drugbank_id": "DB01193"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07BB03",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Acebutolol",
+    "atc_code": "C07AB04",
+    "drugbank_id": "DB01193"
+  },
+  {
+    "name": "Atenolol",
+    "atc_code": "C07AB03",
+    "drugbank_id": "DB00335"
+  },
+  {
+    "name": "Alprenolol",
+    "atc_code": "C07AA01",
+    "drugbank_id": "DB00866"
+  },
+  {
+    "name": "Azapetine",
+    "atc_code": "C04AX30",
+    "drugbank_id": "DB13727"
+  },
+  {
+    "name": "Amiloride",
+    "atc_code": "C03DB01",
+    "drugbank_id": "DB00594"
+  },
+  {
+    "name": "Aprocitentan",
+    "atc_code": "C02KN01",
+    "drugbank_id": "DB15059"
+  },
+  {
+    "name": "Ambrisentan",
+    "atc_code": "C02KX52",
+    "drugbank_id": "DB06403"
+  },
+  {
+    "name": "Ambrisentan",
+    "atc_code": "C02KX02",
+    "drugbank_id": "DB06403"
+  },
+  {
+    "name": "Acoramidis",
+    "atc_code": "C01EB25",
+    "drugbank_id": "DB17999"
+  },
+  {
+    "name": "Acadesine",
+    "atc_code": "C01EB13",
+    "drugbank_id": "DB04944"
+  },
+  {
+    "name": "Adenosine",
+    "atc_code": "C01EB10",
+    "drugbank_id": "DB00640"
+  },
+  {
+    "name": "Alprostadil",
+    "atc_code": "C01EA01",
+    "drugbank_id": "DB00770"
+  },
+  {
+    "name": "Aminoethyl nitrate",
+    "atc_code": "C01DX51",
+    "drugbank_id": "DB13585"
+  },
+  {
+    "name": "Aminoethyl nitrate",
+    "atc_code": "C01DX01",
+    "drugbank_id": "DB13585"
+  },
+  {
+    "name": "Angiotensin II",
+    "atc_code": "C01CX09",
+    "drugbank_id": "DB11842"
+  },
+  {
+    "name": "Angiotensinamide",
+    "atc_code": "C01CX06",
+    "drugbank_id": "DB13517"
+  },
+  {
+    "name": "Amrinone",
+    "atc_code": "C01CE01",
+    "drugbank_id": "DB01427"
+  },
+  {
+    "name": "Amezinium metilsulfate",
+    "atc_code": "C01CA25",
+    "drugbank_id": "DB13330"
+  },
+  {
+    "name": "Arbutamine",
+    "atc_code": "C01CA22",
+    "drugbank_id": "DB01102"
+  },
+  {
+    "name": "Amiodarone",
+    "atc_code": "C01BD01",
+    "drugbank_id": "DB01118"
+  },
+  {
+    "name": "Aprindine",
+    "atc_code": "C01BB04",
+    "drugbank_id": "DB01429"
+  },
+  {
+    "name": "Ajmaline",
+    "atc_code": "C01BA05",
+    "drugbank_id": "DB01426"
+  },
+  {
+    "name": "Acetyldigoxin",
+    "atc_code": "C01AA52",
+    "drugbank_id": "DB13691"
+  },
+  {
+    "name": "Acetyldigoxin",
+    "atc_code": "C01AA02",
+    "drugbank_id": "DB13691"
+  },
+  {
+    "name": "Acetyldigitoxin",
+    "atc_code": "C01AA01",
+    "drugbank_id": "DB00511"
+  },
+  {
+    "name": "Aminobenzoic acid",
+    "atc_code": "D11AX23",
+    "drugbank_id": "DB02362"
+  },
+  {
+    "name": "Abrocitinib",
+    "atc_code": "D11AH08",
+    "drugbank_id": "DB14973"
+  },
+  {
+    "name": "Alitretinoin",
+    "atc_code": "D11AH04",
+    "drugbank_id": "DB00523"
+  },
+  {
+    "name": "Aluminum oxide",
+    "atc_code": "D10AX04",
+    "drugbank_id": "DB11342"
+  },
+  {
+    "name": "Azelaic acid",
+    "atc_code": "D10AX03",
+    "drugbank_id": "DB00548"
+  },
+  {
+    "name": "Aluminum chloride",
+    "atc_code": "D10AX01",
+    "drugbank_id": "DB11081"
+  },
+  {
+    "name": "Adapalene",
+    "atc_code": "D10AD53",
+    "drugbank_id": "DB00210"
+  },
+  {
+    "name": "Adapalene",
+    "atc_code": "D10AD03",
+    "drugbank_id": "DB00210"
+  },
+  {
+    "name": "Aluminum chlorohydrate",
+    "atc_code": "D09AA08",
+    "drugbank_id": "DB11573"
+  },
+  {
+    "name": "Aminacrine",
+    "atc_code": "D08AA02",
+    "drugbank_id": "DB11561"
+  },
+  {
+    "name": "Amcinonide",
+    "atc_code": "D07AC11",
+    "drugbank_id": "DB00288"
+  },
+  {
+    "name": "Alclometasone",
+    "atc_code": "D07AB10",
+    "drugbank_id": "DB00240"
+  },
+  {
+    "name": "Acyclovir",
+    "atc_code": "D06BB53",
+    "drugbank_id": "DB00787"
+  },
+  {
+    "name": "Acyclovir",
+    "atc_code": "D06BB03",
+    "drugbank_id": "DB00787"
+  },
+  {
+    "name": "Amikacin",
+    "atc_code": "D06AX12",
+    "drugbank_id": "DB00479"
+  },
+  {
+    "name": "Acitretin",
+    "atc_code": "D05BB02",
+    "drugbank_id": "DB00459"
+  },
+  {
+    "name": "Anthralin",
+    "atc_code": "D05AC51",
+    "drugbank_id": "DB11157"
+  },
+  {
+    "name": "Anthralin",
+    "atc_code": "D05AC01",
+    "drugbank_id": "DB11157"
+  },
+  {
+    "name": "Afamelanotide",
+    "atc_code": "D02BB02",
+    "drugbank_id": "DB04931"
+  },
+  {
+    "name": "Aminobenzoic acid",
+    "atc_code": "D02BA01",
+    "drugbank_id": "DB02362"
+  },
+  {
+    "name": "Amorolfine",
+    "atc_code": "D01AE16",
+    "drugbank_id": "DB09056"
+  },
+  {
+    "name": "Alfuzosin",
+    "atc_code": "G04CA51",
+    "drugbank_id": "DB00346"
+  },
+  {
+    "name": "Alfuzosin",
+    "atc_code": "G04CA01",
+    "drugbank_id": "DB00346"
+  },
+  {
+    "name": "Acetohydroxamic acid",
+    "atc_code": "G04BX03",
+    "drugbank_id": "DB00551"
+  },
+  {
+    "name": "Avanafil",
+    "atc_code": "G04BE10",
+    "drugbank_id": "DB06237"
+  },
+  {
+    "name": "Apomorphine",
+    "atc_code": "G04BE07",
+    "drugbank_id": "DB00714"
+  },
+  {
+    "name": "Alprostadil",
+    "atc_code": "G04BE01",
+    "drugbank_id": "DB00770"
+  },
+  {
+    "name": "Ammonium chloride",
+    "atc_code": "G04BA01",
+    "drugbank_id": "DB06767"
+  },
+  {
+    "name": "Allylestrenol",
+    "atc_code": "G03DC01",
+    "drugbank_id": "DB01431"
+  },
+  {
+    "name": "Atosiban",
+    "atc_code": "G02CX01",
+    "drugbank_id": "DB09059"
+  },
+  {
+    "name": "Azanidazole",
+    "atc_code": "G01AF13",
+    "drugbank_id": "DB13350"
+  },
+  {
+    "name": "Acetazolamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00819"
+  },
+  {
+    "name": "Acetohexamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00414"
+  },
+  {
+    "name": "Acetyl sulfisoxazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB14033"
+  },
+  {
+    "name": "Ascorbic acid",
+    "atc_code": "G01AD03",
+    "drugbank_id": "DB00126"
+  },
+  {
+    "name": "Acetic acid",
+    "atc_code": "G01AD02",
+    "drugbank_id": "DB03166"
+  },
+  {
+    "name": "Acetarsol",
+    "atc_code": "G01AB01",
+    "drugbank_id": "DB13268"
+  },
+  {
+    "name": "Amphotericin B",
+    "atc_code": "G01AA03",
+    "drugbank_id": "DB00681"
+  },
+  {
+    "name": "Abaloparatide",
+    "atc_code": "H05AA04",
+    "drugbank_id": "DB05084"
+  },
+  {
+    "name": "Aldosterone",
+    "atc_code": "H02AA01",
+    "drugbank_id": "DB04630"
+  },
+  {
+    "name": "Ansuvimab",
+    "atc_code": "J06BD04",
+    "drugbank_id": "DB16385"
+  },
+  {
+    "name": "Asunaprevir",
+    "atc_code": "J05AP58",
+    "drugbank_id": "DB11586"
+  },
+  {
+    "name": "Asunaprevir",
+    "atc_code": "J05AP06",
+    "drugbank_id": "DB11586"
+  },
+  {
+    "name": "Amenamevir",
+    "atc_code": "J05AX26",
+    "drugbank_id": "DB11701"
+  },
+  {
+    "name": "Atazanavir",
+    "atc_code": "J05AR23",
+    "drugbank_id": "DB01072"
+  },
+  {
+    "name": "Atazanavir",
+    "atc_code": "J05AR15",
+    "drugbank_id": "DB01072"
+  },
+  {
+    "name": "Abacavir",
+    "atc_code": "J05AR13",
+    "drugbank_id": "DB01048"
+  },
+  {
+    "name": "Abacavir",
+    "atc_code": "J05AR04",
+    "drugbank_id": "DB01048"
+  },
+  {
+    "name": "Abacavir",
+    "atc_code": "J05AR02",
+    "drugbank_id": "DB01048"
+  },
+  {
+    "name": "Adefovir dipivoxil",
+    "atc_code": "J05AF08",
+    "drugbank_id": "DB00718"
+  },
+  {
+    "name": "Abacavir",
+    "atc_code": "J05AF06",
+    "drugbank_id": "DB01048"
+  },
+  {
+    "name": "Atazanavir",
+    "atc_code": "J05AE08",
+    "drugbank_id": "DB01072"
+  },
+  {
+    "name": "Amprenavir",
+    "atc_code": "J05AE05",
+    "drugbank_id": "DB00701"
+  },
+  {
+    "name": "Acyclovir",
+    "atc_code": "J05AB01",
+    "drugbank_id": "DB00787"
+  },
+  {
+    "name": "Amithiozone",
+    "atc_code": "J04AM04",
+    "drugbank_id": "DB12829"
+  },
+  {
+    "name": "Amithiozone",
+    "atc_code": "J04AK07",
+    "drugbank_id": "DB12829"
+  },
+  {
+    "name": "Aminosalicylic acid",
+    "atc_code": "J04AA03",
+    "drugbank_id": "DB00233"
+  },
+  {
+    "name": "Aminosalicylic acid",
+    "atc_code": "J04AA02",
+    "drugbank_id": "DB00233"
+  },
+  {
+    "name": "Aminosalicylic acid",
+    "atc_code": "J04AA01",
+    "drugbank_id": "DB00233"
+  },
+  {
+    "name": "Anidulafungin",
+    "atc_code": "J02AX06",
+    "drugbank_id": "DB00362"
+  },
+  {
+    "name": "Amphotericin B",
+    "atc_code": "J02AA01",
+    "drugbank_id": "DB00681"
+  },
+  {
+    "name": "Azithromycin",
+    "atc_code": "J01RA16",
+    "drugbank_id": "DB00207"
+  },
+  {
+    "name": "Azithromycin",
+    "atc_code": "J01RA07",
+    "drugbank_id": "DB00207"
+  },
+  {
+    "name": "Amikacin",
+    "atc_code": "J01RA06",
+    "drugbank_id": "DB00479"
+  },
+  {
+    "name": "Arbekacin",
+    "atc_code": "J01GB12",
+    "drugbank_id": "DB06696"
+  },
+  {
+    "name": "Amikacin",
+    "atc_code": "J01GB06",
+    "drugbank_id": "DB00479"
+  },
+  {
+    "name": "Azithromycin",
+    "atc_code": "J01FA10",
+    "drugbank_id": "DB00207"
+  },
+  {
+    "name": "Aztreonam",
+    "atc_code": "J01DF01",
+    "drugbank_id": "DB00355"
+  },
+  {
+    "name": "Amdinocillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01163"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Ampicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00415"
+  },
+  {
+    "name": "Azlocillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01061"
+  },
+  {
+    "name": "Azidocillin",
+    "atc_code": "J01CE04",
+    "drugbank_id": "DB08795"
+  },
+  {
+    "name": "Ampicillin",
+    "atc_code": "J01CA51",
+    "drugbank_id": "DB00415"
+  },
+  {
+    "name": "Aspoxicillin",
+    "atc_code": "J01CA19",
+    "drugbank_id": "DB13816"
+  },
+  {
+    "name": "Amdinocillin",
+    "atc_code": "J01CA11",
+    "drugbank_id": "DB01163"
+  },
+  {
+    "name": "Azlocillin",
+    "atc_code": "J01CA09",
+    "drugbank_id": "DB01061"
+  },
+  {
+    "name": "Amoxicillin",
+    "atc_code": "J01CA04",
+    "drugbank_id": "DB01060"
+  },
+  {
+    "name": "Ampicillin",
+    "atc_code": "J01CA01",
+    "drugbank_id": "DB00415"
+  },
+  {
+    "name": "Avacopan",
+    "atc_code": "L04AJ05",
+    "drugbank_id": "DB15011"
+  },
+  {
+    "name": "Anifrolumab",
+    "atc_code": "L04AG11",
+    "drugbank_id": "DB11976"
+  },
+  {
+    "name": "Alemtuzumab",
+    "atc_code": "L04AG06",
+    "drugbank_id": "DB00087"
+  },
+  {
+    "name": "Azathioprine",
+    "atc_code": "L04AX01",
+    "drugbank_id": "DB00993"
+  },
+  {
+    "name": "Anakinra",
+    "atc_code": "L04AC03",
+    "drugbank_id": "DB00026"
+  },
+  {
+    "name": "Adalimumab",
+    "atc_code": "L04AB04",
+    "drugbank_id": "DB00051"
+  },
+  {
+    "name": "Afelimomab",
+    "atc_code": "L04AB03",
+    "drugbank_id": "DB04956"
+  },
+  {
+    "name": "Apremilast",
+    "atc_code": "L04AA32",
+    "drugbank_id": "DB05676"
+  },
+  {
+    "name": "Abatacept",
+    "atc_code": "L04AA24",
+    "drugbank_id": "DB01281"
+  },
+  {
+    "name": "Abetimus",
+    "atc_code": "L04AA22",
+    "drugbank_id": "DB06662"
+  },
+  {
+    "name": "Alefacept",
+    "atc_code": "L04AA15",
+    "drugbank_id": "DB00092"
+  },
+  {
+    "name": "Antithymocyte immunoglobulin (rabbit)",
+    "atc_code": "L04AA04",
+    "drugbank_id": "DB00098"
+  },
+  {
+    "name": "Antilymphocyte immunoglobulin (horse)",
+    "atc_code": "L04AA03",
+    "drugbank_id": "DB09312"
+  },
+  {
+    "name": "Aldesleukin",
+    "atc_code": "L03AC01",
+    "drugbank_id": "DB00041"
+  },
+  {
+    "name": "Albinterferon Alfa-2B",
+    "atc_code": "L03AB12",
+    "drugbank_id": "DB05396"
+  },
+  {
+    "name": "Ancestim",
+    "atc_code": "L03AA12",
+    "drugbank_id": "DB09103"
+  },
+  {
+    "name": "Abiraterone",
+    "atc_code": "L02BX53",
+    "drugbank_id": "DB05812"
+  },
+  {
+    "name": "Abiraterone",
+    "atc_code": "L02BX03",
+    "drugbank_id": "DB05812"
+  },
+  {
+    "name": "Abarelix",
+    "atc_code": "L02BX01",
+    "drugbank_id": "DB00106"
+  },
+  {
+    "name": "Anastrozole",
+    "atc_code": "L02BG03",
+    "drugbank_id": "DB01217"
+  },
+  {
+    "name": "Aminoglutethimide",
+    "atc_code": "L02BG01",
+    "drugbank_id": "DB00357"
+  },
+  {
+    "name": "Apalutamide",
+    "atc_code": "L02BB05",
+    "drugbank_id": "DB11901"
+  },
+  {
+    "name": "Amivantamab",
+    "atc_code": "L01FX18",
+    "drugbank_id": "DB16695"
+  },
+  {
+    "name": "Atezolizumab",
+    "atc_code": "L01FF05",
+    "drugbank_id": "DB11595"
+  },
+  {
+    "name": "Avelumab",
+    "atc_code": "L01FF04",
+    "drugbank_id": "DB11945"
+  },
+  {
+    "name": "Avapritinib",
+    "atc_code": "L01EX18",
+    "drugbank_id": "DB15233"
+  },
+  {
+    "name": "Alpelisib",
+    "atc_code": "L01EM03",
+    "drugbank_id": "DB12015"
+  },
+  {
+    "name": "Acalabrutinib",
+    "atc_code": "L01EL02",
+    "drugbank_id": "DB11703"
+  },
+  {
+    "name": "Axitinib",
+    "atc_code": "L01EK01",
+    "drugbank_id": "DB06626"
+  },
+  {
+    "name": "Abemaciclib",
+    "atc_code": "L01EF03",
+    "drugbank_id": "DB12001"
+  },
+  {
+    "name": "Alectinib",
+    "atc_code": "L01ED03",
+    "drugbank_id": "DB11363"
+  },
+  {
+    "name": "Almonertinib",
+    "atc_code": "L01EB11",
+    "drugbank_id": "DB16640"
+  },
+  {
+    "name": "Afatinib",
+    "atc_code": "L01EB03",
+    "drugbank_id": "DB08916"
+  },
+  {
+    "name": "Asciminib",
+    "atc_code": "L01EA06",
+    "drugbank_id": "DB12597"
+  },
+  {
+    "name": "Axicabtagene ciloleucel",
+    "atc_code": "L01XL03",
+    "drugbank_id": "DB13915"
+  },
+  {
+    "name": "Abiraterone",
+    "atc_code": "L01XK52",
+    "drugbank_id": "DB05812"
+  },
+  {
+    "name": "Alitretinoin",
+    "atc_code": "L01XF02",
+    "drugbank_id": "DB00523"
+  },
+  {
+    "name": "Adagrasib",
+    "atc_code": "L01XX77",
+    "drugbank_id": "DB15568"
+  },
+  {
+    "name": "Amsacrine",
+    "atc_code": "L01XX01",
+    "drugbank_id": "DB00276"
+  },
+  {
+    "name": "Asparaginase Escherichia coli",
+    "atc_code": "L01XX02",
+    "drugbank_id": "DB00023"
+  },
+  {
+    "name": "Altretamine",
+    "atc_code": "L01XX03",
+    "drugbank_id": "DB00488"
+  },
+  {
+    "name": "Arsenic trioxide",
+    "atc_code": "L01XX27",
+    "drugbank_id": "DB01169"
+  },
+  {
+    "name": "Anagrelide",
+    "atc_code": "L01XX35",
+    "drugbank_id": "DB00261"
+  },
+  {
+    "name": "Aflibercept",
+    "atc_code": "L01XX44",
+    "drugbank_id": "DB08885"
+  },
+  {
+    "name": "Aminolevulinic acid",
+    "atc_code": "L01XD04",
+    "drugbank_id": "DB00855"
+  },
+  {
+    "name": "Amrubicin",
+    "atc_code": "L01DB10",
+    "drugbank_id": "DB06263"
+  },
+  {
+    "name": "Aclarubicin",
+    "atc_code": "L01DB04",
+    "drugbank_id": "DB11617"
+  },
+  {
+    "name": "Azacitidine",
+    "atc_code": "L01BC07",
+    "drugbank_id": "DB00928"
+  },
+  {
+    "name": "Aceneuramic acid",
+    "atc_code": "M09AX05",
+    "drugbank_id": "DB11797"
+  },
+  {
+    "name": "Ataluren",
+    "atc_code": "M09AX03",
+    "drugbank_id": "DB05016"
+  },
+  {
+    "name": "Aluminum chlorohydrate",
+    "atc_code": "M05BX02",
+    "drugbank_id": "DB11573"
+  },
+  {
+    "name": "Alfacalcidol",
+    "atc_code": "M05BB06",
+    "drugbank_id": "DB01436"
+  },
+  {
+    "name": "Alendronic acid",
+    "atc_code": "M05BB06",
+    "drugbank_id": "DB00630"
+  },
+  {
+    "name": "Alendronic acid",
+    "atc_code": "M05BB05",
+    "drugbank_id": "DB00630"
+  },
+  {
+    "name": "Alendronic acid",
+    "atc_code": "M05BB03",
+    "drugbank_id": "DB00630"
+  },
+  {
+    "name": "Alendronic acid",
+    "atc_code": "M05BA04",
+    "drugbank_id": "DB00630"
+  },
+  {
+    "name": "Allopurinol",
+    "atc_code": "M04AA51",
+    "drugbank_id": "DB00437"
+  },
+  {
+    "name": "Allopurinol",
+    "atc_code": "M04AA01",
+    "drugbank_id": "DB00437"
+  },
+  {
+    "name": "Atracurium",
+    "atc_code": "M03AC04",
+    "drugbank_id": "DB13295"
+  },
+  {
+    "name": "Alcuronium",
+    "atc_code": "M03AA01",
+    "drugbank_id": "DB13648"
+  },
+  {
+    "name": "Aceclofenac",
+    "atc_code": "M02AA25",
+    "drugbank_id": "DB06736"
+  },
+  {
+    "name": "Aurotioprol",
+    "atc_code": "M01CB05",
+    "drugbank_id": "DB13763"
+  },
+  {
+    "name": "Aurothioglucose",
+    "atc_code": "M01CB04",
+    "drugbank_id": "DB09121"
+  },
+  {
+    "name": "Auranofin",
+    "atc_code": "M01CB03",
+    "drugbank_id": "DB00995"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "M01BA03",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Azapropazone",
+    "atc_code": "M01AX04",
+    "drugbank_id": "DB07402"
+  },
+  {
+    "name": "Alminoprofen",
+    "atc_code": "M01AE16",
+    "drugbank_id": "DB13314"
+  },
+  {
+    "name": "Aceclofenac",
+    "atc_code": "M01AB16",
+    "drugbank_id": "DB06736"
+  },
+  {
+    "name": "Acemetacin",
+    "atc_code": "M01AB11",
+    "drugbank_id": "DB13783"
+  },
+  {
+    "name": "Alclofenac",
+    "atc_code": "M01AB06",
+    "drugbank_id": "DB13167"
+  },
+  {
+    "name": "Arimoclomol",
+    "atc_code": "N07XX17",
+    "drugbank_id": "DB05025"
+  },
+  {
+    "name": "Amifampridine",
+    "atc_code": "N07XX05",
+    "drugbank_id": "DB11640"
+  },
+  {
+    "name": "Acetylleucine",
+    "atc_code": "N07CA04",
+    "drugbank_id": "DB13226"
+  },
+  {
+    "name": "Acamprosate",
+    "atc_code": "N07BB03",
+    "drugbank_id": "DB00659"
+  },
+  {
+    "name": "Ambenonium",
+    "atc_code": "N07AA30",
+    "drugbank_id": "DB01122"
+  },
+  {
+    "name": "Aducanumab",
+    "atc_code": "N06DX03",
+    "drugbank_id": "DB12274"
+  },
+  {
+    "name": "Amitriptyline",
+    "atc_code": "N06CA01",
+    "drugbank_id": "DB00321"
+  },
+  {
+    "name": "Adrafinil",
+    "atc_code": "N06BX17",
+    "drugbank_id": "DB08925"
+  },
+  {
+    "name": "Acetylcarnitine",
+    "atc_code": "N06BX12",
+    "drugbank_id": "DB08842"
+  },
+  {
+    "name": "Aniracetam",
+    "atc_code": "N06BX11",
+    "drugbank_id": "DB04599"
+  },
+  {
+    "name": "Armodafinil",
+    "atc_code": "N06BA13",
+    "drugbank_id": "DB06413"
+  },
+  {
+    "name": "Atomoxetine",
+    "atc_code": "N06BA09",
+    "drugbank_id": "DB00289"
+  },
+  {
+    "name": "Amphetamine",
+    "atc_code": "N06BA01",
+    "drugbank_id": "DB00182"
+  },
+  {
+    "name": "Agomelatine",
+    "atc_code": "N06AX22",
+    "drugbank_id": "DB06594"
+  },
+  {
+    "name": "Alaproclate",
+    "atc_code": "N06AB07",
+    "drugbank_id": "DB13233"
+  },
+  {
+    "name": "Amineptine",
+    "atc_code": "N06AA19",
+    "drugbank_id": "DB04836"
+  },
+  {
+    "name": "Amoxapine",
+    "atc_code": "N06AA17",
+    "drugbank_id": "DB00543"
+  },
+  {
+    "name": "Amitriptyline",
+    "atc_code": "N06AA09",
+    "drugbank_id": "DB00321"
+  },
+  {
+    "name": "Apronalide",
+    "atc_code": "N05CM12",
+    "drugbank_id": "DB13221"
+  },
+  {
+    "name": "Acetylglycinamide chloral hydrate",
+    "atc_code": "N05CC03",
+    "drugbank_id": "DB13402"
+  },
+  {
+    "name": "Amobarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB01351"
+  },
+  {
+    "name": "Allobarbital",
+    "atc_code": "N05CA21",
+    "drugbank_id": "DB13577"
+  },
+  {
+    "name": "Aprobarbital",
+    "atc_code": "N05CA05",
+    "drugbank_id": "DB01352"
+  },
+  {
+    "name": "Amobarbital",
+    "atc_code": "N05CA02",
+    "drugbank_id": "DB01351"
+  },
+  {
+    "name": "Alprazolam",
+    "atc_code": "N05BA12",
+    "drugbank_id": "DB00404"
+  },
+  {
+    "name": "Adinazolam",
+    "atc_code": "N05BA07",
+    "drugbank_id": "DB00546"
+  },
+  {
+    "name": "Aripiprazole",
+    "atc_code": "N05AX12",
+    "drugbank_id": "DB01238"
+  },
+  {
+    "name": "Amisulpride",
+    "atc_code": "N05AL05",
+    "drugbank_id": "DB06288"
+  },
+  {
+    "name": "Asenapine",
+    "atc_code": "N05AH05",
+    "drugbank_id": "DB06216"
+  },
+  {
+    "name": "Acetophenazine",
+    "atc_code": "N05AB07",
+    "drugbank_id": "DB01063"
+  },
+  {
+    "name": "Acepromazine",
+    "atc_code": "N05AA04",
+    "drugbank_id": "DB01614"
+  },
+  {
+    "name": "Apomorphine",
+    "atc_code": "N04BC07",
+    "drugbank_id": "DB00714"
+  },
+  {
+    "name": "Amantadine",
+    "atc_code": "N04BB01",
+    "drugbank_id": "DB00915"
+  },
+  {
+    "name": "Atogepant",
+    "atc_code": "N02CD07",
+    "drugbank_id": "DB16098"
+  },
+  {
+    "name": "Almotriptan",
+    "atc_code": "N02CC05",
+    "drugbank_id": "DB00918"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02BE71",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02BE51",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02BE01",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Aminophenazone",
+    "atc_code": "N02BB73",
+    "drugbank_id": "DB01424"
+  },
+  {
+    "name": "Antipyrine",
+    "atc_code": "N02BB71",
+    "drugbank_id": "DB01435"
+  },
+  {
+    "name": "Aminophenazone",
+    "atc_code": "N02BB53",
+    "drugbank_id": "DB01424"
+  },
+  {
+    "name": "Antipyrine",
+    "atc_code": "N02BB51",
+    "drugbank_id": "DB01435"
+  },
+  {
+    "name": "Aminophenazone",
+    "atc_code": "N02BB03",
+    "drugbank_id": "DB01424"
+  },
+  {
+    "name": "Antipyrine",
+    "atc_code": "N02BB01",
+    "drugbank_id": "DB01435"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02BA71",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02BA51",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Aloxiprin",
+    "atc_code": "N02BA02",
+    "drugbank_id": "DB13509"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02BA01",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02AJ22",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02AJ18",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02AJ17",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02AJ13",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02AJ07",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02AJ06",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Acetylsalicylic acid",
+    "atc_code": "N02AJ02",
+    "drugbank_id": "DB00945"
+  },
+  {
+    "name": "Acetaminophen",
+    "atc_code": "N02AJ01",
+    "drugbank_id": "DB00316"
+  },
+  {
+    "name": "Articaine",
+    "atc_code": "N01BB58",
+    "drugbank_id": "DB09009"
+  },
+  {
+    "name": "Articaine",
+    "atc_code": "N01BB08",
+    "drugbank_id": "DB09009"
+  },
+  {
+    "name": "Alfaxalone",
+    "atc_code": "N01AX05",
+    "drugbank_id": "DB11371"
+  },
+  {
+    "name": "Anileridine",
+    "atc_code": "N01AH05",
+    "drugbank_id": "DB00913"
+  },
+  {
+    "name": "Alfentanil",
+    "atc_code": "N01AH02",
+    "drugbank_id": "DB00802"
+  },
+  {
+    "name": "Abametapir",
+    "atc_code": "P03AX07",
+    "drugbank_id": "DB11932"
+  },
+  {
+    "name": "Albendazole",
+    "atc_code": "P02CA03",
+    "drugbank_id": "DB00518"
+  },
+  {
+    "name": "Acetarsol",
+    "atc_code": "P01CD02",
+    "drugbank_id": "DB13268"
+  },
+  {
+    "name": "Arterolane",
+    "atc_code": "P01BX02",
+    "drugbank_id": "DB19027"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BF09",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Artemisinin",
+    "atc_code": "P01BF08",
+    "drugbank_id": "DB13132"
+  },
+  {
+    "name": "Artemisinin",
+    "atc_code": "P01BF07",
+    "drugbank_id": "DB13132"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BF06",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Artenimol",
+    "atc_code": "P01BF05",
+    "drugbank_id": "DB11638"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BF04",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BF03",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Amodiaquine",
+    "atc_code": "P01BF03",
+    "drugbank_id": "DB00613"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BF02",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Artemether",
+    "atc_code": "P01BF01",
+    "drugbank_id": "DB06697"
+  },
+  {
+    "name": "Artenimol",
+    "atc_code": "P01BE05",
+    "drugbank_id": "DB11638"
+  },
+  {
+    "name": "Artemotil",
+    "atc_code": "P01BE04",
+    "drugbank_id": "DB13851"
+  },
+  {
+    "name": "Artesunate",
+    "atc_code": "P01BE03",
+    "drugbank_id": "DB09274"
+  },
+  {
+    "name": "Artemether",
+    "atc_code": "P01BE02",
+    "drugbank_id": "DB06697"
+  },
+  {
+    "name": "Artemisinin",
+    "atc_code": "P01BE01",
+    "drugbank_id": "DB13132"
+  },
+  {
+    "name": "Atovaquone",
+    "atc_code": "P01BB51",
+    "drugbank_id": "DB01117"
+  },
+  {
+    "name": "Amodiaquine",
+    "atc_code": "P01BA06",
+    "drugbank_id": "DB00613"
+  },
+  {
+    "name": "Atovaquone",
+    "atc_code": "P01AX06",
+    "drugbank_id": "DB01117"
+  },
+  {
+    "name": "Arsthinol",
+    "atc_code": "P01AR01",
+    "drugbank_id": "DB08928"
+  },
+  {
+    "name": "Azanidazole",
+    "atc_code": "P01AB04",
+    "drugbank_id": "DB13350"
+  },
+  {
+    "name": "Almitrine",
+    "atc_code": "R07AB07",
+    "drugbank_id": "DB01430"
+  },
+  {
+    "name": "Azelastine",
+    "atc_code": "R06AX19",
+    "drugbank_id": "DB00972"
+  },
+  {
+    "name": "Acrivastine",
+    "atc_code": "R06AX18",
+    "drugbank_id": "DB09488"
+  },
+  {
+    "name": "Astemizole",
+    "atc_code": "R06AX11",
+    "drugbank_id": "DB00637"
+  },
+  {
+    "name": "Azatadine",
+    "atc_code": "R06AX09",
+    "drugbank_id": "DB00719"
+  },
+  {
+    "name": "Antazoline",
+    "atc_code": "R06AX05",
+    "drugbank_id": "DB08799"
+  },
+  {
+    "name": "Alimemazine",
+    "atc_code": "R06AD01",
+    "drugbank_id": "DB01246"
+  },
+  {
+    "name": "Acetyldihydrocodeine",
+    "atc_code": "R05DA12",
+    "drugbank_id": "DB01538"
+  },
+  {
+    "name": "Ambroxol",
+    "atc_code": "R05CB06",
+    "drugbank_id": "DB06742"
+  },
+  {
+    "name": "Acetylcysteine",
+    "atc_code": "R05CB01",
+    "drugbank_id": "DB06151"
+  },
+  {
+    "name": "Antimony pentasulfide",
+    "atc_code": "R05CA07",
+    "drugbank_id": "DB13473"
+  },
+  {
+    "name": "Amlexanox",
+    "atc_code": "R03DX01",
+    "drugbank_id": "DB01025"
+  },
+  {
+    "name": "Aminophylline",
+    "atc_code": "R03DB05",
+    "drugbank_id": "DB01223"
+  },
+  {
+    "name": "Aminophylline",
+    "atc_code": "R03DA55",
+    "drugbank_id": "DB01223"
+  },
+  {
+    "name": "Aminophylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB01223"
+  },
+  {
+    "name": "Acefylline",
+    "atc_code": "R03DA09",
+    "drugbank_id": "DB13573"
+  },
+  {
+    "name": "Aminophylline",
+    "atc_code": "R03DA05",
+    "drugbank_id": "DB01223"
+  },
+  {
+    "name": "Ambroxol",
+    "atc_code": "R03CC63",
+    "drugbank_id": "DB06742"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03CC02",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Aclidinium",
+    "atc_code": "R03BB05",
+    "drugbank_id": "DB08897"
+  },
+  {
+    "name": "Aclidinium",
+    "atc_code": "R03AL05",
+    "drugbank_id": "DB08897"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03AL02",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03AK15",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03AK13",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03AK04",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Albuterol",
+    "atc_code": "R03AC02",
+    "drugbank_id": "DB01001"
+  },
+  {
+    "name": "Ambroxol",
+    "atc_code": "R02AD05",
+    "drugbank_id": "DB06742"
+  },
+  {
+    "name": "Acriflavine",
+    "atc_code": "R02AA13",
+    "drugbank_id": "DB13373"
+  },
+  {
+    "name": "Ambazone",
+    "atc_code": "R02AA01",
+    "drugbank_id": "DB13697"
+  },
+  {
+    "name": "Antazoline",
+    "atc_code": "R01AC04",
+    "drugbank_id": "DB08799"
+  },
+  {
+    "name": "Azelastine",
+    "atc_code": "R01AC03",
+    "drugbank_id": "DB00972"
+  },
+  {
+    "name": "Antipyrine",
+    "atc_code": "S02DA03",
+    "drugbank_id": "DB01435"
+  },
+  {
+    "name": "Acetic acid",
+    "atc_code": "S02AA10",
+    "drugbank_id": "DB03166"
+  },
+  {
+    "name": "Aluminium acetotartrate",
+    "atc_code": "S02AA04",
+    "drugbank_id": "DB13789"
+  },
+  {
+    "name": "Avacincaptad pegol",
+    "atc_code": "S01XA32",
+    "drugbank_id": "DB15165"
+  },
+  {
+    "name": "Ascorbic acid",
+    "atc_code": "S01XA15",
+    "drugbank_id": "DB00126"
+  },
+  {
+    "name": "Alteplase",
+    "atc_code": "S01XA13",
+    "drugbank_id": "DB00009"
+  },
+  {
+    "name": "Acetylcysteine",
+    "atc_code": "S01XA08",
+    "drugbank_id": "DB06151"
+  },
+  {
+    "name": "Abicipar Pegol",
+    "atc_code": "S01LA07",
+    "drugbank_id": "DB12258"
+  },
+  {
+    "name": "Aflibercept",
+    "atc_code": "S01LA05",
+    "drugbank_id": "DB08885"
+  },
+  {
+    "name": "Anecortave",
+    "atc_code": "S01LA02",
+    "drugbank_id": "DB12081"
+  },
+  {
+    "name": "Alcaftadine",
+    "atc_code": "S01GX11",
+    "drugbank_id": "DB06766"
+  },
+  {
+    "name": "Azelastine",
+    "atc_code": "S01GX07",
+    "drugbank_id": "DB00972"
+  },
+  {
+    "name": "Atropine",
+    "atc_code": "S01FA01",
+    "drugbank_id": "DB00572"
+  },
+  {
+    "name": "Acetazolamide",
+    "atc_code": "S01EC01",
+    "drugbank_id": "DB00819"
+  },
+  {
+    "name": "Aceclidine",
+    "atc_code": "S01EB58",
+    "drugbank_id": "DB13262"
+  },
+  {
+    "name": "Acetylcholine",
+    "atc_code": "S01EB09",
+    "drugbank_id": "DB03128"
+  },
+  {
+    "name": "Aceclidine",
+    "atc_code": "S01EB08",
+    "drugbank_id": "DB13262"
+  },
+  {
+    "name": "Apraclonidine",
+    "atc_code": "S01EA03",
+    "drugbank_id": "DB00964"
+  },
+  {
+    "name": "Alclometasone",
+    "atc_code": "S01BA10",
+    "drugbank_id": "DB00240"
+  },
+  {
+    "name": "Acyclovir",
+    "atc_code": "S01AD03",
+    "drugbank_id": "DB00787"
+  },
+  {
+    "name": "Azithromycin",
+    "atc_code": "S01AA26",
+    "drugbank_id": "DB00207"
+  },
+  {
+    "name": "Azidamfenicol",
+    "atc_code": "S01AA25",
+    "drugbank_id": "DB13294"
+  },
+  {
+    "name": "Amikacin",
+    "atc_code": "S01AA21",
+    "drugbank_id": "DB00479"
+  },
+  {
+    "name": "Ampicillin",
+    "atc_code": "S01AA19",
+    "drugbank_id": "DB00415"
+  },
+  {
+    "name": "Apamistamab iodine I-131",
+    "atc_code": "V10XA04",
+    "drugbank_id": "DB16748"
+  },
+  {
+    "name": "Acetrizoic acid",
+    "atc_code": "V08AA07",
+    "drugbank_id": "DB09347"
+  },
+  {
+    "name": "Aminohippuric acid",
+    "atc_code": "V04CH30",
+    "drugbank_id": "DB00345"
+  },
+  {
+    "name": "Alsactide",
+    "atc_code": "V04CH04",
+    "drugbank_id": "DB13298"
+  },
+  {
+    "name": "Arginine",
+    "atc_code": "V03AF11",
+    "drugbank_id": "DB00125"
+  },
+  {
+    "name": "Amifostine",
+    "atc_code": "V03AF05",
+    "drugbank_id": "DB01143"
+  },
+  {
+    "name": "Atropine",
+    "atc_code": "V03AB54",
+    "drugbank_id": "DB00572"
+  },
+  {
+    "name": "Andexanet alfa",
+    "atc_code": "V03AB38",
+    "drugbank_id": "DB14562"
+  },
+  {
+    "name": "Acetylcysteine",
+    "atc_code": "V03AB23",
+    "drugbank_id": "DB06151"
+  },
+  {
+    "name": "Amyl Nitrite",
+    "atc_code": "V03AB22",
+    "drugbank_id": "DB01612"
+  }
+]

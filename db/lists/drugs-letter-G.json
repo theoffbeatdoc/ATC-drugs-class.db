@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Gavorestat",
+    "atc_code": "A16AX24",
+    "drugbank_id": "DB16707"
+  },
+  {
+    "name": "Givosiran",
+    "atc_code": "A16AX16",
+    "drugbank_id": "DB15066"
+  },
+  {
+    "name": "Glycerol phenylbutyrate",
+    "atc_code": "A16AX09",
+    "drugbank_id": "DB08909"
+  },
+  {
+    "name": "Galsulfase",
+    "atc_code": "A16AB08",
+    "drugbank_id": "DB01279"
+  },
+  {
+    "name": "Guar gum",
+    "atc_code": "A10BX01",
+    "drugbank_id": "DB13446"
+  },
+  {
+    "name": "Gemigliptin",
+    "atc_code": "A10BH52",
+    "drugbank_id": "DB12412"
+  },
+  {
+    "name": "Gemigliptin",
+    "atc_code": "A10BH06",
+    "drugbank_id": "DB12412"
+  },
+  {
+    "name": "Gemigliptin",
+    "atc_code": "A10BD30",
+    "drugbank_id": "DB12412"
+  },
+  {
+    "name": "Gemigliptin",
+    "atc_code": "A10BD18",
+    "drugbank_id": "DB12412"
+  },
+  {
+    "name": "Glimepiride",
+    "atc_code": "A10BD06",
+    "drugbank_id": "DB00222"
+  },
+  {
+    "name": "Glimepiride",
+    "atc_code": "A10BD04",
+    "drugbank_id": "DB00222"
+  },
+  {
+    "name": "Glymidine",
+    "atc_code": "A10BC01",
+    "drugbank_id": "DB01382"
+  },
+  {
+    "name": "Glimepiride",
+    "atc_code": "A10BB12",
+    "drugbank_id": "DB00222"
+  },
+  {
+    "name": "Glisoxepide",
+    "atc_code": "A10BB11",
+    "drugbank_id": "DB01289"
+  },
+  {
+    "name": "Gliclazide",
+    "atc_code": "A10BB09",
+    "drugbank_id": "DB01120"
+  },
+  {
+    "name": "Gliquidone",
+    "atc_code": "A10BB08",
+    "drugbank_id": "DB01251"
+  },
+  {
+    "name": "Glipizide",
+    "atc_code": "A10BB07",
+    "drugbank_id": "DB01067"
+  },
+  {
+    "name": "Glibornuride",
+    "atc_code": "A10BB04",
+    "drugbank_id": "DB08962"
+  },
+  {
+    "name": "Glyburide",
+    "atc_code": "A10BB01",
+    "drugbank_id": "DB01016"
+  },
+  {
+    "name": "Glutamic acid",
+    "atc_code": "A09AB01",
+    "drugbank_id": "DB00142"
+  },
+  {
+    "name": "Glycerin",
+    "atc_code": "A06AX01",
+    "drugbank_id": "DB09462"
+  },
+  {
+    "name": "Glycerin",
+    "atc_code": "A06AG04",
+    "drugbank_id": "DB09462"
+  },
+  {
+    "name": "Glycyrrhizic acid",
+    "atc_code": "A05BA08",
+    "drugbank_id": "DB13751"
+  },
+  {
+    "name": "Granisetron",
+    "atc_code": "A04AA02",
+    "drugbank_id": "DB00889"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "A03CA05",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "A03AB02",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Gefarnate",
+    "atc_code": "A02BX77",
+    "drugbank_id": "DB12079"
+  },
+  {
+    "name": "Gefarnate",
+    "atc_code": "A02BX07",
+    "drugbank_id": "DB12079"
+  },
+  {
+    "name": "Garadacimab",
+    "atc_code": "B06AC07",
+    "drugbank_id": "DB15629"
+  },
+  {
+    "name": "Glycine",
+    "atc_code": "B05CX03",
+    "drugbank_id": "DB00145"
+  },
+  {
+    "name": "Gelatin",
+    "atc_code": "B05AA06",
+    "drugbank_id": "DB11242"
+  },
+  {
+    "name": "Gemfibrozil",
+    "atc_code": "C10AB04",
+    "drugbank_id": "DB01241"
+  },
+  {
+    "name": "Gallopamil",
+    "atc_code": "C08DA02",
+    "drugbank_id": "DB12923"
+  },
+  {
+    "name": "Guanethidine",
+    "atc_code": "C02LF01",
+    "drugbank_id": "DB01170"
+  },
+  {
+    "name": "Guanoxabenz",
+    "atc_code": "C02CC07",
+    "drugbank_id": "DB13410"
+  },
+  {
+    "name": "Guanazodine",
+    "atc_code": "C02CC06",
+    "drugbank_id": "DB13604"
+  },
+  {
+    "name": "Guanoclor",
+    "atc_code": "C02CC05",
+    "drugbank_id": "DB13779"
+  },
+  {
+    "name": "Guanoxan",
+    "atc_code": "C02CC03",
+    "drugbank_id": "DB13211"
+  },
+  {
+    "name": "Guanethidine",
+    "atc_code": "C02CC02",
+    "drugbank_id": "DB01170"
+  },
+  {
+    "name": "Guanfacine",
+    "atc_code": "C02AC02",
+    "drugbank_id": "DB01018"
+  },
+  {
+    "name": "Gepefrine",
+    "atc_code": "C01CA15",
+    "drugbank_id": "DB13703"
+  },
+  {
+    "name": "Gitoformate",
+    "atc_code": "C01AA09",
+    "drugbank_id": "DB13537"
+  },
+  {
+    "name": "Gamolenic acid",
+    "atc_code": "D11AX52",
+    "drugbank_id": "DB13854"
+  },
+  {
+    "name": "Gamolenic acid",
+    "atc_code": "D11AX02",
+    "drugbank_id": "DB13854"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "D11AA01",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Gentamicin",
+    "atc_code": "D06AX07",
+    "drugbank_id": "DB00798"
+  },
+  {
+    "name": "Griseofulvin",
+    "atc_code": "D01BA01",
+    "drugbank_id": "DB00400"
+  },
+  {
+    "name": "Gentian violet cation",
+    "atc_code": "D01AE02",
+    "drugbank_id": "DB00406"
+  },
+  {
+    "name": "Griseofulvin",
+    "atc_code": "D01AA08",
+    "drugbank_id": "DB00400"
+  },
+  {
+    "name": "Gestrinone",
+    "atc_code": "G03XA02",
+    "drugbank_id": "DB11619"
+  },
+  {
+    "name": "Gestonorone",
+    "atc_code": "G03DA01",
+    "drugbank_id": "DB13230"
+  },
+  {
+    "name": "Gestodene",
+    "atc_code": "G03AB06",
+    "drugbank_id": "DB06730"
+  },
+  {
+    "name": "Gestodene",
+    "atc_code": "G03AA10",
+    "drugbank_id": "DB06730"
+  },
+  {
+    "name": "Gemeprost",
+    "atc_code": "G02AD03",
+    "drugbank_id": "DB08964"
+  },
+  {
+    "name": "Gentian violet cation",
+    "atc_code": "G01AX09",
+    "drugbank_id": "DB00406"
+  },
+  {
+    "name": "Gefapixant",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB15097"
+  },
+  {
+    "name": "Glymidine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01382"
+  },
+  {
+    "name": "Gliclazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01120"
+  },
+  {
+    "name": "Glucagon",
+    "atc_code": "H04AA01",
+    "drugbank_id": "DB00040"
+  },
+  {
+    "name": "Ganirelix",
+    "atc_code": "H01CC01",
+    "drugbank_id": "DB06785"
+  },
+  {
+    "name": "Gonadorelin",
+    "atc_code": "H01CA01",
+    "drugbank_id": "DB00644"
+  },
+  {
+    "name": "Grazoprevir",
+    "atc_code": "J05AP11",
+    "drugbank_id": "DB11575"
+  },
+  {
+    "name": "Glecaprevir",
+    "atc_code": "J05AP57",
+    "drugbank_id": "DB13879"
+  },
+  {
+    "name": "Grazoprevir",
+    "atc_code": "J05AP54",
+    "drugbank_id": "DB11575"
+  },
+  {
+    "name": "Ganciclovir",
+    "atc_code": "J05AB06",
+    "drugbank_id": "DB01004"
+  },
+  {
+    "name": "Gepotidacin",
+    "atc_code": "J01XX13",
+    "drugbank_id": "DB12134"
+  },
+  {
+    "name": "Garenoxacin",
+    "atc_code": "J01MA19",
+    "drugbank_id": "DB06160"
+  },
+  {
+    "name": "Gatifloxacin",
+    "atc_code": "J01MA16",
+    "drugbank_id": "DB01044"
+  },
+  {
+    "name": "Gemifloxacin",
+    "atc_code": "J01MA15",
+    "drugbank_id": "DB01155"
+  },
+  {
+    "name": "Grepafloxacin",
+    "atc_code": "J01MA11",
+    "drugbank_id": "DB00365"
+  },
+  {
+    "name": "Gentamicin",
+    "atc_code": "J01GB03",
+    "drugbank_id": "DB00798"
+  },
+  {
+    "name": "Goflikicept",
+    "atc_code": "L04AC26",
+    "drugbank_id": "DB16396"
+  },
+  {
+    "name": "Guselkumab",
+    "atc_code": "L04AC16",
+    "drugbank_id": "DB11834"
+  },
+  {
+    "name": "Golimumab",
+    "atc_code": "L04AB06",
+    "drugbank_id": "DB06674"
+  },
+  {
+    "name": "Gusperimus",
+    "atc_code": "L04AA19",
+    "drugbank_id": "DB12692"
+  },
+  {
+    "name": "Glatiramer",
+    "atc_code": "L03AX13",
+    "drugbank_id": "DB05259"
+  },
+  {
+    "name": "Goserelin",
+    "atc_code": "L02AE03",
+    "drugbank_id": "DB00014"
+  },
+  {
+    "name": "Gestonorone",
+    "atc_code": "L02AB03",
+    "drugbank_id": "DB13230"
+  },
+  {
+    "name": "Glofitamab",
+    "atc_code": "L01FX28",
+    "drugbank_id": "DB16371"
+  },
+  {
+    "name": "Gemtuzumab ozogamicin",
+    "atc_code": "L01FX02",
+    "drugbank_id": "DB00056"
+  },
+  {
+    "name": "Gilteritinib",
+    "atc_code": "L01EX13",
+    "drugbank_id": "DB12141"
+  },
+  {
+    "name": "Gefitinib",
+    "atc_code": "L01EB01",
+    "drugbank_id": "DB00317"
+  },
+  {
+    "name": "Glasdegib",
+    "atc_code": "L01XJ03",
+    "drugbank_id": "DB11978"
+  },
+  {
+    "name": "Gemcitabine",
+    "atc_code": "L01BC05",
+    "drugbank_id": "DB00441"
+  },
+  {
+    "name": "Givinostat",
+    "atc_code": "M09AX14",
+    "drugbank_id": "DB12645"
+  },
+  {
+    "name": "Golodirsen",
+    "atc_code": "M09AX08",
+    "drugbank_id": "DB15593"
+  },
+  {
+    "name": "Gallamine",
+    "atc_code": "M03AC02",
+    "drugbank_id": "DB13584"
+  },
+  {
+    "name": "Glucosamine",
+    "atc_code": "M01AX05",
+    "drugbank_id": "DB01296"
+  },
+  {
+    "name": "Ginkgo biloba",
+    "atc_code": "N06DX02",
+    "drugbank_id": "DB01381"
+  },
+  {
+    "name": "Ginkgo biloba",
+    "atc_code": "N06DA53",
+    "drugbank_id": "DB01381"
+  },
+  {
+    "name": "Galantamine",
+    "atc_code": "N06DA04",
+    "drugbank_id": "DB00674"
+  },
+  {
+    "name": "Gepirone",
+    "atc_code": "N06AX19",
+    "drugbank_id": "DB12184"
+  },
+  {
+    "name": "Glutethimide",
+    "atc_code": "N05CE01",
+    "drugbank_id": "DB01437"
+  },
+  {
+    "name": "Gedocarnil",
+    "atc_code": "N05BX02",
+    "drugbank_id": "DB13534"
+  },
+  {
+    "name": "Ganaxolone",
+    "atc_code": "N03AX27",
+    "drugbank_id": "DB05087"
+  },
+  {
+    "name": "Galcanezumab",
+    "atc_code": "N02CD02",
+    "drugbank_id": "DB14042"
+  },
+  {
+    "name": "Gabapentin",
+    "atc_code": "N02BF01",
+    "drugbank_id": "DB00996"
+  },
+  {
+    "name": "Glafenine",
+    "atc_code": "N02BG03",
+    "drugbank_id": "DB08963"
+  },
+  {
+    "name": "Guacetisal",
+    "atc_code": "N02BA14",
+    "drugbank_id": "DB13538"
+  },
+  {
+    "name": "Gefapixant",
+    "atc_code": "R05DB29",
+    "drugbank_id": "DB15097"
+  },
+  {
+    "name": "Guaifenesin",
+    "atc_code": "R05CA03",
+    "drugbank_id": "DB00874"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03BB06",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03AL12",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03AL11",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03AL09",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03AL07",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Glycopyrronium",
+    "atc_code": "R03AL04",
+    "drugbank_id": "DB00986"
+  },
+  {
+    "name": "Gramicidin D",
+    "atc_code": "R02AB30",
+    "drugbank_id": "DB00027"
+  },
+  {
+    "name": "Gentamicin",
+    "atc_code": "S03AA06",
+    "drugbank_id": "DB00798"
+  },
+  {
+    "name": "Gentamicin",
+    "atc_code": "S02AA14",
+    "drugbank_id": "DB00798"
+  },
+  {
+    "name": "Guaiazulen",
+    "atc_code": "S01XA01",
+    "drugbank_id": "DB13329"
+  },
+  {
+    "name": "Guanethidine",
+    "atc_code": "S01EX01",
+    "drugbank_id": "DB01170"
+  },
+  {
+    "name": "Gatifloxacin",
+    "atc_code": "S01AE06",
+    "drugbank_id": "DB01044"
+  },
+  {
+    "name": "Ganciclovir",
+    "atc_code": "S01AD09",
+    "drugbank_id": "DB01004"
+  },
+  {
+    "name": "Gentamicin",
+    "atc_code": "S01AA11",
+    "drugbank_id": "DB00798"
+  },
+  {
+    "name": "Gold Au-198",
+    "atc_code": "V10AX06",
+    "drugbank_id": "DB13427"
+  },
+  {
+    "name": "Gallium Ga-68 gozetotide",
+    "atc_code": "V09IX14",
+    "drugbank_id": "DB16019"
+  },
+  {
+    "name": "Galactose",
+    "atc_code": "V08DA02",
+    "drugbank_id": "DB11735"
+  },
+  {
+    "name": "Gadopiclenol",
+    "atc_code": "V08CA12",
+    "drugbank_id": "DB17084"
+  },
+  {
+    "name": "Gadofosveset trisodium",
+    "atc_code": "V08CA11",
+    "drugbank_id": "DB06705"
+  },
+  {
+    "name": "Gadoxetic acid",
+    "atc_code": "V08CA10",
+    "drugbank_id": "DB08884"
+  },
+  {
+    "name": "Gadobutrol",
+    "atc_code": "V08CA09",
+    "drugbank_id": "DB06703"
+  },
+  {
+    "name": "Gadobenic acid",
+    "atc_code": "V08CA08",
+    "drugbank_id": "DB00743"
+  },
+  {
+    "name": "Gadoversetamide",
+    "atc_code": "V08CA06",
+    "drugbank_id": "DB00538"
+  },
+  {
+    "name": "Gadoteridol",
+    "atc_code": "V08CA04",
+    "drugbank_id": "DB00597"
+  },
+  {
+    "name": "Gadodiamide",
+    "atc_code": "V08CA03",
+    "drugbank_id": "DB00225"
+  },
+  {
+    "name": "Gadoteric acid",
+    "atc_code": "V08CA02",
+    "drugbank_id": "DB09132"
+  },
+  {
+    "name": "Gadopentetic acid",
+    "atc_code": "V08CA01",
+    "drugbank_id": "DB00789"
+  },
+  {
+    "name": "Gonadorelin",
+    "atc_code": "V04CM01",
+    "drugbank_id": "DB00644"
+  },
+  {
+    "name": "Galactose",
+    "atc_code": "V04CE01",
+    "drugbank_id": "DB11735"
+  },
+  {
+    "name": "Glucarpidase",
+    "atc_code": "V03AF09",
+    "drugbank_id": "DB08898"
+  },
+  {
+    "name": "Glutathione",
+    "atc_code": "V03AB32",
+    "drugbank_id": "DB00143"
+  }
+]

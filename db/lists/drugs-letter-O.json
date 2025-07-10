@@ -1,0 +1,892 @@
+[
+  {
+    "name": "Olipudase alfa",
+    "atc_code": "A16AB25",
+    "drugbank_id": "DB12835"
+  },
+  {
+    "name": "Oxabolone cipionate",
+    "atc_code": "A14AB03",
+    "drugbank_id": "DB13185"
+  },
+  {
+    "name": "Oxandrolone",
+    "atc_code": "A14AA08",
+    "drugbank_id": "DB00621"
+  },
+  {
+    "name": "Oxymetholone",
+    "atc_code": "A14AA05",
+    "drugbank_id": "DB06412"
+  },
+  {
+    "name": "Orlistat",
+    "atc_code": "A08AB01",
+    "drugbank_id": "DB01083"
+  },
+  {
+    "name": "Olsalazine",
+    "atc_code": "A07EC03",
+    "drugbank_id": "DB01250"
+  },
+  {
+    "name": "Opium",
+    "atc_code": "A07DA02",
+    "drugbank_id": "DB11130"
+  },
+  {
+    "name": "Oxyphenisatin",
+    "atc_code": "A06AB01",
+    "drugbank_id": "DB04823"
+  },
+  {
+    "name": "Omega-3 fatty acids",
+    "atc_code": "A05BA10",
+    "drugbank_id": "DB11133"
+  },
+  {
+    "name": "Ornithine",
+    "atc_code": "A05BA06",
+    "drugbank_id": "DB00129"
+  },
+  {
+    "name": "Odevixibat",
+    "atc_code": "A05AX05",
+    "drugbank_id": "DB16261"
+  },
+  {
+    "name": "Obeticholic acid",
+    "atc_code": "A05AA04",
+    "drugbank_id": "DB05990"
+  },
+  {
+    "name": "Ondansetron",
+    "atc_code": "A04AA01",
+    "drugbank_id": "DB00904"
+  },
+  {
+    "name": "Otilonium",
+    "atc_code": "A03CA04",
+    "drugbank_id": "DB13500"
+  },
+  {
+    "name": "Oxyphencyclimine",
+    "atc_code": "A03CA03",
+    "drugbank_id": "DB00383"
+  },
+  {
+    "name": "Oxyphenonium",
+    "atc_code": "A03AB53",
+    "drugbank_id": "DB00219"
+  },
+  {
+    "name": "Otilonium",
+    "atc_code": "A03AB06",
+    "drugbank_id": "DB13500"
+  },
+  {
+    "name": "Oxyphenonium",
+    "atc_code": "A03AB03",
+    "drugbank_id": "DB00219"
+  },
+  {
+    "name": "Oxyphencyclimine",
+    "atc_code": "A03AA01",
+    "drugbank_id": "DB00383"
+  },
+  {
+    "name": "Omeprazole",
+    "atc_code": "A02BD16",
+    "drugbank_id": "DB00338"
+  },
+  {
+    "name": "Omeprazole",
+    "atc_code": "A02BD05",
+    "drugbank_id": "DB00338"
+  },
+  {
+    "name": "Omeprazole",
+    "atc_code": "A02BD01",
+    "drugbank_id": "DB00338"
+  },
+  {
+    "name": "Omeprazole",
+    "atc_code": "A02BC51",
+    "drugbank_id": "DB00338"
+  },
+  {
+    "name": "Omeprazole",
+    "atc_code": "A02BC01",
+    "drugbank_id": "DB00338"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "A01AB25",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Octenidine",
+    "atc_code": "A01AB24",
+    "drugbank_id": "DB12624"
+  },
+  {
+    "name": "Oxyquinoline",
+    "atc_code": "A01AB07",
+    "drugbank_id": "DB11145"
+  },
+  {
+    "name": "Olaflur",
+    "atc_code": "A01AA03",
+    "drugbank_id": "DB13290"
+  },
+  {
+    "name": "Oxidized cellulose",
+    "atc_code": "B02BC02",
+    "drugbank_id": "DB13570"
+  },
+  {
+    "name": "Olmesartan",
+    "atc_code": "C09DX03",
+    "drugbank_id": "DB00275"
+  },
+  {
+    "name": "Olmesartan",
+    "atc_code": "C09DB02",
+    "drugbank_id": "DB00275"
+  },
+  {
+    "name": "Olmesartan",
+    "atc_code": "C09DA08",
+    "drugbank_id": "DB00275"
+  },
+  {
+    "name": "Olmesartan",
+    "atc_code": "C09CA08",
+    "drugbank_id": "DB00275"
+  },
+  {
+    "name": "Oxprenolol",
+    "atc_code": "C07CA02",
+    "drugbank_id": "DB01580"
+  },
+  {
+    "name": "Oxprenolol",
+    "atc_code": "C07BA02",
+    "drugbank_id": "DB01580"
+  },
+  {
+    "name": "Oxprenolol",
+    "atc_code": "C07AA02",
+    "drugbank_id": "DB01580"
+  },
+  {
+    "name": "Oxetacaine",
+    "atc_code": "C05AD06",
+    "drugbank_id": "DB12532"
+  },
+  {
+    "name": "Oxyfedrine",
+    "atc_code": "C01DX53",
+    "drugbank_id": "DB13398"
+  },
+  {
+    "name": "Oxyfedrine",
+    "atc_code": "C01DX03",
+    "drugbank_id": "DB13398"
+  },
+  {
+    "name": "Omecamtiv Mecarbil",
+    "atc_code": "C01CX10",
+    "drugbank_id": "DB11816"
+  },
+  {
+    "name": "Octopamine",
+    "atc_code": "C01CA18",
+    "drugbank_id": "DB13251"
+  },
+  {
+    "name": "Ouabain",
+    "atc_code": "C01AC01",
+    "drugbank_id": "DB01092"
+  },
+  {
+    "name": "Oxymetazoline",
+    "atc_code": "D11AX27",
+    "drugbank_id": "DB00935"
+  },
+  {
+    "name": "Oxaceprol",
+    "atc_code": "D11AX09",
+    "drugbank_id": "DB13363"
+  },
+  {
+    "name": "Octenidine",
+    "atc_code": "D08AJ57",
+    "drugbank_id": "DB12624"
+  },
+  {
+    "name": "Oxyquinoline",
+    "atc_code": "D08AH03",
+    "drugbank_id": "DB11145"
+  },
+  {
+    "name": "Ozenoxacin",
+    "atc_code": "D06AX14",
+    "drugbank_id": "DB12924"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "D06AA03",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Oxybuprocaine",
+    "atc_code": "D04AB03",
+    "drugbank_id": "DB00892"
+  },
+  {
+    "name": "Octinoxate",
+    "atc_code": "D02BA02",
+    "drugbank_id": "DB09496"
+  },
+  {
+    "name": "Omoconazole",
+    "atc_code": "D01AC13",
+    "drugbank_id": "DB13684"
+  },
+  {
+    "name": "Oxiconazole",
+    "atc_code": "D01AC11",
+    "drugbank_id": "DB00239"
+  },
+  {
+    "name": "Oxybutynin",
+    "atc_code": "G04BD04",
+    "drugbank_id": "DB01062"
+  },
+  {
+    "name": "Ospemifene",
+    "atc_code": "G03XC05",
+    "drugbank_id": "DB04938"
+  },
+  {
+    "name": "Ormeloxifene",
+    "atc_code": "G03XC04",
+    "drugbank_id": "DB13310"
+  },
+  {
+    "name": "Oxytocin",
+    "atc_code": "G02AC01",
+    "drugbank_id": "DB00107"
+  },
+  {
+    "name": "Octenidine",
+    "atc_code": "G01AX66",
+    "drugbank_id": "DB12624"
+  },
+  {
+    "name": "Oxiconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB00239"
+  },
+  {
+    "name": "Oxiconazole",
+    "atc_code": "G01AF17",
+    "drugbank_id": "DB00239"
+  },
+  {
+    "name": "Omoconazole",
+    "atc_code": "G01AF16",
+    "drugbank_id": "DB13684"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "G01AF06",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Omidenepag isopropyl",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB15071"
+  },
+  {
+    "name": "Oxyquinoline",
+    "atc_code": "G01AC30",
+    "drugbank_id": "DB11145"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "G01AA07",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Osilodrostat",
+    "atc_code": "H02CA02",
+    "drugbank_id": "DB11837"
+  },
+  {
+    "name": "Octreotide",
+    "atc_code": "H01CB02",
+    "drugbank_id": "DB00104"
+  },
+  {
+    "name": "Oxytocin",
+    "atc_code": "H01BB02",
+    "drugbank_id": "DB00107"
+  },
+  {
+    "name": "Ornipressin",
+    "atc_code": "H01BA05",
+    "drugbank_id": "DB13464"
+  },
+  {
+    "name": "Obiltoxaximab",
+    "atc_code": "J06BC04",
+    "drugbank_id": "DB05336"
+  },
+  {
+    "name": "Ombitasvir",
+    "atc_code": "J05AP53",
+    "drugbank_id": "DB09296"
+  },
+  {
+    "name": "Ombitasvir",
+    "atc_code": "J05AP52",
+    "drugbank_id": "DB09296"
+  },
+  {
+    "name": "Oseltamivir",
+    "atc_code": "J05AH02",
+    "drugbank_id": "DB00198"
+  },
+  {
+    "name": "Oteseconazole",
+    "atc_code": "J02AC06",
+    "drugbank_id": "DB13055"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "J01XD03",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Oritavancin",
+    "atc_code": "J01XA05",
+    "drugbank_id": "DB04911"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "J01RA18",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "J01RA17",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "J01RA15",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "J01RA12",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "J01RA09",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "J01RA09",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Oleandomycin",
+    "atc_code": "J01RA08",
+    "drugbank_id": "DB11442"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "J01RA05",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Oxolinic acid",
+    "atc_code": "J01MB05",
+    "drugbank_id": "DB13627"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "J01MA01",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Oleandomycin",
+    "atc_code": "J01FA05",
+    "drugbank_id": "DB11442"
+  },
+  {
+    "name": "Oxacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00713"
+  },
+  {
+    "name": "Oxacillin",
+    "atc_code": "J01CF04",
+    "drugbank_id": "DB00713"
+  },
+  {
+    "name": "Omadacycline",
+    "atc_code": "J01AA15",
+    "drugbank_id": "DB12455"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "J01AA56",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Omadacycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB12455"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "J01AA06",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Ofatumumab",
+    "atc_code": "L04AG12",
+    "drugbank_id": "DB06650"
+  },
+  {
+    "name": "Ocrelizumab",
+    "atc_code": "L04AG08",
+    "drugbank_id": "DB11988"
+  },
+  {
+    "name": "Ozanimod",
+    "atc_code": "L04AE02",
+    "drugbank_id": "DB12612"
+  },
+  {
+    "name": "Olokizumab",
+    "atc_code": "L04AC23",
+    "drugbank_id": "DB13127"
+  },
+  {
+    "name": "Oprelvekin",
+    "atc_code": "L03AC02",
+    "drugbank_id": "DB00038"
+  },
+  {
+    "name": "Odronextamab",
+    "atc_code": "L01FX34",
+    "drugbank_id": "DB16684"
+  },
+  {
+    "name": "Oportuzumab monatox",
+    "atc_code": "L01FX16",
+    "drugbank_id": "DB05319"
+  },
+  {
+    "name": "Olaratumab",
+    "atc_code": "L01FX10",
+    "drugbank_id": "DB06043"
+  },
+  {
+    "name": "Obinutuzumab",
+    "atc_code": "L01FA03",
+    "drugbank_id": "DB08935"
+  },
+  {
+    "name": "Ofatumumab",
+    "atc_code": "L01FA02",
+    "drugbank_id": "DB06650"
+  },
+  {
+    "name": "Orelabrutinib",
+    "atc_code": "L01EL04",
+    "drugbank_id": "DB16272"
+  },
+  {
+    "name": "Olmutinib",
+    "atc_code": "L01EB06",
+    "drugbank_id": "DB13164"
+  },
+  {
+    "name": "Osimertinib",
+    "atc_code": "L01EB04",
+    "drugbank_id": "DB09330"
+  },
+  {
+    "name": "Olutasidenib",
+    "atc_code": "L01XM03",
+    "drugbank_id": "DB16267"
+  },
+  {
+    "name": "Obecabtagene autoleucel",
+    "atc_code": "L01XL12",
+    "drugbank_id": "DB17362"
+  },
+  {
+    "name": "Olaparib",
+    "atc_code": "L01XK01",
+    "drugbank_id": "DB09074"
+  },
+  {
+    "name": "Onfekafusp alfa",
+    "atc_code": "L01XY04",
+    "drugbank_id": "DB16269"
+  },
+  {
+    "name": "Oblimersen",
+    "atc_code": "L01XX36",
+    "drugbank_id": "DB13811"
+  },
+  {
+    "name": "Omacetaxine mepesuccinate",
+    "atc_code": "L01XX40",
+    "drugbank_id": "DB04865"
+  },
+  {
+    "name": "Oxaliplatin",
+    "atc_code": "L01XA03",
+    "drugbank_id": "DB00526"
+  },
+  {
+    "name": "Onasemnogene abeparvovec",
+    "atc_code": "M09AX09",
+    "drugbank_id": "DB15528"
+  },
+  {
+    "name": "Orphenadrine",
+    "atc_code": "M03BC51",
+    "drugbank_id": "DB01173"
+  },
+  {
+    "name": "Orphenadrine",
+    "atc_code": "M03BC01",
+    "drugbank_id": "DB01173"
+  },
+  {
+    "name": "Oxyphenbutazone",
+    "atc_code": "M02AA04",
+    "drugbank_id": "DB03585"
+  },
+  {
+    "name": "Oxycinchophen",
+    "atc_code": "M01CA03",
+    "drugbank_id": "DB13596"
+  },
+  {
+    "name": "Oxaceprol",
+    "atc_code": "M01AX24",
+    "drugbank_id": "DB13363"
+  },
+  {
+    "name": "Orgotein",
+    "atc_code": "M01AX14",
+    "drugbank_id": "DB11444"
+  },
+  {
+    "name": "Oxaprozin",
+    "atc_code": "M01AE12",
+    "drugbank_id": "DB00991"
+  },
+  {
+    "name": "Oxametacin",
+    "atc_code": "M01AB13",
+    "drugbank_id": "DB13308"
+  },
+  {
+    "name": "Oxyphenbutazone",
+    "atc_code": "M01AA03",
+    "drugbank_id": "DB03585"
+  },
+  {
+    "name": "Omaveloxolone",
+    "atc_code": "N07XX25",
+    "drugbank_id": "DB12513"
+  },
+  {
+    "name": "Ondelopran",
+    "atc_code": "N07BB06",
+    "drugbank_id": "DB12585"
+  },
+  {
+    "name": "Oxiracetam",
+    "atc_code": "N06BX07",
+    "drugbank_id": "DB13601"
+  },
+  {
+    "name": "Oxaflozane",
+    "atc_code": "N06AX10",
+    "drugbank_id": "DB13457"
+  },
+  {
+    "name": "Oxitriptan",
+    "atc_code": "N06AX01",
+    "drugbank_id": "DB02959"
+  },
+  {
+    "name": "Opipramol",
+    "atc_code": "N06AA05",
+    "drugbank_id": "DB12930"
+  },
+  {
+    "name": "Oxazepam",
+    "atc_code": "N05BA04",
+    "drugbank_id": "DB00842"
+  },
+  {
+    "name": "Olanzapine",
+    "atc_code": "N05AH53",
+    "drugbank_id": "DB00334"
+  },
+  {
+    "name": "Olanzapine",
+    "atc_code": "N05AH03",
+    "drugbank_id": "DB00334"
+  },
+  {
+    "name": "Oxypertine",
+    "atc_code": "N05AE01",
+    "drugbank_id": "DB13403"
+  },
+  {
+    "name": "Opicapone",
+    "atc_code": "N04BX04",
+    "drugbank_id": "DB11632"
+  },
+  {
+    "name": "Orphenadrine",
+    "atc_code": "N04AB02",
+    "drugbank_id": "DB01173"
+  },
+  {
+    "name": "Oxcarbazepine",
+    "atc_code": "N03AF02",
+    "drugbank_id": "DB00776"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AJ19",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AJ18",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AJ17",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Oliceridine",
+    "atc_code": "N02AX07",
+    "drugbank_id": "DB14881"
+  },
+  {
+    "name": "Oxymorphone",
+    "atc_code": "N02AA11",
+    "drugbank_id": "DB01192"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AA56",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AA55",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Oxycodone",
+    "atc_code": "N02AA05",
+    "drugbank_id": "DB00497"
+  },
+  {
+    "name": "Opium",
+    "atc_code": "N02AA02",
+    "drugbank_id": "DB11130"
+  },
+  {
+    "name": "Oxantel",
+    "atc_code": "P02CC02",
+    "drugbank_id": "DB13670"
+  },
+  {
+    "name": "Oxamniquine",
+    "atc_code": "P02BA02",
+    "drugbank_id": "DB01096"
+  },
+  {
+    "name": "Ornidazole",
+    "atc_code": "P01AB03",
+    "drugbank_id": "DB13026"
+  },
+  {
+    "name": "Oxatomide",
+    "atc_code": "R06AE06",
+    "drugbank_id": "DB12877"
+  },
+  {
+    "name": "Oxomemazine",
+    "atc_code": "R06AD08",
+    "drugbank_id": "DB13820"
+  },
+  {
+    "name": "Oxeladin",
+    "atc_code": "R05DB09",
+    "drugbank_id": "DB04822"
+  },
+  {
+    "name": "Oxolamine",
+    "atc_code": "R05DB07",
+    "drugbank_id": "DB13216"
+  },
+  {
+    "name": "Omalizumab",
+    "atc_code": "R03DX05",
+    "drugbank_id": "DB00043"
+  },
+  {
+    "name": "Oxtriphylline",
+    "atc_code": "R03DB02",
+    "drugbank_id": "DB01303"
+  },
+  {
+    "name": "Oxtriphylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB01303"
+  },
+  {
+    "name": "Oxtriphylline",
+    "atc_code": "R03DA02",
+    "drugbank_id": "DB01303"
+  },
+  {
+    "name": "Orciprenaline",
+    "atc_code": "R03CB53",
+    "drugbank_id": "DB00816"
+  },
+  {
+    "name": "Orciprenaline",
+    "atc_code": "R03CB03",
+    "drugbank_id": "DB00816"
+  },
+  {
+    "name": "Oxitropium",
+    "atc_code": "R03BB02",
+    "drugbank_id": "DB12086"
+  },
+  {
+    "name": "Olodaterol",
+    "atc_code": "R03AL06",
+    "drugbank_id": "DB09080"
+  },
+  {
+    "name": "Olodaterol",
+    "atc_code": "R03AC19",
+    "drugbank_id": "DB09080"
+  },
+  {
+    "name": "Orciprenaline",
+    "atc_code": "R03AB03",
+    "drugbank_id": "DB00816"
+  },
+  {
+    "name": "Octenidine",
+    "atc_code": "R02AA21",
+    "drugbank_id": "DB12624"
+  },
+  {
+    "name": "Oxyquinoline",
+    "atc_code": "R02AA14",
+    "drugbank_id": "DB11145"
+  },
+  {
+    "name": "Olopatadine",
+    "atc_code": "R01AC08",
+    "drugbank_id": "DB00768"
+  },
+  {
+    "name": "Oxymetazoline",
+    "atc_code": "R01AB07",
+    "drugbank_id": "DB00935"
+  },
+  {
+    "name": "Oxymetazoline",
+    "atc_code": "R01AA05",
+    "drugbank_id": "DB00935"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "S02AA16",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Ocriplasmin",
+    "atc_code": "S01XA22",
+    "drugbank_id": "DB08888"
+  },
+  {
+    "name": "Oxybuprocaine",
+    "atc_code": "S01HA02",
+    "drugbank_id": "DB00892"
+  },
+  {
+    "name": "Olopatadine",
+    "atc_code": "S01GX09",
+    "drugbank_id": "DB00768"
+  },
+  {
+    "name": "Oxymetazoline",
+    "atc_code": "S01GA04",
+    "drugbank_id": "DB00935"
+  },
+  {
+    "name": "Oxyphenbutazone",
+    "atc_code": "S01BC02",
+    "drugbank_id": "DB03585"
+  },
+  {
+    "name": "Ofloxacin",
+    "atc_code": "S01AE01",
+    "drugbank_id": "DB01165"
+  },
+  {
+    "name": "Oxytetracycline",
+    "atc_code": "S01AA04",
+    "drugbank_id": "DB00595"
+  },
+  {
+    "name": "Omburtamab I-131",
+    "atc_code": "V10XA03",
+    "drugbank_id": "DB17124"
+  },
+  {
+    "name": "Oxygen",
+    "atc_code": "V03AN01",
+    "drugbank_id": "DB09140"
+  },
+  {
+    "name": "Obidoxime",
+    "atc_code": "V03AB13",
+    "drugbank_id": "DB13750"
+  }
+]

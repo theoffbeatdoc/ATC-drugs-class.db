@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Kaolin",
+    "atc_code": "A07BC02",
+    "drugbank_id": "DB01575"
+  },
+  {
+    "name": "Kanamycin",
+    "atc_code": "A07AA08",
+    "drugbank_id": "DB01172"
+  },
+  {
+    "name": "Karaya gum",
+    "atc_code": "A06AC53",
+    "drugbank_id": "DB10535"
+  },
+  {
+    "name": "Karaya gum",
+    "atc_code": "A06AC03",
+    "drugbank_id": "DB10535"
+  },
+  {
+    "name": "Kallidinogenase",
+    "atc_code": "C04AF01",
+    "drugbank_id": "DB13197"
+  },
+  {
+    "name": "Ketanserin",
+    "atc_code": "C02KD01",
+    "drugbank_id": "DB12465"
+  },
+  {
+    "name": "Ketoconazole",
+    "atc_code": "D01AC08",
+    "drugbank_id": "DB01026"
+  },
+  {
+    "name": "Ketoconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB01026"
+  },
+  {
+    "name": "Ketoconazole",
+    "atc_code": "G01AF11",
+    "drugbank_id": "DB01026"
+  },
+  {
+    "name": "Ketoconazole",
+    "atc_code": "H02CA03",
+    "drugbank_id": "DB01026"
+  },
+  {
+    "name": "Ketoconazole",
+    "atc_code": "J02AB02",
+    "drugbank_id": "DB01026"
+  },
+  {
+    "name": "Kanamycin",
+    "atc_code": "J01GB04",
+    "drugbank_id": "DB01172"
+  },
+  {
+    "name": "Ketoprofen",
+    "atc_code": "M02AA10",
+    "drugbank_id": "DB01009"
+  },
+  {
+    "name": "Ketoprofen",
+    "atc_code": "M01AE53",
+    "drugbank_id": "DB01009"
+  },
+  {
+    "name": "Ketoprofen",
+    "atc_code": "M01AE03",
+    "drugbank_id": "DB01009"
+  },
+  {
+    "name": "Ketorolac",
+    "atc_code": "M01AB15",
+    "drugbank_id": "DB00465"
+  },
+  {
+    "name": "Kebuzone",
+    "atc_code": "M01AA06",
+    "drugbank_id": "DB08940"
+  },
+  {
+    "name": "Ketazolam",
+    "atc_code": "N05BA10",
+    "drugbank_id": "DB01587"
+  },
+  {
+    "name": "Ketobemidone",
+    "atc_code": "N02AG02",
+    "drugbank_id": "DB06738"
+  },
+  {
+    "name": "Ketobemidone",
+    "atc_code": "N02AB01",
+    "drugbank_id": "DB06738"
+  },
+  {
+    "name": "Ketamine",
+    "atc_code": "N01AX03",
+    "drugbank_id": "DB01221"
+  },
+  {
+    "name": "Ketotifen",
+    "atc_code": "R06AX17",
+    "drugbank_id": "DB00920"
+  },
+  {
+    "name": "Ketotifen",
+    "atc_code": "S01GX08",
+    "drugbank_id": "DB00920"
+  },
+  {
+    "name": "Ketorolac",
+    "atc_code": "S01FB51",
+    "drugbank_id": "DB00465"
+  },
+  {
+    "name": "Ketorolac",
+    "atc_code": "S01BC05",
+    "drugbank_id": "DB00465"
+  },
+  {
+    "name": "Kanamycin",
+    "atc_code": "S01AA24",
+    "drugbank_id": "DB01172"
+  },
+  {
+    "name": "Krypton Kr 81m",
+    "atc_code": "V09EX01",
+    "drugbank_id": "DB09443"
+  }
+]

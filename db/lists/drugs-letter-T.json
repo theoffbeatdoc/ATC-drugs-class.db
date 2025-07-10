@@ -1,0 +1,2337 @@
+[
+  {
+    "name": "Triheptanoin",
+    "atc_code": "A16AX17",
+    "drugbank_id": "DB11677"
+  },
+  {
+    "name": "Telotristat",
+    "atc_code": "A16AX15",
+    "drugbank_id": "DB14218"
+  },
+  {
+    "name": "Triethylenetetramine",
+    "atc_code": "A16AX12",
+    "drugbank_id": "DB06824"
+  },
+  {
+    "name": "Teduglutide",
+    "atc_code": "A16AX08",
+    "drugbank_id": "DB08900"
+  },
+  {
+    "name": "Taliglucerase alfa",
+    "atc_code": "A16AB11",
+    "drugbank_id": "DB08876"
+  },
+  {
+    "name": "Tocofersolan",
+    "atc_code": "A11HA08",
+    "drugbank_id": "DB11635"
+  },
+  {
+    "name": "Tocopherol",
+    "atc_code": "A11HA03",
+    "drugbank_id": "DB11251"
+  },
+  {
+    "name": "Thiamine",
+    "atc_code": "A11DA01",
+    "drugbank_id": "DB00152"
+  },
+  {
+    "name": "Teplizumab",
+    "atc_code": "A10XX01",
+    "drugbank_id": "DB06606"
+  },
+  {
+    "name": "Tolrestat",
+    "atc_code": "A10XA01",
+    "drugbank_id": "DB02383"
+  },
+  {
+    "name": "Tirzepatide",
+    "atc_code": "A10BX16",
+    "drugbank_id": "DB15171"
+  },
+  {
+    "name": "Teneligliptin",
+    "atc_code": "A10BH08",
+    "drugbank_id": "DB11950"
+  },
+  {
+    "name": "Troglitazone",
+    "atc_code": "A10BG01",
+    "drugbank_id": "DB00197"
+  },
+  {
+    "name": "Teneligliptin",
+    "atc_code": "A10BD28",
+    "drugbank_id": "DB11950"
+  },
+  {
+    "name": "Tolazamide",
+    "atc_code": "A10BB05",
+    "drugbank_id": "DB00839"
+  },
+  {
+    "name": "Tolbutamide",
+    "atc_code": "A10BB03",
+    "drugbank_id": "DB01124"
+  },
+  {
+    "name": "Tilactase",
+    "atc_code": "A09AA04",
+    "drugbank_id": "DB13761"
+  },
+  {
+    "name": "Topiramate",
+    "atc_code": "A08AA51",
+    "drugbank_id": "DB00273"
+  },
+  {
+    "name": "Tixocortol",
+    "atc_code": "A07EA05",
+    "drugbank_id": "DB09091"
+  },
+  {
+    "name": "Tenapanor",
+    "atc_code": "A06AX08",
+    "drugbank_id": "DB11761"
+  },
+  {
+    "name": "Tegaserod",
+    "atc_code": "A06AX06",
+    "drugbank_id": "DB01079"
+  },
+  {
+    "name": "Tidiacic arginine",
+    "atc_code": "A05BA07",
+    "drugbank_id": "DB13748"
+  },
+  {
+    "name": "Tauroursodeoxycholic acid",
+    "atc_code": "A05AA05",
+    "drugbank_id": "DB08834"
+  },
+  {
+    "name": "Tropisetron",
+    "atc_code": "A04AA03",
+    "drugbank_id": "DB11699"
+  },
+  {
+    "name": "Tiemonium iodide",
+    "atc_code": "A03DA07",
+    "drugbank_id": "DB13666"
+  },
+  {
+    "name": "Trospium",
+    "atc_code": "A03DA06",
+    "drugbank_id": "DB00209"
+  },
+  {
+    "name": "Trimethyldiphenylpropylamine",
+    "atc_code": "A03AX30",
+    "drugbank_id": "DB13361"
+  },
+  {
+    "name": "Trepibutone",
+    "atc_code": "A03AX09",
+    "drugbank_id": "DB13311"
+  },
+  {
+    "name": "Tiropramide",
+    "atc_code": "A03AC05",
+    "drugbank_id": "DB13091"
+  },
+  {
+    "name": "Timepidium",
+    "atc_code": "A03AB19",
+    "drugbank_id": "DB13850"
+  },
+  {
+    "name": "Tiemonium iodide",
+    "atc_code": "A03AB17",
+    "drugbank_id": "DB13666"
+  },
+  {
+    "name": "Tridihexethyl",
+    "atc_code": "A03AB08",
+    "drugbank_id": "DB00505"
+  },
+  {
+    "name": "Trimebutine",
+    "atc_code": "A03AA05",
+    "drugbank_id": "DB09089"
+  },
+  {
+    "name": "Teprenone",
+    "atc_code": "A02BX15",
+    "drugbank_id": "DB15955"
+  },
+  {
+    "name": "Troxipide",
+    "atc_code": "A02BX11",
+    "drugbank_id": "DB13419"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "A02BD09",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "A02BD08",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "A02BD02",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tegoprazan",
+    "atc_code": "A02BC09",
+    "drugbank_id": "DB16690"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "A01AC01",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tibezonium iodide",
+    "atc_code": "A01AB15",
+    "drugbank_id": "DB13702"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "A01AB13",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Trypsin",
+    "atc_code": "B06AA07",
+    "drugbank_id": "DB11237"
+  },
+  {
+    "name": "Tromethamine",
+    "atc_code": "B05XX02",
+    "drugbank_id": "DB03754"
+  },
+  {
+    "name": "Taurolidine",
+    "atc_code": "B05CA05",
+    "drugbank_id": "DB12473"
+  },
+  {
+    "name": "Tromethamine",
+    "atc_code": "B05BB03",
+    "drugbank_id": "DB03754"
+  },
+  {
+    "name": "Thrombin",
+    "atc_code": "B02BD30",
+    "drugbank_id": "DB11300"
+  },
+  {
+    "name": "Thrombin",
+    "atc_code": "B02BC06",
+    "drugbank_id": "DB11300"
+  },
+  {
+    "name": "Tetragalacturonic acid hydroxymethylester",
+    "atc_code": "B02BC03",
+    "drugbank_id": "DB13621"
+  },
+  {
+    "name": "Tranexamic acid",
+    "atc_code": "B02AA02",
+    "drugbank_id": "DB00302"
+  },
+  {
+    "name": "Tenecteplase",
+    "atc_code": "B01AD11",
+    "drugbank_id": "DB00031"
+  },
+  {
+    "name": "Ticagrelor",
+    "atc_code": "B01AC24",
+    "drugbank_id": "DB08816"
+  },
+  {
+    "name": "Treprostinil",
+    "atc_code": "B01AC21",
+    "drugbank_id": "DB00374"
+  },
+  {
+    "name": "Triflusal",
+    "atc_code": "B01AC18",
+    "drugbank_id": "DB08814"
+  },
+  {
+    "name": "Tirofiban",
+    "atc_code": "B01AC17",
+    "drugbank_id": "DB00775"
+  },
+  {
+    "name": "Ticlopidine",
+    "atc_code": "B01AC05",
+    "drugbank_id": "DB00208"
+  },
+  {
+    "name": "Tinzaparin",
+    "atc_code": "B01AB10",
+    "drugbank_id": "DB06822"
+  },
+  {
+    "name": "Tioclomarol",
+    "atc_code": "B01AA11",
+    "drugbank_id": "DB13451"
+  },
+  {
+    "name": "Telmisartan",
+    "atc_code": "C10BX20",
+    "drugbank_id": "DB00966"
+  },
+  {
+    "name": "Tiadenol",
+    "atc_code": "C10AX03",
+    "drugbank_id": "DB13348"
+  },
+  {
+    "name": "Telmisartan",
+    "atc_code": "C09DX08",
+    "drugbank_id": "DB00966"
+  },
+  {
+    "name": "Telmisartan",
+    "atc_code": "C09DB04",
+    "drugbank_id": "DB00966"
+  },
+  {
+    "name": "Telmisartan",
+    "atc_code": "C09DA07",
+    "drugbank_id": "DB00966"
+  },
+  {
+    "name": "Telmisartan",
+    "atc_code": "C09CA07",
+    "drugbank_id": "DB00966"
+  },
+  {
+    "name": "Tasosartan",
+    "atc_code": "C09CA05",
+    "drugbank_id": "DB01349"
+  },
+  {
+    "name": "Trandolapril",
+    "atc_code": "C09BB10",
+    "drugbank_id": "DB00519"
+  },
+  {
+    "name": "Temocapril",
+    "atc_code": "C09AA14",
+    "drugbank_id": "DB08836"
+  },
+  {
+    "name": "Trandolapril",
+    "atc_code": "C09AA10",
+    "drugbank_id": "DB00519"
+  },
+  {
+    "name": "Timolol",
+    "atc_code": "C07DA06",
+    "drugbank_id": "DB00373"
+  },
+  {
+    "name": "Timolol",
+    "atc_code": "C07BA06",
+    "drugbank_id": "DB00373"
+  },
+  {
+    "name": "Talinolol",
+    "atc_code": "C07AB13",
+    "drugbank_id": "DB11770"
+  },
+  {
+    "name": "Tertatolol",
+    "atc_code": "C07AA16",
+    "drugbank_id": "DB13775"
+  },
+  {
+    "name": "Timolol",
+    "atc_code": "C07AA06",
+    "drugbank_id": "DB00373"
+  },
+  {
+    "name": "Tribenoside",
+    "atc_code": "C05CX01",
+    "drugbank_id": "DB13227"
+  },
+  {
+    "name": "Troxerutin",
+    "atc_code": "C05CA54",
+    "drugbank_id": "DB13124"
+  },
+  {
+    "name": "Troxerutin",
+    "atc_code": "C05CA04",
+    "drugbank_id": "DB13124"
+  },
+  {
+    "name": "Tribenoside",
+    "atc_code": "C05AX05",
+    "drugbank_id": "DB13227"
+  },
+  {
+    "name": "Tetracaine",
+    "atc_code": "C05AD02",
+    "drugbank_id": "DB09085"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "C05AA12",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tolazoline",
+    "atc_code": "C04AB02",
+    "drugbank_id": "DB00797"
+  },
+  {
+    "name": "Tolvaptan",
+    "atc_code": "C03XA01",
+    "drugbank_id": "DB06212"
+  },
+  {
+    "name": "Trichlormethiazide",
+    "atc_code": "C03EA02",
+    "drugbank_id": "DB01021"
+  },
+  {
+    "name": "Triamterene",
+    "atc_code": "C03DB02",
+    "drugbank_id": "DB00384"
+  },
+  {
+    "name": "Tienilic acid",
+    "atc_code": "C03CC02",
+    "drugbank_id": "DB04831"
+  },
+  {
+    "name": "Torasemide",
+    "atc_code": "C03CA04",
+    "drugbank_id": "DB00214"
+  },
+  {
+    "name": "Theobromine",
+    "atc_code": "C03BD01",
+    "drugbank_id": "DB01412"
+  },
+  {
+    "name": "Trichlormethiazide",
+    "atc_code": "C03AB06",
+    "drugbank_id": "DB01021"
+  },
+  {
+    "name": "Trichlormethiazide",
+    "atc_code": "C03AA06",
+    "drugbank_id": "DB01021"
+  },
+  {
+    "name": "Tadalafil",
+    "atc_code": "C02KX54",
+    "drugbank_id": "DB00820"
+  },
+  {
+    "name": "Tadalafil",
+    "atc_code": "C02KX52",
+    "drugbank_id": "DB00820"
+  },
+  {
+    "name": "Trimazosin",
+    "atc_code": "C02CA03",
+    "drugbank_id": "DB09206"
+  },
+  {
+    "name": "Trimethaphan",
+    "atc_code": "C02BA01",
+    "drugbank_id": "DB01116"
+  },
+  {
+    "name": "Tolonidine",
+    "atc_code": "C02AC04",
+    "drugbank_id": "DB13429"
+  },
+  {
+    "name": "Trimetazidine",
+    "atc_code": "C01EB15",
+    "drugbank_id": "DB09069"
+  },
+  {
+    "name": "Tiracizine",
+    "atc_code": "C01EB11",
+    "drugbank_id": "DB13635"
+  },
+  {
+    "name": "Trapidil",
+    "atc_code": "C01DX11",
+    "drugbank_id": "DB09283"
+  },
+  {
+    "name": "Trolnitrate",
+    "atc_code": "C01DA59",
+    "drugbank_id": "DB13719"
+  },
+  {
+    "name": "Tenitramine",
+    "atc_code": "C01DA38",
+    "drugbank_id": "DB13637"
+  },
+  {
+    "name": "Trolnitrate",
+    "atc_code": "C01DA09",
+    "drugbank_id": "DB13719"
+  },
+  {
+    "name": "Theodrenaline",
+    "atc_code": "C01CA23",
+    "drugbank_id": "DB12927"
+  },
+  {
+    "name": "Tedisamil",
+    "atc_code": "C01BD06",
+    "drugbank_id": "DB06200"
+  },
+  {
+    "name": "Tocainide",
+    "atc_code": "C01BB03",
+    "drugbank_id": "DB01056"
+  },
+  {
+    "name": "Tiratricol",
+    "atc_code": "D11AX08",
+    "drugbank_id": "DB03604"
+  },
+  {
+    "name": "Tralokinumab",
+    "atc_code": "D11AH07",
+    "drugbank_id": "DB12169"
+  },
+  {
+    "name": "Tacrolimus",
+    "atc_code": "D11AH01",
+    "drugbank_id": "DB00864"
+  },
+  {
+    "name": "Trifarotene",
+    "atc_code": "D10AD06",
+    "drugbank_id": "DB12808"
+  },
+  {
+    "name": "Tretinoin",
+    "atc_code": "D10AD51",
+    "drugbank_id": "DB00755"
+  },
+  {
+    "name": "Tretinoin",
+    "atc_code": "D10AD01",
+    "drugbank_id": "DB00755"
+  },
+  {
+    "name": "Tioxolone",
+    "atc_code": "D10AB03",
+    "drugbank_id": "DB13343"
+  },
+  {
+    "name": "Triclosan",
+    "atc_code": "D09AA06",
+    "drugbank_id": "DB08604"
+  },
+  {
+    "name": "Tosylchloramide",
+    "atc_code": "D08AX04",
+    "drugbank_id": "DB14708"
+  },
+  {
+    "name": "Thimerosal",
+    "atc_code": "D08AK06",
+    "drugbank_id": "DB11590"
+  },
+  {
+    "name": "Triclosan",
+    "atc_code": "D08AE04",
+    "drugbank_id": "DB08604"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "D07XB02",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "D07CB01",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "D07BB03",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "D07AB09",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tirbanibulin",
+    "atc_code": "D06BX03",
+    "drugbank_id": "DB06137"
+  },
+  {
+    "name": "Tromantadine",
+    "atc_code": "D06BB02",
+    "drugbank_id": "DB13288"
+  },
+  {
+    "name": "Tyrothricin",
+    "atc_code": "D06AX08",
+    "drugbank_id": "DB13503"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "D06AA04",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Trioxsalen",
+    "atc_code": "D05BA01",
+    "drugbank_id": "DB04571"
+  },
+  {
+    "name": "Tapinarof",
+    "atc_code": "D05AX07",
+    "drugbank_id": "DB06083"
+  },
+  {
+    "name": "Tazarotene",
+    "atc_code": "D05AX55",
+    "drugbank_id": "DB00799"
+  },
+  {
+    "name": "Tazarotene",
+    "atc_code": "D05AX05",
+    "drugbank_id": "DB00799"
+  },
+  {
+    "name": "Tacalcitol",
+    "atc_code": "D05AX04",
+    "drugbank_id": "DB13689"
+  },
+  {
+    "name": "Trioxsalen",
+    "atc_code": "D05AD01",
+    "drugbank_id": "DB04571"
+  },
+  {
+    "name": "Tetracaine",
+    "atc_code": "D04AB06",
+    "drugbank_id": "DB09085"
+  },
+  {
+    "name": "Tolpropamine",
+    "atc_code": "D04AA12",
+    "drugbank_id": "DB13305"
+  },
+  {
+    "name": "Tripelennamine",
+    "atc_code": "D04AA04",
+    "drugbank_id": "DB00792"
+  },
+  {
+    "name": "Thenalidine",
+    "atc_code": "D04AA03",
+    "drugbank_id": "DB04826"
+  },
+  {
+    "name": "Thonzylamine",
+    "atc_code": "D04AA01",
+    "drugbank_id": "DB11235"
+  },
+  {
+    "name": "Trypsin",
+    "atc_code": "D03BA01",
+    "drugbank_id": "DB11237"
+  },
+  {
+    "name": "Trafermin",
+    "atc_code": "D03AX15",
+    "drugbank_id": "DB06244"
+  },
+  {
+    "name": "Trolamine",
+    "atc_code": "D03AX12",
+    "drugbank_id": "DB13747"
+  },
+  {
+    "name": "Terbinafine",
+    "atc_code": "D01BA02",
+    "drugbank_id": "DB00857"
+  },
+  {
+    "name": "Tavaborole",
+    "atc_code": "D01AE24",
+    "drugbank_id": "DB09041"
+  },
+  {
+    "name": "Tolciclate",
+    "atc_code": "D01AE19",
+    "drugbank_id": "DB13360"
+  },
+  {
+    "name": "Tolnaftate",
+    "atc_code": "D01AE18",
+    "drugbank_id": "DB00525"
+  },
+  {
+    "name": "Terbinafine",
+    "atc_code": "D01AE15",
+    "drugbank_id": "DB00857"
+  },
+  {
+    "name": "Ticlatone",
+    "atc_code": "D01AE08",
+    "drugbank_id": "DB13613"
+  },
+  {
+    "name": "Tribromometacresol",
+    "atc_code": "D01AE03",
+    "drugbank_id": "DB13513"
+  },
+  {
+    "name": "Tioconazole",
+    "atc_code": "D01AC07",
+    "drugbank_id": "DB01007"
+  },
+  {
+    "name": "Thiabendazole",
+    "atc_code": "D01AC06",
+    "drugbank_id": "DB00730"
+  },
+  {
+    "name": "Tadalafil",
+    "atc_code": "G04CB51",
+    "drugbank_id": "DB00820"
+  },
+  {
+    "name": "Tamsulosin",
+    "atc_code": "G04CA54",
+    "drugbank_id": "DB00706"
+  },
+  {
+    "name": "Tadalafil",
+    "atc_code": "G04CA54",
+    "drugbank_id": "DB00820"
+  },
+  {
+    "name": "Tamsulosin",
+    "atc_code": "G04CA53",
+    "drugbank_id": "DB00706"
+  },
+  {
+    "name": "Tamsulosin",
+    "atc_code": "G04CA52",
+    "drugbank_id": "DB00706"
+  },
+  {
+    "name": "Terazosin",
+    "atc_code": "G04CA03",
+    "drugbank_id": "DB01162"
+  },
+  {
+    "name": "Tamsulosin",
+    "atc_code": "G04CA02",
+    "drugbank_id": "DB00706"
+  },
+  {
+    "name": "Tiopronin",
+    "atc_code": "G04BX16",
+    "drugbank_id": "DB06823"
+  },
+  {
+    "name": "Tadalafil",
+    "atc_code": "G04BE08",
+    "drugbank_id": "DB00820"
+  },
+  {
+    "name": "Trospium",
+    "atc_code": "G04BD09",
+    "drugbank_id": "DB00209"
+  },
+  {
+    "name": "Tolterodine",
+    "atc_code": "G04BD07",
+    "drugbank_id": "DB01036"
+  },
+  {
+    "name": "Terodiline",
+    "atc_code": "G04BD05",
+    "drugbank_id": "DB13725"
+  },
+  {
+    "name": "Trimegestone",
+    "atc_code": "G03FB11",
+    "drugbank_id": "DB13129"
+  },
+  {
+    "name": "Trimegestone",
+    "atc_code": "G03FA16",
+    "drugbank_id": "DB13129"
+  },
+  {
+    "name": "Testosterone",
+    "atc_code": "G03EA02",
+    "drugbank_id": "DB00624"
+  },
+  {
+    "name": "Tibolone",
+    "atc_code": "G03CX01",
+    "drugbank_id": "DB09070"
+  },
+  {
+    "name": "Testosterone",
+    "atc_code": "G03BA03",
+    "drugbank_id": "DB00624"
+  },
+  {
+    "name": "Terguride",
+    "atc_code": "G02CB06",
+    "drugbank_id": "DB13399"
+  },
+  {
+    "name": "Terconazole",
+    "atc_code": "G01AG02",
+    "drugbank_id": "DB00251"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "G01AF21",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tioconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB01007"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tioconazole",
+    "atc_code": "G01AF08",
+    "drugbank_id": "DB01007"
+  },
+  {
+    "name": "Tamsulosin",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00706"
+  },
+  {
+    "name": "Torasemide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00214"
+  },
+  {
+    "name": "Tolbutamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01124"
+  },
+  {
+    "name": "Tolazamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00839"
+  },
+  {
+    "name": "Trichlormethiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01021"
+  },
+  {
+    "name": "Teriparatide",
+    "atc_code": "H05AA02",
+    "drugbank_id": "DB06285"
+  },
+  {
+    "name": "Tiratricol",
+    "atc_code": "H03AA04",
+    "drugbank_id": "DB03604"
+  },
+  {
+    "name": "Trilostane",
+    "atc_code": "H02CA01",
+    "drugbank_id": "DB01108"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "H02AB08",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Terlipressin",
+    "atc_code": "H01BA04",
+    "drugbank_id": "DB02638"
+  },
+  {
+    "name": "Tesamorelin",
+    "atc_code": "H01AC06",
+    "drugbank_id": "DB08869"
+  },
+  {
+    "name": "Thyrotropin alfa",
+    "atc_code": "H01AB01",
+    "drugbank_id": "DB00024"
+  },
+  {
+    "name": "Tetracosactide",
+    "atc_code": "H01AA02",
+    "drugbank_id": "DB01284"
+  },
+  {
+    "name": "Typhoid Vi polysaccharide vaccine",
+    "atc_code": "J07AP03",
+    "drugbank_id": "DB10803"
+  },
+  {
+    "name": "Tixagevimab",
+    "atc_code": "J06BD03",
+    "drugbank_id": "DB16394"
+  },
+  {
+    "name": "Tetanus immune globulin, human",
+    "atc_code": "J06BB02",
+    "drugbank_id": "DB11604"
+  },
+  {
+    "name": "Telaprevir",
+    "atc_code": "J05AP02",
+    "drugbank_id": "DB05521"
+  },
+  {
+    "name": "Triazavirin",
+    "atc_code": "J05AX32",
+    "drugbank_id": "DB15622"
+  },
+  {
+    "name": "Tecovirimat",
+    "atc_code": "J05AX24",
+    "drugbank_id": "DB12020"
+  },
+  {
+    "name": "Tilorone",
+    "atc_code": "J05AX19",
+    "drugbank_id": "DB17965"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR29",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR27",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR24",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR22",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR20",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR19",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR18",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AR17",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR12",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR11",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR09",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR08",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR06",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AR03",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tenofovir alafenamide",
+    "atc_code": "J05AF13",
+    "drugbank_id": "DB09299"
+  },
+  {
+    "name": "Telbivudine",
+    "atc_code": "J05AF11",
+    "drugbank_id": "DB01265"
+  },
+  {
+    "name": "Tenofovir disoproxil",
+    "atc_code": "J05AF07",
+    "drugbank_id": "DB00300"
+  },
+  {
+    "name": "Tipranavir",
+    "atc_code": "J05AE09",
+    "drugbank_id": "DB00932"
+  },
+  {
+    "name": "Tromantadine",
+    "atc_code": "J05AC03",
+    "drugbank_id": "DB13288"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J04AM08",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Terizidone",
+    "atc_code": "J04AK03",
+    "drugbank_id": "DB12954"
+  },
+  {
+    "name": "Tiocarlide",
+    "atc_code": "J04AD02",
+    "drugbank_id": "DB13608"
+  },
+  {
+    "name": "Tedizolid",
+    "atc_code": "J01XX11",
+    "drugbank_id": "DB14569"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "J01XD02",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Telavancin",
+    "atc_code": "J01XA03",
+    "drugbank_id": "DB06402"
+  },
+  {
+    "name": "Teicoplanin",
+    "atc_code": "J01XA02",
+    "drugbank_id": "DB06149"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "J01RA19",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "J01RA18",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "J01RA13",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "J01RA11",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "J01RA08",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tosufloxacin",
+    "atc_code": "J01MA22",
+    "drugbank_id": "DB16850"
+  },
+  {
+    "name": "Trovafloxacin",
+    "atc_code": "J01MA13",
+    "drugbank_id": "DB00685"
+  },
+  {
+    "name": "Temafloxacin",
+    "atc_code": "J01MA05",
+    "drugbank_id": "DB01405"
+  },
+  {
+    "name": "Tobramycin",
+    "atc_code": "J01GB01",
+    "drugbank_id": "DB00684"
+  },
+  {
+    "name": "Telithromycin",
+    "atc_code": "J01FA15",
+    "drugbank_id": "DB00976"
+  },
+  {
+    "name": "Troleandomycin",
+    "atc_code": "J01FA08",
+    "drugbank_id": "DB13179"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE07",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Tetroxoprim",
+    "atc_code": "J01EE06",
+    "drugbank_id": "DB15976"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE05",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE04",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE03",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE02",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EE01",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Trimethoprim",
+    "atc_code": "J01EA01",
+    "drugbank_id": "DB00440"
+  },
+  {
+    "name": "Tebipenem pivoxil",
+    "atc_code": "J01DH06",
+    "drugbank_id": "DB16840"
+  },
+  {
+    "name": "Ticarcillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01607"
+  },
+  {
+    "name": "Temocillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB12343"
+  },
+  {
+    "name": "Tazobactam",
+    "atc_code": "J01CG02",
+    "drugbank_id": "DB01606"
+  },
+  {
+    "name": "Temocillin",
+    "atc_code": "J01CA17",
+    "drugbank_id": "DB12343"
+  },
+  {
+    "name": "Talampicillin",
+    "atc_code": "J01CA15",
+    "drugbank_id": "DB13814"
+  },
+  {
+    "name": "Ticarcillin",
+    "atc_code": "J01CA13",
+    "drugbank_id": "DB01607"
+  },
+  {
+    "name": "Thiamphenicol",
+    "atc_code": "J01BA52",
+    "drugbank_id": "DB08621"
+  },
+  {
+    "name": "Thiamphenicol",
+    "atc_code": "J01BA02",
+    "drugbank_id": "DB08621"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tigecycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00560"
+  },
+  {
+    "name": "Tigecycline",
+    "atc_code": "J01AA12",
+    "drugbank_id": "DB00560"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "J01AA07",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Teriflunomide",
+    "atc_code": "L04AK02",
+    "drugbank_id": "DB08880"
+  },
+  {
+    "name": "Teprotumumab",
+    "atc_code": "L04AG13",
+    "drugbank_id": "DB06343"
+  },
+  {
+    "name": "Tofacitinib",
+    "atc_code": "L04AF01",
+    "drugbank_id": "DB08895"
+  },
+  {
+    "name": "Thalidomide",
+    "atc_code": "L04AX02",
+    "drugbank_id": "DB01041"
+  },
+  {
+    "name": "Tacrolimus",
+    "atc_code": "L04AD02",
+    "drugbank_id": "DB00864"
+  },
+  {
+    "name": "Tildrakizumab",
+    "atc_code": "L04AC17",
+    "drugbank_id": "DB14004"
+  },
+  {
+    "name": "Tocilizumab",
+    "atc_code": "L04AC07",
+    "drugbank_id": "DB06273"
+  },
+  {
+    "name": "Tasonermin",
+    "atc_code": "L03AX11",
+    "drugbank_id": "DB11626"
+  },
+  {
+    "name": "Thymopentin",
+    "atc_code": "L03AX09",
+    "drugbank_id": "DB11996"
+  },
+  {
+    "name": "Toremifene",
+    "atc_code": "L02BA02",
+    "drugbank_id": "DB00539"
+  },
+  {
+    "name": "Tamoxifen",
+    "atc_code": "L02BA01",
+    "drugbank_id": "DB00675"
+  },
+  {
+    "name": "Triptorelin",
+    "atc_code": "L02AE04",
+    "drugbank_id": "DB06825"
+  },
+  {
+    "name": "Trastuzumab",
+    "atc_code": "L01FY01",
+    "drugbank_id": "DB00072"
+  },
+  {
+    "name": "Tarlatamab",
+    "atc_code": "L01FX33",
+    "drugbank_id": "DB17256"
+  },
+  {
+    "name": "Talquetamab",
+    "atc_code": "L01FX29",
+    "drugbank_id": "DB16678"
+  },
+  {
+    "name": "Teclistamab",
+    "atc_code": "L01FX24",
+    "drugbank_id": "DB16655"
+  },
+  {
+    "name": "Tisotumab vedotin",
+    "atc_code": "L01FX23",
+    "drugbank_id": "DB16732"
+  },
+  {
+    "name": "Tremelimumab",
+    "atc_code": "L01FX20",
+    "drugbank_id": "DB11771"
+  },
+  {
+    "name": "Tafasitamab",
+    "atc_code": "L01FX12",
+    "drugbank_id": "DB15044"
+  },
+  {
+    "name": "Toripalimab",
+    "atc_code": "L01FF13",
+    "drugbank_id": "DB15043"
+  },
+  {
+    "name": "Tislelizumab",
+    "atc_code": "L01FF09",
+    "drugbank_id": "DB14922"
+  },
+  {
+    "name": "Trastuzumab duocarmazine",
+    "atc_code": "L01FD05",
+    "drugbank_id": "DB16342"
+  },
+  {
+    "name": "Trastuzumab deruxtecan",
+    "atc_code": "L01FD04",
+    "drugbank_id": "DB14962"
+  },
+  {
+    "name": "Trastuzumab emtansine",
+    "atc_code": "L01FD03",
+    "drugbank_id": "DB05773"
+  },
+  {
+    "name": "Trastuzumab",
+    "atc_code": "L01FD01",
+    "drugbank_id": "DB00072"
+  },
+  {
+    "name": "Tepotinib",
+    "atc_code": "L01EX21",
+    "drugbank_id": "DB15133"
+  },
+  {
+    "name": "Tirabrutinib",
+    "atc_code": "L01EL06",
+    "drugbank_id": "DB15227"
+  },
+  {
+    "name": "Tivozanib",
+    "atc_code": "L01EK03",
+    "drugbank_id": "DB11800"
+  },
+  {
+    "name": "Tucatinib",
+    "atc_code": "L01EH03",
+    "drugbank_id": "DB11652"
+  },
+  {
+    "name": "Temsirolimus",
+    "atc_code": "L01EG01",
+    "drugbank_id": "DB06287"
+  },
+  {
+    "name": "Trametinib",
+    "atc_code": "L01EE01",
+    "drugbank_id": "DB08911"
+  },
+  {
+    "name": "Tabelecleucel",
+    "atc_code": "L01XL09",
+    "drugbank_id": "DB17072"
+  },
+  {
+    "name": "Tisagenlecleucel",
+    "atc_code": "L01XL04",
+    "drugbank_id": "DB13881"
+  },
+  {
+    "name": "Talimogene laherparepvec",
+    "atc_code": "L01XL02",
+    "drugbank_id": "DB13896"
+  },
+  {
+    "name": "Talazoparib",
+    "atc_code": "L01XK04",
+    "drugbank_id": "DB11760"
+  },
+  {
+    "name": "Tucidinostat",
+    "atc_code": "L01XH06",
+    "drugbank_id": "DB06334"
+  },
+  {
+    "name": "Tretinoin",
+    "atc_code": "L01XF01",
+    "drugbank_id": "DB00755"
+  },
+  {
+    "name": "Tebentafusp",
+    "atc_code": "L01XX75",
+    "drugbank_id": "DB15283"
+  },
+  {
+    "name": "Tazemetostat",
+    "atc_code": "L01XX72",
+    "drugbank_id": "DB12887"
+  },
+  {
+    "name": "Tagraxofusp",
+    "atc_code": "L01XX67",
+    "drugbank_id": "DB14731"
+  },
+  {
+    "name": "Tiazofurine",
+    "atc_code": "L01XX18",
+    "drugbank_id": "DB13243"
+  },
+  {
+    "name": "Temoporfin",
+    "atc_code": "L01XD05",
+    "drugbank_id": "DB11630"
+  },
+  {
+    "name": "Topotecan",
+    "atc_code": "L01CE01",
+    "drugbank_id": "DB01030"
+  },
+  {
+    "name": "Trabectedin",
+    "atc_code": "L01CX01",
+    "drugbank_id": "DB05109"
+  },
+  {
+    "name": "Teniposide",
+    "atc_code": "L01CB02",
+    "drugbank_id": "DB00444"
+  },
+  {
+    "name": "Trifluridine",
+    "atc_code": "L01BC59",
+    "drugbank_id": "DB00432"
+  },
+  {
+    "name": "Tegafur",
+    "atc_code": "L01BC53",
+    "drugbank_id": "DB09256"
+  },
+  {
+    "name": "Tegafur",
+    "atc_code": "L01BC03",
+    "drugbank_id": "DB09256"
+  },
+  {
+    "name": "Tioguanine",
+    "atc_code": "L01BB03",
+    "drugbank_id": "DB00352"
+  },
+  {
+    "name": "Temozolomide",
+    "atc_code": "L01AX03",
+    "drugbank_id": "DB00853"
+  },
+  {
+    "name": "Triaziquone",
+    "atc_code": "L01AC02",
+    "drugbank_id": "DB13304"
+  },
+  {
+    "name": "Thiotepa",
+    "atc_code": "L01AC01",
+    "drugbank_id": "DB04572"
+  },
+  {
+    "name": "Treosulfan",
+    "atc_code": "L01AB02",
+    "drugbank_id": "DB11678"
+  },
+  {
+    "name": "Trofosfamide",
+    "atc_code": "L01AA07",
+    "drugbank_id": "DB12902"
+  },
+  {
+    "name": "Trypsin",
+    "atc_code": "M09AB52",
+    "drugbank_id": "DB11237"
+  },
+  {
+    "name": "Tiludronic acid",
+    "atc_code": "M05BA05",
+    "drugbank_id": "DB01133"
+  },
+  {
+    "name": "Tisopurine",
+    "atc_code": "M04AA02",
+    "drugbank_id": "DB13807"
+  },
+  {
+    "name": "Thiocolchicoside",
+    "atc_code": "M03BX55",
+    "drugbank_id": "DB11582"
+  },
+  {
+    "name": "Tetrazepam",
+    "atc_code": "M03BX07",
+    "drugbank_id": "DB13324"
+  },
+  {
+    "name": "Thiocolchicoside",
+    "atc_code": "M03BX05",
+    "drugbank_id": "DB11582"
+  },
+  {
+    "name": "Tolperisone",
+    "atc_code": "M03BX04",
+    "drugbank_id": "DB06264"
+  },
+  {
+    "name": "Tizanidine",
+    "atc_code": "M03BX02",
+    "drugbank_id": "DB00697"
+  },
+  {
+    "name": "Tubocurarine",
+    "atc_code": "M03AA02",
+    "drugbank_id": "DB01199"
+  },
+  {
+    "name": "Tolperisone",
+    "atc_code": "M02AX06",
+    "drugbank_id": "DB06264"
+  },
+  {
+    "name": "Tolazoline",
+    "atc_code": "M02AX02",
+    "drugbank_id": "DB00797"
+  },
+  {
+    "name": "Tolmetin",
+    "atc_code": "M02AA21",
+    "drugbank_id": "DB00500"
+  },
+  {
+    "name": "Tenidap",
+    "atc_code": "M01AX23",
+    "drugbank_id": "DB13481"
+  },
+  {
+    "name": "Tolfenamic acid",
+    "atc_code": "M01AG02",
+    "drugbank_id": "DB09216"
+  },
+  {
+    "name": "Tiaprofenic acid",
+    "atc_code": "M01AE11",
+    "drugbank_id": "DB01600"
+  },
+  {
+    "name": "Tenoxicam",
+    "atc_code": "M01AC02",
+    "drugbank_id": "DB00469"
+  },
+  {
+    "name": "Tolmetin",
+    "atc_code": "M01AB03",
+    "drugbank_id": "DB00500"
+  },
+  {
+    "name": "Trofinetide",
+    "atc_code": "N07XX24",
+    "drugbank_id": "DB06045"
+  },
+  {
+    "name": "Troriluzole",
+    "atc_code": "N07XX23",
+    "drugbank_id": "DB15079"
+  },
+  {
+    "name": "Tofersen",
+    "atc_code": "N07XX22",
+    "drugbank_id": "DB14782"
+  },
+  {
+    "name": "Tauroursodeoxycholic acid",
+    "atc_code": "N07XX19",
+    "drugbank_id": "DB08834"
+  },
+  {
+    "name": "Tafamidis",
+    "atc_code": "N07XX08",
+    "drugbank_id": "DB11644"
+  },
+  {
+    "name": "Tetrabenazine",
+    "atc_code": "N07XX06",
+    "drugbank_id": "DB04844"
+  },
+  {
+    "name": "Tirilazad",
+    "atc_code": "N07XX01",
+    "drugbank_id": "DB13050"
+  },
+  {
+    "name": "Tacrine",
+    "atc_code": "N06DA01",
+    "drugbank_id": "DB00382"
+  },
+  {
+    "name": "Tianeptine",
+    "atc_code": "N06AX14",
+    "drugbank_id": "DB09289"
+  },
+  {
+    "name": "Trazodone",
+    "atc_code": "N06AX05",
+    "drugbank_id": "DB00656"
+  },
+  {
+    "name": "Tryptophan",
+    "atc_code": "N06AX02",
+    "drugbank_id": "DB00150"
+  },
+  {
+    "name": "Toloxatone",
+    "atc_code": "N06AG03",
+    "drugbank_id": "DB09245"
+  },
+  {
+    "name": "Tranylcypromine",
+    "atc_code": "N06AF04",
+    "drugbank_id": "DB00752"
+  },
+  {
+    "name": "Trimipramine",
+    "atc_code": "N06AA06",
+    "drugbank_id": "DB00726"
+  },
+  {
+    "name": "Triclofos",
+    "atc_code": "N05CM07",
+    "drugbank_id": "DB06753"
+  },
+  {
+    "name": "Tasimelteon",
+    "atc_code": "N05CH03",
+    "drugbank_id": "DB09071"
+  },
+  {
+    "name": "Temazepam",
+    "atc_code": "N05CD07",
+    "drugbank_id": "DB00231"
+  },
+  {
+    "name": "Triazolam",
+    "atc_code": "N05CD05",
+    "drugbank_id": "DB00897"
+  },
+  {
+    "name": "Thiamylal",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB01154"
+  },
+  {
+    "name": "Thiopental",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00599"
+  },
+  {
+    "name": "Thiopental",
+    "atc_code": "N05CA19",
+    "drugbank_id": "DB00599"
+  },
+  {
+    "name": "Talbutal",
+    "atc_code": "N05CA07",
+    "drugbank_id": "DB00306"
+  },
+  {
+    "name": "Tofisopam",
+    "atc_code": "N05BA23",
+    "drugbank_id": "DB08811"
+  },
+  {
+    "name": "Tiapride",
+    "atc_code": "N05AL03",
+    "drugbank_id": "DB13025"
+  },
+  {
+    "name": "Thiothixene",
+    "atc_code": "N05AF04",
+    "drugbank_id": "DB01623"
+  },
+  {
+    "name": "Trifluperidol",
+    "atc_code": "N05AD02",
+    "drugbank_id": "DB13552"
+  },
+  {
+    "name": "Thioridazine",
+    "atc_code": "N05AC02",
+    "drugbank_id": "DB00679"
+  },
+  {
+    "name": "Thioproperazine",
+    "atc_code": "N05AB08",
+    "drugbank_id": "DB01622"
+  },
+  {
+    "name": "Trifluoperazine",
+    "atc_code": "N05AB06",
+    "drugbank_id": "DB00831"
+  },
+  {
+    "name": "Thiopropazate",
+    "atc_code": "N05AB05",
+    "drugbank_id": "DB13557"
+  },
+  {
+    "name": "Triflupromazine",
+    "atc_code": "N05AA05",
+    "drugbank_id": "DB00508"
+  },
+  {
+    "name": "Tolcapone",
+    "atc_code": "N04BX01",
+    "drugbank_id": "DB00323"
+  },
+  {
+    "name": "Tropatepine",
+    "atc_code": "N04AA12",
+    "drugbank_id": "DB13252"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "atc_code": "N04AA01",
+    "drugbank_id": "DB00376"
+  },
+  {
+    "name": "Topiramate",
+    "atc_code": "N03AX11",
+    "drugbank_id": "DB00273"
+  },
+  {
+    "name": "Tiagabine",
+    "atc_code": "N03AG06",
+    "drugbank_id": "DB00906"
+  },
+  {
+    "name": "Trimethadione",
+    "atc_code": "N03AC02",
+    "drugbank_id": "DB00347"
+  },
+  {
+    "name": "Tanezumab",
+    "atc_code": "N02BG12",
+    "drugbank_id": "DB12335"
+  },
+  {
+    "name": "Tramadol",
+    "atc_code": "N02AJ16",
+    "drugbank_id": "DB00193"
+  },
+  {
+    "name": "Tramadol",
+    "atc_code": "N02AJ14",
+    "drugbank_id": "DB00193"
+  },
+  {
+    "name": "Tramadol",
+    "atc_code": "N02AJ13",
+    "drugbank_id": "DB00193"
+  },
+  {
+    "name": "Tilidine",
+    "atc_code": "N02AX51",
+    "drugbank_id": "DB13787"
+  },
+  {
+    "name": "Tapentadol",
+    "atc_code": "N02AX06",
+    "drugbank_id": "DB06204"
+  },
+  {
+    "name": "Tramadol",
+    "atc_code": "N02AX02",
+    "drugbank_id": "DB00193"
+  },
+  {
+    "name": "Tilidine",
+    "atc_code": "N02AX01",
+    "drugbank_id": "DB13787"
+  },
+  {
+    "name": "Tetracaine",
+    "atc_code": "N01BA53",
+    "drugbank_id": "DB09085"
+  },
+  {
+    "name": "Tetracaine",
+    "atc_code": "N01BA03",
+    "drugbank_id": "DB09085"
+  },
+  {
+    "name": "Thiopental",
+    "atc_code": "N01AF03",
+    "drugbank_id": "DB00599"
+  },
+  {
+    "name": "Trichloroethylene",
+    "atc_code": "N01AB05",
+    "drugbank_id": "DB13323"
+  },
+  {
+    "name": "Tetramethrin",
+    "atc_code": "P03BA04",
+    "drugbank_id": "DB13752"
+  },
+  {
+    "name": "Thiram",
+    "atc_code": "P03AA05",
+    "drugbank_id": "DB13245"
+  },
+  {
+    "name": "Thiabendazole",
+    "atc_code": "P02CA02",
+    "drugbank_id": "DB00730"
+  },
+  {
+    "name": "Triclabendazole",
+    "atc_code": "P02BX04",
+    "drugbank_id": "DB12245"
+  },
+  {
+    "name": "Tafenoquine",
+    "atc_code": "P01BA07",
+    "drugbank_id": "DB06608"
+  },
+  {
+    "name": "Tenonitrozole",
+    "atc_code": "P01AX08",
+    "drugbank_id": "DB13659"
+  },
+  {
+    "name": "Trimetrexate",
+    "atc_code": "P01AX07",
+    "drugbank_id": "DB01157"
+  },
+  {
+    "name": "Teclozan",
+    "atc_code": "P01AC04",
+    "drugbank_id": "DB13205"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "P01AB53",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tinidazole",
+    "atc_code": "P01AB02",
+    "drugbank_id": "DB00911"
+  },
+  {
+    "name": "Tiliquinol",
+    "atc_code": "P01AA30",
+    "drugbank_id": "DB20266"
+  },
+  {
+    "name": "Tilbroquinol",
+    "atc_code": "P01AA30",
+    "drugbank_id": "DB13222"
+  },
+  {
+    "name": "Tilbroquinol",
+    "atc_code": "P01AA05",
+    "drugbank_id": "DB13222"
+  },
+  {
+    "name": "Tezacaftor",
+    "atc_code": "R07AX33",
+    "drugbank_id": "DB11712"
+  },
+  {
+    "name": "Tezacaftor",
+    "atc_code": "R07AX32",
+    "drugbank_id": "DB11712"
+  },
+  {
+    "name": "Tezacaftor",
+    "atc_code": "R07AX31",
+    "drugbank_id": "DB11712"
+  },
+  {
+    "name": "Thenalidine",
+    "atc_code": "R06AX53",
+    "drugbank_id": "DB04826"
+  },
+  {
+    "name": "Tritoqualine",
+    "atc_code": "R06AX21",
+    "drugbank_id": "DB13711"
+  },
+  {
+    "name": "Terfenadine",
+    "atc_code": "R06AX12",
+    "drugbank_id": "DB00342"
+  },
+  {
+    "name": "Triprolidine",
+    "atc_code": "R06AX07",
+    "drugbank_id": "DB00427"
+  },
+  {
+    "name": "Thenalidine",
+    "atc_code": "R06AX03",
+    "drugbank_id": "DB04826"
+  },
+  {
+    "name": "Thiazinam",
+    "atc_code": "R06AD06",
+    "drugbank_id": "DB13420"
+  },
+  {
+    "name": "Thiethylperazine",
+    "atc_code": "R06AD03",
+    "drugbank_id": "DB00372"
+  },
+  {
+    "name": "Thonzylamine",
+    "atc_code": "R06AC06",
+    "drugbank_id": "DB11235"
+  },
+  {
+    "name": "Tripelennamine",
+    "atc_code": "R06AC04",
+    "drugbank_id": "DB00792"
+  },
+  {
+    "name": "Talastine",
+    "atc_code": "R06AB07",
+    "drugbank_id": "DB13349"
+  },
+  {
+    "name": "Trimethobenzamide",
+    "atc_code": "R06AA10",
+    "drugbank_id": "DB00662"
+  },
+  {
+    "name": "Tipepidine",
+    "atc_code": "R05DB24",
+    "drugbank_id": "DB13474"
+  },
+  {
+    "name": "Thebacon",
+    "atc_code": "R05DA10",
+    "drugbank_id": "DB13458"
+  },
+  {
+    "name": "Tyloxapol",
+    "atc_code": "R05CA01",
+    "drugbank_id": "DB06439"
+  },
+  {
+    "name": "Tezepelumab",
+    "atc_code": "R03DX11",
+    "drugbank_id": "DB15090"
+  },
+  {
+    "name": "Theophylline",
+    "atc_code": "R03DB04",
+    "drugbank_id": "DB00277"
+  },
+  {
+    "name": "Theophylline",
+    "atc_code": "R03DA74",
+    "drugbank_id": "DB00277"
+  },
+  {
+    "name": "Theobromine",
+    "atc_code": "R03DA57",
+    "drugbank_id": "DB01412"
+  },
+  {
+    "name": "Theophylline",
+    "atc_code": "R03DA54",
+    "drugbank_id": "DB00277"
+  },
+  {
+    "name": "Theophylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB00277"
+  },
+  {
+    "name": "Theobromine",
+    "atc_code": "R03DA07",
+    "drugbank_id": "DB01412"
+  },
+  {
+    "name": "Theophylline",
+    "atc_code": "R03DA04",
+    "drugbank_id": "DB00277"
+  },
+  {
+    "name": "Terbutaline",
+    "atc_code": "R03CC53",
+    "drugbank_id": "DB00871"
+  },
+  {
+    "name": "Tulobuterol",
+    "atc_code": "R03CC11",
+    "drugbank_id": "DB12248"
+  },
+  {
+    "name": "Tretoquinol",
+    "atc_code": "R03CC09",
+    "drugbank_id": "DB13692"
+  },
+  {
+    "name": "Terbutaline",
+    "atc_code": "R03CC03",
+    "drugbank_id": "DB00871"
+  },
+  {
+    "name": "Tiotropium",
+    "atc_code": "R03BB54",
+    "drugbank_id": "DB01409"
+  },
+  {
+    "name": "Tiotropium",
+    "atc_code": "R03BB04",
+    "drugbank_id": "DB01409"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "R03BA06",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tiotropium",
+    "atc_code": "R03AL10",
+    "drugbank_id": "DB01409"
+  },
+  {
+    "name": "Tiotropium",
+    "atc_code": "R03AL06",
+    "drugbank_id": "DB01409"
+  },
+  {
+    "name": "Tulobuterol",
+    "atc_code": "R03AC11",
+    "drugbank_id": "DB12248"
+  },
+  {
+    "name": "Tretoquinol",
+    "atc_code": "R03AC09",
+    "drugbank_id": "DB13692"
+  },
+  {
+    "name": "Terbutaline",
+    "atc_code": "R03AC03",
+    "drugbank_id": "DB00871"
+  },
+  {
+    "name": "Tyrothricin",
+    "atc_code": "R02AB02",
+    "drugbank_id": "DB13503"
+  },
+  {
+    "name": "Tixocortol",
+    "atc_code": "R01AD57",
+    "drugbank_id": "DB09091"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "R01AD11",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tixocortol",
+    "atc_code": "R01AD07",
+    "drugbank_id": "DB09091"
+  },
+  {
+    "name": "Thonzylamine",
+    "atc_code": "R01AC06",
+    "drugbank_id": "DB11235"
+  },
+  {
+    "name": "Tuaminoheptane",
+    "atc_code": "R01AB08",
+    "drugbank_id": "DB13238"
+  },
+  {
+    "name": "Tetryzoline",
+    "atc_code": "R01AB03",
+    "drugbank_id": "DB06764"
+  },
+  {
+    "name": "Tymazoline",
+    "atc_code": "R01AA13",
+    "drugbank_id": "DB08803"
+  },
+  {
+    "name": "Tuaminoheptane",
+    "atc_code": "R01AA11",
+    "drugbank_id": "DB13238"
+  },
+  {
+    "name": "Tramazoline",
+    "atc_code": "R01AA09",
+    "drugbank_id": "DB13064"
+  },
+  {
+    "name": "Tetryzoline",
+    "atc_code": "R01AA06",
+    "drugbank_id": "DB06764"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "S03AA02",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "S02CA04",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "S02AA08",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Trypan blue free acid",
+    "atc_code": "S01KX02",
+    "drugbank_id": "DB09158"
+  },
+  {
+    "name": "Tetracaine",
+    "atc_code": "S01HA03",
+    "drugbank_id": "DB09085"
+  },
+  {
+    "name": "Tetryzoline",
+    "atc_code": "S01GA52",
+    "drugbank_id": "DB06764"
+  },
+  {
+    "name": "Tetryzoline",
+    "atc_code": "S01GA02",
+    "drugbank_id": "DB06764"
+  },
+  {
+    "name": "Tropicamide",
+    "atc_code": "S01FA56",
+    "drugbank_id": "DB00809"
+  },
+  {
+    "name": "Tropicamide",
+    "atc_code": "S01FA06",
+    "drugbank_id": "DB00809"
+  },
+  {
+    "name": "Tafluprost",
+    "atc_code": "S01EE05",
+    "drugbank_id": "DB08819"
+  },
+  {
+    "name": "Travoprost",
+    "atc_code": "S01EE04",
+    "drugbank_id": "DB00287"
+  },
+  {
+    "name": "Timolol",
+    "atc_code": "S01ED51",
+    "drugbank_id": "DB00373"
+  },
+  {
+    "name": "Timolol",
+    "atc_code": "S01ED01",
+    "drugbank_id": "DB00373"
+  },
+  {
+    "name": "Triamcinolone",
+    "atc_code": "S01BA05",
+    "drugbank_id": "DB00620"
+  },
+  {
+    "name": "Tosufloxacin",
+    "atc_code": "S01AE09",
+    "drugbank_id": "DB16850"
+  },
+  {
+    "name": "Trifluridine",
+    "atc_code": "S01AD02",
+    "drugbank_id": "DB00432"
+  },
+  {
+    "name": "Tobramycin",
+    "atc_code": "S01AA12",
+    "drugbank_id": "DB00684"
+  },
+  {
+    "name": "Tetracycline",
+    "atc_code": "S01AA09",
+    "drugbank_id": "DB00759"
+  },
+  {
+    "name": "Tyrothricin",
+    "atc_code": "S01AA05",
+    "drugbank_id": "DB13503"
+  },
+  {
+    "name": "Tositumomab",
+    "atc_code": "V10XA53",
+    "drugbank_id": "DB00081"
+  },
+  {
+    "name": "Technetium Tc-99m tilmanocept",
+    "atc_code": "V09IA09",
+    "drugbank_id": "DB09266"
+  },
+  {
+    "name": "Technetium Tc-99m arcitumomab",
+    "atc_code": "V09IA06",
+    "drugbank_id": "DB00113"
+  },
+  {
+    "name": "Thallous chloride Tl-201",
+    "atc_code": "V09GX01",
+    "drugbank_id": "DB16624"
+  },
+  {
+    "name": "Technetium Tc-99m tetrofosmin",
+    "atc_code": "V09GA02",
+    "drugbank_id": "DB09160"
+  },
+  {
+    "name": "Technetium Tc-99m sestamibi",
+    "atc_code": "V09GA01",
+    "drugbank_id": "DB09161"
+  },
+  {
+    "name": "Technetium Tc-99m pertechnetate",
+    "atc_code": "V09FX01",
+    "drugbank_id": "DB09314"
+  },
+  {
+    "name": "Technetium Tc-99m sulfur colloid",
+    "atc_code": "V09DB05",
+    "drugbank_id": "DB09397"
+  },
+  {
+    "name": "Technetium Tc-99m mebrofenin",
+    "atc_code": "V09DA04",
+    "drugbank_id": "DB09137"
+  },
+  {
+    "name": "Technetium Tc-99m etifenin",
+    "atc_code": "V09DA02",
+    "drugbank_id": "DB13183"
+  },
+  {
+    "name": "Technetium Tc-99m disofenin",
+    "atc_code": "V09DA01",
+    "drugbank_id": "DB09164"
+  },
+  {
+    "name": "Technetium Tc-99m succimer",
+    "atc_code": "V09CA02",
+    "drugbank_id": "DB09436"
+  },
+  {
+    "name": "Technetium Tc-99m pyrophosphate",
+    "atc_code": "V09BA03",
+    "drugbank_id": "DB09165"
+  },
+  {
+    "name": "Technetium Tc-99m medronate",
+    "atc_code": "V09BA02",
+    "drugbank_id": "DB09138"
+  },
+  {
+    "name": "Technetium Tc-99m oxidronate",
+    "atc_code": "V09BA01",
+    "drugbank_id": "DB09139"
+  },
+  {
+    "name": "Technetium Tc-99m exametazime",
+    "atc_code": "V09AA01",
+    "drugbank_id": "DB09163"
+  },
+  {
+    "name": "Tyropanoic acid",
+    "atc_code": "V08AC09",
+    "drugbank_id": "DB09340"
+  },
+  {
+    "name": "Thyrotropin",
+    "atc_code": "V04CJ01",
+    "drugbank_id": "DB15263"
+  },
+  {
+    "name": "Tolbutamide",
+    "atc_code": "V04CA01",
+    "drugbank_id": "DB01124"
+  },
+  {
+    "name": "Trilaciclib",
+    "atc_code": "V03AF12",
+    "drugbank_id": "DB15442"
+  },
+  {
+    "name": "Tetraferric tricitrate decahydrate",
+    "atc_code": "V03AE08",
+    "drugbank_id": "DB14520"
+  },
+  {
+    "name": "Tolevamer",
+    "atc_code": "V03AE01",
+    "drugbank_id": "DB01344"
+  }
+]

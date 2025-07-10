@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yeast",
+    "atc_code": "A07FA02",
+    "drugbank_id": "DB11017"
+  },
+  {
+    "name": "Yohimbine",
+    "atc_code": "G04BE04",
+    "drugbank_id": "DB01392"
+  },
+  {
+    "name": "Yellow fever vaccine",
+    "atc_code": "J07BL01",
+    "drugbank_id": "DB10805"
+  },
+  {
+    "name": "Yttrium Y-90",
+    "atc_code": "V10AA01",
+    "drugbank_id": "DB13076"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Vestronidase alfa",
+    "atc_code": "A16AB18",
+    "drugbank_id": "DB12366"
+  },
+  {
+    "name": "Velmanase alfa",
+    "atc_code": "A16AB15",
+    "drugbank_id": "DB12374"
+  },
+  {
+    "name": "Velaglucerase alfa",
+    "atc_code": "A16AB10",
+    "drugbank_id": "DB06720"
+  },
+  {
+    "name": "Vitamin A",
+    "atc_code": "A11CA01",
+    "drugbank_id": "DB00162"
+  },
+  {
+    "name": "Vildagliptin",
+    "atc_code": "A10BH02",
+    "drugbank_id": "DB04876"
+  },
+  {
+    "name": "Voglibose",
+    "atc_code": "A10BF03",
+    "drugbank_id": "DB04878"
+  },
+  {
+    "name": "Vildagliptin",
+    "atc_code": "A10BD08",
+    "drugbank_id": "DB04876"
+  },
+  {
+    "name": "Vancomycin",
+    "atc_code": "A07AA09",
+    "drugbank_id": "DB00512"
+  },
+  {
+    "name": "Valethamate",
+    "atc_code": "A03AX14",
+    "drugbank_id": "DB13497"
+  },
+  {
+    "name": "Vonoprazan",
+    "atc_code": "A02BD17",
+    "drugbank_id": "DB11739"
+  },
+  {
+    "name": "Vonoprazan",
+    "atc_code": "A02BD15",
+    "drugbank_id": "DB11739"
+  },
+  {
+    "name": "Vonoprazan",
+    "atc_code": "A02BD14",
+    "drugbank_id": "DB11739"
+  },
+  {
+    "name": "Vonoprazan",
+    "atc_code": "A02BC08",
+    "drugbank_id": "DB11739"
+  },
+  {
+    "name": "Voxelotor",
+    "atc_code": "B06AX03",
+    "drugbank_id": "DB14975"
+  },
+  {
+    "name": "Vadadustat",
+    "atc_code": "B03XA08",
+    "drugbank_id": "DB12255"
+  },
+  {
+    "name": "Valoctocogene roxaparvovec",
+    "atc_code": "B02BD15",
+    "drugbank_id": "DB15561"
+  },
+  {
+    "name": "Von Willebrand factor human",
+    "atc_code": "B02BD10",
+    "drugbank_id": "DB13133"
+  },
+  {
+    "name": "Von Willebrand factor human",
+    "atc_code": "B02BD06",
+    "drugbank_id": "DB13133"
+  },
+  {
+    "name": "Vorapaxar",
+    "atc_code": "B01AC26",
+    "drugbank_id": "DB09030"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C10BX10",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Volanesorsen",
+    "atc_code": "C10AX18",
+    "drugbank_id": "DB15067"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DX05",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DX04",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DX02",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DX01",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DB08",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DB01",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09DA03",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Valsartan",
+    "atc_code": "C09CA03",
+    "drugbank_id": "DB00177"
+  },
+  {
+    "name": "Verapamil",
+    "atc_code": "C09BB10",
+    "drugbank_id": "DB00661"
+  },
+  {
+    "name": "Verapamil",
+    "atc_code": "C08DA51",
+    "drugbank_id": "DB00661"
+  },
+  {
+    "name": "Verapamil",
+    "atc_code": "C08DA01",
+    "drugbank_id": "DB00661"
+  },
+  {
+    "name": "Visnadine",
+    "atc_code": "C04AX24",
+    "drugbank_id": "DB13355"
+  },
+  {
+    "name": "Vinburnine",
+    "atc_code": "C04AX17",
+    "drugbank_id": "DB13793"
+  },
+  {
+    "name": "Vincamine",
+    "atc_code": "C04AX07",
+    "drugbank_id": "DB13374"
+  },
+  {
+    "name": "Vericiguat",
+    "atc_code": "C01DX22",
+    "drugbank_id": "DB15456"
+  },
+  {
+    "name": "Vernakalant",
+    "atc_code": "C01BG11",
+    "drugbank_id": "DB06217"
+  },
+  {
+    "name": "Vitamin A",
+    "atc_code": "D10AD02",
+    "drugbank_id": "DB00162"
+  },
+  {
+    "name": "Virginiamycin",
+    "atc_code": "D06AX10",
+    "drugbank_id": "DB11476"
+  },
+  {
+    "name": "Vardenafil",
+    "atc_code": "G04BE09",
+    "drugbank_id": "DB00862"
+  },
+  {
+    "name": "Vibegron",
+    "atc_code": "G04BD15",
+    "drugbank_id": "DB14895"
+  },
+  {
+    "name": "Vitex agnus-castus fruit extract",
+    "atc_code": "G02CX03",
+    "drugbank_id": "DB13193"
+  },
+  {
+    "name": "Valdecoxib",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00580"
+  },
+  {
+    "name": "Vemurafenib",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB08881"
+  },
+  {
+    "name": "Vamorolone",
+    "atc_code": "H02AB18",
+    "drugbank_id": "DB15114"
+  },
+  {
+    "name": "Vapreotide",
+    "atc_code": "H01CB04",
+    "drugbank_id": "DB04894"
+  },
+  {
+    "name": "Velpatasvir",
+    "atc_code": "J05AP56",
+    "drugbank_id": "DB11613"
+  },
+  {
+    "name": "Voxilaprevir",
+    "atc_code": "J05AP56",
+    "drugbank_id": "DB12026"
+  },
+  {
+    "name": "Velpatasvir",
+    "atc_code": "J05AP55",
+    "drugbank_id": "DB11613"
+  },
+  {
+    "name": "Valganciclovir",
+    "atc_code": "J05AB14",
+    "drugbank_id": "DB01610"
+  },
+  {
+    "name": "Valaciclovir",
+    "atc_code": "J05AB11",
+    "drugbank_id": "DB00577"
+  },
+  {
+    "name": "Vidarabine",
+    "atc_code": "J05AB03",
+    "drugbank_id": "DB00194"
+  },
+  {
+    "name": "Voriconazole",
+    "atc_code": "J02AC03",
+    "drugbank_id": "DB00582"
+  },
+  {
+    "name": "Vancomycin",
+    "atc_code": "J01XA01",
+    "drugbank_id": "DB00512"
+  },
+  {
+    "name": "Vaborbactam",
+    "atc_code": "J01DH52",
+    "drugbank_id": "DB12107"
+  },
+  {
+    "name": "Vilobelimab",
+    "atc_code": "L04AJ10",
+    "drugbank_id": "DB16416"
+  },
+  {
+    "name": "Vedolizumab",
+    "atc_code": "L04AG05",
+    "drugbank_id": "DB09033"
+  },
+  {
+    "name": "Voclosporin",
+    "atc_code": "L04AD03",
+    "drugbank_id": "DB11693"
+  },
+  {
+    "name": "Vorozole",
+    "atc_code": "L02BG05",
+    "drugbank_id": "DB13767"
+  },
+  {
+    "name": "Vandetanib",
+    "atc_code": "L01EX04",
+    "drugbank_id": "DB05294"
+  },
+  {
+    "name": "Vemurafenib",
+    "atc_code": "L01EC01",
+    "drugbank_id": "DB08881"
+  },
+  {
+    "name": "Vorasidenib",
+    "atc_code": "L01XM04",
+    "drugbank_id": "DB17097"
+  },
+  {
+    "name": "Veliparib",
+    "atc_code": "L01XK05",
+    "drugbank_id": "DB07232"
+  },
+  {
+    "name": "Vismodegib",
+    "atc_code": "L01XJ01",
+    "drugbank_id": "DB08828"
+  },
+  {
+    "name": "Vorinostat",
+    "atc_code": "L01XH01",
+    "drugbank_id": "DB02546"
+  },
+  {
+    "name": "Venetoclax",
+    "atc_code": "L01XX52",
+    "drugbank_id": "DB11581"
+  },
+  {
+    "name": "Vosaroxin",
+    "atc_code": "L01XX53",
+    "drugbank_id": "DB11999"
+  },
+  {
+    "name": "Valrubicin",
+    "atc_code": "L01DB09",
+    "drugbank_id": "DB00385"
+  },
+  {
+    "name": "Vintafolide",
+    "atc_code": "L01CA06",
+    "drugbank_id": "DB05168"
+  },
+  {
+    "name": "Vinflunine",
+    "atc_code": "L01CA05",
+    "drugbank_id": "DB11641"
+  },
+  {
+    "name": "Vinorelbine",
+    "atc_code": "L01CA04",
+    "drugbank_id": "DB00361"
+  },
+  {
+    "name": "Vindesine",
+    "atc_code": "L01CA03",
+    "drugbank_id": "DB00309"
+  },
+  {
+    "name": "Vincristine",
+    "atc_code": "L01CA02",
+    "drugbank_id": "DB00541"
+  },
+  {
+    "name": "Vinblastine",
+    "atc_code": "L01CA01",
+    "drugbank_id": "DB00570"
+  },
+  {
+    "name": "Viltolarsen",
+    "atc_code": "M09AX12",
+    "drugbank_id": "DB15005"
+  },
+  {
+    "name": "Vosoritide",
+    "atc_code": "M05BX07",
+    "drugbank_id": "DB11928"
+  },
+  {
+    "name": "Vecuronium",
+    "atc_code": "M03AC03",
+    "drugbank_id": "DB01339"
+  },
+  {
+    "name": "Valdecoxib",
+    "atc_code": "M01AH03",
+    "drugbank_id": "DB00580"
+  },
+  {
+    "name": "Vutrisiran",
+    "atc_code": "N07XX18",
+    "drugbank_id": "DB16699"
+  },
+  {
+    "name": "Valbenazine",
+    "atc_code": "N07XX13",
+    "drugbank_id": "DB11915"
+  },
+  {
+    "name": "Varenicline",
+    "atc_code": "N07BA03",
+    "drugbank_id": "DB01273"
+  },
+  {
+    "name": "Vinpocetine",
+    "atc_code": "N06BX18",
+    "drugbank_id": "DB12131"
+  },
+  {
+    "name": "Vortioxetine",
+    "atc_code": "N06AX26",
+    "drugbank_id": "DB09068"
+  },
+  {
+    "name": "Vilazodone",
+    "atc_code": "N06AX24",
+    "drugbank_id": "DB06684"
+  },
+  {
+    "name": "Venlafaxine",
+    "atc_code": "N06AX16",
+    "drugbank_id": "DB00285"
+  },
+  {
+    "name": "Viloxazine",
+    "atc_code": "N06AX09",
+    "drugbank_id": "DB09185"
+  },
+  {
+    "name": "Valnoctamide",
+    "atc_code": "N05CM13",
+    "drugbank_id": "DB13099"
+  },
+  {
+    "name": "Valerian",
+    "atc_code": "N05CM09",
+    "drugbank_id": "DB13196"
+  },
+  {
+    "name": "Vinbarbital",
+    "atc_code": "N05CA09",
+    "drugbank_id": "DB13377"
+  },
+  {
+    "name": "Vinylbital",
+    "atc_code": "N05CA08",
+    "drugbank_id": "DB13770"
+  },
+  {
+    "name": "Veralipride",
+    "atc_code": "N05AL06",
+    "drugbank_id": "DB13523"
+  },
+  {
+    "name": "Vigabatrin",
+    "atc_code": "N03AG04",
+    "drugbank_id": "DB01080"
+  },
+  {
+    "name": "Valpromide",
+    "atc_code": "N03AG02",
+    "drugbank_id": "DB04165"
+  },
+  {
+    "name": "Valproic acid",
+    "atc_code": "N03AG01",
+    "drugbank_id": "DB00313"
+  },
+  {
+    "name": "Viminol",
+    "atc_code": "N02BG05",
+    "drugbank_id": "DB13353"
+  },
+  {
+    "name": "Vinyl ether",
+    "atc_code": "N01AA02",
+    "drugbank_id": "DB13690"
+  },
+  {
+    "name": "Vanzacaftor",
+    "atc_code": "R07AX33",
+    "drugbank_id": "DB18373"
+  },
+  {
+    "name": "Vilanterol",
+    "atc_code": "R03AL08",
+    "drugbank_id": "DB09082"
+  },
+  {
+    "name": "Vilanterol",
+    "atc_code": "R03AL03",
+    "drugbank_id": "DB09082"
+  },
+  {
+    "name": "Vilanterol",
+    "atc_code": "R03AK10",
+    "drugbank_id": "DB09082"
+  },
+  {
+    "name": "Vitamin A",
+    "atc_code": "R01AX02",
+    "drugbank_id": "DB00162"
+  },
+  {
+    "name": "Varenicline",
+    "atc_code": "S01XA28",
+    "drugbank_id": "DB01273"
+  },
+  {
+    "name": "Voretigene neparvovec",
+    "atc_code": "S01XA27",
+    "drugbank_id": "DB13932"
+  },
+  {
+    "name": "Vitamin A",
+    "atc_code": "S01XA02",
+    "drugbank_id": "DB00162"
+  },
+  {
+    "name": "Verteporfin",
+    "atc_code": "S01LA01",
+    "drugbank_id": "DB00460"
+  },
+  {
+    "name": "Vidarabine",
+    "atc_code": "S01AD06",
+    "drugbank_id": "DB00194"
+  },
+  {
+    "name": "Vancomycin",
+    "atc_code": "S01AA28",
+    "drugbank_id": "DB00512"
+  },
+  {
+    "name": "Vitamin A",
+    "atc_code": "V04CB01",
+    "drugbank_id": "DB00162"
+  }
+]

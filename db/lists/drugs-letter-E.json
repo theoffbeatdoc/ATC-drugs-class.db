@@ -1,0 +1,1712 @@
+[
+  {
+    "name": "Elivaldogene autotemcel",
+    "atc_code": "A16AX21",
+    "drugbank_id": "DB16746"
+  },
+  {
+    "name": "Eliglustat",
+    "atc_code": "A16AX10",
+    "drugbank_id": "DB09039"
+  },
+  {
+    "name": "Eladocagene exuparvovec",
+    "atc_code": "A16AB26",
+    "drugbank_id": "DB16780"
+  },
+  {
+    "name": "Elosulfase alfa",
+    "atc_code": "A16AB12",
+    "drugbank_id": "DB09051"
+  },
+  {
+    "name": "Ethylestrenol",
+    "atc_code": "A14AB02",
+    "drugbank_id": "DB01493"
+  },
+  {
+    "name": "Ergocalciferol",
+    "atc_code": "A11CC01",
+    "drugbank_id": "DB00153"
+  },
+  {
+    "name": "Enavogliflozin",
+    "atc_code": "A10BK09",
+    "drugbank_id": "DB18970"
+  },
+  {
+    "name": "Ertugliflozin",
+    "atc_code": "A10BK04",
+    "drugbank_id": "DB11827"
+  },
+  {
+    "name": "Empagliflozin",
+    "atc_code": "A10BK03",
+    "drugbank_id": "DB09038"
+  },
+  {
+    "name": "Exenatide",
+    "atc_code": "A10BJ01",
+    "drugbank_id": "DB01276"
+  },
+  {
+    "name": "Evogliptin",
+    "atc_code": "A10BH07",
+    "drugbank_id": "DB12625"
+  },
+  {
+    "name": "Empagliflozin",
+    "atc_code": "A10BD27",
+    "drugbank_id": "DB09038"
+  },
+  {
+    "name": "Ertugliflozin",
+    "atc_code": "A10BD24",
+    "drugbank_id": "DB11827"
+  },
+  {
+    "name": "Ertugliflozin",
+    "atc_code": "A10BD23",
+    "drugbank_id": "DB11827"
+  },
+  {
+    "name": "Evogliptin",
+    "atc_code": "A10BD22",
+    "drugbank_id": "DB12625"
+  },
+  {
+    "name": "Empagliflozin",
+    "atc_code": "A10BD20",
+    "drugbank_id": "DB09038"
+  },
+  {
+    "name": "Empagliflozin",
+    "atc_code": "A10BD19",
+    "drugbank_id": "DB09038"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "A08AA56",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Etilamfetamine",
+    "atc_code": "A08AA06",
+    "drugbank_id": "DB13285"
+  },
+  {
+    "name": "Escherichia coli",
+    "atc_code": "A07FA03",
+    "drugbank_id": "DB16539"
+  },
+  {
+    "name": "Eluxadoline",
+    "atc_code": "A07DA06",
+    "drugbank_id": "DB09272"
+  },
+  {
+    "name": "Elobixibat",
+    "atc_code": "A06AX09",
+    "drugbank_id": "DB12486"
+  },
+  {
+    "name": "Epomediol",
+    "atc_code": "A05BA05",
+    "drugbank_id": "DB13802"
+  },
+  {
+    "name": "Elafibranor",
+    "atc_code": "A05AX06",
+    "drugbank_id": "DB05187"
+  },
+  {
+    "name": "Emepronium",
+    "atc_code": "A03CA30",
+    "drugbank_id": "DB13505"
+  },
+  {
+    "name": "Emetonium iodide",
+    "atc_code": "A03AB16",
+    "drugbank_id": "DB13769"
+  },
+  {
+    "name": "Esomeprazole",
+    "atc_code": "A02BD06",
+    "drugbank_id": "DB00736"
+  },
+  {
+    "name": "Esomeprazole",
+    "atc_code": "A02BC05",
+    "drugbank_id": "DB00736"
+  },
+  {
+    "name": "Enprostil",
+    "atc_code": "A02BB02",
+    "drugbank_id": "DB13824"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "A01AD01",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Exagamglogene autotemcel",
+    "atc_code": "B06AX05",
+    "drugbank_id": "DB15572"
+  },
+  {
+    "name": "Ecallantide",
+    "atc_code": "B06AC03",
+    "drugbank_id": "DB05311"
+  },
+  {
+    "name": "Ethacridine",
+    "atc_code": "B05CA08",
+    "drugbank_id": "DB13190"
+  },
+  {
+    "name": "Efepoetin alfa",
+    "atc_code": "B03XA10",
+    "drugbank_id": "DB19197"
+  },
+  {
+    "name": "Erythropoietin",
+    "atc_code": "B03XA01",
+    "drugbank_id": "DB00016"
+  },
+  {
+    "name": "Emicizumab",
+    "atc_code": "B02BX06",
+    "drugbank_id": "DB13923"
+  },
+  {
+    "name": "Eltrombopag",
+    "atc_code": "B02BX05",
+    "drugbank_id": "DB06210"
+  },
+  {
+    "name": "Etamsylate",
+    "atc_code": "B02BX01",
+    "drugbank_id": "DB13483"
+  },
+  {
+    "name": "Etranacogene dezaparvovec",
+    "atc_code": "B02BD16",
+    "drugbank_id": "DB16791"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "B02BC09",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Edoxaban",
+    "atc_code": "B01AF03",
+    "drugbank_id": "DB09075"
+  },
+  {
+    "name": "Eptifibatide",
+    "atc_code": "B01AC16",
+    "drugbank_id": "DB00063"
+  },
+  {
+    "name": "Epoprostenol",
+    "atc_code": "B01AC09",
+    "drugbank_id": "DB01240"
+  },
+  {
+    "name": "Enoxaparin",
+    "atc_code": "B01AB05",
+    "drugbank_id": "DB01225"
+  },
+  {
+    "name": "Ethyl biscoumacetate",
+    "atc_code": "B01AA08",
+    "drugbank_id": "DB08794"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA13",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA12",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA11",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA10",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA06",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA05",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10BA02",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Evinacumab",
+    "atc_code": "C10AX17",
+    "drugbank_id": "DB15354"
+  },
+  {
+    "name": "Evolocumab",
+    "atc_code": "C10AX13",
+    "drugbank_id": "DB09303"
+  },
+  {
+    "name": "Ezetimibe",
+    "atc_code": "C10AX09",
+    "drugbank_id": "DB00973"
+  },
+  {
+    "name": "Etofibrate",
+    "atc_code": "C10AB09",
+    "drugbank_id": "DB08983"
+  },
+  {
+    "name": "Eprosartan",
+    "atc_code": "C09DA02",
+    "drugbank_id": "DB00876"
+  },
+  {
+    "name": "Eprosartan",
+    "atc_code": "C09CA02",
+    "drugbank_id": "DB00876"
+  },
+  {
+    "name": "Enalapril",
+    "atc_code": "C09BB06",
+    "drugbank_id": "DB00584"
+  },
+  {
+    "name": "Enalapril",
+    "atc_code": "C09BB02",
+    "drugbank_id": "DB00584"
+  },
+  {
+    "name": "Enalapril",
+    "atc_code": "C09BA02",
+    "drugbank_id": "DB00584"
+  },
+  {
+    "name": "Enalapril",
+    "atc_code": "C09AA02",
+    "drugbank_id": "DB00584"
+  },
+  {
+    "name": "Etripamil",
+    "atc_code": "C08DA03",
+    "drugbank_id": "DB12605"
+  },
+  {
+    "name": "Esatenolol",
+    "atc_code": "C07AB11",
+    "drugbank_id": "DB13443"
+  },
+  {
+    "name": "Epanolol",
+    "atc_code": "C07AB10",
+    "drugbank_id": "DB13757"
+  },
+  {
+    "name": "Esmolol",
+    "atc_code": "C07AB09",
+    "drugbank_id": "DB00187"
+  },
+  {
+    "name": "Ethanolamine oleate",
+    "atc_code": "C05BB01",
+    "drugbank_id": "DB06689"
+  },
+  {
+    "name": "Etofylline nicotinate",
+    "atc_code": "C04AD04",
+    "drugbank_id": "DB13842"
+  },
+  {
+    "name": "Epitizide",
+    "atc_code": "C03EA03",
+    "drugbank_id": "DB13989"
+  },
+  {
+    "name": "Eplerenone",
+    "atc_code": "C03DA04",
+    "drugbank_id": "DB00700"
+  },
+  {
+    "name": "Etacrynic acid",
+    "atc_code": "C03CC01",
+    "drugbank_id": "DB00903"
+  },
+  {
+    "name": "Endralazine",
+    "atc_code": "C02DB03",
+    "drugbank_id": "DB13435"
+  },
+  {
+    "name": "Efloxate",
+    "atc_code": "C01DX13",
+    "drugbank_id": "DB13333"
+  },
+  {
+    "name": "Etafenone",
+    "atc_code": "C01DX07",
+    "drugbank_id": "DB13845"
+  },
+  {
+    "name": "Erythrityl tetranitrate",
+    "atc_code": "C01DA63",
+    "drugbank_id": "DB01613"
+  },
+  {
+    "name": "Erythrityl tetranitrate",
+    "atc_code": "C01DA13",
+    "drugbank_id": "DB01613"
+  },
+  {
+    "name": "Enoximone",
+    "atc_code": "C01CE03",
+    "drugbank_id": "DB04880"
+  },
+  {
+    "name": "Etilefrine",
+    "atc_code": "C01CA51",
+    "drugbank_id": "DB08985"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "C01CA26",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "C01CA24",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Etilefrine",
+    "atc_code": "C01CA01",
+    "drugbank_id": "DB08985"
+  },
+  {
+    "name": "Ethacizine",
+    "atc_code": "C01BC09",
+    "drugbank_id": "DB13645"
+  },
+  {
+    "name": "Encainide",
+    "atc_code": "C01BC08",
+    "drugbank_id": "DB01228"
+  },
+  {
+    "name": "Eflornithine",
+    "atc_code": "D11AX16",
+    "drugbank_id": "DB06243"
+  },
+  {
+    "name": "Erythromycin",
+    "atc_code": "D10AF52",
+    "drugbank_id": "DB00199"
+  },
+  {
+    "name": "Erythromycin",
+    "atc_code": "D10AF02",
+    "drugbank_id": "DB00199"
+  },
+  {
+    "name": "Ethanol",
+    "atc_code": "D08AX08",
+    "drugbank_id": "DB00898"
+  },
+  {
+    "name": "Eosin",
+    "atc_code": "D08AX02",
+    "drugbank_id": "DB13706"
+  },
+  {
+    "name": "Euflavine",
+    "atc_code": "D08AA03",
+    "drugbank_id": "DB13326"
+  },
+  {
+    "name": "Ethacridine",
+    "atc_code": "D08AA01",
+    "drugbank_id": "DB13190"
+  },
+  {
+    "name": "Edoxudine",
+    "atc_code": "D06BB09",
+    "drugbank_id": "DB13421"
+  },
+  {
+    "name": "Etretinate",
+    "atc_code": "D05BB01",
+    "drugbank_id": "DB00926"
+  },
+  {
+    "name": "Enoxolone",
+    "atc_code": "D03AX10",
+    "drugbank_id": "DB13089"
+  },
+  {
+    "name": "Ethyl hydroxybenzoate",
+    "atc_code": "D01AE10",
+    "drugbank_id": "DB13628"
+  },
+  {
+    "name": "Efinaconazole",
+    "atc_code": "D01AC19",
+    "drugbank_id": "DB09040"
+  },
+  {
+    "name": "Eberconazole",
+    "atc_code": "D01AC17",
+    "drugbank_id": "DB13656"
+  },
+  {
+    "name": "Econazole",
+    "atc_code": "D01AC03",
+    "drugbank_id": "DB01127"
+  },
+  {
+    "name": "Emepronium",
+    "atc_code": "G04BD01",
+    "drugbank_id": "DB13505"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03HB01",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Epimestrol",
+    "atc_code": "G03GB03",
+    "drugbank_id": "DB13386"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB12",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB11",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB10",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB09",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB08",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB07",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB06",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB05",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB04",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB03",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB02",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FB01",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA17",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA16",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA15",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA14",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA13",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA12",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA11",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA10",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA09",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA08",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA07",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Etynodiol",
+    "atc_code": "G03FA06",
+    "drugbank_id": "DB13866"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA06",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA05",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA04",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA03",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA02",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03FA01",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03EA03",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03EA02",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03EA01",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Etynodiol",
+    "atc_code": "G03DC06",
+    "drugbank_id": "DB13866"
+  },
+  {
+    "name": "Estriol",
+    "atc_code": "G03CC06",
+    "drugbank_id": "DB04573"
+  },
+  {
+    "name": "Estrone",
+    "atc_code": "G03CC04",
+    "drugbank_id": "DB00655"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03CA53",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Estrone",
+    "atc_code": "G03CA07",
+    "drugbank_id": "DB00655"
+  },
+  {
+    "name": "Estriol",
+    "atc_code": "G03CA04",
+    "drugbank_id": "DB04573"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03CA03",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03CA01",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Etonogestrel",
+    "atc_code": "G03AC08",
+    "drugbank_id": "DB00294"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB09",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03AB08",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB07",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB06",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB05",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB04",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB03",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB02",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AB01",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Estetrol",
+    "atc_code": "G03AA18",
+    "drugbank_id": "DB12235"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03AA17",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA16",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA15",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G03AA14",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA13",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA12",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA11",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA10",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA09",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA08",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA07",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA06",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA05",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA04",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA03",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA02",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "G03AA01",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Etynodiol",
+    "atc_code": "G03AA01",
+    "drugbank_id": "DB13866"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "G02BB01",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Ergometrine",
+    "atc_code": "G02AB03",
+    "drugbank_id": "DB01253"
+  },
+  {
+    "name": "Econazole",
+    "atc_code": "G01AF55",
+    "drugbank_id": "DB01127"
+  },
+  {
+    "name": "Econazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB01127"
+  },
+  {
+    "name": "Econazole",
+    "atc_code": "G01AF05",
+    "drugbank_id": "DB01127"
+  },
+  {
+    "name": "Ethoxzolamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00311"
+  },
+  {
+    "name": "Evocalcet",
+    "atc_code": "H05BX06",
+    "drugbank_id": "DB12388"
+  },
+  {
+    "name": "Etelcalcetide",
+    "atc_code": "H05BX04",
+    "drugbank_id": "DB12865"
+  },
+  {
+    "name": "Elcatonin",
+    "atc_code": "H05BA04",
+    "drugbank_id": "DB13742"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "H01CC53",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Elagolix",
+    "atc_code": "H01CC53",
+    "drugbank_id": "DB11979"
+  },
+  {
+    "name": "Estradiol",
+    "atc_code": "H01CC54",
+    "drugbank_id": "DB00783"
+  },
+  {
+    "name": "Elagolix",
+    "atc_code": "H01CC03",
+    "drugbank_id": "DB11979"
+  },
+  {
+    "name": "Elvitegravir",
+    "atc_code": "J05AJ02",
+    "drugbank_id": "DB09101"
+  },
+  {
+    "name": "Elbasvir",
+    "atc_code": "J05AP10",
+    "drugbank_id": "DB11574"
+  },
+  {
+    "name": "Elbasvir",
+    "atc_code": "J05AP54",
+    "drugbank_id": "DB11574"
+  },
+  {
+    "name": "Enfuvirtide",
+    "atc_code": "J05AX07",
+    "drugbank_id": "DB00109"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR29",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR22",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR20",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR19",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Elvitegravir",
+    "atc_code": "J05AR18",
+    "drugbank_id": "DB09101"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR18",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR17",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Efavirenz",
+    "atc_code": "J05AR11",
+    "drugbank_id": "DB00625"
+  },
+  {
+    "name": "Elvitegravir",
+    "atc_code": "J05AR09",
+    "drugbank_id": "DB09101"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR09",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR08",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Efavirenz",
+    "atc_code": "J05AR06",
+    "drugbank_id": "DB00625"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR06",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AR03",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Elsulfavirine",
+    "atc_code": "J05AG07",
+    "drugbank_id": "DB14929"
+  },
+  {
+    "name": "Etravirine",
+    "atc_code": "J05AG04",
+    "drugbank_id": "DB06414"
+  },
+  {
+    "name": "Efavirenz",
+    "atc_code": "J05AG03",
+    "drugbank_id": "DB00625"
+  },
+  {
+    "name": "Entecavir",
+    "atc_code": "J05AF10",
+    "drugbank_id": "DB00442"
+  },
+  {
+    "name": "Emtricitabine",
+    "atc_code": "J05AF09",
+    "drugbank_id": "DB00879"
+  },
+  {
+    "name": "Ensitrelvir",
+    "atc_code": "J05AE16",
+    "drugbank_id": "DB18834"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AM10",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AM09",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AM07",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AM06",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AM03",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethambutol",
+    "atc_code": "J04AK02",
+    "drugbank_id": "DB00330"
+  },
+  {
+    "name": "Ethionamide",
+    "atc_code": "J04AD03",
+    "drugbank_id": "DB00609"
+  },
+  {
+    "name": "Enviomycin",
+    "atc_code": "J04AB06",
+    "drugbank_id": "DB08993"
+  },
+  {
+    "name": "Enoxacin",
+    "atc_code": "J01MA04",
+    "drugbank_id": "DB00467"
+  },
+  {
+    "name": "Erythromycin",
+    "atc_code": "J01FA01",
+    "drugbank_id": "DB00199"
+  },
+  {
+    "name": "Ertapenem",
+    "atc_code": "J01DH03",
+    "drugbank_id": "DB00303"
+  },
+  {
+    "name": "Epicillin",
+    "atc_code": "J01CA07",
+    "drugbank_id": "DB13300"
+  },
+  {
+    "name": "Eravacycline",
+    "atc_code": "J01AA13",
+    "drugbank_id": "DB12329"
+  },
+  {
+    "name": "Eravacycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB12329"
+  },
+  {
+    "name": "Eculizumab",
+    "atc_code": "L04AJ01",
+    "drugbank_id": "DB01257"
+  },
+  {
+    "name": "Everolimus",
+    "atc_code": "L04AH02",
+    "drugbank_id": "DB01590"
+  },
+  {
+    "name": "Emapalumab",
+    "atc_code": "L04AG09",
+    "drugbank_id": "DB14724"
+  },
+  {
+    "name": "Efalizumab",
+    "atc_code": "L04AG02",
+    "drugbank_id": "DB00095"
+  },
+  {
+    "name": "Etrasimod",
+    "atc_code": "L04AE05",
+    "drugbank_id": "DB14766"
+  },
+  {
+    "name": "Etanercept",
+    "atc_code": "L04AB01",
+    "drugbank_id": "DB00005"
+  },
+  {
+    "name": "Efgartigimod alfa",
+    "atc_code": "L04AA58",
+    "drugbank_id": "DB15270"
+  },
+  {
+    "name": "Elapegademase",
+    "atc_code": "L03AX21",
+    "drugbank_id": "DB14712"
+  },
+  {
+    "name": "Eflapegrastim",
+    "atc_code": "L03AA19",
+    "drugbank_id": "DB15001"
+  },
+  {
+    "name": "Efbemalenograstim alfa",
+    "atc_code": "L03AA18",
+    "drugbank_id": "DB18704"
+  },
+  {
+    "name": "Empegfilgrastim",
+    "atc_code": "L03AA16",
+    "drugbank_id": "DB16155"
+  },
+  {
+    "name": "Exemestane",
+    "atc_code": "L02BG06",
+    "drugbank_id": "DB00990"
+  },
+  {
+    "name": "Enzalutamide",
+    "atc_code": "L02BB04",
+    "drugbank_id": "DB08899"
+  },
+  {
+    "name": "Elacestrant",
+    "atc_code": "L02BA04",
+    "drugbank_id": "DB06374"
+  },
+  {
+    "name": "Ethinylestradiol",
+    "atc_code": "L02AA03",
+    "drugbank_id": "DB00977"
+  },
+  {
+    "name": "Elranatamab",
+    "atc_code": "L01FX32",
+    "drugbank_id": "DB15395"
+  },
+  {
+    "name": "Epcoritamab",
+    "atc_code": "L01FX27",
+    "drugbank_id": "DB16672"
+  },
+  {
+    "name": "Enfortumab vedotin",
+    "atc_code": "L01FX13",
+    "drugbank_id": "DB13007"
+  },
+  {
+    "name": "Elotuzumab",
+    "atc_code": "L01FX08",
+    "drugbank_id": "DB06317"
+  },
+  {
+    "name": "Edrecolomab",
+    "atc_code": "L01FX01",
+    "drugbank_id": "DB13375"
+  },
+  {
+    "name": "Entrectinib",
+    "atc_code": "L01EX14",
+    "drugbank_id": "DB11986"
+  },
+  {
+    "name": "Erdafitinib",
+    "atc_code": "L01EN01",
+    "drugbank_id": "DB12147"
+  },
+  {
+    "name": "Everolimus",
+    "atc_code": "L01EG02",
+    "drugbank_id": "DB01590"
+  },
+  {
+    "name": "Encorafenib",
+    "atc_code": "L01EC03",
+    "drugbank_id": "DB11718"
+  },
+  {
+    "name": "Erlotinib",
+    "atc_code": "L01EB02",
+    "drugbank_id": "DB00530"
+  },
+  {
+    "name": "Enasidenib",
+    "atc_code": "L01XM01",
+    "drugbank_id": "DB13874"
+  },
+  {
+    "name": "Entinostat",
+    "atc_code": "L01XH05",
+    "drugbank_id": "DB11841"
+  },
+  {
+    "name": "Eflornithine",
+    "atc_code": "L01XX79",
+    "drugbank_id": "DB06243"
+  },
+  {
+    "name": "Estramustine",
+    "atc_code": "L01XX11",
+    "drugbank_id": "DB01196"
+  },
+  {
+    "name": "Eribulin",
+    "atc_code": "L01XX41",
+    "drugbank_id": "DB08871"
+  },
+  {
+    "name": "Epacadostat",
+    "atc_code": "L01XX58",
+    "drugbank_id": "DB11717"
+  },
+  {
+    "name": "Efaproxiral",
+    "atc_code": "L01XD06",
+    "drugbank_id": "DB08486"
+  },
+  {
+    "name": "Epirubicin",
+    "atc_code": "L01DB03",
+    "drugbank_id": "DB00445"
+  },
+  {
+    "name": "Etirinotecan pegol",
+    "atc_code": "L01CE03",
+    "drugbank_id": "DB14951"
+  },
+  {
+    "name": "Etoposide",
+    "atc_code": "L01CB01",
+    "drugbank_id": "DB00773"
+  },
+  {
+    "name": "Etoglucid",
+    "atc_code": "L01AG01",
+    "drugbank_id": "DB13339"
+  },
+  {
+    "name": "Eteplirsen",
+    "atc_code": "M09AX06",
+    "drugbank_id": "DB06014"
+  },
+  {
+    "name": "Eptotermin alfa",
+    "atc_code": "M05BC02",
+    "drugbank_id": "DB11631"
+  },
+  {
+    "name": "Etidronic acid",
+    "atc_code": "M05BB01",
+    "drugbank_id": "DB01077"
+  },
+  {
+    "name": "Etidronic acid",
+    "atc_code": "M05BA01",
+    "drugbank_id": "DB01077"
+  },
+  {
+    "name": "Eperisone",
+    "atc_code": "M03BX09",
+    "drugbank_id": "DB08992"
+  },
+  {
+    "name": "Esflurbiprofen",
+    "atc_code": "M02AA29",
+    "drugbank_id": "DB16159"
+  },
+  {
+    "name": "Etofenamate",
+    "atc_code": "M02AA06",
+    "drugbank_id": "DB08984"
+  },
+  {
+    "name": "Etoricoxib",
+    "atc_code": "M01AH05",
+    "drugbank_id": "DB01628"
+  },
+  {
+    "name": "Esomeprazole",
+    "atc_code": "M01AE52",
+    "drugbank_id": "DB00736"
+  },
+  {
+    "name": "Etodolac",
+    "atc_code": "M01AB08",
+    "drugbank_id": "DB00749"
+  },
+  {
+    "name": "Eplontersen",
+    "atc_code": "N07XX21",
+    "drugbank_id": "DB16199"
+  },
+  {
+    "name": "Edaravone",
+    "atc_code": "N07XX14",
+    "drugbank_id": "DB12243"
+  },
+  {
+    "name": "Esketamine",
+    "atc_code": "N06AX27",
+    "drugbank_id": "DB11823"
+  },
+  {
+    "name": "Escitalopram",
+    "atc_code": "N06AB10",
+    "drugbank_id": "DB01175"
+  },
+  {
+    "name": "Etoperidone",
+    "atc_code": "N06AB09",
+    "drugbank_id": "DB09194"
+  },
+  {
+    "name": "Emepronium",
+    "atc_code": "N05CX05",
+    "drugbank_id": "DB13505"
+  },
+  {
+    "name": "Ethchlorvynol",
+    "atc_code": "N05CM08",
+    "drugbank_id": "DB00189"
+  },
+  {
+    "name": "Eszopiclone",
+    "atc_code": "N05CF04",
+    "drugbank_id": "DB00402"
+  },
+  {
+    "name": "Estazolam",
+    "atc_code": "N05CD04",
+    "drugbank_id": "DB01215"
+  },
+  {
+    "name": "Etifoxine",
+    "atc_code": "N05BX03",
+    "drugbank_id": "DB08986"
+  },
+  {
+    "name": "Emylcamate",
+    "atc_code": "N05BC03",
+    "drugbank_id": "DB13572"
+  },
+  {
+    "name": "Etizolam",
+    "atc_code": "N05BA19",
+    "drugbank_id": "DB09166"
+  },
+  {
+    "name": "Ethyl loflazepate",
+    "atc_code": "N05BA18",
+    "drugbank_id": "DB01545"
+  },
+  {
+    "name": "Entacapone",
+    "atc_code": "N04BX02",
+    "drugbank_id": "DB00494"
+  },
+  {
+    "name": "Etilevodopa",
+    "atc_code": "N04BA06",
+    "drugbank_id": "DB06535"
+  },
+  {
+    "name": "Etybenzatropine",
+    "atc_code": "N04AC30",
+    "drugbank_id": "DB13468"
+  },
+  {
+    "name": "Etanautine",
+    "atc_code": "N04AB01",
+    "drugbank_id": "DB13636"
+  },
+  {
+    "name": "Ezogabine",
+    "atc_code": "N03AX21",
+    "drugbank_id": "DB04953"
+  },
+  {
+    "name": "Eslicarbazepine",
+    "atc_code": "N03AF04",
+    "drugbank_id": "DB14575"
+  },
+  {
+    "name": "Ethosuximide",
+    "atc_code": "N03AD51",
+    "drugbank_id": "DB00593"
+  },
+  {
+    "name": "Ethosuximide",
+    "atc_code": "N03AD01",
+    "drugbank_id": "DB00593"
+  },
+  {
+    "name": "Ethadione",
+    "atc_code": "N03AC03",
+    "drugbank_id": "DB13799"
+  },
+  {
+    "name": "Ethotoin",
+    "atc_code": "N03AB01",
+    "drugbank_id": "DB00754"
+  },
+  {
+    "name": "Eptinezumab",
+    "atc_code": "N02CD05",
+    "drugbank_id": "DB14040"
+  },
+  {
+    "name": "Erenumab",
+    "atc_code": "N02CD01",
+    "drugbank_id": "DB14039"
+  },
+  {
+    "name": "Eletriptan",
+    "atc_code": "N02CC06",
+    "drugbank_id": "DB00216"
+  },
+  {
+    "name": "Ergotamine",
+    "atc_code": "N02CA72",
+    "drugbank_id": "DB00696"
+  },
+  {
+    "name": "Ergotamine",
+    "atc_code": "N02CA52",
+    "drugbank_id": "DB00696"
+  },
+  {
+    "name": "Ergotamine",
+    "atc_code": "N02CA02",
+    "drugbank_id": "DB00696"
+  },
+  {
+    "name": "Ethenzamide",
+    "atc_code": "N02BA77",
+    "drugbank_id": "DB13544"
+  },
+  {
+    "name": "Ethenzamide",
+    "atc_code": "N02BA57",
+    "drugbank_id": "DB13544"
+  },
+  {
+    "name": "Ethenzamide",
+    "atc_code": "N02BA07",
+    "drugbank_id": "DB13544"
+  },
+  {
+    "name": "Ethyl chloride",
+    "atc_code": "N01BX01",
+    "drugbank_id": "DB13259"
+  },
+  {
+    "name": "Etidocaine",
+    "atc_code": "N01BB57",
+    "drugbank_id": "DB08987"
+  },
+  {
+    "name": "Etidocaine",
+    "atc_code": "N01BB07",
+    "drugbank_id": "DB08987"
+  },
+  {
+    "name": "Esketamine",
+    "atc_code": "N01AX14",
+    "drugbank_id": "DB11823"
+  },
+  {
+    "name": "Etomidate",
+    "atc_code": "N01AX07",
+    "drugbank_id": "DB00292"
+  },
+  {
+    "name": "Enibomal",
+    "atc_code": "N01AG01",
+    "drugbank_id": "DB13229"
+  },
+  {
+    "name": "Enflurane",
+    "atc_code": "N01AB04",
+    "drugbank_id": "DB00228"
+  },
+  {
+    "name": "Etohexadiol",
+    "atc_code": "P03BX06",
+    "drugbank_id": "DB13826"
+  },
+  {
+    "name": "Eflornithine",
+    "atc_code": "P01CX03",
+    "drugbank_id": "DB06243"
+  },
+  {
+    "name": "Emetine",
+    "atc_code": "P01AX52",
+    "drugbank_id": "DB13393"
+  },
+  {
+    "name": "Emetine",
+    "atc_code": "P01AX02",
+    "drugbank_id": "DB13393"
+  },
+  {
+    "name": "Etofamide",
+    "atc_code": "P01AC03",
+    "drugbank_id": "DB13258"
+  },
+  {
+    "name": "Elexacaftor",
+    "atc_code": "R07AX32",
+    "drugbank_id": "DB15444"
+  },
+  {
+    "name": "Etamivan",
+    "atc_code": "R07AB04",
+    "drugbank_id": "DB08989"
+  },
+  {
+    "name": "Epinastine",
+    "atc_code": "R06AX24",
+    "drugbank_id": "DB00751"
+  },
+  {
+    "name": "Ebastine",
+    "atc_code": "R06AX22",
+    "drugbank_id": "DB11742"
+  },
+  {
+    "name": "Ethylmorphine",
+    "atc_code": "R05DA01",
+    "drugbank_id": "DB01466"
+  },
+  {
+    "name": "Erdosteine",
+    "atc_code": "R05CB15",
+    "drugbank_id": "DB05057"
+  },
+  {
+    "name": "Eprazinone",
+    "atc_code": "R05CB04",
+    "drugbank_id": "DB08990"
+  },
+  {
+    "name": "Eucalyptol",
+    "atc_code": "R05CA13",
+    "drugbank_id": "DB03852"
+  },
+  {
+    "name": "Eprozinol",
+    "atc_code": "R03DX02",
+    "drugbank_id": "DB13395"
+  },
+  {
+    "name": "Etamiphylline",
+    "atc_code": "R03DB06",
+    "drugbank_id": "DB13592"
+  },
+  {
+    "name": "Etamiphylline",
+    "atc_code": "R03DA06",
+    "drugbank_id": "DB13592"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "R03CA02",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "R03AK01",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "R03AA01",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "R01AB05",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "R01AA14",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "R01AA03",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Ethylmorphine",
+    "atc_code": "S01XA06",
+    "drugbank_id": "DB01466"
+  },
+  {
+    "name": "Edetate sodium",
+    "atc_code": "S01XA05",
+    "drugbank_id": "DB13404"
+  },
+  {
+    "name": "Epinastine",
+    "atc_code": "S01GX10",
+    "drugbank_id": "DB00751"
+  },
+  {
+    "name": "Emedastine",
+    "atc_code": "S01GX06",
+    "drugbank_id": "DB01084"
+  },
+  {
+    "name": "Ephedrine",
+    "atc_code": "S01FB02",
+    "drugbank_id": "DB01364"
+  },
+  {
+    "name": "Echothiophate",
+    "atc_code": "S01EB03",
+    "drugbank_id": "DB01057"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "S01EA51",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Epinephrine",
+    "atc_code": "S01EA01",
+    "drugbank_id": "DB00668"
+  },
+  {
+    "name": "Erythromycin",
+    "atc_code": "S01AA17",
+    "drugbank_id": "DB00199"
+  },
+  {
+    "name": "Edotreotide gallium Ga-68",
+    "atc_code": "V09IX09",
+    "drugbank_id": "DB15494"
+  },
+  {
+    "name": "Ethiodized oil",
+    "atc_code": "V08AD01",
+    "drugbank_id": "DB00965"
+  },
+  {
+    "name": "Edrophonium",
+    "atc_code": "V04CX07",
+    "drugbank_id": "DB01010"
+  },
+  {
+    "name": "Ethanol",
+    "atc_code": "V03AZ01",
+    "drugbank_id": "DB00898"
+  },
+  {
+    "name": "Ethanol",
+    "atc_code": "V03AB16",
+    "drugbank_id": "DB00898"
+  }
+]

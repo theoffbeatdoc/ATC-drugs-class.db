@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "Sapropterin",
+    "atc_code": "A16AX07",
+    "drugbank_id": "DB00360"
+  },
+  {
+    "name": "Sebelipase alfa",
+    "atc_code": "A16AB14",
+    "drugbank_id": "DB11563"
+  },
+  {
+    "name": "Sacrosidase",
+    "atc_code": "A16AB06",
+    "drugbank_id": "DB06760"
+  },
+  {
+    "name": "Stanozolol",
+    "atc_code": "A14AA02",
+    "drugbank_id": "DB06718"
+  },
+  {
+    "name": "Stanolone",
+    "atc_code": "A14AA01",
+    "drugbank_id": "DB02901"
+  },
+  {
+    "name": "Selenious acid",
+    "atc_code": "A12CE02",
+    "drugbank_id": "DB11127"
+  },
+  {
+    "name": "Selenic acid",
+    "atc_code": "A12CE01",
+    "drugbank_id": "DB11068"
+  },
+  {
+    "name": "Sodium fluorophosphate",
+    "atc_code": "A12CD02",
+    "drugbank_id": "DB09484"
+  },
+  {
+    "name": "Sodium fluoride",
+    "atc_code": "A12CD01",
+    "drugbank_id": "DB09325"
+  },
+  {
+    "name": "Sodium sulfate",
+    "atc_code": "A12CA02",
+    "drugbank_id": "DB09472"
+  },
+  {
+    "name": "Sodium chloride",
+    "atc_code": "A12CA01",
+    "drugbank_id": "DB09153"
+  },
+  {
+    "name": "Sulbutiamine",
+    "atc_code": "A11DA02",
+    "drugbank_id": "DB13416"
+  },
+  {
+    "name": "Sotagliflozin",
+    "atc_code": "A10BK06",
+    "drugbank_id": "DB12713"
+  },
+  {
+    "name": "Semaglutide",
+    "atc_code": "A10BJ06",
+    "drugbank_id": "DB13928"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BH51",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "A10BH51",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Saxagliptin",
+    "atc_code": "A10BH03",
+    "drugbank_id": "DB06335"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BH01",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BD29",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Saxagliptin",
+    "atc_code": "A10BD25",
+    "drugbank_id": "DB06335"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BD24",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Saxagliptin",
+    "atc_code": "A10BD21",
+    "drugbank_id": "DB06335"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BD12",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Saxagliptin",
+    "atc_code": "A10BD10",
+    "drugbank_id": "DB06335"
+  },
+  {
+    "name": "Sitagliptin",
+    "atc_code": "A10BD07",
+    "drugbank_id": "DB01261"
+  },
+  {
+    "name": "Setmelanotide",
+    "atc_code": "A08AA12",
+    "drugbank_id": "DB11700"
+  },
+  {
+    "name": "Sibutramine",
+    "atc_code": "A08AA10",
+    "drugbank_id": "DB01105"
+  },
+  {
+    "name": "Sulfasalazine",
+    "atc_code": "A07EC01",
+    "drugbank_id": "DB00795"
+  },
+  {
+    "name": "Succinylsulfathiazole",
+    "atc_code": "A07AB04",
+    "drugbank_id": "DB13580"
+  },
+  {
+    "name": "Sulfaguanidine",
+    "atc_code": "A07AB03",
+    "drugbank_id": "DB13726"
+  },
+  {
+    "name": "Streptomycin",
+    "atc_code": "A07AA54",
+    "drugbank_id": "DB01082"
+  },
+  {
+    "name": "Streptomycin",
+    "atc_code": "A07AA04",
+    "drugbank_id": "DB01082"
+  },
+  {
+    "name": "Sodium lauryl sulfoacetate",
+    "atc_code": "A06AG11",
+    "drugbank_id": "DB13157"
+  },
+  {
+    "name": "Sorbitol",
+    "atc_code": "A06AG07",
+    "drugbank_id": "DB01638"
+  },
+  {
+    "name": "Sodium phosphate, monobasic",
+    "atc_code": "A06AG01",
+    "drugbank_id": "DB09449"
+  },
+  {
+    "name": "Sodium tartrate",
+    "atc_code": "A06AD21",
+    "drugbank_id": "DB13707"
+  },
+  {
+    "name": "Sorbitol",
+    "atc_code": "A06AD18",
+    "drugbank_id": "DB01638"
+  },
+  {
+    "name": "Sodium phosphate, monobasic",
+    "atc_code": "A06AD17",
+    "drugbank_id": "DB09449"
+  },
+  {
+    "name": "Sodium sulfate",
+    "atc_code": "A06AD13",
+    "drugbank_id": "DB09472"
+  },
+  {
+    "name": "Sennosides",
+    "atc_code": "A06AB56",
+    "drugbank_id": "DB11365"
+  },
+  {
+    "name": "Sennosides",
+    "atc_code": "A06AB06",
+    "drugbank_id": "DB11365"
+  },
+  {
+    "name": "Silibinin",
+    "atc_code": "A05BA03",
+    "drugbank_id": "DB09298"
+  },
+  {
+    "name": "Seladelpar",
+    "atc_code": "A05AX07",
+    "drugbank_id": "DB12390"
+  },
+  {
+    "name": "Scopolamine",
+    "atc_code": "A04AD51",
+    "drugbank_id": "DB00747"
+  },
+  {
+    "name": "Scopolamine",
+    "atc_code": "A04AD01",
+    "drugbank_id": "DB00747"
+  },
+  {
+    "name": "Sulglicotide",
+    "atc_code": "A02BX08",
+    "drugbank_id": "DB13299"
+  },
+  {
+    "name": "Sucralfate",
+    "atc_code": "A02BX02",
+    "drugbank_id": "DB00364"
+  },
+  {
+    "name": "Sodium fluoride",
+    "atc_code": "A01AA51",
+    "drugbank_id": "DB09325"
+  },
+  {
+    "name": "Stannous fluoride",
+    "atc_code": "A01AA04",
+    "drugbank_id": "DB11092"
+  },
+  {
+    "name": "Sodium fluorophosphate",
+    "atc_code": "A01AA02",
+    "drugbank_id": "DB09484"
+  },
+  {
+    "name": "Sodium fluoride",
+    "atc_code": "A01AA01",
+    "drugbank_id": "DB09325"
+  },
+  {
+    "name": "Sebetralstat",
+    "atc_code": "B06AC08",
+    "drugbank_id": "DB18305"
+  },
+  {
+    "name": "Streptokinase",
+    "atc_code": "B06AA55",
+    "drugbank_id": "DB00086"
+  },
+  {
+    "name": "Selenious acid",
+    "atc_code": "B05XA20",
+    "drugbank_id": "DB11127"
+  },
+  {
+    "name": "Sodium glycerophosphate",
+    "atc_code": "B05XA14",
+    "drugbank_id": "DB09561"
+  },
+  {
+    "name": "Sodium phosphate, monobasic",
+    "atc_code": "B05XA09",
+    "drugbank_id": "DB09449"
+  },
+  {
+    "name": "Sodium acetate",
+    "atc_code": "B05XA08",
+    "drugbank_id": "DB09395"
+  },
+  {
+    "name": "Sodium chloride",
+    "atc_code": "B05XA03",
+    "drugbank_id": "DB09153"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "atc_code": "B05XA02",
+    "drugbank_id": "DB01390"
+  },
+  {
+    "name": "Sorbitol",
+    "atc_code": "B05CX02",
+    "drugbank_id": "DB01638"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "atc_code": "B05CB04",
+    "drugbank_id": "DB01390"
+  },
+  {
+    "name": "Sodium citrate",
+    "atc_code": "B05CB02",
+    "drugbank_id": "DB09154"
+  },
+  {
+    "name": "Sodium chloride",
+    "atc_code": "B05CB01",
+    "drugbank_id": "DB09153"
+  },
+  {
+    "name": "Sulfamethizole",
+    "atc_code": "B05CA04",
+    "drugbank_id": "DB00576"
+  },
+  {
+    "name": "Sodium feredetate",
+    "atc_code": "B03AB03",
+    "drugbank_id": "DB13381"
+  },
+  {
+    "name": "Susoctocog alfa",
+    "atc_code": "B02BD14",
+    "drugbank_id": "DB11606"
+  },
+  {
+    "name": "Saruplase",
+    "atc_code": "B01AD08",
+    "drugbank_id": "DB13646"
+  },
+  {
+    "name": "Streptokinase",
+    "atc_code": "B01AD01",
+    "drugbank_id": "DB00086"
+  },
+  {
+    "name": "Selexipag",
+    "atc_code": "B01AC27",
+    "drugbank_id": "DB11362"
+  },
+  {
+    "name": "Sulodexide",
+    "atc_code": "B01AB11",
+    "drugbank_id": "DB06271"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "C10BX04",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "C10BX01",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "C10BA04",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "C10BA02",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Simfibrate",
+    "atc_code": "C10AB06",
+    "drugbank_id": "DB13433"
+  },
+  {
+    "name": "Simvastatin",
+    "atc_code": "C10AA01",
+    "drugbank_id": "DB00641"
+  },
+  {
+    "name": "Sparsentan",
+    "atc_code": "C09XX01",
+    "drugbank_id": "DB12548"
+  },
+  {
+    "name": "Sacubitril",
+    "atc_code": "C09DX04",
+    "drugbank_id": "DB09292"
+  },
+  {
+    "name": "Spirapril",
+    "atc_code": "C09AA11",
+    "drugbank_id": "DB01348"
+  },
+  {
+    "name": "Sotalol",
+    "atc_code": "C07FX02",
+    "drugbank_id": "DB00489"
+  },
+  {
+    "name": "Sotalol",
+    "atc_code": "C07BA07",
+    "drugbank_id": "DB00489"
+  },
+  {
+    "name": "Sotalol",
+    "atc_code": "C07AA07",
+    "drugbank_id": "DB00489"
+  },
+  {
+    "name": "Sodium tetradecyl sulfate",
+    "atc_code": "C05BB04",
+    "drugbank_id": "DB00464"
+  },
+  {
+    "name": "Sodium apolate",
+    "atc_code": "C05BA02",
+    "drugbank_id": "DB13477"
+  },
+  {
+    "name": "Suloctidil",
+    "atc_code": "C04AX19",
+    "drugbank_id": "DB13340"
+  },
+  {
+    "name": "Spironolactone",
+    "atc_code": "C03DA01",
+    "drugbank_id": "DB00421"
+  },
+  {
+    "name": "Syrosingopine",
+    "atc_code": "C02LA09",
+    "drugbank_id": "DB19379"
+  },
+  {
+    "name": "Sotatercept",
+    "atc_code": "C02KX06",
+    "drugbank_id": "DB12118"
+  },
+  {
+    "name": "Sitaxentan",
+    "atc_code": "C02KX03",
+    "drugbank_id": "DB06268"
+  },
+  {
+    "name": "Serelaxin",
+    "atc_code": "C01DX21",
+    "drugbank_id": "DB05794"
+  },
+  {
+    "name": "Synephrine",
+    "atc_code": "C01CA08",
+    "drugbank_id": "DB09203"
+  },
+  {
+    "name": "Sparteine",
+    "atc_code": "C01BA04",
+    "drugbank_id": "DB06727"
+  },
+  {
+    "name": "Sulfacetamide",
+    "atc_code": "D10AF06",
+    "drugbank_id": "DB00634"
+  },
+  {
+    "name": "Silver",
+    "atc_code": "D08AL30",
+    "drugbank_id": "DB12965"
+  },
+  {
+    "name": "Silver nitrate",
+    "atc_code": "D08AL01",
+    "drugbank_id": "DB11080"
+  },
+  {
+    "name": "Sinecatechins",
+    "atc_code": "D06BB12",
+    "drugbank_id": "DB01266"
+  },
+  {
+    "name": "Silver sulfadiazine",
+    "atc_code": "D06BA51",
+    "drugbank_id": "DB05245"
+  },
+  {
+    "name": "Sulfamerazine",
+    "atc_code": "D06BA06",
+    "drugbank_id": "DB01581"
+  },
+  {
+    "name": "Sulfanilamide",
+    "atc_code": "D06BA05",
+    "drugbank_id": "DB00259"
+  },
+  {
+    "name": "Sulfamethizole",
+    "atc_code": "D06BA04",
+    "drugbank_id": "DB00576"
+  },
+  {
+    "name": "Sulfathiazole",
+    "atc_code": "D06BA02",
+    "drugbank_id": "DB06147"
+  },
+  {
+    "name": "Silver sulfadiazine",
+    "atc_code": "D06BA01",
+    "drugbank_id": "DB05245"
+  },
+  {
+    "name": "Sodium chlorite",
+    "atc_code": "D03AX11",
+    "drugbank_id": "DB13210"
+  },
+  {
+    "name": "Selenium Sulfide",
+    "atc_code": "D01AE13",
+    "drugbank_id": "DB00971"
+  },
+  {
+    "name": "Salicylic acid",
+    "atc_code": "D01AE12",
+    "drugbank_id": "DB00936"
+  },
+  {
+    "name": "Sulbentine",
+    "atc_code": "D01AE09",
+    "drugbank_id": "DB13671"
+  },
+  {
+    "name": "Sertaconazole",
+    "atc_code": "D01AC14",
+    "drugbank_id": "DB01153"
+  },
+  {
+    "name": "Sulconazole",
+    "atc_code": "D01AC09",
+    "drugbank_id": "DB06820"
+  },
+  {
+    "name": "Solifenacin",
+    "atc_code": "G04CA53",
+    "drugbank_id": "DB01591"
+  },
+  {
+    "name": "Silodosin",
+    "atc_code": "G04CA04",
+    "drugbank_id": "DB06207"
+  },
+  {
+    "name": "Salicylic acid",
+    "atc_code": "G04BX17",
+    "drugbank_id": "DB00936"
+  },
+  {
+    "name": "Succinimide",
+    "atc_code": "G04BX10",
+    "drugbank_id": "DB13376"
+  },
+  {
+    "name": "Sildenafil",
+    "atc_code": "G04BE03",
+    "drugbank_id": "DB00203"
+  },
+  {
+    "name": "Solifenacin",
+    "atc_code": "G04BD08",
+    "drugbank_id": "DB01591"
+  },
+  {
+    "name": "Stanolone",
+    "atc_code": "G03BB02",
+    "drugbank_id": "DB02901"
+  },
+  {
+    "name": "Sulprostone",
+    "atc_code": "G02AD05",
+    "drugbank_id": "DB12708"
+  },
+  {
+    "name": "Sertaconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB01153"
+  },
+  {
+    "name": "Sertaconazole",
+    "atc_code": "G01AF19",
+    "drugbank_id": "DB01153"
+  },
+  {
+    "name": "Sulfametopyrazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00664"
+  },
+  {
+    "name": "Sulfamethizole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00576"
+  },
+  {
+    "name": "Sulfamethazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01582"
+  },
+  {
+    "name": "Sildenafil",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00203"
+  },
+  {
+    "name": "Sumatriptan",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00669"
+  },
+  {
+    "name": "Sulfasalazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00795"
+  },
+  {
+    "name": "Sulfanilamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00259"
+  },
+  {
+    "name": "Sulfisoxazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00263"
+  },
+  {
+    "name": "Sulfadoxine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01299"
+  },
+  {
+    "name": "Sulfathiazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06147"
+  },
+  {
+    "name": "Sulfamerazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01581"
+  },
+  {
+    "name": "Sulfacytine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01298"
+  },
+  {
+    "name": "Sulfadiazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00359"
+  },
+  {
+    "name": "Sulthiame",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB08329"
+  },
+  {
+    "name": "Sulfacetamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00634"
+  },
+  {
+    "name": "Silver sulfadiazine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB05245"
+  },
+  {
+    "name": "Sulfameter",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06821"
+  },
+  {
+    "name": "Sulfapyridine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00891"
+  },
+  {
+    "name": "Simeprevir",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06290"
+  },
+  {
+    "name": "Sulfadimethoxine",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06150"
+  },
+  {
+    "name": "Sulfamethoxazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01015"
+  },
+  {
+    "name": "Sulfaphenazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06729"
+  },
+  {
+    "name": "Sulfatolamide",
+    "atc_code": "G01AE01",
+    "drugbank_id": "DB13547"
+  },
+  {
+    "name": "Salmon calcitonin",
+    "atc_code": "H05BA01",
+    "drugbank_id": "DB00017"
+  },
+  {
+    "name": "Somatostatin",
+    "atc_code": "H01CB01",
+    "drugbank_id": "DB09099"
+  },
+  {
+    "name": "Somatrogon",
+    "atc_code": "H01AC08",
+    "drugbank_id": "DB14960"
+  },
+  {
+    "name": "Somapacitan",
+    "atc_code": "H01AC07",
+    "drugbank_id": "DB15093"
+  },
+  {
+    "name": "Sermorelin",
+    "atc_code": "H01AC04",
+    "drugbank_id": "DB00010"
+  },
+  {
+    "name": "Somatrem",
+    "atc_code": "H01AC02",
+    "drugbank_id": "DB09098"
+  },
+  {
+    "name": "Somatotropin",
+    "atc_code": "H01AC01",
+    "drugbank_id": "DB00052"
+  },
+  {
+    "name": "Sipavibart",
+    "atc_code": "J06BD09",
+    "drugbank_id": "DB21908"
+  },
+  {
+    "name": "Sotrovimab",
+    "atc_code": "J06BD05",
+    "drugbank_id": "DB16355"
+  },
+  {
+    "name": "Sofosbuvir",
+    "atc_code": "J05AP56",
+    "drugbank_id": "DB08934"
+  },
+  {
+    "name": "Sofosbuvir",
+    "atc_code": "J05AP55",
+    "drugbank_id": "DB08934"
+  },
+  {
+    "name": "Sofosbuvir",
+    "atc_code": "J05AP51",
+    "drugbank_id": "DB08934"
+  },
+  {
+    "name": "Sofosbuvir",
+    "atc_code": "J05AP08",
+    "drugbank_id": "DB08934"
+  },
+  {
+    "name": "Simeprevir",
+    "atc_code": "J05AP05",
+    "drugbank_id": "DB06290"
+  },
+  {
+    "name": "Stavudine",
+    "atc_code": "J05AR28",
+    "drugbank_id": "DB00649"
+  },
+  {
+    "name": "Stavudine",
+    "atc_code": "J05AR07",
+    "drugbank_id": "DB00649"
+  },
+  {
+    "name": "Stavudine",
+    "atc_code": "J05AF04",
+    "drugbank_id": "DB00649"
+  },
+  {
+    "name": "Saquinavir",
+    "atc_code": "J05AE01",
+    "drugbank_id": "DB01232"
+  },
+  {
+    "name": "Sulfamethoxazole",
+    "atc_code": "J04AM08",
+    "drugbank_id": "DB01015"
+  },
+  {
+    "name": "Streptomycin",
+    "atc_code": "J04AM01",
+    "drugbank_id": "DB01082"
+  },
+  {
+    "name": "Spectinomycin",
+    "atc_code": "J01XX04",
+    "drugbank_id": "DB00919"
+  },
+  {
+    "name": "Secnidazole",
+    "atc_code": "J01RA07",
+    "drugbank_id": "DB12834"
+  },
+  {
+    "name": "Spiramycin",
+    "atc_code": "J01RA04",
+    "drugbank_id": "DB06145"
+  },
+  {
+    "name": "Sitafloxacin",
+    "atc_code": "J01MA21",
+    "drugbank_id": "DB13261"
+  },
+  {
+    "name": "Sparfloxacin",
+    "atc_code": "J01MA09",
+    "drugbank_id": "DB01208"
+  },
+  {
+    "name": "Sisomicin",
+    "atc_code": "J01GB08",
+    "drugbank_id": "DB12604"
+  },
+  {
+    "name": "Streptomycin",
+    "atc_code": "J01GA01",
+    "drugbank_id": "DB01082"
+  },
+  {
+    "name": "Solithromycin",
+    "atc_code": "J01FA16",
+    "drugbank_id": "DB09308"
+  },
+  {
+    "name": "Spiramycin",
+    "atc_code": "J01FA02",
+    "drugbank_id": "DB06145"
+  },
+  {
+    "name": "Sulfamerazine",
+    "atc_code": "J01EE07",
+    "drugbank_id": "DB01581"
+  },
+  {
+    "name": "Sulfadiazine",
+    "atc_code": "J01EE06",
+    "drugbank_id": "DB00359"
+  },
+  {
+    "name": "Sulfamethazine",
+    "atc_code": "J01EE05",
+    "drugbank_id": "DB01582"
+  },
+  {
+    "name": "Sulfamoxole",
+    "atc_code": "J01EE04",
+    "drugbank_id": "DB08798"
+  },
+  {
+    "name": "Sulfametrole",
+    "atc_code": "J01EE03",
+    "drugbank_id": "DB15975"
+  },
+  {
+    "name": "Sulfadiazine",
+    "atc_code": "J01EE02",
+    "drugbank_id": "DB00359"
+  },
+  {
+    "name": "Sulfamethoxazole",
+    "atc_code": "J01EE01",
+    "drugbank_id": "DB01015"
+  },
+  {
+    "name": "Sulfamazone",
+    "atc_code": "J01ED09",
+    "drugbank_id": "DB13556"
+  },
+  {
+    "name": "Sulfaphenazole",
+    "atc_code": "J01ED08",
+    "drugbank_id": "DB06729"
+  },
+  {
+    "name": "Sulfamerazine",
+    "atc_code": "J01ED07",
+    "drugbank_id": "DB01581"
+  },
+  {
+    "name": "Sulfaperin",
+    "atc_code": "J01ED06",
+    "drugbank_id": "DB13320"
+  },
+  {
+    "name": "Sulfamethoxypyridazine",
+    "atc_code": "J01ED05",
+    "drugbank_id": "DB13773"
+  },
+  {
+    "name": "Sulfameter",
+    "atc_code": "J01ED04",
+    "drugbank_id": "DB06821"
+  },
+  {
+    "name": "Sulfametomidine",
+    "atc_code": "J01ED03",
+    "drugbank_id": "DB13485"
+  },
+  {
+    "name": "Sulfametopyrazine",
+    "atc_code": "J01ED02",
+    "drugbank_id": "DB00664"
+  },
+  {
+    "name": "Sulfadimethoxine",
+    "atc_code": "J01ED01",
+    "drugbank_id": "DB06150"
+  },
+  {
+    "name": "Sulfamoxole",
+    "atc_code": "J01EC03",
+    "drugbank_id": "DB08798"
+  },
+  {
+    "name": "Sulfadiazine",
+    "atc_code": "J01EC02",
+    "drugbank_id": "DB00359"
+  },
+  {
+    "name": "Sulfamethoxazole",
+    "atc_code": "J01EC01",
+    "drugbank_id": "DB01015"
+  },
+  {
+    "name": "Sulfathiourea",
+    "atc_code": "J01EB08",
+    "drugbank_id": "DB13699"
+  },
+  {
+    "name": "Sulfathiazole",
+    "atc_code": "J01EB07",
+    "drugbank_id": "DB06147"
+  },
+  {
+    "name": "Sulfanilamide",
+    "atc_code": "J01EB06",
+    "drugbank_id": "DB00259"
+  },
+  {
+    "name": "Sulfisoxazole",
+    "atc_code": "J01EB05",
+    "drugbank_id": "DB00263"
+  },
+  {
+    "name": "Sulfapyridine",
+    "atc_code": "J01EB04",
+    "drugbank_id": "DB00891"
+  },
+  {
+    "name": "Sulfamethazine",
+    "atc_code": "J01EB03",
+    "drugbank_id": "DB01582"
+  },
+  {
+    "name": "Sulfamethizole",
+    "atc_code": "J01EB02",
+    "drugbank_id": "DB00576"
+  },
+  {
+    "name": "Sulfaisodimidine",
+    "atc_code": "J01EB01",
+    "drugbank_id": "DB13283"
+  },
+  {
+    "name": "Sultamicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB12127"
+  },
+  {
+    "name": "Sultamicillin",
+    "atc_code": "J01CR04",
+    "drugbank_id": "DB12127"
+  },
+  {
+    "name": "Sulbactam",
+    "atc_code": "J01CG01",
+    "drugbank_id": "DB09324"
+  },
+  {
+    "name": "Sulbenicillin",
+    "atc_code": "J01CA16",
+    "drugbank_id": "DB13693"
+  },
+  {
+    "name": "Sarecycline",
+    "atc_code": "J01AA14",
+    "drugbank_id": "DB12035"
+  },
+  {
+    "name": "Sarecycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB12035"
+  },
+  {
+    "name": "Sutimlimab",
+    "atc_code": "L04AJ04",
+    "drugbank_id": "DB14996"
+  },
+  {
+    "name": "Sirolimus",
+    "atc_code": "L04AH01",
+    "drugbank_id": "DB00877"
+  },
+  {
+    "name": "Siponimod",
+    "atc_code": "L04AE03",
+    "drugbank_id": "DB12371"
+  },
+  {
+    "name": "Spesolimab",
+    "atc_code": "L04AC22",
+    "drugbank_id": "DB15626"
+  },
+  {
+    "name": "Satralizumab",
+    "atc_code": "L04AC19",
+    "drugbank_id": "DB15762"
+  },
+  {
+    "name": "Sirukumab",
+    "atc_code": "L04AC15",
+    "drugbank_id": "DB11803"
+  },
+  {
+    "name": "Sarilumab",
+    "atc_code": "L04AC14",
+    "drugbank_id": "DB11767"
+  },
+  {
+    "name": "Siltuximab",
+    "atc_code": "L04AC11",
+    "drugbank_id": "DB09036"
+  },
+  {
+    "name": "Secukinumab",
+    "atc_code": "L04AC10",
+    "drugbank_id": "DB09029"
+  },
+  {
+    "name": "Sipuleucel-T",
+    "atc_code": "L03AX17",
+    "drugbank_id": "DB06688"
+  },
+  {
+    "name": "Sargramostim",
+    "atc_code": "L03AA09",
+    "drugbank_id": "DB00020"
+  },
+  {
+    "name": "Sabatolimab",
+    "atc_code": "L01FX19",
+    "drugbank_id": "DB16322"
+  },
+  {
+    "name": "Sacituzumab govitecan",
+    "atc_code": "L01FX17",
+    "drugbank_id": "DB12893"
+  },
+  {
+    "name": "Serplulimab",
+    "atc_code": "L01FF12",
+    "drugbank_id": "DB17451"
+  },
+  {
+    "name": "Sugemalimab",
+    "atc_code": "L01FF11",
+    "drugbank_id": "DB16641"
+  },
+  {
+    "name": "Sitravatinib",
+    "atc_code": "L01EX26",
+    "drugbank_id": "DB15036"
+  },
+  {
+    "name": "Surufatinib",
+    "atc_code": "L01EX24",
+    "drugbank_id": "DB15106"
+  },
+  {
+    "name": "Selpercatinib",
+    "atc_code": "L01EX22",
+    "drugbank_id": "DB15685"
+  },
+  {
+    "name": "Sorafenib",
+    "atc_code": "L01EX02",
+    "drugbank_id": "DB00398"
+  },
+  {
+    "name": "Sunitinib",
+    "atc_code": "L01EX01",
+    "drugbank_id": "DB01268"
+  },
+  {
+    "name": "Sirolimus",
+    "atc_code": "L01EG04",
+    "drugbank_id": "DB00877"
+  },
+  {
+    "name": "Selumetinib",
+    "atc_code": "L01EE04",
+    "drugbank_id": "DB11689"
+  },
+  {
+    "name": "Sitimagene ceradenovec",
+    "atc_code": "L01XL01",
+    "drugbank_id": "DB04907"
+  },
+  {
+    "name": "Sonidegib",
+    "atc_code": "L01XJ02",
+    "drugbank_id": "DB09143"
+  },
+  {
+    "name": "Sotorasib",
+    "atc_code": "L01XX73",
+    "drugbank_id": "DB15569"
+  },
+  {
+    "name": "Selinexor",
+    "atc_code": "L01XX66",
+    "drugbank_id": "DB11942"
+  },
+  {
+    "name": "Satraplatin",
+    "atc_code": "L01XA04",
+    "drugbank_id": "DB04996"
+  },
+  {
+    "name": "Streptozocin",
+    "atc_code": "L01AD04",
+    "drugbank_id": "DB00428"
+  },
+  {
+    "name": "Semustine",
+    "atc_code": "L01AD03",
+    "drugbank_id": "DB13647"
+  },
+  {
+    "name": "Strontium ranelate",
+    "atc_code": "M05BX53",
+    "drugbank_id": "DB09267"
+  },
+  {
+    "name": "Strontium ranelate",
+    "atc_code": "M05BX03",
+    "drugbank_id": "DB09267"
+  },
+  {
+    "name": "Sulfinpyrazone",
+    "atc_code": "M04AB02",
+    "drugbank_id": "DB01138"
+  },
+  {
+    "name": "Styramate",
+    "atc_code": "M03BA04",
+    "drugbank_id": "DB13357"
+  },
+  {
+    "name": "Succinylcholine",
+    "atc_code": "M03AB01",
+    "drugbank_id": "DB00202"
+  },
+  {
+    "name": "Suxibuzone",
+    "atc_code": "M02AA22",
+    "drugbank_id": "DB13232"
+  },
+  {
+    "name": "Sodium aurotiosulfate",
+    "atc_code": "M01CB02",
+    "drugbank_id": "DB13743"
+  },
+  {
+    "name": "Sodium aurothiomalate",
+    "atc_code": "M01CB01",
+    "drugbank_id": "DB09276"
+  },
+  {
+    "name": "Suprofen",
+    "atc_code": "M01AE07",
+    "drugbank_id": "DB00870"
+  },
+  {
+    "name": "Sulindac",
+    "atc_code": "M01AB02",
+    "drugbank_id": "DB00605"
+  },
+  {
+    "name": "Sodium oxybate",
+    "atc_code": "N07XX04",
+    "drugbank_id": "DB09072"
+  },
+  {
+    "name": "Serdexmethylphenidate",
+    "atc_code": "N06BA15",
+    "drugbank_id": "DB16629"
+  },
+  {
+    "name": "Solriamfetol",
+    "atc_code": "N06BA14",
+    "drugbank_id": "DB14754"
+  },
+  {
+    "name": "St. John's Wort",
+    "atc_code": "N06AX25",
+    "drugbank_id": "DB01323"
+  },
+  {
+    "name": "Sertraline",
+    "atc_code": "N06AB06",
+    "drugbank_id": "DB01104"
+  },
+  {
+    "name": "Suvorexant",
+    "atc_code": "N05CJ01",
+    "drugbank_id": "DB09034"
+  },
+  {
+    "name": "Scopolamine",
+    "atc_code": "N05CM05",
+    "drugbank_id": "DB00747"
+  },
+  {
+    "name": "Secobarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00418"
+  },
+  {
+    "name": "Secobarbital",
+    "atc_code": "N05CA06",
+    "drugbank_id": "DB00418"
+  },
+  {
+    "name": "Sultopride",
+    "atc_code": "N05AL02",
+    "drugbank_id": "DB13273"
+  },
+  {
+    "name": "Sulpiride",
+    "atc_code": "N05AL01",
+    "drugbank_id": "DB00391"
+  },
+  {
+    "name": "Samidorphan",
+    "atc_code": "N05AH53",
+    "drugbank_id": "DB12543"
+  },
+  {
+    "name": "Sertindole",
+    "atc_code": "N05AE03",
+    "drugbank_id": "DB06144"
+  },
+  {
+    "name": "Safinamide",
+    "atc_code": "N04BD03",
+    "drugbank_id": "DB06654"
+  },
+  {
+    "name": "Selegiline",
+    "atc_code": "N04BD01",
+    "drugbank_id": "DB01037"
+  },
+  {
+    "name": "Stiripentol",
+    "atc_code": "N03AX17",
+    "drugbank_id": "DB09118"
+  },
+  {
+    "name": "Sulthiame",
+    "atc_code": "N03AX03",
+    "drugbank_id": "DB08329"
+  },
+  {
+    "name": "Sumatriptan",
+    "atc_code": "N02CC51",
+    "drugbank_id": "DB00669"
+  },
+  {
+    "name": "Sumatriptan",
+    "atc_code": "N02CC01",
+    "drugbank_id": "DB00669"
+  },
+  {
+    "name": "Salicylamide",
+    "atc_code": "N02BA75",
+    "drugbank_id": "DB08797"
+  },
+  {
+    "name": "Salicylamide",
+    "atc_code": "N02BA55",
+    "drugbank_id": "DB08797"
+  },
+  {
+    "name": "Salicylic acid",
+    "atc_code": "N02BA12",
+    "drugbank_id": "DB00936"
+  },
+  {
+    "name": "Salsalate",
+    "atc_code": "N02BA06",
+    "drugbank_id": "DB01399"
+  },
+  {
+    "name": "Salicylamide",
+    "atc_code": "N02BA05",
+    "drugbank_id": "DB08797"
+  },
+  {
+    "name": "Salicylic acid",
+    "atc_code": "N02BA04",
+    "drugbank_id": "DB00936"
+  },
+  {
+    "name": "Sodium oxybate",
+    "atc_code": "N01AX11",
+    "drugbank_id": "DB09072"
+  },
+  {
+    "name": "Sufentanil",
+    "atc_code": "N01AH03",
+    "drugbank_id": "DB00708"
+  },
+  {
+    "name": "Sevoflurane",
+    "atc_code": "N01AB08",
+    "drugbank_id": "DB01236"
+  },
+  {
+    "name": "Stibophen",
+    "atc_code": "P02BX03",
+    "drugbank_id": "DB13236"
+  },
+  {
+    "name": "Suramin",
+    "atc_code": "P01CX02",
+    "drugbank_id": "DB04786"
+  },
+  {
+    "name": "Sodium stibogluconate",
+    "atc_code": "P01CB02",
+    "drugbank_id": "DB05630"
+  },
+  {
+    "name": "Sulfadoxine",
+    "atc_code": "P01BF09",
+    "drugbank_id": "DB01299"
+  },
+  {
+    "name": "Sulfametopyrazine",
+    "atc_code": "P01BF04",
+    "drugbank_id": "DB00664"
+  },
+  {
+    "name": "Secnidazole",
+    "atc_code": "P01AB07",
+    "drugbank_id": "DB12834"
+  },
+  {
+    "name": "Sequifenadine",
+    "atc_code": "R06AX32",
+    "drugbank_id": "DB13566"
+  },
+  {
+    "name": "Stepronin",
+    "atc_code": "R05CB11",
+    "drugbank_id": "DB01423"
+  },
+  {
+    "name": "Sobrerol",
+    "atc_code": "R05CB07",
+    "drugbank_id": "DB13315"
+  },
+  {
+    "name": "Seratrodast",
+    "atc_code": "R03DX06",
+    "drugbank_id": "DB06739"
+  },
+  {
+    "name": "Salmeterol",
+    "atc_code": "R03AK12",
+    "drugbank_id": "DB00938"
+  },
+  {
+    "name": "Salmeterol",
+    "atc_code": "R03AK06",
+    "drugbank_id": "DB00938"
+  },
+  {
+    "name": "Salmeterol",
+    "atc_code": "R03AC12",
+    "drugbank_id": "DB00938"
+  },
+  {
+    "name": "Spaglumic acid",
+    "atc_code": "R01AC05",
+    "drugbank_id": "DB08835"
+  },
+  {
+    "name": "Sepofarsen",
+    "atc_code": "S01XA29",
+    "drugbank_id": "DB16327"
+  },
+  {
+    "name": "Sirolimus",
+    "atc_code": "S01XA23",
+    "drugbank_id": "DB00877"
+  },
+  {
+    "name": "Spaglumic acid",
+    "atc_code": "S01GX03",
+    "drugbank_id": "DB08835"
+  },
+  {
+    "name": "Synephrine",
+    "atc_code": "S01GA56",
+    "drugbank_id": "DB09203"
+  },
+  {
+    "name": "Synephrine",
+    "atc_code": "S01GA06",
+    "drugbank_id": "DB09203"
+  },
+  {
+    "name": "Scopolamine",
+    "atc_code": "S01FA02",
+    "drugbank_id": "DB00747"
+  },
+  {
+    "name": "Salicylic acid",
+    "atc_code": "S01BC08",
+    "drugbank_id": "DB00936"
+  },
+  {
+    "name": "Sodium borate",
+    "atc_code": "S01AX07",
+    "drugbank_id": "DB14505"
+  },
+  {
+    "name": "Sulfaphenazole",
+    "atc_code": "S01AB05",
+    "drugbank_id": "DB06729"
+  },
+  {
+    "name": "Sulfacetamide",
+    "atc_code": "S01AB04",
+    "drugbank_id": "DB00634"
+  },
+  {
+    "name": "Sulfadicramide",
+    "atc_code": "S01AB03",
+    "drugbank_id": "DB13214"
+  },
+  {
+    "name": "Sulfisoxazole",
+    "atc_code": "S01AB02",
+    "drugbank_id": "DB00263"
+  },
+  {
+    "name": "Sulfamethizole",
+    "atc_code": "S01AB01",
+    "drugbank_id": "DB00576"
+  },
+  {
+    "name": "Sodium phosphate P 32",
+    "atc_code": "V10XX01",
+    "drugbank_id": "DB09370"
+  },
+  {
+    "name": "Samarium (153Sm) lexidronam",
+    "atc_code": "V10BX02",
+    "drugbank_id": "DB05273"
+  },
+  {
+    "name": "Strontium chloride Sr-89",
+    "atc_code": "V10BX01",
+    "drugbank_id": "DB09498"
+  },
+  {
+    "name": "Sulesomab",
+    "atc_code": "V09HA04",
+    "drugbank_id": "DB13976"
+  },
+  {
+    "name": "Secretin human",
+    "atc_code": "V04CK01",
+    "drugbank_id": "DB09532"
+  },
+  {
+    "name": "Sulfobromophthalein",
+    "atc_code": "V04CE02",
+    "drugbank_id": "DB13215"
+  },
+  {
+    "name": "Somatorelin",
+    "atc_code": "V04CD05",
+    "drugbank_id": "DB12656"
+  },
+  {
+    "name": "Sermorelin",
+    "atc_code": "V04CD03",
+    "drugbank_id": "DB00010"
+  },
+  {
+    "name": "Sincalide",
+    "atc_code": "V04CC03",
+    "drugbank_id": "DB09142"
+  },
+  {
+    "name": "Sorbitol",
+    "atc_code": "V04CC01",
+    "drugbank_id": "DB01638"
+  },
+  {
+    "name": "Sodium phosphate, monobasic",
+    "atc_code": "V03AG05",
+    "drugbank_id": "DB09449"
+  },
+  {
+    "name": "Sodium cellulose phosphate",
+    "atc_code": "V03AG01",
+    "drugbank_id": "DB06776"
+  },
+  {
+    "name": "Sodium zirconium cyclosilicate",
+    "atc_code": "V03AE10",
+    "drugbank_id": "DB14048"
+  },
+  {
+    "name": "Sevelamer",
+    "atc_code": "V03AE02",
+    "drugbank_id": "DB00658"
+  },
+  {
+    "name": "Sugammadex",
+    "atc_code": "V03AB35",
+    "drugbank_id": "DB06206"
+  }
+]

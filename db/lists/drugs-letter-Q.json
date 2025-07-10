@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Quinbolone",
+    "atc_code": "A14AA06",
+    "drugbank_id": "DB13484"
+  },
+  {
+    "name": "Quinapril",
+    "atc_code": "C09BA06",
+    "drugbank_id": "DB00881"
+  },
+  {
+    "name": "Quinapril",
+    "atc_code": "C09AA06",
+    "drugbank_id": "DB00881"
+  },
+  {
+    "name": "Quinethazone",
+    "atc_code": "C03BB02",
+    "drugbank_id": "DB01325"
+  },
+  {
+    "name": "Quinethazone",
+    "atc_code": "C03BA02",
+    "drugbank_id": "DB01325"
+  },
+  {
+    "name": "Quinidine",
+    "atc_code": "C01BA71",
+    "drugbank_id": "DB00908"
+  },
+  {
+    "name": "Quinidine",
+    "atc_code": "C01BA51",
+    "drugbank_id": "DB00908"
+  },
+  {
+    "name": "Quinidine",
+    "atc_code": "C01BA01",
+    "drugbank_id": "DB00908"
+  },
+  {
+    "name": "Quinisocaine",
+    "atc_code": "D04AB05",
+    "drugbank_id": "DB13683"
+  },
+  {
+    "name": "Quingestanol",
+    "atc_code": "G03AC04",
+    "drugbank_id": "DB13685"
+  },
+  {
+    "name": "Quingestanol",
+    "atc_code": "G03AA02",
+    "drugbank_id": "DB13685"
+  },
+  {
+    "name": "Quinagolide",
+    "atc_code": "G02CB04",
+    "drugbank_id": "DB09097"
+  },
+  {
+    "name": "Quinethazone",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01325"
+  },
+  {
+    "name": "Quizartinib",
+    "atc_code": "L01EX11",
+    "drugbank_id": "DB12874"
+  },
+  {
+    "name": "Quinine",
+    "atc_code": "M09AA72",
+    "drugbank_id": "DB00468"
+  },
+  {
+    "name": "Quinupramine",
+    "atc_code": "N06AA23",
+    "drugbank_id": "DB13246"
+  },
+  {
+    "name": "Quazepam",
+    "atc_code": "N05CD10",
+    "drugbank_id": "DB01589"
+  },
+  {
+    "name": "Quetiapine",
+    "atc_code": "N05AH04",
+    "drugbank_id": "DB01224"
+  },
+  {
+    "name": "Quassia",
+    "atc_code": "P03AX04",
+    "drugbank_id": "DB13263"
+  },
+  {
+    "name": "Quinine",
+    "atc_code": "P01BC01",
+    "drugbank_id": "DB00468"
+  },
+  {
+    "name": "Quinacrine",
+    "atc_code": "P01AX05",
+    "drugbank_id": "DB01103"
+  },
+  {
+    "name": "Quifenadine",
+    "atc_code": "R06AX31",
+    "drugbank_id": "DB13713"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Uridine triacetate",
+    "atc_code": "A16AX13",
+    "drugbank_id": "DB09144"
+  },
+  {
+    "name": "Ursodeoxycholic acid",
+    "atc_code": "A05AA02",
+    "drugbank_id": "DB01586"
+  },
+  {
+    "name": "Urea",
+    "atc_code": "B05BC02",
+    "drugbank_id": "DB03904"
+  },
+  {
+    "name": "Ulinastatin",
+    "atc_code": "B02AB05",
+    "drugbank_id": "DB12038"
+  },
+  {
+    "name": "Urokinase",
+    "atc_code": "B01AD04",
+    "drugbank_id": "DB00013"
+  },
+  {
+    "name": "Urapidil",
+    "atc_code": "C02CA06",
+    "drugbank_id": "DB12661"
+  },
+  {
+    "name": "Ubidecarenone",
+    "atc_code": "C01EB09",
+    "drugbank_id": "DB09270"
+  },
+  {
+    "name": "Ulobetasol",
+    "atc_code": "D07AC21",
+    "drugbank_id": "DB00596"
+  },
+  {
+    "name": "Ulobetasol",
+    "atc_code": "D05AX55",
+    "drugbank_id": "DB00596"
+  },
+  {
+    "name": "Urea",
+    "atc_code": "D02AE51",
+    "drugbank_id": "DB03904"
+  },
+  {
+    "name": "Urea",
+    "atc_code": "D02AE01",
+    "drugbank_id": "DB03904"
+  },
+  {
+    "name": "Undecylenic acid",
+    "atc_code": "D01AE54",
+    "drugbank_id": "DB11117"
+  },
+  {
+    "name": "Undecylenic acid",
+    "atc_code": "D01AE04",
+    "drugbank_id": "DB11117"
+  },
+  {
+    "name": "Udenafil",
+    "atc_code": "G04BE11",
+    "drugbank_id": "DB06267"
+  },
+  {
+    "name": "Ulipristal",
+    "atc_code": "G03XB02",
+    "drugbank_id": "DB08867"
+  },
+  {
+    "name": "Urofollitropin",
+    "atc_code": "G03GA04",
+    "drugbank_id": "DB00094"
+  },
+  {
+    "name": "Ulipristal",
+    "atc_code": "G03AD02",
+    "drugbank_id": "DB08867"
+  },
+  {
+    "name": "Udenafil",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB06267"
+  },
+  {
+    "name": "Umifenovir",
+    "atc_code": "J05AX13",
+    "drugbank_id": "DB13609"
+  },
+  {
+    "name": "Ublituximab",
+    "atc_code": "L04AG14",
+    "drugbank_id": "DB11850"
+  },
+  {
+    "name": "Upadacitinib",
+    "atc_code": "L04AF03",
+    "drugbank_id": "DB15091"
+  },
+  {
+    "name": "Ustekinumab",
+    "atc_code": "L04AC05",
+    "drugbank_id": "DB05679"
+  },
+  {
+    "name": "Umbralisib",
+    "atc_code": "L01EX25",
+    "drugbank_id": "DB14989"
+  },
+  {
+    "name": "Utidelone",
+    "atc_code": "L01DC05",
+    "drugbank_id": "DB17575"
+  },
+  {
+    "name": "Uracil mustard",
+    "atc_code": "L01AD08",
+    "drugbank_id": "DB00791"
+  },
+  {
+    "name": "Ubrogepant",
+    "atc_code": "N02CD04",
+    "drugbank_id": "DB15328"
+  },
+  {
+    "name": "Umeclidinium",
+    "atc_code": "R03BB07",
+    "drugbank_id": "DB09076"
+  },
+  {
+    "name": "Umeclidinium",
+    "atc_code": "R03AL08",
+    "drugbank_id": "DB09076"
+  },
+  {
+    "name": "Umeclidinium",
+    "atc_code": "R03AL03",
+    "drugbank_id": "DB09076"
+  },
+  {
+    "name": "Unoprostone",
+    "atc_code": "S01EE02",
+    "drugbank_id": "DB06826"
+  },
+  {
+    "name": "Urea C-13",
+    "atc_code": "V04CX05",
+    "drugbank_id": "DB09510"
+  }
+]

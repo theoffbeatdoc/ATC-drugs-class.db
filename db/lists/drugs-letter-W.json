@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Warfarin",
+    "atc_code": "B01AA03",
+    "drugbank_id": "DB00682"
+  },
+  {
+    "name": "Wood creosote",
+    "atc_code": "R05CA08",
+    "drugbank_id": "DB13271"
+  }
+]

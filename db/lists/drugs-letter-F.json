@@ -1,0 +1,1412 @@
+[
+  {
+    "name": "Fosdenopterin",
+    "atc_code": "A16AX19",
+    "drugbank_id": "DB16628"
+  },
+  {
+    "name": "Fenfluramine",
+    "atc_code": "A08AA02",
+    "drugbank_id": "DB00574"
+  },
+  {
+    "name": "Fidaxomicin",
+    "atc_code": "A07AA12",
+    "drugbank_id": "DB08874"
+  },
+  {
+    "name": "Fentonium",
+    "atc_code": "A03BB04",
+    "drugbank_id": "DB08978"
+  },
+  {
+    "name": "Fenoverine",
+    "atc_code": "A03AX05",
+    "drugbank_id": "DB13042"
+  },
+  {
+    "name": "Fenpiprane",
+    "atc_code": "A03AX01",
+    "drugbank_id": "DB13439"
+  },
+  {
+    "name": "Fenpiverinium",
+    "atc_code": "A03AB21",
+    "drugbank_id": "DB13759"
+  },
+  {
+    "name": "Famotidine",
+    "atc_code": "A02BA53",
+    "drugbank_id": "DB00927"
+  },
+  {
+    "name": "Famotidine",
+    "atc_code": "A02BA03",
+    "drugbank_id": "DB00927"
+  },
+  {
+    "name": "Fibrinolysin",
+    "atc_code": "B06AA02",
+    "drugbank_id": "DB05254"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03BB51",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03BB01",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AE02",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AE01",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AD05",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Ferrous gluconate",
+    "atc_code": "B03AD05",
+    "drugbank_id": "DB14488"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AD04",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AD03",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AD02",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Ferrous fumarate",
+    "atc_code": "B03AD02",
+    "drugbank_id": "DB14491"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "B03AD01",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Ferric maltol",
+    "atc_code": "B03AB10",
+    "drugbank_id": "DB15598"
+  },
+  {
+    "name": "Ferric hydroxide",
+    "atc_code": "B03AB04",
+    "drugbank_id": "DB13423"
+  },
+  {
+    "name": "Ferric sodium citrate",
+    "atc_code": "B03AB01",
+    "drugbank_id": "DB13771"
+  },
+  {
+    "name": "Ferrous ascorbate",
+    "atc_code": "B03AA10",
+    "drugbank_id": "DB14490"
+  },
+  {
+    "name": "Ferrous aspartate",
+    "atc_code": "B03AA09",
+    "drugbank_id": "DB13220"
+  },
+  {
+    "name": "Ferrous tartrate",
+    "atc_code": "B03AA08",
+    "drugbank_id": "DB13639"
+  },
+  {
+    "name": "Ferrous succinate",
+    "atc_code": "B03AA06",
+    "drugbank_id": "DB14489"
+  },
+  {
+    "name": "Ferrous chloride",
+    "atc_code": "B03AA05",
+    "drugbank_id": "DB13569"
+  },
+  {
+    "name": "Ferrous carbonate",
+    "atc_code": "B03AA04",
+    "drugbank_id": "DB13698"
+  },
+  {
+    "name": "Ferrous gluconate",
+    "atc_code": "B03AA03",
+    "drugbank_id": "DB14488"
+  },
+  {
+    "name": "Ferrous fumarate",
+    "atc_code": "B03AA02",
+    "drugbank_id": "DB14491"
+  },
+  {
+    "name": "Ferrous glycine sulfate",
+    "atc_code": "B03AA01",
+    "drugbank_id": "DB14501"
+  },
+  {
+    "name": "Fostamatinib",
+    "atc_code": "B02BX09",
+    "drugbank_id": "DB12010"
+  },
+  {
+    "name": "Fidanacogene elaparvovec",
+    "atc_code": "B02BD17",
+    "drugbank_id": "DB16783"
+  },
+  {
+    "name": "Fibrinogen human",
+    "atc_code": "B02BB01",
+    "drugbank_id": "DB09222"
+  },
+  {
+    "name": "Fondaparinux",
+    "atc_code": "B01AX05",
+    "drugbank_id": "DB00569"
+  },
+  {
+    "name": "Fibrinolysin",
+    "atc_code": "B01AD05",
+    "drugbank_id": "DB05254"
+  },
+  {
+    "name": "Fluindione",
+    "atc_code": "B01AA12",
+    "drugbank_id": "DB13136"
+  },
+  {
+    "name": "Fimasartan",
+    "atc_code": "C10BX16",
+    "drugbank_id": "DB09279"
+  },
+  {
+    "name": "Fenofibrate",
+    "atc_code": "C10BA12",
+    "drugbank_id": "DB01039"
+  },
+  {
+    "name": "Fenofibrate",
+    "atc_code": "C10BA09",
+    "drugbank_id": "DB01039"
+  },
+  {
+    "name": "Fenofibrate",
+    "atc_code": "C10BA04",
+    "drugbank_id": "DB01039"
+  },
+  {
+    "name": "Fenofibrate",
+    "atc_code": "C10BA03",
+    "drugbank_id": "DB01039"
+  },
+  {
+    "name": "Fenofibric acid",
+    "atc_code": "C10AB11",
+    "drugbank_id": "DB13873"
+  },
+  {
+    "name": "Fenofibrate",
+    "atc_code": "C10AB05",
+    "drugbank_id": "DB01039"
+  },
+  {
+    "name": "Fluvastatin",
+    "atc_code": "C10AA04",
+    "drugbank_id": "DB01095"
+  },
+  {
+    "name": "Fimasartan",
+    "atc_code": "C09DB09",
+    "drugbank_id": "DB09279"
+  },
+  {
+    "name": "Fimasartan",
+    "atc_code": "C09DA10",
+    "drugbank_id": "DB09279"
+  },
+  {
+    "name": "Fimasartan",
+    "atc_code": "C09CA10",
+    "drugbank_id": "DB09279"
+  },
+  {
+    "name": "Felodipine",
+    "atc_code": "C09BB05",
+    "drugbank_id": "DB01023"
+  },
+  {
+    "name": "Fosinopril",
+    "atc_code": "C09BA09",
+    "drugbank_id": "DB00492"
+  },
+  {
+    "name": "Fosinopril",
+    "atc_code": "C09AA09",
+    "drugbank_id": "DB00492"
+  },
+  {
+    "name": "Fendiline",
+    "atc_code": "C08EA01",
+    "drugbank_id": "DB08980"
+  },
+  {
+    "name": "Felodipine",
+    "atc_code": "C08CA02",
+    "drugbank_id": "DB01023"
+  },
+  {
+    "name": "Felodipine",
+    "atc_code": "C07FB02",
+    "drugbank_id": "DB01023"
+  },
+  {
+    "name": "Fluocinonide",
+    "atc_code": "C05AA11",
+    "drugbank_id": "DB01047"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "C05AA10",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "C05AA08",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "C05AA06",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fasudil",
+    "atc_code": "C04AX32",
+    "drugbank_id": "DB08162"
+  },
+  {
+    "name": "Furosemide",
+    "atc_code": "C03EB01",
+    "drugbank_id": "DB00695"
+  },
+  {
+    "name": "Finerenone",
+    "atc_code": "C03DA05",
+    "drugbank_id": "DB16165"
+  },
+  {
+    "name": "Furosemide",
+    "atc_code": "C03CB01",
+    "drugbank_id": "DB00695"
+  },
+  {
+    "name": "Furosemide",
+    "atc_code": "C03CA01",
+    "drugbank_id": "DB00695"
+  },
+  {
+    "name": "Fenquizone",
+    "atc_code": "C03BA13",
+    "drugbank_id": "DB13708"
+  },
+  {
+    "name": "Fosfructose",
+    "atc_code": "C01EB07",
+    "drugbank_id": "DB13863"
+  },
+  {
+    "name": "Flosequinan",
+    "atc_code": "C01DB01",
+    "drugbank_id": "DB13228"
+  },
+  {
+    "name": "Fenoldopam",
+    "atc_code": "C01CA19",
+    "drugbank_id": "DB00800"
+  },
+  {
+    "name": "Flecainide",
+    "atc_code": "C01BC04",
+    "drugbank_id": "DB01195"
+  },
+  {
+    "name": "Finasteride",
+    "atc_code": "D11AX10",
+    "drugbank_id": "DB01216"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "D10AA01",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fusidic acid",
+    "atc_code": "D09AA02",
+    "drugbank_id": "DB02703"
+  },
+  {
+    "name": "Framycetin",
+    "atc_code": "D09AA01",
+    "drugbank_id": "DB00452"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "D07XC05",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "D07XB04",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fluprednidene",
+    "atc_code": "D07XB03",
+    "drugbank_id": "DB08970"
+  },
+  {
+    "name": "Flumethasone",
+    "atc_code": "D07XB01",
+    "drugbank_id": "DB00663"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "D07CC06",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fluocinonide",
+    "atc_code": "D07CC05",
+    "drugbank_id": "DB01047"
+  },
+  {
+    "name": "Flurandrenolide",
+    "atc_code": "D07CC03",
+    "drugbank_id": "DB00846"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "D07CC02",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Flumethasone",
+    "atc_code": "D07CB05",
+    "drugbank_id": "DB00663"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "D07CB03",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fluprednidene",
+    "atc_code": "D07CB02",
+    "drugbank_id": "DB08970"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "D07BC03",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "D07BC02",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Flumethasone",
+    "atc_code": "D07BB01",
+    "drugbank_id": "DB00663"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "D07AC17",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Fluocinonide",
+    "atc_code": "D07AC08",
+    "drugbank_id": "DB01047"
+  },
+  {
+    "name": "Flurandrenolide",
+    "atc_code": "D07AC07",
+    "drugbank_id": "DB00846"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "D07AC05",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "D07AC04",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Fluclorolone",
+    "atc_code": "D07AC02",
+    "drugbank_id": "DB13856"
+  },
+  {
+    "name": "Fluprednidene",
+    "atc_code": "D07AB07",
+    "drugbank_id": "DB08970"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "D07AB06",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fluperolone",
+    "atc_code": "D07AB05",
+    "drugbank_id": "DB13491"
+  },
+  {
+    "name": "Fluocortin",
+    "atc_code": "D07AB04",
+    "drugbank_id": "DB13223"
+  },
+  {
+    "name": "Flumethasone",
+    "atc_code": "D07AB03",
+    "drugbank_id": "DB00663"
+  },
+  {
+    "name": "Fusidic acid",
+    "atc_code": "D06AX01",
+    "drugbank_id": "DB02703"
+  },
+  {
+    "name": "Fumaric acid",
+    "atc_code": "D05AX01",
+    "drugbank_id": "DB01677"
+  },
+  {
+    "name": "Fosravuconazole",
+    "atc_code": "D01BA03",
+    "drugbank_id": "DB15204"
+  },
+  {
+    "name": "Flucytosine",
+    "atc_code": "D01AE21",
+    "drugbank_id": "DB01099"
+  },
+  {
+    "name": "Flutrimazole",
+    "atc_code": "D01AC16",
+    "drugbank_id": "DB13425"
+  },
+  {
+    "name": "Fluconazole",
+    "atc_code": "D01AC15",
+    "drugbank_id": "DB00196"
+  },
+  {
+    "name": "Fenticonazole",
+    "atc_code": "D01AC12",
+    "drugbank_id": "DB13434"
+  },
+  {
+    "name": "Finasteride",
+    "atc_code": "G04CB51",
+    "drugbank_id": "DB01216"
+  },
+  {
+    "name": "Finasteride",
+    "atc_code": "G04CB01",
+    "drugbank_id": "DB01216"
+  },
+  {
+    "name": "Finasteride",
+    "atc_code": "G04CA55",
+    "drugbank_id": "DB01216"
+  },
+  {
+    "name": "Finasteride",
+    "atc_code": "G04CA51",
+    "drugbank_id": "DB01216"
+  },
+  {
+    "name": "Fesoterodine",
+    "atc_code": "G04BD11",
+    "drugbank_id": "DB06702"
+  },
+  {
+    "name": "Flavoxate",
+    "atc_code": "G04BD02",
+    "drugbank_id": "DB01148"
+  },
+  {
+    "name": "Follitropin",
+    "atc_code": "G03GA10",
+    "drugbank_id": "DB00066"
+  },
+  {
+    "name": "Follitropin",
+    "atc_code": "G03GA06",
+    "drugbank_id": "DB00066"
+  },
+  {
+    "name": "Follitropin",
+    "atc_code": "G03GA05",
+    "drugbank_id": "DB00066"
+  },
+  {
+    "name": "Fluoxymesterone",
+    "atc_code": "G03BA01",
+    "drugbank_id": "DB01185"
+  },
+  {
+    "name": "Fezolinetant",
+    "atc_code": "G02CX06",
+    "drugbank_id": "DB15669"
+  },
+  {
+    "name": "Flibanserin",
+    "atc_code": "G02CX02",
+    "drugbank_id": "DB04908"
+  },
+  {
+    "name": "Flunoxaprofen",
+    "atc_code": "G02CC04",
+    "drugbank_id": "DB13317"
+  },
+  {
+    "name": "Fenoterol",
+    "atc_code": "G02CA03",
+    "drugbank_id": "DB01288"
+  },
+  {
+    "name": "Furazolidone",
+    "atc_code": "G01AX06",
+    "drugbank_id": "DB00614"
+  },
+  {
+    "name": "Flutrimazole",
+    "atc_code": "G01AF18",
+    "drugbank_id": "DB13425"
+  },
+  {
+    "name": "Fenticonazole",
+    "atc_code": "G01AF12",
+    "drugbank_id": "DB13434"
+  },
+  {
+    "name": "Furosemide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00695"
+  },
+  {
+    "name": "Fedratinib",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB12500"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "H02AB03",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Fludrocortisone",
+    "atc_code": "H02AA02",
+    "drugbank_id": "DB00687"
+  },
+  {
+    "name": "Faldaprevir",
+    "atc_code": "J05AP04",
+    "drugbank_id": "DB11808"
+  },
+  {
+    "name": "Fostemsavir",
+    "atc_code": "J05AX29",
+    "drugbank_id": "DB11796"
+  },
+  {
+    "name": "Favipiravir",
+    "atc_code": "J05AX27",
+    "drugbank_id": "DB12466"
+  },
+  {
+    "name": "Fosamprenavir",
+    "atc_code": "J05AE07",
+    "drugbank_id": "DB01319"
+  },
+  {
+    "name": "Foscarnet",
+    "atc_code": "J05AD01",
+    "drugbank_id": "DB00529"
+  },
+  {
+    "name": "Famciclovir",
+    "atc_code": "J05AB09",
+    "drugbank_id": "DB00426"
+  },
+  {
+    "name": "Flucytosine",
+    "atc_code": "J02AX01",
+    "drugbank_id": "DB01099"
+  },
+  {
+    "name": "Fluconazole",
+    "atc_code": "J02AC01",
+    "drugbank_id": "DB00196"
+  },
+  {
+    "name": "Fosfomycin",
+    "atc_code": "J01XX01",
+    "drugbank_id": "DB00828"
+  },
+  {
+    "name": "Furazidin",
+    "atc_code": "J01XE03",
+    "drugbank_id": "DB13475"
+  },
+  {
+    "name": "Fusidic acid",
+    "atc_code": "J01XC01",
+    "drugbank_id": "DB02703"
+  },
+  {
+    "name": "Fluconazole",
+    "atc_code": "J01RA07",
+    "drugbank_id": "DB00196"
+  },
+  {
+    "name": "Flumequine",
+    "atc_code": "J01MB07",
+    "drugbank_id": "DB08972"
+  },
+  {
+    "name": "Fleroxacin",
+    "atc_code": "J01MA08",
+    "drugbank_id": "DB04576"
+  },
+  {
+    "name": "Flurithromycin",
+    "atc_code": "J01FA14",
+    "drugbank_id": "DB13338"
+  },
+  {
+    "name": "Faropenem",
+    "atc_code": "J01DI03",
+    "drugbank_id": "DB12190"
+  },
+  {
+    "name": "Flomoxef",
+    "atc_code": "J01DC14",
+    "drugbank_id": "DB11935"
+  },
+  {
+    "name": "Flucloxacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00301"
+  },
+  {
+    "name": "Flucloxacillin",
+    "atc_code": "J01CF05",
+    "drugbank_id": "DB00301"
+  },
+  {
+    "name": "Filgotinib",
+    "atc_code": "L04AF04",
+    "drugbank_id": "DB14845"
+  },
+  {
+    "name": "Fingolimod",
+    "atc_code": "L04AE01",
+    "drugbank_id": "DB08868"
+  },
+  {
+    "name": "Filgrastim",
+    "atc_code": "L03AA02",
+    "drugbank_id": "DB00099"
+  },
+  {
+    "name": "Formestane",
+    "atc_code": "L02BG02",
+    "drugbank_id": "DB08905"
+  },
+  {
+    "name": "Flutamide",
+    "atc_code": "L02BB01",
+    "drugbank_id": "DB00499"
+  },
+  {
+    "name": "Fulvestrant",
+    "atc_code": "L02BA03",
+    "drugbank_id": "DB00947"
+  },
+  {
+    "name": "Futibatinib",
+    "atc_code": "L01EN04",
+    "drugbank_id": "DB15149"
+  },
+  {
+    "name": "Fruquintinib",
+    "atc_code": "L01EK04",
+    "drugbank_id": "DB11679"
+  },
+  {
+    "name": "Fedratinib",
+    "atc_code": "L01EJ02",
+    "drugbank_id": "DB12500"
+  },
+  {
+    "name": "Floxuridine",
+    "atc_code": "L01BC09",
+    "drugbank_id": "DB00322"
+  },
+  {
+    "name": "Fluorouracil",
+    "atc_code": "L01BC52",
+    "drugbank_id": "DB00544"
+  },
+  {
+    "name": "Fluorouracil",
+    "atc_code": "L01BC02",
+    "drugbank_id": "DB00544"
+  },
+  {
+    "name": "Fludarabine",
+    "atc_code": "L01BB05",
+    "drugbank_id": "DB01073"
+  },
+  {
+    "name": "Fotemustine",
+    "atc_code": "L01AD05",
+    "drugbank_id": "DB04106"
+  },
+  {
+    "name": "Febuxostat",
+    "atc_code": "M04AA03",
+    "drugbank_id": "DB04854"
+  },
+  {
+    "name": "Fenyramidol",
+    "atc_code": "M03BX30",
+    "drugbank_id": "DB13414"
+  },
+  {
+    "name": "Febarbamate",
+    "atc_code": "M03BA05",
+    "drugbank_id": "DB13303"
+  },
+  {
+    "name": "Fazadinium bromide",
+    "atc_code": "M03AC08",
+    "drugbank_id": "DB13745"
+  },
+  {
+    "name": "Flurbiprofen",
+    "atc_code": "M02AA19",
+    "drugbank_id": "DB00712"
+  },
+  {
+    "name": "Feprazone",
+    "atc_code": "M02AA16",
+    "drugbank_id": "DB13364"
+  },
+  {
+    "name": "Fentiazac",
+    "atc_code": "M02AA14",
+    "drugbank_id": "DB13217"
+  },
+  {
+    "name": "Felbinac",
+    "atc_code": "M02AA08",
+    "drugbank_id": "DB07477"
+  },
+  {
+    "name": "Feprazone",
+    "atc_code": "M01AX68",
+    "drugbank_id": "DB13364"
+  },
+  {
+    "name": "Feprazone",
+    "atc_code": "M01AX18",
+    "drugbank_id": "DB13364"
+  },
+  {
+    "name": "Flufenamic acid",
+    "atc_code": "M01AG03",
+    "drugbank_id": "DB02266"
+  },
+  {
+    "name": "Flunoxaprofen",
+    "atc_code": "M01AE15",
+    "drugbank_id": "DB13317"
+  },
+  {
+    "name": "Flurbiprofen",
+    "atc_code": "M01AE09",
+    "drugbank_id": "DB00712"
+  },
+  {
+    "name": "Fenbufen",
+    "atc_code": "M01AE05",
+    "drugbank_id": "DB08981"
+  },
+  {
+    "name": "Fenoprofen",
+    "atc_code": "M01AE04",
+    "drugbank_id": "DB00573"
+  },
+  {
+    "name": "Fentiazac",
+    "atc_code": "M01AB10",
+    "drugbank_id": "DB13217"
+  },
+  {
+    "name": "Flunarizine",
+    "atc_code": "N07CA03",
+    "drugbank_id": "DB04841"
+  },
+  {
+    "name": "Fluoxetine",
+    "atc_code": "N06CA03",
+    "drugbank_id": "DB00472"
+  },
+  {
+    "name": "Fipexide",
+    "atc_code": "N06BX05",
+    "drugbank_id": "DB13790"
+  },
+  {
+    "name": "Fenethylline",
+    "atc_code": "N06BA10",
+    "drugbank_id": "DB01482"
+  },
+  {
+    "name": "Fenozolone",
+    "atc_code": "N06BA08",
+    "drugbank_id": "DB13341"
+  },
+  {
+    "name": "Fencamfamin",
+    "atc_code": "N06BA06",
+    "drugbank_id": "DB01463"
+  },
+  {
+    "name": "Fluvoxamine",
+    "atc_code": "N06AB08",
+    "drugbank_id": "DB00176"
+  },
+  {
+    "name": "Fluoxetine",
+    "atc_code": "N06AB03",
+    "drugbank_id": "DB00472"
+  },
+  {
+    "name": "Flunitrazepam",
+    "atc_code": "N05CD03",
+    "drugbank_id": "DB01544"
+  },
+  {
+    "name": "Flurazepam",
+    "atc_code": "N05CD01",
+    "drugbank_id": "DB00690"
+  },
+  {
+    "name": "Fabomotizole",
+    "atc_code": "N05BX04",
+    "drugbank_id": "DB13623"
+  },
+  {
+    "name": "Fludiazepam",
+    "atc_code": "N05BA17",
+    "drugbank_id": "DB01567"
+  },
+  {
+    "name": "Fluspirilene",
+    "atc_code": "N05AG01",
+    "drugbank_id": "DB04842"
+  },
+  {
+    "name": "Flupentixol",
+    "atc_code": "N05AF01",
+    "drugbank_id": "DB00875"
+  },
+  {
+    "name": "Fluanisone",
+    "atc_code": "N05AD09",
+    "drugbank_id": "DB13665"
+  },
+  {
+    "name": "Fluphenazine",
+    "atc_code": "N05AB02",
+    "drugbank_id": "DB00623"
+  },
+  {
+    "name": "Foslevodopa",
+    "atc_code": "N04BA07",
+    "drugbank_id": "DB16683"
+  },
+  {
+    "name": "Fenfluramine",
+    "atc_code": "N03AX26",
+    "drugbank_id": "DB00574"
+  },
+  {
+    "name": "Felbamate",
+    "atc_code": "N03AX10",
+    "drugbank_id": "DB00949"
+  },
+  {
+    "name": "Fosphenytoin",
+    "atc_code": "N03AB05",
+    "drugbank_id": "DB01320"
+  },
+  {
+    "name": "Fremanezumab",
+    "atc_code": "N02CD03",
+    "drugbank_id": "DB14041"
+  },
+  {
+    "name": "Frovatriptan",
+    "atc_code": "N02CC07",
+    "drugbank_id": "DB00998"
+  },
+  {
+    "name": "Flumedroxone",
+    "atc_code": "N02CB01",
+    "drugbank_id": "DB13610"
+  },
+  {
+    "name": "Flupirtine",
+    "atc_code": "N02BG07",
+    "drugbank_id": "DB06623"
+  },
+  {
+    "name": "Floctafenine",
+    "atc_code": "N02BG04",
+    "drugbank_id": "DB08976"
+  },
+  {
+    "name": "Fentanyl",
+    "atc_code": "N02AB03",
+    "drugbank_id": "DB00813"
+  },
+  {
+    "name": "Fentanyl",
+    "atc_code": "N01AH51",
+    "drugbank_id": "DB00813"
+  },
+  {
+    "name": "Fentanyl",
+    "atc_code": "N01AH01",
+    "drugbank_id": "DB00813"
+  },
+  {
+    "name": "Fenbendazole",
+    "atc_code": "P02CA06",
+    "drugbank_id": "DB11410"
+  },
+  {
+    "name": "Flubendazole",
+    "atc_code": "P02CA05",
+    "drugbank_id": "DB08974"
+  },
+  {
+    "name": "Fexinidazole",
+    "atc_code": "P01CA03",
+    "drugbank_id": "DB12265"
+  },
+  {
+    "name": "Fumagillin",
+    "atc_code": "P01AX10",
+    "drugbank_id": "DB02640"
+  },
+  {
+    "name": "Furazolidone",
+    "atc_code": "P01AB51",
+    "drugbank_id": "DB00614"
+  },
+  {
+    "name": "Fexofenadine",
+    "atc_code": "R06AX26",
+    "drugbank_id": "DB00950"
+  },
+  {
+    "name": "Fedrilate",
+    "atc_code": "R05DB14",
+    "drugbank_id": "DB13825"
+  },
+  {
+    "name": "Fenspiride",
+    "atc_code": "R03DX03",
+    "drugbank_id": "DB08979"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03CC15",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fenoterol",
+    "atc_code": "R03CC04",
+    "drugbank_id": "DB01288"
+  },
+  {
+    "name": "Fenspiride",
+    "atc_code": "R03BX01",
+    "drugbank_id": "DB08979"
+  },
+  {
+    "name": "Fluticasone furoate",
+    "atc_code": "R03BA09",
+    "drugbank_id": "DB08906"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "R03BA05",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Flunisolide",
+    "atc_code": "R03BA03",
+    "drugbank_id": "DB00180"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AL11",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AL10",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AL09",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fluticasone furoate",
+    "atc_code": "R03AL08",
+    "drugbank_id": "DB08906"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AL07",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AL05",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fenoterol",
+    "atc_code": "R03AL01",
+    "drugbank_id": "DB01288"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "R03AK11",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AK11",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fluticasone furoate",
+    "atc_code": "R03AK10",
+    "drugbank_id": "DB08906"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AK09",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AK08",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AK07",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "R03AK06",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Formoterol",
+    "atc_code": "R03AC13",
+    "drugbank_id": "DB00983"
+  },
+  {
+    "name": "Fenoterol",
+    "atc_code": "R03AC04",
+    "drugbank_id": "DB01288"
+  },
+  {
+    "name": "Flurbiprofen",
+    "atc_code": "R02AX01",
+    "drugbank_id": "DB00712"
+  },
+  {
+    "name": "Fusafungine",
+    "atc_code": "R02AB03",
+    "drugbank_id": "DB08965"
+  },
+  {
+    "name": "Framycetin",
+    "atc_code": "R01AX08",
+    "drugbank_id": "DB00452"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "R01AD58",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Fluticasone furoate",
+    "atc_code": "R01AD12",
+    "drugbank_id": "DB08906"
+  },
+  {
+    "name": "Fluticasone",
+    "atc_code": "R01AD08",
+    "drugbank_id": "DB13867"
+  },
+  {
+    "name": "Flunisolide",
+    "atc_code": "R01AD04",
+    "drugbank_id": "DB00180"
+  },
+  {
+    "name": "Fenoxazoline",
+    "atc_code": "R01AA12",
+    "drugbank_id": "DB13736"
+  },
+  {
+    "name": "Fludrocortisone",
+    "atc_code": "S03CA05",
+    "drugbank_id": "DB00687"
+  },
+  {
+    "name": "Fludrocortisone",
+    "atc_code": "S02CA07",
+    "drugbank_id": "DB00687"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "S02CA05",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Flumethasone",
+    "atc_code": "S02CA02",
+    "drugbank_id": "DB00663"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "S02BA08",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Fosfomycin",
+    "atc_code": "S02AA17",
+    "drugbank_id": "DB00828"
+  },
+  {
+    "name": "Faricimab",
+    "atc_code": "S01LA09",
+    "drugbank_id": "DB15303"
+  },
+  {
+    "name": "Fluorescein",
+    "atc_code": "S01JA51",
+    "drugbank_id": "DB00693"
+  },
+  {
+    "name": "Fluorescein",
+    "atc_code": "S01JA01",
+    "drugbank_id": "DB00693"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "S01CB05",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "S01CA10",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "S01CA07",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fludrocortisone",
+    "atc_code": "S01CA06",
+    "drugbank_id": "DB00687"
+  },
+  {
+    "name": "Fluocortolone",
+    "atc_code": "S01CA04",
+    "drugbank_id": "DB08971"
+  },
+  {
+    "name": "Flurbiprofen",
+    "atc_code": "S01BC04",
+    "drugbank_id": "DB00712"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "S01BB03",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fluocinolone acetonide",
+    "atc_code": "S01BA15",
+    "drugbank_id": "DB00591"
+  },
+  {
+    "name": "Formocortal",
+    "atc_code": "S01BA12",
+    "drugbank_id": "DB13664"
+  },
+  {
+    "name": "Fluorometholone",
+    "atc_code": "S01BA07",
+    "drugbank_id": "DB00324"
+  },
+  {
+    "name": "Fomivirsen",
+    "atc_code": "S01AD08",
+    "drugbank_id": "DB06759"
+  },
+  {
+    "name": "Famciclovir",
+    "atc_code": "S01AD07",
+    "drugbank_id": "DB00426"
+  },
+  {
+    "name": "Fusidic acid",
+    "atc_code": "S01AA13",
+    "drugbank_id": "DB02703"
+  },
+  {
+    "name": "Framycetin",
+    "atc_code": "S01AA07",
+    "drugbank_id": "DB00452"
+  },
+  {
+    "name": "Flotufolastat F-18",
+    "atc_code": "V09IX18",
+    "drugbank_id": "DB17851"
+  },
+  {
+    "name": "Fluciclovine (18F)",
+    "atc_code": "V09IX12",
+    "drugbank_id": "DB13146"
+  },
+  {
+    "name": "FET F-18",
+    "atc_code": "V09IX10",
+    "drugbank_id": "DB15405"
+  },
+  {
+    "name": "Fluoride ion F-18",
+    "atc_code": "V09IX06",
+    "drugbank_id": "DB09398"
+  },
+  {
+    "name": "Fluorodopa (18F)",
+    "atc_code": "V09IX05",
+    "drugbank_id": "DB13848"
+  },
+  {
+    "name": "Fludeoxyglucose (18F)",
+    "atc_code": "V09IX04",
+    "drugbank_id": "DB09502"
+  },
+  {
+    "name": "Flortaucipir F-18",
+    "atc_code": "V09AX07",
+    "drugbank_id": "DB14914"
+  },
+  {
+    "name": "Florbetaben F-18",
+    "atc_code": "V09AX06",
+    "drugbank_id": "DB09148"
+  },
+  {
+    "name": "Florbetapir F-18",
+    "atc_code": "V09AX05",
+    "drugbank_id": "DB09149"
+  },
+  {
+    "name": "Flutemetamol (18F)",
+    "atc_code": "V09AX04",
+    "drugbank_id": "DB09151"
+  },
+  {
+    "name": "Ferric oxide",
+    "atc_code": "V08CB03",
+    "drugbank_id": "DB11576"
+  },
+  {
+    "name": "Ferumoxsil",
+    "atc_code": "V08CB01",
+    "drugbank_id": "DB09507"
+  },
+  {
+    "name": "Ferric ammonium citrate",
+    "atc_code": "V08CA07",
+    "drugbank_id": "DB09501"
+  },
+  {
+    "name": "Fructose",
+    "atc_code": "V06DC02",
+    "drugbank_id": "DB04173"
+  },
+  {
+    "name": "Folic acid",
+    "atc_code": "V04CX02",
+    "drugbank_id": "DB00158"
+  },
+  {
+    "name": "Fomepizole",
+    "atc_code": "V03AB34",
+    "drugbank_id": "DB01213"
+  },
+  {
+    "name": "Flumazenil",
+    "atc_code": "V03AB25",
+    "drugbank_id": "DB01205"
+  }
+]

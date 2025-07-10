@@ -1,0 +1,1907 @@
+[
+  {
+    "name": "Dexpanthenol",
+    "atc_code": "A11HA30",
+    "drugbank_id": "DB09357"
+  },
+  {
+    "name": "Dihydrotachysterol",
+    "atc_code": "A11CC02",
+    "drugbank_id": "DB01070"
+  },
+  {
+    "name": "Donislecel",
+    "atc_code": "A10XX02",
+    "drugbank_id": "DB17961"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BK01",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dulaglutide",
+    "atc_code": "A10BJ05",
+    "drugbank_id": "DB09045"
+  },
+  {
+    "name": "Dorzagliatin",
+    "atc_code": "A10BX18",
+    "drugbank_id": "DB15123"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BD30",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BD29",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BD25",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BD21",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dapagliflozin",
+    "atc_code": "A10BD15",
+    "drugbank_id": "DB06292"
+  },
+  {
+    "name": "Dexfenfluramine",
+    "atc_code": "A08AA04",
+    "drugbank_id": "DB01191"
+  },
+  {
+    "name": "Diethylpropion",
+    "atc_code": "A08AA03",
+    "drugbank_id": "DB00937"
+  },
+  {
+    "name": "Difenoxin",
+    "atc_code": "A07DA04",
+    "drugbank_id": "DB01501"
+  },
+  {
+    "name": "Diphenoxylate",
+    "atc_code": "A07DA01",
+    "drugbank_id": "DB01081"
+  },
+  {
+    "name": "Dantron",
+    "atc_code": "A06AG03",
+    "drugbank_id": "DB04816"
+  },
+  {
+    "name": "Dantron",
+    "atc_code": "A06AB53",
+    "drugbank_id": "DB04816"
+  },
+  {
+    "name": "Dantron",
+    "atc_code": "A06AB03",
+    "drugbank_id": "DB04816"
+  },
+  {
+    "name": "Dronabinol",
+    "atc_code": "A04AD10",
+    "drugbank_id": "DB00470"
+  },
+  {
+    "name": "Dolasetron",
+    "atc_code": "A04AA04",
+    "drugbank_id": "DB00757"
+  },
+  {
+    "name": "Domperidone",
+    "atc_code": "A03FA03",
+    "drugbank_id": "DB01184"
+  },
+  {
+    "name": "Diphemanil",
+    "atc_code": "A03CA08",
+    "drugbank_id": "DB13720"
+  },
+  {
+    "name": "Diisopromine",
+    "atc_code": "A03AX02",
+    "drugbank_id": "DB13476"
+  },
+  {
+    "name": "Drotaverine",
+    "atc_code": "A03AD02",
+    "drugbank_id": "DB06751"
+  },
+  {
+    "name": "Dimethylaminopropionylphenothiazine",
+    "atc_code": "A03AC02",
+    "drugbank_id": "DB13672"
+  },
+  {
+    "name": "Diphemanil",
+    "atc_code": "A03AB15",
+    "drugbank_id": "DB13720"
+  },
+  {
+    "name": "Difemerine",
+    "atc_code": "A03AA09",
+    "drugbank_id": "DB13380"
+  },
+  {
+    "name": "Dihexyverine",
+    "atc_code": "A03AA08",
+    "drugbank_id": "DB13678"
+  },
+  {
+    "name": "Dicyclomine",
+    "atc_code": "A03AA07",
+    "drugbank_id": "DB00804"
+  },
+  {
+    "name": "Dexrabeprazole",
+    "atc_code": "A02BC07",
+    "drugbank_id": "DB13762"
+  },
+  {
+    "name": "Dexlansoprazole",
+    "atc_code": "A02BC06",
+    "drugbank_id": "DB05351"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "A01AC02",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Doxycycline",
+    "atc_code": "A01AB22",
+    "drugbank_id": "DB00254"
+  },
+  {
+    "name": "Domiphen",
+    "atc_code": "A01AB06",
+    "drugbank_id": "DB11594"
+  },
+  {
+    "name": "Desoxyribonuclease",
+    "atc_code": "B06AA10",
+    "drugbank_id": "DB09551"
+  },
+  {
+    "name": "Desoxyribonuclease",
+    "atc_code": "B06AA02",
+    "drugbank_id": "DB09551"
+  },
+  {
+    "name": "Dextran",
+    "atc_code": "B05AA05",
+    "drugbank_id": "DB09255"
+  },
+  {
+    "name": "Daprodustat",
+    "atc_code": "B03XA07",
+    "drugbank_id": "DB11682"
+  },
+  {
+    "name": "Darbepoetin alfa",
+    "atc_code": "B03XA02",
+    "drugbank_id": "DB00012"
+  },
+  {
+    "name": "Dermatan sulfate",
+    "atc_code": "B01AX04",
+    "drugbank_id": "DB15880"
+  },
+  {
+    "name": "Defibrotide",
+    "atc_code": "B01AX01",
+    "drugbank_id": "DB04932"
+  },
+  {
+    "name": "Dabigatran etexilate",
+    "atc_code": "B01AE07",
+    "drugbank_id": "DB06695"
+  },
+  {
+    "name": "Desirudin",
+    "atc_code": "B01AE01",
+    "drugbank_id": "DB11095"
+  },
+  {
+    "name": "Drotrecogin alfa",
+    "atc_code": "B01AD10",
+    "drugbank_id": "DB00055"
+  },
+  {
+    "name": "Dipyridamole",
+    "atc_code": "B01AC07",
+    "drugbank_id": "DB00975"
+  },
+  {
+    "name": "Ditazole",
+    "atc_code": "B01AC01",
+    "drugbank_id": "DB08994"
+  },
+  {
+    "name": "Danaparoid",
+    "atc_code": "B01AB09",
+    "drugbank_id": "DB06754"
+  },
+  {
+    "name": "Dalteparin",
+    "atc_code": "B01AB04",
+    "drugbank_id": "DB06779"
+  },
+  {
+    "name": "Diphenadione",
+    "atc_code": "B01AA10",
+    "drugbank_id": "DB13347"
+  },
+  {
+    "name": "Dicoumarol",
+    "atc_code": "B01AA01",
+    "drugbank_id": "DB00266"
+  },
+  {
+    "name": "Dextrothyroxine",
+    "atc_code": "C10AX01",
+    "drugbank_id": "DB00509"
+  },
+  {
+    "name": "Delapril",
+    "atc_code": "C09BB12",
+    "drugbank_id": "DB13312"
+  },
+  {
+    "name": "Delapril",
+    "atc_code": "C09BA12",
+    "drugbank_id": "DB13312"
+  },
+  {
+    "name": "Delapril",
+    "atc_code": "C09AA12",
+    "drugbank_id": "DB13312"
+  },
+  {
+    "name": "Diltiazem",
+    "atc_code": "C08DB01",
+    "drugbank_id": "DB00343"
+  },
+  {
+    "name": "Diosmin",
+    "atc_code": "C05CA53",
+    "drugbank_id": "DB08995"
+  },
+  {
+    "name": "Diosmin",
+    "atc_code": "C05CA03",
+    "drugbank_id": "DB08995"
+  },
+  {
+    "name": "Dobesilic acid",
+    "atc_code": "C05BX51",
+    "drugbank_id": "DB13529"
+  },
+  {
+    "name": "Dobesilic acid",
+    "atc_code": "C05BX01",
+    "drugbank_id": "DB13529"
+  },
+  {
+    "name": "Ditiocarb zinc",
+    "atc_code": "C05AX04",
+    "drugbank_id": "DB14193"
+  },
+  {
+    "name": "Diltiazem",
+    "atc_code": "C05AE03",
+    "drugbank_id": "DB00343"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "C05AA09",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dihydroergocristine",
+    "atc_code": "C04AE54",
+    "drugbank_id": "DB13345"
+  },
+  {
+    "name": "Dihydroergocristine",
+    "atc_code": "C04AE04",
+    "drugbank_id": "DB13345"
+  },
+  {
+    "name": "Dihydralazine",
+    "atc_code": "C02LG51",
+    "drugbank_id": "DB12945"
+  },
+  {
+    "name": "Dihydralazine",
+    "atc_code": "C02LG01",
+    "drugbank_id": "DB12945"
+  },
+  {
+    "name": "Deserpidine",
+    "atc_code": "C02LA03",
+    "drugbank_id": "DB01089"
+  },
+  {
+    "name": "Dihydralazine",
+    "atc_code": "C02DB01",
+    "drugbank_id": "DB12945"
+  },
+  {
+    "name": "Diazoxide",
+    "atc_code": "C02DA01",
+    "drugbank_id": "DB01119"
+  },
+  {
+    "name": "Debrisoquine",
+    "atc_code": "C02CC04",
+    "drugbank_id": "DB04840"
+  },
+  {
+    "name": "Doxazosin",
+    "atc_code": "C02CA04",
+    "drugbank_id": "DB00590"
+  },
+  {
+    "name": "Deserpidine",
+    "atc_code": "C02AA05",
+    "drugbank_id": "DB01089"
+  },
+  {
+    "name": "Dilazep",
+    "atc_code": "C01DX10",
+    "drugbank_id": "DB13715"
+  },
+  {
+    "name": "Droxidopa",
+    "atc_code": "C01CA27",
+    "drugbank_id": "DB06262"
+  },
+  {
+    "name": "Dopexamine",
+    "atc_code": "C01CA14",
+    "drugbank_id": "DB12313"
+  },
+  {
+    "name": "Dimetofrine",
+    "atc_code": "C01CA12",
+    "drugbank_id": "DB13494"
+  },
+  {
+    "name": "Dobutamine",
+    "atc_code": "C01CA07",
+    "drugbank_id": "DB00841"
+  },
+  {
+    "name": "Dopamine",
+    "atc_code": "C01CA04",
+    "drugbank_id": "DB00988"
+  },
+  {
+    "name": "Dronedarone",
+    "atc_code": "C01BD07",
+    "drugbank_id": "DB04855"
+  },
+  {
+    "name": "Dofetilide",
+    "atc_code": "C01BD04",
+    "drugbank_id": "DB00204"
+  },
+  {
+    "name": "Disopyramide",
+    "atc_code": "C01BA03",
+    "drugbank_id": "DB00280"
+  },
+  {
+    "name": "Deslanoside",
+    "atc_code": "C01AA07",
+    "drugbank_id": "DB01078"
+  },
+  {
+    "name": "Digoxin",
+    "atc_code": "C01AA05",
+    "drugbank_id": "DB00390"
+  },
+  {
+    "name": "Digitoxin",
+    "atc_code": "C01AA04",
+    "drugbank_id": "DB01396"
+  },
+  {
+    "name": "Deoxycholic acid",
+    "atc_code": "D11AX24",
+    "drugbank_id": "DB03619"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "D11AX18",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Delgocitinib",
+    "atc_code": "D11AH11",
+    "drugbank_id": "DB16133"
+  },
+  {
+    "name": "Dupilumab",
+    "atc_code": "D11AH05",
+    "drugbank_id": "DB12159"
+  },
+  {
+    "name": "Dapsone",
+    "atc_code": "D10AX05",
+    "drugbank_id": "DB00250"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "D10AA03",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Decamethoxine",
+    "atc_code": "D08AJ10",
+    "drugbank_id": "DB13705"
+  },
+  {
+    "name": "Didecyldimethylammonium",
+    "atc_code": "D08AJ06",
+    "drugbank_id": "DB04221"
+  },
+  {
+    "name": "Dequalinium",
+    "atc_code": "D08AH01",
+    "drugbank_id": "DB04209"
+  },
+  {
+    "name": "Diiodohydroxypropane",
+    "atc_code": "D08AG04",
+    "drugbank_id": "DB13383"
+  },
+  {
+    "name": "Dibrompropamidine",
+    "atc_code": "D08AC01",
+    "drugbank_id": "DB13548"
+  },
+  {
+    "name": "Difluocortolone",
+    "atc_code": "D07XC04",
+    "drugbank_id": "DB09095"
+  },
+  {
+    "name": "Desoximetasone",
+    "atc_code": "D07XC02",
+    "drugbank_id": "DB00547"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "D07XB05",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "D07CB04",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Difluocortolone",
+    "atc_code": "D07BC04",
+    "drugbank_id": "DB09095"
+  },
+  {
+    "name": "Desonide",
+    "atc_code": "D07BB02",
+    "drugbank_id": "DB01260"
+  },
+  {
+    "name": "Difluprednate",
+    "atc_code": "D07AC19",
+    "drugbank_id": "DB06781"
+  },
+  {
+    "name": "Diflorasone",
+    "atc_code": "D07AC10",
+    "drugbank_id": "DB00223"
+  },
+  {
+    "name": "Difluocortolone",
+    "atc_code": "D07AC06",
+    "drugbank_id": "DB09095"
+  },
+  {
+    "name": "Desoximetasone",
+    "atc_code": "D07AC03",
+    "drugbank_id": "DB00547"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "D07AB19",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Desonide",
+    "atc_code": "D07AB08",
+    "drugbank_id": "DB01260"
+  },
+  {
+    "name": "Docosanol",
+    "atc_code": "D06BB11",
+    "drugbank_id": "DB00632"
+  },
+  {
+    "name": "Demeclocycline",
+    "atc_code": "D06AA01",
+    "drugbank_id": "DB00618"
+  },
+  {
+    "name": "Doxepin",
+    "atc_code": "D04AX01",
+    "drugbank_id": "DB01142"
+  },
+  {
+    "name": "Diphenhydramine",
+    "atc_code": "D04AA33",
+    "drugbank_id": "DB01075"
+  },
+  {
+    "name": "Diphenhydramine",
+    "atc_code": "D04AA32",
+    "drugbank_id": "DB01075"
+  },
+  {
+    "name": "Dimetindene",
+    "atc_code": "D04AA13",
+    "drugbank_id": "DB08801"
+  },
+  {
+    "name": "Dexpanthenol",
+    "atc_code": "D03AX03",
+    "drugbank_id": "DB09357"
+  },
+  {
+    "name": "Dextranomer",
+    "atc_code": "D03AX02",
+    "drugbank_id": "DB13560"
+  },
+  {
+    "name": "Dimazole",
+    "atc_code": "D01AE17",
+    "drugbank_id": "DB13858"
+  },
+  {
+    "name": "Dutasteride",
+    "atc_code": "G04CB02",
+    "drugbank_id": "DB01126"
+  },
+  {
+    "name": "Doxazosin",
+    "atc_code": "G04CA55",
+    "drugbank_id": "DB00590"
+  },
+  {
+    "name": "Dutasteride",
+    "atc_code": "G04CA52",
+    "drugbank_id": "DB01126"
+  },
+  {
+    "name": "Dapoxetine",
+    "atc_code": "G04BX14",
+    "drugbank_id": "DB04884"
+  },
+  {
+    "name": "Dimethyl sulfoxide",
+    "atc_code": "G04BX13",
+    "drugbank_id": "DB01093"
+  },
+  {
+    "name": "Desfesoterodine",
+    "atc_code": "G04BD13",
+    "drugbank_id": "DB15578"
+  },
+  {
+    "name": "Darifenacin",
+    "atc_code": "G04BD10",
+    "drugbank_id": "DB00496"
+  },
+  {
+    "name": "Danazol",
+    "atc_code": "G03XA01",
+    "drugbank_id": "DB01406"
+  },
+  {
+    "name": "Desogestrel",
+    "atc_code": "G03FB10",
+    "drugbank_id": "DB00304"
+  },
+  {
+    "name": "Dydrogesterone",
+    "atc_code": "G03FB08",
+    "drugbank_id": "DB00378"
+  },
+  {
+    "name": "Drospirenone",
+    "atc_code": "G03FA17",
+    "drugbank_id": "DB01395"
+  },
+  {
+    "name": "Dienogest",
+    "atc_code": "G03FA15",
+    "drugbank_id": "DB09123"
+  },
+  {
+    "name": "Dydrogesterone",
+    "atc_code": "G03FA14",
+    "drugbank_id": "DB00378"
+  },
+  {
+    "name": "Dienogest",
+    "atc_code": "G03DB08",
+    "drugbank_id": "DB09123"
+  },
+  {
+    "name": "Demegestone",
+    "atc_code": "G03DB05",
+    "drugbank_id": "DB13857"
+  },
+  {
+    "name": "Dydrogesterone",
+    "atc_code": "G03DB01",
+    "drugbank_id": "DB00378"
+  },
+  {
+    "name": "Diethylstilbestrol",
+    "atc_code": "G03CC05",
+    "drugbank_id": "DB00255"
+  },
+  {
+    "name": "Dienestrol",
+    "atc_code": "G03CC02",
+    "drugbank_id": "DB00890"
+  },
+  {
+    "name": "Diethylstilbestrol",
+    "atc_code": "G03CB02",
+    "drugbank_id": "DB00255"
+  },
+  {
+    "name": "Dienestrol",
+    "atc_code": "G03CB01",
+    "drugbank_id": "DB00890"
+  },
+  {
+    "name": "Drospirenone",
+    "atc_code": "G03AC10",
+    "drugbank_id": "DB01395"
+  },
+  {
+    "name": "Desogestrel",
+    "atc_code": "G03AC09",
+    "drugbank_id": "DB00304"
+  },
+  {
+    "name": "Dienogest",
+    "atc_code": "G03AB08",
+    "drugbank_id": "DB09123"
+  },
+  {
+    "name": "Desogestrel",
+    "atc_code": "G03AB05",
+    "drugbank_id": "DB00304"
+  },
+  {
+    "name": "Drospirenone",
+    "atc_code": "G03AA18",
+    "drugbank_id": "DB01395"
+  },
+  {
+    "name": "Dienogest",
+    "atc_code": "G03AA16",
+    "drugbank_id": "DB09123"
+  },
+  {
+    "name": "Drospirenone",
+    "atc_code": "G03AA12",
+    "drugbank_id": "DB01395"
+  },
+  {
+    "name": "Desogestrel",
+    "atc_code": "G03AA09",
+    "drugbank_id": "DB00304"
+  },
+  {
+    "name": "Dinoprostone",
+    "atc_code": "G02AD02",
+    "drugbank_id": "DB00917"
+  },
+  {
+    "name": "Dinoprost",
+    "atc_code": "G02AD01",
+    "drugbank_id": "DB12789"
+  },
+  {
+    "name": "Dapivirine",
+    "atc_code": "G01AX17",
+    "drugbank_id": "DB08639"
+  },
+  {
+    "name": "Diazoxide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01119"
+  },
+  {
+    "name": "Diclofenamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01144"
+  },
+  {
+    "name": "Darunavir",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01264"
+  },
+  {
+    "name": "Dorzolamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00869"
+  },
+  {
+    "name": "Dequalinium",
+    "atc_code": "G01AC05",
+    "drugbank_id": "DB04209"
+  },
+  {
+    "name": "Diiodohydroxyquinoline",
+    "atc_code": "G01AC01",
+    "drugbank_id": "DB09115"
+  },
+  {
+    "name": "Doxercalciferol",
+    "atc_code": "H05BX03",
+    "drugbank_id": "DB06410"
+  },
+  {
+    "name": "Dasiglucagon",
+    "atc_code": "H04AA02",
+    "drugbank_id": "DB15226"
+  },
+  {
+    "name": "Dibromotyrosine",
+    "atc_code": "H03BX02",
+    "drugbank_id": "DB07637"
+  },
+  {
+    "name": "Deflazacort",
+    "atc_code": "H02AB13",
+    "drugbank_id": "DB11921"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "H02AB02",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Desoxycortone",
+    "atc_code": "H02AA03",
+    "drugbank_id": "DB15972"
+  },
+  {
+    "name": "Demoxytocin",
+    "atc_code": "H01BB01",
+    "drugbank_id": "DB13798"
+  },
+  {
+    "name": "Desmopressin",
+    "atc_code": "H01BA02",
+    "drugbank_id": "DB00035"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AJ03",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Daclatasvir",
+    "atc_code": "J05AP58",
+    "drugbank_id": "DB09102"
+  },
+  {
+    "name": "Dasabuvir",
+    "atc_code": "J05AP52",
+    "drugbank_id": "DB09183"
+  },
+  {
+    "name": "Dasabuvir",
+    "atc_code": "J05AP09",
+    "drugbank_id": "DB09183"
+  },
+  {
+    "name": "Daclatasvir",
+    "atc_code": "J05AP07",
+    "drugbank_id": "DB09102"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AR29",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AR27",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Darunavir",
+    "atc_code": "J05AR26",
+    "drugbank_id": "DB01264"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AR25",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Doravirine",
+    "atc_code": "J05AR24",
+    "drugbank_id": "DB12301"
+  },
+  {
+    "name": "Darunavir",
+    "atc_code": "J05AR22",
+    "drugbank_id": "DB01264"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AR21",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Darunavir",
+    "atc_code": "J05AR14",
+    "drugbank_id": "DB01264"
+  },
+  {
+    "name": "Dolutegravir",
+    "atc_code": "J05AR13",
+    "drugbank_id": "DB08930"
+  },
+  {
+    "name": "Doravirine",
+    "atc_code": "J05AG06",
+    "drugbank_id": "DB12301"
+  },
+  {
+    "name": "Delavirdine",
+    "atc_code": "J05AG02",
+    "drugbank_id": "DB00705"
+  },
+  {
+    "name": "Didanosine",
+    "atc_code": "J05AF02",
+    "drugbank_id": "DB00900"
+  },
+  {
+    "name": "Darunavir",
+    "atc_code": "J05AE10",
+    "drugbank_id": "DB01264"
+  },
+  {
+    "name": "Delamanid",
+    "atc_code": "J04AK06",
+    "drugbank_id": "DB11637"
+  },
+  {
+    "name": "Daptomycin",
+    "atc_code": "J01XX09",
+    "drugbank_id": "DB00080"
+  },
+  {
+    "name": "Dalbavancin",
+    "atc_code": "J01XA04",
+    "drugbank_id": "DB06219"
+  },
+  {
+    "name": "Delafloxacin",
+    "atc_code": "J01MA23",
+    "drugbank_id": "DB11943"
+  },
+  {
+    "name": "Dibekacin",
+    "atc_code": "J01GB09",
+    "drugbank_id": "DB13270"
+  },
+  {
+    "name": "Dirithromycin",
+    "atc_code": "J01FA13",
+    "drugbank_id": "DB00954"
+  },
+  {
+    "name": "Doripenem",
+    "atc_code": "J01DH04",
+    "drugbank_id": "DB06211"
+  },
+  {
+    "name": "Dicloxacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00485"
+  },
+  {
+    "name": "Dicloxacillin",
+    "atc_code": "J01CF01",
+    "drugbank_id": "DB00485"
+  },
+  {
+    "name": "Demeclocycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00618"
+  },
+  {
+    "name": "Doxycycline",
+    "atc_code": "J01AA20",
+    "drugbank_id": "DB00254"
+  },
+  {
+    "name": "Doxycycline",
+    "atc_code": "J01AA02",
+    "drugbank_id": "DB00254"
+  },
+  {
+    "name": "Demeclocycline",
+    "atc_code": "J01AA01",
+    "drugbank_id": "DB00618"
+  },
+  {
+    "name": "Danicopan",
+    "atc_code": "L04AJ09",
+    "drugbank_id": "DB15401"
+  },
+  {
+    "name": "Divozilimab",
+    "atc_code": "L04AG15",
+    "drugbank_id": "DB18878"
+  },
+  {
+    "name": "Deucravacitinib",
+    "atc_code": "L04AF07",
+    "drugbank_id": "DB16650"
+  },
+  {
+    "name": "Diroximel fumarate",
+    "atc_code": "L04AX09",
+    "drugbank_id": "DB14783"
+  },
+  {
+    "name": "Darvadstrocel",
+    "atc_code": "L04AX08",
+    "drugbank_id": "DB16581"
+  },
+  {
+    "name": "Dimethyl fumarate",
+    "atc_code": "L04AX07",
+    "drugbank_id": "DB08908"
+  },
+  {
+    "name": "Daclizumab",
+    "atc_code": "L04AC01",
+    "drugbank_id": "DB00111"
+  },
+  {
+    "name": "Dasiprotimut-T",
+    "atc_code": "L03AX19",
+    "drugbank_id": "DB17287"
+  },
+  {
+    "name": "Degarelix",
+    "atc_code": "L02BX02",
+    "drugbank_id": "DB06699"
+  },
+  {
+    "name": "Darolutamide",
+    "atc_code": "L02BB06",
+    "drugbank_id": "DB12941"
+  },
+  {
+    "name": "Diethylstilbestrol",
+    "atc_code": "L02AA04",
+    "drugbank_id": "DB00255"
+  },
+  {
+    "name": "Diethylstilbestrol",
+    "atc_code": "L02AA01",
+    "drugbank_id": "DB00255"
+  },
+  {
+    "name": "Datopotamab deruxtecan",
+    "atc_code": "L01FX35",
+    "drugbank_id": "DB16410"
+  },
+  {
+    "name": "Dinutuximab",
+    "atc_code": "L01FX06",
+    "drugbank_id": "DB09077"
+  },
+  {
+    "name": "Dostarlimab",
+    "atc_code": "L01FF07",
+    "drugbank_id": "DB15627"
+  },
+  {
+    "name": "Durvalumab",
+    "atc_code": "L01FF03",
+    "drugbank_id": "DB11714"
+  },
+  {
+    "name": "Daratumumab",
+    "atc_code": "L01FC01",
+    "drugbank_id": "DB09331"
+  },
+  {
+    "name": "Duvelisib",
+    "atc_code": "L01EM04",
+    "drugbank_id": "DB11952"
+  },
+  {
+    "name": "Dabrafenib",
+    "atc_code": "L01EC02",
+    "drugbank_id": "DB08912"
+  },
+  {
+    "name": "Dacomitinib",
+    "atc_code": "L01EB07",
+    "drugbank_id": "DB11963"
+  },
+  {
+    "name": "Dasatinib",
+    "atc_code": "L01EA02",
+    "drugbank_id": "DB01254"
+  },
+  {
+    "name": "Daunorubicin",
+    "atc_code": "L01XY01",
+    "drugbank_id": "DB00694"
+  },
+  {
+    "name": "Darinaparsin",
+    "atc_code": "L01XX82",
+    "drugbank_id": "DB06179"
+  },
+  {
+    "name": "Denileukin diftitox",
+    "atc_code": "L01XX29",
+    "drugbank_id": "DB00004"
+  },
+  {
+    "name": "Daunorubicin",
+    "atc_code": "L01DB02",
+    "drugbank_id": "DB00694"
+  },
+  {
+    "name": "Doxorubicin",
+    "atc_code": "L01DB01",
+    "drugbank_id": "DB00997"
+  },
+  {
+    "name": "Dactinomycin",
+    "atc_code": "L01DA01",
+    "drugbank_id": "DB00970"
+  },
+  {
+    "name": "Docetaxel",
+    "atc_code": "L01CD02",
+    "drugbank_id": "DB01248"
+  },
+  {
+    "name": "Demecolcine",
+    "atc_code": "L01CC01",
+    "drugbank_id": "DB13318"
+  },
+  {
+    "name": "Decitabine",
+    "atc_code": "L01BC58",
+    "drugbank_id": "DB01262"
+  },
+  {
+    "name": "Decitabine",
+    "atc_code": "L01BC08",
+    "drugbank_id": "DB01262"
+  },
+  {
+    "name": "Dacarbazine",
+    "atc_code": "L01AX04",
+    "drugbank_id": "DB00851"
+  },
+  {
+    "name": "Delandistrogene moxeparvovec",
+    "atc_code": "M09AX15",
+    "drugbank_id": "DB16802"
+  },
+  {
+    "name": "Drisapersen",
+    "atc_code": "M09AX04",
+    "drugbank_id": "DB13688"
+  },
+  {
+    "name": "Denosumab",
+    "atc_code": "M05BX04",
+    "drugbank_id": "DB06643"
+  },
+  {
+    "name": "Dibotermin alfa",
+    "atc_code": "M05BC01",
+    "drugbank_id": "DB11639"
+  },
+  {
+    "name": "Dantrolene",
+    "atc_code": "M03CA01",
+    "drugbank_id": "DB01219"
+  },
+  {
+    "name": "DaxibotulinumtoxinA",
+    "atc_code": "M03AX01",
+    "drugbank_id": "DB17929"
+  },
+  {
+    "name": "Doxacurium",
+    "atc_code": "M03AC07",
+    "drugbank_id": "DB01135"
+  },
+  {
+    "name": "Dimethyl sulfoxide",
+    "atc_code": "M02AX03",
+    "drugbank_id": "DB01093"
+  },
+  {
+    "name": "Dexketoprofen",
+    "atc_code": "M02AA27",
+    "drugbank_id": "DB09214"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "M02AA15",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Dipyrocetyl",
+    "atc_code": "M01BA02",
+    "drugbank_id": "DB13839"
+  },
+  {
+    "name": "Diacerein",
+    "atc_code": "M01AX21",
+    "drugbank_id": "DB11994"
+  },
+  {
+    "name": "Diphenhydramine",
+    "atc_code": "M01AE57",
+    "drugbank_id": "DB01075"
+  },
+  {
+    "name": "Dexketoprofen",
+    "atc_code": "M01AE17",
+    "drugbank_id": "DB09214"
+  },
+  {
+    "name": "Dexibuprofen",
+    "atc_code": "M01AE14",
+    "drugbank_id": "DB09213"
+  },
+  {
+    "name": "Droxicam",
+    "atc_code": "M01AC04",
+    "drugbank_id": "DB09215"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "M01AB55",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Difenpiramide",
+    "atc_code": "M01AB12",
+    "drugbank_id": "DB13371"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "M01AB05",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Deutetrabenazine",
+    "atc_code": "N07XX16",
+    "drugbank_id": "DB12161"
+  },
+  {
+    "name": "Dextromethorphan",
+    "atc_code": "N07XX59",
+    "drugbank_id": "DB00514"
+  },
+  {
+    "name": "Dalfampridine",
+    "atc_code": "N07XX07",
+    "drugbank_id": "DB06637"
+  },
+  {
+    "name": "Diamorphine",
+    "atc_code": "N07BC06",
+    "drugbank_id": "DB01452"
+  },
+  {
+    "name": "Disulfiram",
+    "atc_code": "N07BB01",
+    "drugbank_id": "DB00822"
+  },
+  {
+    "name": "Distigmine",
+    "atc_code": "N07AA03",
+    "drugbank_id": "DB13694"
+  },
+  {
+    "name": "Donanemab",
+    "atc_code": "N06DX05",
+    "drugbank_id": "DB16647"
+  },
+  {
+    "name": "Donepezil",
+    "atc_code": "N06DA53",
+    "drugbank_id": "DB00843"
+  },
+  {
+    "name": "Donepezil",
+    "atc_code": "N06DA52",
+    "drugbank_id": "DB00843"
+  },
+  {
+    "name": "Donepezil",
+    "atc_code": "N06DA02",
+    "drugbank_id": "DB00843"
+  },
+  {
+    "name": "Deanol",
+    "atc_code": "N06BX04",
+    "drugbank_id": "DB13352"
+  },
+  {
+    "name": "Dexmethylphenidate",
+    "atc_code": "N06BA15",
+    "drugbank_id": "DB06701"
+  },
+  {
+    "name": "Dexmethylphenidate",
+    "atc_code": "N06BA11",
+    "drugbank_id": "DB06701"
+  },
+  {
+    "name": "Dextroamphetamine",
+    "atc_code": "N06BA02",
+    "drugbank_id": "DB01576"
+  },
+  {
+    "name": "Dextromethorphan",
+    "atc_code": "N06AX62",
+    "drugbank_id": "DB00514"
+  },
+  {
+    "name": "Desvenlafaxine",
+    "atc_code": "N06AX23",
+    "drugbank_id": "DB06700"
+  },
+  {
+    "name": "Duloxetine",
+    "atc_code": "N06AX21",
+    "drugbank_id": "DB00476"
+  },
+  {
+    "name": "Dimetacrine",
+    "atc_code": "N06AA18",
+    "drugbank_id": "DB08996"
+  },
+  {
+    "name": "Dosulepin",
+    "atc_code": "N06AA16",
+    "drugbank_id": "DB09167"
+  },
+  {
+    "name": "Doxepin",
+    "atc_code": "N06AA12",
+    "drugbank_id": "DB01142"
+  },
+  {
+    "name": "Dibenzepin",
+    "atc_code": "N06AA08",
+    "drugbank_id": "DB13225"
+  },
+  {
+    "name": "Desipramine",
+    "atc_code": "N06AA01",
+    "drugbank_id": "DB01151"
+  },
+  {
+    "name": "Daridorexant",
+    "atc_code": "N05CJ03",
+    "drugbank_id": "DB15031"
+  },
+  {
+    "name": "Dexmedetomidine",
+    "atc_code": "N05CM18",
+    "drugbank_id": "DB00633"
+  },
+  {
+    "name": "Doxefazepam",
+    "atc_code": "N05CD12",
+    "drugbank_id": "DB13837"
+  },
+  {
+    "name": "Dichloralphenazone",
+    "atc_code": "N05CC04",
+    "drugbank_id": "DB01495"
+  },
+  {
+    "name": "Diazepam",
+    "atc_code": "N05BA01",
+    "drugbank_id": "DB00829"
+  },
+  {
+    "name": "Droperidol",
+    "atc_code": "N05AD08",
+    "drugbank_id": "DB00450"
+  },
+  {
+    "name": "Dixyrazine",
+    "atc_code": "N05AB01",
+    "drugbank_id": "DB13784"
+  },
+  {
+    "name": "Dihydroergocryptine",
+    "atc_code": "N04BC03",
+    "drugbank_id": "DB13385"
+  },
+  {
+    "name": "Dexetimide",
+    "atc_code": "N04AA08",
+    "drugbank_id": "DB08997"
+  },
+  {
+    "name": "Dihydroergotamine",
+    "atc_code": "N02CA51",
+    "drugbank_id": "DB00320"
+  },
+  {
+    "name": "Dihydroergotamine",
+    "atc_code": "N02CA01",
+    "drugbank_id": "DB00320"
+  },
+  {
+    "name": "Dipyrocetyl",
+    "atc_code": "N02BA79",
+    "drugbank_id": "DB13839"
+  },
+  {
+    "name": "Dipyrocetyl",
+    "atc_code": "N02BA59",
+    "drugbank_id": "DB13839"
+  },
+  {
+    "name": "Diflunisal",
+    "atc_code": "N02BA11",
+    "drugbank_id": "DB00861"
+  },
+  {
+    "name": "Dipyrocetyl",
+    "atc_code": "N02BA09",
+    "drugbank_id": "DB13839"
+  },
+  {
+    "name": "Dexketoprofen",
+    "atc_code": "N02AJ14",
+    "drugbank_id": "DB09214"
+  },
+  {
+    "name": "Dihydrocodeine",
+    "atc_code": "N02AJ02",
+    "drugbank_id": "DB01551"
+  },
+  {
+    "name": "Dihydrocodeine",
+    "atc_code": "N02AJ01",
+    "drugbank_id": "DB01551"
+  },
+  {
+    "name": "Dezocine",
+    "atc_code": "N02AX03",
+    "drugbank_id": "DB01209"
+  },
+  {
+    "name": "Dextropropoxyphene",
+    "atc_code": "N02AC74",
+    "drugbank_id": "DB00647"
+  },
+  {
+    "name": "Dextropropoxyphene",
+    "atc_code": "N02AC54",
+    "drugbank_id": "DB00647"
+  },
+  {
+    "name": "Dextropropoxyphene",
+    "atc_code": "N02AC04",
+    "drugbank_id": "DB00647"
+  },
+  {
+    "name": "Dextromoramide",
+    "atc_code": "N02AC01",
+    "drugbank_id": "DB01529"
+  },
+  {
+    "name": "Dihydrocodeine",
+    "atc_code": "N02AA58",
+    "drugbank_id": "DB01551"
+  },
+  {
+    "name": "Dihydrocodeine",
+    "atc_code": "N02AA08",
+    "drugbank_id": "DB01551"
+  },
+  {
+    "name": "Dyclonine",
+    "atc_code": "N01BX02",
+    "drugbank_id": "DB00645"
+  },
+  {
+    "name": "Desflurane",
+    "atc_code": "N01AB07",
+    "drugbank_id": "DB01189"
+  },
+  {
+    "name": "Diethyl ether",
+    "atc_code": "N01AA01",
+    "drugbank_id": "DB13598"
+  },
+  {
+    "name": "Dimethyl carbate",
+    "atc_code": "P03BX05",
+    "drugbank_id": "DB13204"
+  },
+  {
+    "name": "Dibutylsuccinate",
+    "atc_code": "P03BX04",
+    "drugbank_id": "DB13332"
+  },
+  {
+    "name": "Dibutylphthalate",
+    "atc_code": "P03BX03",
+    "drugbank_id": "DB13716"
+  },
+  {
+    "name": "Dimethylphthalate",
+    "atc_code": "P03BX02",
+    "drugbank_id": "DB13336"
+  },
+  {
+    "name": "Diethyltoluamide",
+    "atc_code": "P03BX01",
+    "drugbank_id": "DB11282"
+  },
+  {
+    "name": "Deltamethrin",
+    "atc_code": "P03BA03",
+    "drugbank_id": "DB13600"
+  },
+  {
+    "name": "Dimethicone",
+    "atc_code": "P03AX05",
+    "drugbank_id": "DB11074"
+  },
+  {
+    "name": "Disulfiram",
+    "atc_code": "P03AA54",
+    "drugbank_id": "DB00822"
+  },
+  {
+    "name": "Disulfiram",
+    "atc_code": "P03AA04",
+    "drugbank_id": "DB00822"
+  },
+  {
+    "name": "Dixanthogen",
+    "atc_code": "P03AA01",
+    "drugbank_id": "DB13712"
+  },
+  {
+    "name": "Dichlorophen",
+    "atc_code": "P02DX02",
+    "drugbank_id": "DB11396"
+  },
+  {
+    "name": "Desaspidin",
+    "atc_code": "P02DX01",
+    "drugbank_id": "DB13567"
+  },
+  {
+    "name": "Diethylcarbamazine",
+    "atc_code": "P02CB02",
+    "drugbank_id": "DB00711"
+  },
+  {
+    "name": "Dehydroemetine",
+    "atc_code": "P01AX09",
+    "drugbank_id": "DB13865"
+  },
+  {
+    "name": "Difetarsone",
+    "atc_code": "P01AR02",
+    "drugbank_id": "DB13599"
+  },
+  {
+    "name": "Diloxanide",
+    "atc_code": "P01AC01",
+    "drugbank_id": "DB08792"
+  },
+  {
+    "name": "Diloxanide",
+    "atc_code": "P01AB53",
+    "drugbank_id": "DB08792"
+  },
+  {
+    "name": "Diloxanide",
+    "atc_code": "P01AB52",
+    "drugbank_id": "DB08792"
+  },
+  {
+    "name": "Deutivacaftor",
+    "atc_code": "R07AX33",
+    "drugbank_id": "DB15141"
+  },
+  {
+    "name": "Dimefline",
+    "atc_code": "R07AB08",
+    "drugbank_id": "DB13482"
+  },
+  {
+    "name": "Doxapram",
+    "atc_code": "R07AB01",
+    "drugbank_id": "DB00561"
+  },
+  {
+    "name": "Desloratadine",
+    "atc_code": "R06AX27",
+    "drugbank_id": "DB00967"
+  },
+  {
+    "name": "Deptropine",
+    "atc_code": "R06AX16",
+    "drugbank_id": "DB13466"
+  },
+  {
+    "name": "Dexbrompheniramine",
+    "atc_code": "R06AB56",
+    "drugbank_id": "DB00405"
+  },
+  {
+    "name": "Dexchlorpheniramine",
+    "atc_code": "R06AB52",
+    "drugbank_id": "DB13679"
+  },
+  {
+    "name": "Dexbrompheniramine",
+    "atc_code": "R06AB06",
+    "drugbank_id": "DB00405"
+  },
+  {
+    "name": "Dimetindene",
+    "atc_code": "R06AB03",
+    "drugbank_id": "DB08801"
+  },
+  {
+    "name": "Dexchlorpheniramine",
+    "atc_code": "R06AB02",
+    "drugbank_id": "DB13679"
+  },
+  {
+    "name": "Dimenhydrinate",
+    "atc_code": "R06AA61",
+    "drugbank_id": "DB00985"
+  },
+  {
+    "name": "Dimenhydrinate",
+    "atc_code": "R06AA11",
+    "drugbank_id": "DB00985"
+  },
+  {
+    "name": "Doxylamine",
+    "atc_code": "R06AA59",
+    "drugbank_id": "DB00366"
+  },
+  {
+    "name": "Diphenylpyraline",
+    "atc_code": "R06AA57",
+    "drugbank_id": "DB01146"
+  },
+  {
+    "name": "Diphenhydramine",
+    "atc_code": "R06AA52",
+    "drugbank_id": "DB01075"
+  },
+  {
+    "name": "Doxylamine",
+    "atc_code": "R06AA09",
+    "drugbank_id": "DB00366"
+  },
+  {
+    "name": "Diphenylpyraline",
+    "atc_code": "R06AA07",
+    "drugbank_id": "DB01146"
+  },
+  {
+    "name": "Diphenhydramine",
+    "atc_code": "R06AA02",
+    "drugbank_id": "DB01075"
+  },
+  {
+    "name": "Dimethoxanate",
+    "atc_code": "R05DB28",
+    "drugbank_id": "DB13794"
+  },
+  {
+    "name": "Dropropizine",
+    "atc_code": "R05DB19",
+    "drugbank_id": "DB13785"
+  },
+  {
+    "name": "Droxypropine",
+    "atc_code": "R05DB17",
+    "drugbank_id": "DB13436"
+  },
+  {
+    "name": "Dibunate",
+    "atc_code": "R05DB16",
+    "drugbank_id": "DB13796"
+  },
+  {
+    "name": "Dimemorfan",
+    "atc_code": "R05DA11",
+    "drugbank_id": "DB13810"
+  },
+  {
+    "name": "Dextromethorphan",
+    "atc_code": "R05DA09",
+    "drugbank_id": "DB00514"
+  },
+  {
+    "name": "Dornase alfa",
+    "atc_code": "R05CB13",
+    "drugbank_id": "DB00003"
+  },
+  {
+    "name": "Domiodol",
+    "atc_code": "R05CB08",
+    "drugbank_id": "DB13768"
+  },
+  {
+    "name": "Dyphylline",
+    "atc_code": "R03DB01",
+    "drugbank_id": "DB00651"
+  },
+  {
+    "name": "Dyphylline",
+    "atc_code": "R03DA51",
+    "drugbank_id": "DB00651"
+  },
+  {
+    "name": "Dyphylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB00651"
+  },
+  {
+    "name": "Doxofylline",
+    "atc_code": "R03DA11",
+    "drugbank_id": "DB09273"
+  },
+  {
+    "name": "Dyphylline",
+    "atc_code": "R03DA01",
+    "drugbank_id": "DB00651"
+  },
+  {
+    "name": "Dyclonine",
+    "atc_code": "R02AD04",
+    "drugbank_id": "DB00645"
+  },
+  {
+    "name": "Dichlorobenzyl alcohol",
+    "atc_code": "R02AA03",
+    "drugbank_id": "DB13269"
+  },
+  {
+    "name": "Dequalinium",
+    "atc_code": "R02AA02",
+    "drugbank_id": "DB04209"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "R01AD53",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "R01AD03",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S03CA01",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S03BA01",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S02CA06",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S02BA06",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Diquafosol",
+    "atc_code": "S01XA33",
+    "drugbank_id": "DB15919"
+  },
+  {
+    "name": "Dexpanthenol",
+    "atc_code": "S01XA12",
+    "drugbank_id": "DB09357"
+  },
+  {
+    "name": "Dapiprazole",
+    "atc_code": "S01EX02",
+    "drugbank_id": "DB00298"
+  },
+  {
+    "name": "Dorzolamide",
+    "atc_code": "S01EE52",
+    "drugbank_id": "DB00869"
+  },
+  {
+    "name": "Dorzolamide",
+    "atc_code": "S01EC03",
+    "drugbank_id": "DB00869"
+  },
+  {
+    "name": "Diclofenamide",
+    "atc_code": "S01EC02",
+    "drugbank_id": "DB01144"
+  },
+  {
+    "name": "Demecarium",
+    "atc_code": "S01EB04",
+    "drugbank_id": "DB00944"
+  },
+  {
+    "name": "Dipivefrin",
+    "atc_code": "S01EA02",
+    "drugbank_id": "DB00449"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "S01CC01",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S01CB01",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S01CA01",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Diclofenac",
+    "atc_code": "S01BC03",
+    "drugbank_id": "DB00586"
+  },
+  {
+    "name": "Difluprednate",
+    "atc_code": "S01BA16",
+    "drugbank_id": "DB06781"
+  },
+  {
+    "name": "Desonide",
+    "atc_code": "S01BA11",
+    "drugbank_id": "DB01260"
+  },
+  {
+    "name": "Dexamethasone",
+    "atc_code": "S01BA01",
+    "drugbank_id": "DB01234"
+  },
+  {
+    "name": "Dibrompropamidine",
+    "atc_code": "S01AX14",
+    "drugbank_id": "DB13548"
+  },
+  {
+    "name": "Dibekacin",
+    "atc_code": "S01AA29",
+    "drugbank_id": "DB13270"
+  },
+  {
+    "name": "Dihydrostreptomycin",
+    "atc_code": "S01AA15",
+    "drugbank_id": "DB11512"
+  },
+  {
+    "name": "Diodone",
+    "atc_code": "V08AA10",
+    "drugbank_id": "DB13568"
+  },
+  {
+    "name": "Diatrizoate",
+    "atc_code": "V08AA01",
+    "drugbank_id": "DB00271"
+  },
+  {
+    "name": "Difelikefalin",
+    "atc_code": "V03AX04",
+    "drugbank_id": "DB11938"
+  },
+  {
+    "name": "Diazoxide",
+    "atc_code": "V03AH01",
+    "drugbank_id": "DB01119"
+  },
+  {
+    "name": "Dexrazoxane",
+    "atc_code": "V03AF02",
+    "drugbank_id": "DB00380"
+  },
+  {
+    "name": "Deferasirox",
+    "atc_code": "V03AC03",
+    "drugbank_id": "DB01609"
+  },
+  {
+    "name": "Deferiprone",
+    "atc_code": "V03AC02",
+    "drugbank_id": "DB08826"
+  },
+  {
+    "name": "Deferoxamine",
+    "atc_code": "V03AC01",
+    "drugbank_id": "DB00746"
+  },
+  {
+    "name": "Digoxin Immune Fab (Ovine)",
+    "atc_code": "V03AB24",
+    "drugbank_id": "DB00076"
+  },
+  {
+    "name": "Dimercaprol",
+    "atc_code": "V03AB09",
+    "drugbank_id": "DB06782"
+  },
+  {
+    "name": "Dermatophagoides farinae",
+    "atc_code": "V01AA03",
+    "drugbank_id": "DB10400"
+  },
+  {
+    "name": "Dermatophagoides pteronyssinus",
+    "atc_code": "V01AA03",
+    "drugbank_id": "DB10401"
+  }
+]

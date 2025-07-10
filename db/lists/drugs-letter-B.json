@@ -1,0 +1,1587 @@
+[
+  {
+    "name": "Benzoic acid",
+    "atc_code": "A16AX30",
+    "drugbank_id": "DB03793"
+  },
+  {
+    "name": "Benzoic acid",
+    "atc_code": "A16AX11",
+    "drugbank_id": "DB03793"
+  },
+  {
+    "name": "Betaine",
+    "atc_code": "A16AA06",
+    "drugbank_id": "DB06756"
+  },
+  {
+    "name": "Biotin",
+    "atc_code": "A11HA05",
+    "drugbank_id": "DB00121"
+  },
+  {
+    "name": "Benfotiamine",
+    "atc_code": "A11DA03",
+    "drugbank_id": "DB11748"
+  },
+  {
+    "name": "Beta carotene",
+    "atc_code": "A11CA02",
+    "drugbank_id": "DB06755"
+  },
+  {
+    "name": "Bexagliflozin",
+    "atc_code": "A10BK08",
+    "drugbank_id": "DB12236"
+  },
+  {
+    "name": "Beinaglutide",
+    "atc_code": "A10BJ07",
+    "drugbank_id": "DB15072"
+  },
+  {
+    "name": "Benfluorex",
+    "atc_code": "A10BX06",
+    "drugbank_id": "DB09022"
+  },
+  {
+    "name": "Buformin",
+    "atc_code": "A10BA03",
+    "drugbank_id": "DB04830"
+  },
+  {
+    "name": "Betaine",
+    "atc_code": "A09AB02",
+    "drugbank_id": "DB06756"
+  },
+  {
+    "name": "Bupropion",
+    "atc_code": "A08AA62",
+    "drugbank_id": "DB01156"
+  },
+  {
+    "name": "Balsalazide",
+    "atc_code": "A07EC04",
+    "drugbank_id": "DB01014"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "A07EA07",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "A07EA06",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "A07EA04",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Broxyquinoline",
+    "atc_code": "A07AX01",
+    "drugbank_id": "DB13536"
+  },
+  {
+    "name": "Bisacodyl",
+    "atc_code": "A06AG02",
+    "drugbank_id": "DB09020"
+  },
+  {
+    "name": "Bisacodyl",
+    "atc_code": "A06AB52",
+    "drugbank_id": "DB09020"
+  },
+  {
+    "name": "Bisoxatin",
+    "atc_code": "A06AB09",
+    "drugbank_id": "DB09219"
+  },
+  {
+    "name": "Bisacodyl",
+    "atc_code": "A06AB02",
+    "drugbank_id": "DB09020"
+  },
+  {
+    "name": "Bromopride",
+    "atc_code": "A03FA04",
+    "drugbank_id": "DB09018"
+  },
+  {
+    "name": "Butylscopolamine",
+    "atc_code": "A03DB04",
+    "drugbank_id": "DB09300"
+  },
+  {
+    "name": "Bevonium",
+    "atc_code": "A03DA03",
+    "drugbank_id": "DB13542"
+  },
+  {
+    "name": "Bevonium",
+    "atc_code": "A03CA06",
+    "drugbank_id": "DB13542"
+  },
+  {
+    "name": "Butylscopolamine",
+    "atc_code": "A03BB01",
+    "drugbank_id": "DB09300"
+  },
+  {
+    "name": "Bevonium",
+    "atc_code": "A03AB13",
+    "drugbank_id": "DB13542"
+  },
+  {
+    "name": "Benzilone",
+    "atc_code": "A03AB01",
+    "drugbank_id": "DB13369"
+  },
+  {
+    "name": "Bismuth subnitrate",
+    "atc_code": "A02BX12",
+    "drugbank_id": "DB13209"
+  },
+  {
+    "name": "Becaplermin",
+    "atc_code": "A01AD08",
+    "drugbank_id": "DB00102"
+  },
+  {
+    "name": "Benzydamine",
+    "atc_code": "A01AD02",
+    "drugbank_id": "DB09084"
+  },
+  {
+    "name": "Benzoxonium",
+    "atc_code": "A01AB14",
+    "drugbank_id": "DB13565"
+  },
+  {
+    "name": "Betibeglogene autotemcel",
+    "atc_code": "B06AX02",
+    "drugbank_id": "DB16900"
+  },
+  {
+    "name": "Berotralstat",
+    "atc_code": "B06AC06",
+    "drugbank_id": "DB15982"
+  },
+  {
+    "name": "Batroxobin",
+    "atc_code": "B02BX03",
+    "drugbank_id": "DB09005"
+  },
+  {
+    "name": "Betrixaban",
+    "atc_code": "B01AF04",
+    "drugbank_id": "DB12364"
+  },
+  {
+    "name": "Bivalirudin",
+    "atc_code": "B01AE06",
+    "drugbank_id": "DB00006"
+  },
+  {
+    "name": "Brinase",
+    "atc_code": "B01AD06",
+    "drugbank_id": "DB13199"
+  },
+  {
+    "name": "Beraprost",
+    "atc_code": "B01AC19",
+    "drugbank_id": "DB05229"
+  },
+  {
+    "name": "Bemiparin",
+    "atc_code": "B01AB12",
+    "drugbank_id": "DB09258"
+  },
+  {
+    "name": "Bempedoic acid",
+    "atc_code": "C10BA10",
+    "drugbank_id": "DB11936"
+  },
+  {
+    "name": "Bempedoic acid",
+    "atc_code": "C10AX15",
+    "drugbank_id": "DB11936"
+  },
+  {
+    "name": "Bezafibrate",
+    "atc_code": "C10AB02",
+    "drugbank_id": "DB01393"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C09BX06",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C09BX05",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C09BX04",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C09BX02",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Benazepril",
+    "atc_code": "C09BB13",
+    "drugbank_id": "DB00542"
+  },
+  {
+    "name": "Benazepril",
+    "atc_code": "C09BA07",
+    "drugbank_id": "DB00542"
+  },
+  {
+    "name": "Benazepril",
+    "atc_code": "C09AA07",
+    "drugbank_id": "DB00542"
+  },
+  {
+    "name": "Bepridil",
+    "atc_code": "C08EA02",
+    "drugbank_id": "DB01244"
+  },
+  {
+    "name": "Benidipine",
+    "atc_code": "C08CA15",
+    "drugbank_id": "DB09231"
+  },
+  {
+    "name": "Barnidipine",
+    "atc_code": "C08CA12",
+    "drugbank_id": "DB09227"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C07FX04",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C07FB07",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bopindolol",
+    "atc_code": "C07CA17",
+    "drugbank_id": "DB08807"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C07BB07",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bevantolol",
+    "atc_code": "C07BB06",
+    "drugbank_id": "DB01295"
+  },
+  {
+    "name": "Bisoprolol",
+    "atc_code": "C07AB07",
+    "drugbank_id": "DB00612"
+  },
+  {
+    "name": "Bevantolol",
+    "atc_code": "C07AB06",
+    "drugbank_id": "DB01295"
+  },
+  {
+    "name": "Betaxolol",
+    "atc_code": "C07AB05",
+    "drugbank_id": "DB00195"
+  },
+  {
+    "name": "Bupranolol",
+    "atc_code": "C07AA19",
+    "drugbank_id": "DB08808"
+  },
+  {
+    "name": "Bopindolol",
+    "atc_code": "C07AA17",
+    "drugbank_id": "DB08807"
+  },
+  {
+    "name": "Beperminogene perplasmid",
+    "atc_code": "C05XX01",
+    "drugbank_id": "DB19236"
+  },
+  {
+    "name": "Benzocaine",
+    "atc_code": "C05AD03",
+    "drugbank_id": "DB01086"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "C05AA05",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Butalamine",
+    "atc_code": "C04AX23",
+    "drugbank_id": "DB13681"
+  },
+  {
+    "name": "Buflomedil",
+    "atc_code": "C04AX20",
+    "drugbank_id": "DB13510"
+  },
+  {
+    "name": "Bencyclane",
+    "atc_code": "C04AX11",
+    "drugbank_id": "DB13488"
+  },
+  {
+    "name": "Bamethan",
+    "atc_code": "C04AA31",
+    "drugbank_id": "DB13206"
+  },
+  {
+    "name": "Bumetanide",
+    "atc_code": "C03EB02",
+    "drugbank_id": "DB00887"
+  },
+  {
+    "name": "Buthiazide",
+    "atc_code": "C03EA14",
+    "drugbank_id": "DB15861"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "atc_code": "C03EA13",
+    "drugbank_id": "DB00436"
+  },
+  {
+    "name": "Bumetanide",
+    "atc_code": "C03CB02",
+    "drugbank_id": "DB00887"
+  },
+  {
+    "name": "Bumetanide",
+    "atc_code": "C03CA02",
+    "drugbank_id": "DB00887"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "atc_code": "C03AB01",
+    "drugbank_id": "DB00436"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "atc_code": "C03AA01",
+    "drugbank_id": "DB00436"
+  },
+  {
+    "name": "Bietaserpine",
+    "atc_code": "C02LA07",
+    "drugbank_id": "DB13575"
+  },
+  {
+    "name": "Bosentan",
+    "atc_code": "C02KX01",
+    "drugbank_id": "DB00559"
+  },
+  {
+    "name": "Bethanidine",
+    "atc_code": "C02CC01",
+    "drugbank_id": "DB00217"
+  },
+  {
+    "name": "Bietaserpine",
+    "atc_code": "C02AA57",
+    "drugbank_id": "DB13575"
+  },
+  {
+    "name": "Bietaserpine",
+    "atc_code": "C02AA07",
+    "drugbank_id": "DB13575"
+  },
+  {
+    "name": "Benziodarone",
+    "atc_code": "C01DX54",
+    "drugbank_id": "DB13277"
+  },
+  {
+    "name": "Benziodarone",
+    "atc_code": "C01DX04",
+    "drugbank_id": "DB13277"
+  },
+  {
+    "name": "Bucladesine",
+    "atc_code": "C01CE04",
+    "drugbank_id": "DB13242"
+  },
+  {
+    "name": "Bunaftine",
+    "atc_code": "C01BD03",
+    "drugbank_id": "DB13652"
+  },
+  {
+    "name": "Bretylium",
+    "atc_code": "C01BD02",
+    "drugbank_id": "DB01158"
+  },
+  {
+    "name": "Brimonidine",
+    "atc_code": "D11AX21",
+    "drugbank_id": "DB00484"
+  },
+  {
+    "name": "Benzoyl peroxide",
+    "atc_code": "D10AE51",
+    "drugbank_id": "DB09096"
+  },
+  {
+    "name": "Benzoyl peroxide",
+    "atc_code": "D10AE01",
+    "drugbank_id": "DB09096"
+  },
+  {
+    "name": "Bithionol",
+    "atc_code": "D10AB01",
+    "drugbank_id": "DB04813"
+  },
+  {
+    "name": "Benzalkonium",
+    "atc_code": "D09AA11",
+    "drugbank_id": "DB11105"
+  },
+  {
+    "name": "Benzododecinium",
+    "atc_code": "D09AA05",
+    "drugbank_id": "DB13282"
+  },
+  {
+    "name": "Benzethonium",
+    "atc_code": "D08AJ58",
+    "drugbank_id": "DB11125"
+  },
+  {
+    "name": "Benzethonium",
+    "atc_code": "D08AJ08",
+    "drugbank_id": "DB11125"
+  },
+  {
+    "name": "Benzoxonium",
+    "atc_code": "D08AJ05",
+    "drugbank_id": "DB13565"
+  },
+  {
+    "name": "Benzalkonium",
+    "atc_code": "D08AJ01",
+    "drugbank_id": "DB11105"
+  },
+  {
+    "name": "Biphenylol",
+    "atc_code": "D08AE06",
+    "drugbank_id": "DB13734"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "D07XC01",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "D07CC04",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "D07CC01",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "D07BC01",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "D07AC15",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "D07AC09",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "D07AC01",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Bacitracin",
+    "atc_code": "D06AX05",
+    "drugbank_id": "DB00626"
+  },
+  {
+    "name": "Bergapten",
+    "atc_code": "D05BA03",
+    "drugbank_id": "DB12216"
+  },
+  {
+    "name": "Benzocaine",
+    "atc_code": "D04AB04",
+    "drugbank_id": "DB01086"
+  },
+  {
+    "name": "Bamipine",
+    "atc_code": "D04AA15",
+    "drugbank_id": "DB13489"
+  },
+  {
+    "name": "Bromelains",
+    "atc_code": "D03BA03",
+    "drugbank_id": "DB13281"
+  },
+  {
+    "name": "Beremagene geperpavec",
+    "atc_code": "D03AX16",
+    "drugbank_id": "DB17831"
+  },
+  {
+    "name": "Becaplermin",
+    "atc_code": "D03AX06",
+    "drugbank_id": "DB00102"
+  },
+  {
+    "name": "Beta carotene",
+    "atc_code": "D02BB01",
+    "drugbank_id": "DB06755"
+  },
+  {
+    "name": "Butenafine",
+    "atc_code": "D01AE23",
+    "drugbank_id": "DB01091"
+  },
+  {
+    "name": "Bromochlorosalicylanilide",
+    "atc_code": "D01AE01",
+    "drugbank_id": "DB13696"
+  },
+  {
+    "name": "Bifonazole",
+    "atc_code": "D01AC60",
+    "drugbank_id": "DB04794"
+  },
+  {
+    "name": "Bifonazole",
+    "atc_code": "D01AC10",
+    "drugbank_id": "DB04794"
+  },
+  {
+    "name": "Bazedoxifene",
+    "atc_code": "G03XC02",
+    "drugbank_id": "DB06401"
+  },
+  {
+    "name": "Bazedoxifene",
+    "atc_code": "G03CC07",
+    "drugbank_id": "DB06401"
+  },
+  {
+    "name": "Bremelanotide",
+    "atc_code": "G02CX05",
+    "drugbank_id": "DB11653"
+  },
+  {
+    "name": "Black cohosh",
+    "atc_code": "G02CX04",
+    "drugbank_id": "DB13975"
+  },
+  {
+    "name": "Benzydamine",
+    "atc_code": "G02CC03",
+    "drugbank_id": "DB09084"
+  },
+  {
+    "name": "Bromocriptine",
+    "atc_code": "G02CB01",
+    "drugbank_id": "DB01200"
+  },
+  {
+    "name": "Butoconazole",
+    "atc_code": "G01AF20",
+    "drugbank_id": "DB00639"
+  },
+  {
+    "name": "Butoconazole",
+    "atc_code": "G01AF15",
+    "drugbank_id": "DB00639"
+  },
+  {
+    "name": "Brinzolamide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01194"
+  },
+  {
+    "name": "Bumetanide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00887"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00436"
+  },
+  {
+    "name": "Benzthiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00562"
+  },
+  {
+    "name": "Bosentan",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB00559"
+  },
+  {
+    "name": "Broxyquinoline",
+    "atc_code": "G01AC06",
+    "drugbank_id": "DB13536"
+  },
+  {
+    "name": "Benzylthiouracil",
+    "atc_code": "H03BA03",
+    "drugbank_id": "DB13804"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "H02AB01",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Bezlotoxumab",
+    "atc_code": "J06BC03",
+    "drugbank_id": "DB13140"
+  },
+  {
+    "name": "Beclabuvir",
+    "atc_code": "J05AP58",
+    "drugbank_id": "DB12225"
+  },
+  {
+    "name": "Boceprevir",
+    "atc_code": "J05AP03",
+    "drugbank_id": "DB08873"
+  },
+  {
+    "name": "Bulevirtide",
+    "atc_code": "J05AX28",
+    "drugbank_id": "DB15248"
+  },
+  {
+    "name": "Baloxavir marboxil",
+    "atc_code": "J05AX25",
+    "drugbank_id": "DB13997"
+  },
+  {
+    "name": "Bictegravir",
+    "atc_code": "J05AR20",
+    "drugbank_id": "DB11799"
+  },
+  {
+    "name": "Brincidofovir",
+    "atc_code": "J05AB17",
+    "drugbank_id": "DB12151"
+  },
+  {
+    "name": "Brivudine",
+    "atc_code": "J05AB15",
+    "drugbank_id": "DB03312"
+  },
+  {
+    "name": "Bedaquiline",
+    "atc_code": "J04AK05",
+    "drugbank_id": "DB08903"
+  },
+  {
+    "name": "Bacitracin",
+    "atc_code": "J01XX10",
+    "drugbank_id": "DB00626"
+  },
+  {
+    "name": "Bekanamycin",
+    "atc_code": "J01GB13",
+    "drugbank_id": "DB13673"
+  },
+  {
+    "name": "Brodimoprim",
+    "atc_code": "J01EA02",
+    "drugbank_id": "DB13795"
+  },
+  {
+    "name": "Biapenem",
+    "atc_code": "J01DH05",
+    "drugbank_id": "DB13028"
+  },
+  {
+    "name": "Benzylpenicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01053"
+  },
+  {
+    "name": "Bacampicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01602"
+  },
+  {
+    "name": "Benzylpenicilloyl polylysine",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00895"
+  },
+  {
+    "name": "Benzylpenicillin",
+    "atc_code": "J01CE08",
+    "drugbank_id": "DB01053"
+  },
+  {
+    "name": "Benzylpenicillin",
+    "atc_code": "J01CE01",
+    "drugbank_id": "DB01053"
+  },
+  {
+    "name": "Bacampicillin",
+    "atc_code": "J01CA06",
+    "drugbank_id": "DB01602"
+  },
+  {
+    "name": "Begelomab",
+    "atc_code": "L04AG07",
+    "drugbank_id": "DB13241"
+  },
+  {
+    "name": "Belimumab",
+    "atc_code": "L04AG04",
+    "drugbank_id": "DB08879"
+  },
+  {
+    "name": "Baricitinib",
+    "atc_code": "L04AF02",
+    "drugbank_id": "DB11817"
+  },
+  {
+    "name": "Bimekizumab",
+    "atc_code": "L04AC21",
+    "drugbank_id": "DB12917"
+  },
+  {
+    "name": "Brodalumab",
+    "atc_code": "L04AC12",
+    "drugbank_id": "DB11776"
+  },
+  {
+    "name": "Briakinumab",
+    "atc_code": "L04AC09",
+    "drugbank_id": "DB05459"
+  },
+  {
+    "name": "Basiliximab",
+    "atc_code": "L04AC02",
+    "drugbank_id": "DB00074"
+  },
+  {
+    "name": "Belumosudil",
+    "atc_code": "L04AA48",
+    "drugbank_id": "DB16703"
+  },
+  {
+    "name": "Belatacept",
+    "atc_code": "L04AA28",
+    "drugbank_id": "DB06681"
+  },
+  {
+    "name": "BCG vaccine",
+    "atc_code": "L03AX03",
+    "drugbank_id": "DB12768"
+  },
+  {
+    "name": "Balugrastim",
+    "atc_code": "L03AA15",
+    "drugbank_id": "DB12699"
+  },
+  {
+    "name": "Bicalutamide",
+    "atc_code": "L02BB03",
+    "drugbank_id": "DB01128"
+  },
+  {
+    "name": "Bicalutamide",
+    "atc_code": "L02AE51",
+    "drugbank_id": "DB01128"
+  },
+  {
+    "name": "Buserelin",
+    "atc_code": "L02AE01",
+    "drugbank_id": "DB06719"
+  },
+  {
+    "name": "Belantamab mafodotin",
+    "atc_code": "L01FX15",
+    "drugbank_id": "DB15719"
+  },
+  {
+    "name": "Bermekimab",
+    "atc_code": "L01FX11",
+    "drugbank_id": "DB14947"
+  },
+  {
+    "name": "Blinatumomab",
+    "atc_code": "L01FX07",
+    "drugbank_id": "DB09052"
+  },
+  {
+    "name": "Brentuximab vedotin",
+    "atc_code": "L01FX05",
+    "drugbank_id": "DB08870"
+  },
+  {
+    "name": "Bevacizumab",
+    "atc_code": "L01FG01",
+    "drugbank_id": "DB00112"
+  },
+  {
+    "name": "Binimetinib",
+    "atc_code": "L01EE03",
+    "drugbank_id": "DB11967"
+  },
+  {
+    "name": "Brigatinib",
+    "atc_code": "L01ED04",
+    "drugbank_id": "DB12267"
+  },
+  {
+    "name": "Bosutinib",
+    "atc_code": "L01EA04",
+    "drugbank_id": "DB06616"
+  },
+  {
+    "name": "Brexucabtagene autoleucel",
+    "atc_code": "L01XL06",
+    "drugbank_id": "DB15699"
+  },
+  {
+    "name": "Belinostat",
+    "atc_code": "L01XH04",
+    "drugbank_id": "DB05015"
+  },
+  {
+    "name": "Bortezomib",
+    "atc_code": "L01XG01",
+    "drugbank_id": "DB00188"
+  },
+  {
+    "name": "Bexarotene",
+    "atc_code": "L01XF03",
+    "drugbank_id": "DB00307"
+  },
+  {
+    "name": "Bifikafusp alfa",
+    "atc_code": "L01XY04",
+    "drugbank_id": "DB19185"
+  },
+  {
+    "name": "Belzutifan",
+    "atc_code": "L01XX74",
+    "drugbank_id": "DB15463"
+  },
+  {
+    "name": "Bleomycin",
+    "atc_code": "L01DC01",
+    "drugbank_id": "DB00290"
+  },
+  {
+    "name": "Belotecan",
+    "atc_code": "L01CE04",
+    "drugbank_id": "DB12459"
+  },
+  {
+    "name": "Busulfan",
+    "atc_code": "L01AB01",
+    "drugbank_id": "DB01008"
+  },
+  {
+    "name": "Bendamustine",
+    "atc_code": "L01AA09",
+    "drugbank_id": "DB06769"
+  },
+  {
+    "name": "Bromelains",
+    "atc_code": "M09AB03",
+    "drugbank_id": "DB13281"
+  },
+  {
+    "name": "Burosumab",
+    "atc_code": "M05BX05",
+    "drugbank_id": "DB14012"
+  },
+  {
+    "name": "Benzbromarone",
+    "atc_code": "M04AB03",
+    "drugbank_id": "DB12319"
+  },
+  {
+    "name": "Baclofen",
+    "atc_code": "M03BX01",
+    "drugbank_id": "DB00181"
+  },
+  {
+    "name": "Botulinum toxin type A",
+    "atc_code": "M03AX01",
+    "drugbank_id": "DB00083"
+  },
+  {
+    "name": "Botulinum toxin type B",
+    "atc_code": "M03AX01",
+    "drugbank_id": "DB00042"
+  },
+  {
+    "name": "Bendazac",
+    "atc_code": "M02AA11",
+    "drugbank_id": "DB13501"
+  },
+  {
+    "name": "Bufexamac",
+    "atc_code": "M02AA09",
+    "drugbank_id": "DB13346"
+  },
+  {
+    "name": "Benzydamine",
+    "atc_code": "M02AA05",
+    "drugbank_id": "DB09084"
+  },
+  {
+    "name": "Bucillamine",
+    "atc_code": "M01CC02",
+    "drugbank_id": "DB12160"
+  },
+  {
+    "name": "Benzydamine",
+    "atc_code": "M01AX07",
+    "drugbank_id": "DB09084"
+  },
+  {
+    "name": "Benoxaprofen",
+    "atc_code": "M01AE06",
+    "drugbank_id": "DB04812"
+  },
+  {
+    "name": "Bufexamac",
+    "atc_code": "M01AB17",
+    "drugbank_id": "DB13346"
+  },
+  {
+    "name": "Bumadizone",
+    "atc_code": "M01AB07",
+    "drugbank_id": "DB13286"
+  },
+  {
+    "name": "Betahistine",
+    "atc_code": "N07CA01",
+    "drugbank_id": "DB06698"
+  },
+  {
+    "name": "Buprenorphine",
+    "atc_code": "N07BC51",
+    "drugbank_id": "DB00921"
+  },
+  {
+    "name": "Buprenorphine",
+    "atc_code": "N07BC01",
+    "drugbank_id": "DB00921"
+  },
+  {
+    "name": "Bethanechol",
+    "atc_code": "N07AB02",
+    "drugbank_id": "DB01019"
+  },
+  {
+    "name": "Bupropion",
+    "atc_code": "N06AX62",
+    "drugbank_id": "DB01156"
+  },
+  {
+    "name": "Brexanolone",
+    "atc_code": "N06AX29",
+    "drugbank_id": "DB11859"
+  },
+  {
+    "name": "Bupropion",
+    "atc_code": "N06AX12",
+    "drugbank_id": "DB01156"
+  },
+  {
+    "name": "Bifemelane",
+    "atc_code": "N06AX08",
+    "drugbank_id": "DB13550"
+  },
+  {
+    "name": "Butriptyline",
+    "atc_code": "N06AA15",
+    "drugbank_id": "DB09016"
+  },
+  {
+    "name": "Bromisoval",
+    "atc_code": "N05CM03",
+    "drugbank_id": "DB13370"
+  },
+  {
+    "name": "Brotizolam",
+    "atc_code": "N05CD09",
+    "drugbank_id": "DB09017"
+  },
+  {
+    "name": "Butabarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00237"
+  },
+  {
+    "name": "Butalbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00241"
+  },
+  {
+    "name": "Barbital",
+    "atc_code": "N05CA04",
+    "drugbank_id": "DB01483"
+  },
+  {
+    "name": "Butobarbital",
+    "atc_code": "N05CA03",
+    "drugbank_id": "DB01353"
+  },
+  {
+    "name": "Buspirone",
+    "atc_code": "N05BE01",
+    "drugbank_id": "DB00490"
+  },
+  {
+    "name": "Benzoctamine",
+    "atc_code": "N05BD01",
+    "drugbank_id": "DB09021"
+  },
+  {
+    "name": "Bentazepam",
+    "atc_code": "N05BA24",
+    "drugbank_id": "DB14719"
+  },
+  {
+    "name": "Bromazepam",
+    "atc_code": "N05BA08",
+    "drugbank_id": "DB01558"
+  },
+  {
+    "name": "Brexpiprazole",
+    "atc_code": "N05AX16",
+    "drugbank_id": "DB09128"
+  },
+  {
+    "name": "Benperidol",
+    "atc_code": "N05AD07",
+    "drugbank_id": "DB12867"
+  },
+  {
+    "name": "Bromperidol",
+    "atc_code": "N05AD06",
+    "drugbank_id": "DB12401"
+  },
+  {
+    "name": "Butaperazine",
+    "atc_code": "N05AB09",
+    "drugbank_id": "DB13213"
+  },
+  {
+    "name": "Budipine",
+    "atc_code": "N04BX03",
+    "drugbank_id": "DB13502"
+  },
+  {
+    "name": "Bromocriptine",
+    "atc_code": "N04BC01",
+    "drugbank_id": "DB01200"
+  },
+  {
+    "name": "Benzatropine",
+    "atc_code": "N04AC01",
+    "drugbank_id": "DB00245"
+  },
+  {
+    "name": "Bornaprine",
+    "atc_code": "N04AA11",
+    "drugbank_id": "DB13619"
+  },
+  {
+    "name": "Biperiden",
+    "atc_code": "N04AA02",
+    "drugbank_id": "DB00810"
+  },
+  {
+    "name": "Beclamide",
+    "atc_code": "N03AX30",
+    "drugbank_id": "DB09011"
+  },
+  {
+    "name": "Brivaracetam",
+    "atc_code": "N03AX23",
+    "drugbank_id": "DB05541"
+  },
+  {
+    "name": "Barbexaclone",
+    "atc_code": "N03AA04",
+    "drugbank_id": "DB09001"
+  },
+  {
+    "name": "Bucetin",
+    "atc_code": "N02BE74",
+    "drugbank_id": "DB13278"
+  },
+  {
+    "name": "Bucetin",
+    "atc_code": "N02BE54",
+    "drugbank_id": "DB13278"
+  },
+  {
+    "name": "Bucetin",
+    "atc_code": "N02BE04",
+    "drugbank_id": "DB13278"
+  },
+  {
+    "name": "Benorilate",
+    "atc_code": "N02BA10",
+    "drugbank_id": "DB13657"
+  },
+  {
+    "name": "Butorphanol",
+    "atc_code": "N02AF01",
+    "drugbank_id": "DB00611"
+  },
+  {
+    "name": "Buprenorphine",
+    "atc_code": "N02AE01",
+    "drugbank_id": "DB00921"
+  },
+  {
+    "name": "Bezitramide",
+    "atc_code": "N02AC05",
+    "drugbank_id": "DB01459"
+  },
+  {
+    "name": "Bupivacaine",
+    "atc_code": "N01BB59",
+    "drugbank_id": "DB00297"
+  },
+  {
+    "name": "Bupivacaine",
+    "atc_code": "N01BB51",
+    "drugbank_id": "DB00297"
+  },
+  {
+    "name": "Butanilicaine",
+    "atc_code": "N01BB05",
+    "drugbank_id": "DB13328"
+  },
+  {
+    "name": "Bupivacaine",
+    "atc_code": "N01BB01",
+    "drugbank_id": "DB00297"
+  },
+  {
+    "name": "Benzocaine",
+    "atc_code": "N01BA05",
+    "drugbank_id": "DB01086"
+  },
+  {
+    "name": "Benzyl alcohol",
+    "atc_code": "P03AX06",
+    "drugbank_id": "DB06770"
+  },
+  {
+    "name": "Benzyl benzoate",
+    "atc_code": "P03AX01",
+    "drugbank_id": "DB00676"
+  },
+  {
+    "name": "Bioallethrin",
+    "atc_code": "P03AC52",
+    "drugbank_id": "DB13746"
+  },
+  {
+    "name": "Bioallethrin",
+    "atc_code": "P03AC02",
+    "drugbank_id": "DB13746"
+  },
+  {
+    "name": "Bephenium",
+    "atc_code": "P02CX02",
+    "drugbank_id": "DB13462"
+  },
+  {
+    "name": "Bithionol",
+    "atc_code": "P02BX01",
+    "drugbank_id": "DB04813"
+  },
+  {
+    "name": "Benznidazole",
+    "atc_code": "P01CA02",
+    "drugbank_id": "DB11989"
+  },
+  {
+    "name": "Broxyquinoline",
+    "atc_code": "P01AA01",
+    "drugbank_id": "DB13536"
+  },
+  {
+    "name": "Bemegride",
+    "atc_code": "R07AB05",
+    "drugbank_id": "DB13740"
+  },
+  {
+    "name": "Bilastine",
+    "atc_code": "R06AX29",
+    "drugbank_id": "DB11591"
+  },
+  {
+    "name": "Bamipine",
+    "atc_code": "R06AX01",
+    "drugbank_id": "DB13489"
+  },
+  {
+    "name": "Buclizine",
+    "atc_code": "R06AE51",
+    "drugbank_id": "DB00354"
+  },
+  {
+    "name": "Buclizine",
+    "atc_code": "R06AE01",
+    "drugbank_id": "DB00354"
+  },
+  {
+    "name": "Brompheniramine",
+    "atc_code": "R06AB51",
+    "drugbank_id": "DB00835"
+  },
+  {
+    "name": "Brompheniramine",
+    "atc_code": "R06AB01",
+    "drugbank_id": "DB00835"
+  },
+  {
+    "name": "Bromodiphenhydramine",
+    "atc_code": "R06AA01",
+    "drugbank_id": "DB01237"
+  },
+  {
+    "name": "Butamirate",
+    "atc_code": "R05DB13",
+    "drugbank_id": "DB13731"
+  },
+  {
+    "name": "Bibenzonium",
+    "atc_code": "R05DB12",
+    "drugbank_id": "DB13630"
+  },
+  {
+    "name": "Benproperine",
+    "atc_code": "R05DB02",
+    "drugbank_id": "DB13309"
+  },
+  {
+    "name": "Benzonatate",
+    "atc_code": "R05DB01",
+    "drugbank_id": "DB00868"
+  },
+  {
+    "name": "Bromhexine",
+    "atc_code": "R05CB02",
+    "drugbank_id": "DB09019"
+  },
+  {
+    "name": "Benralizumab",
+    "atc_code": "R03DX10",
+    "drugbank_id": "DB12023"
+  },
+  {
+    "name": "Bromotheophylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB14018"
+  },
+  {
+    "name": "Bufylline",
+    "atc_code": "R03DA10",
+    "drugbank_id": "DB13812"
+  },
+  {
+    "name": "Bamifylline",
+    "atc_code": "R03DA08",
+    "drugbank_id": "DB13203"
+  },
+  {
+    "name": "Bambuterol",
+    "atc_code": "R03CC12",
+    "drugbank_id": "DB01408"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "R03BA04",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R03BA02",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "R03BA01",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R03AL11",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "R03AL09",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R03AK15",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "R03AK13",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R03AK12",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "R03AK08",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R03AK07",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Bitolterol",
+    "atc_code": "R03AC17",
+    "drugbank_id": "DB00901"
+  },
+  {
+    "name": "Benzydamine",
+    "atc_code": "R02AX03",
+    "drugbank_id": "DB09084"
+  },
+  {
+    "name": "Benzocaine",
+    "atc_code": "R02AD01",
+    "drugbank_id": "DB01086"
+  },
+  {
+    "name": "Bacitracin",
+    "atc_code": "R02AB04",
+    "drugbank_id": "DB00626"
+  },
+  {
+    "name": "Benzalkonium",
+    "atc_code": "R02AA16",
+    "drugbank_id": "DB11105"
+  },
+  {
+    "name": "Benzethonium",
+    "atc_code": "R02AA09",
+    "drugbank_id": "DB11125"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "R01AD06",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Budesonide",
+    "atc_code": "R01AD05",
+    "drugbank_id": "DB01222"
+  },
+  {
+    "name": "Beclomethasone dipropionate",
+    "atc_code": "R01AD01",
+    "drugbank_id": "DB00394"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S03CA06",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S03BA03",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S02BA07",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Boric acid",
+    "atc_code": "S02AA03",
+    "drugbank_id": "DB11326"
+  },
+  {
+    "name": "Bevacizumab",
+    "atc_code": "S01LA08",
+    "drugbank_id": "DB00112"
+  },
+  {
+    "name": "Brolucizumab",
+    "atc_code": "S01LA06",
+    "drugbank_id": "DB14864"
+  },
+  {
+    "name": "Bilastine",
+    "atc_code": "S01GX13",
+    "drugbank_id": "DB11591"
+  },
+  {
+    "name": "Brimonidine",
+    "atc_code": "S01GA07",
+    "drugbank_id": "DB00484"
+  },
+  {
+    "name": "Bimatoprost",
+    "atc_code": "S01EE03",
+    "drugbank_id": "DB00905"
+  },
+  {
+    "name": "Betaxolol",
+    "atc_code": "S01ED52",
+    "drugbank_id": "DB00195"
+  },
+  {
+    "name": "Befunolol",
+    "atc_code": "S01ED06",
+    "drugbank_id": "DB09013"
+  },
+  {
+    "name": "Betaxolol",
+    "atc_code": "S01ED02",
+    "drugbank_id": "DB00195"
+  },
+  {
+    "name": "Brinzolamide",
+    "atc_code": "S01EC54",
+    "drugbank_id": "DB01194"
+  },
+  {
+    "name": "Brinzolamide",
+    "atc_code": "S01EC04",
+    "drugbank_id": "DB01194"
+  },
+  {
+    "name": "Brimonidine",
+    "atc_code": "S01EA55",
+    "drugbank_id": "DB00484"
+  },
+  {
+    "name": "Brimonidine",
+    "atc_code": "S01EA05",
+    "drugbank_id": "DB00484"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S01CB04",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S01CA05",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Bromfenac",
+    "atc_code": "S01BC11",
+    "drugbank_id": "DB00963"
+  },
+  {
+    "name": "Bendazac",
+    "atc_code": "S01BC07",
+    "drugbank_id": "DB13501"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S01BB04",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Betamethasone",
+    "atc_code": "S01BA06",
+    "drugbank_id": "DB00443"
+  },
+  {
+    "name": "Bibrocathol",
+    "atc_code": "S01AX05",
+    "drugbank_id": "DB13818"
+  },
+  {
+    "name": "Besifloxacin",
+    "atc_code": "S01AE08",
+    "drugbank_id": "DB06771"
+  },
+  {
+    "name": "Bacitracin",
+    "atc_code": "S01AA32",
+    "drugbank_id": "DB00626"
+  },
+  {
+    "name": "Benzylpenicillin",
+    "atc_code": "S01AA14",
+    "drugbank_id": "DB01053"
+  },
+  {
+    "name": "Barium sulfate",
+    "atc_code": "V08BA02",
+    "drugbank_id": "DB11150"
+  },
+  {
+    "name": "Barium sulfate",
+    "atc_code": "V08BA01",
+    "drugbank_id": "DB11150"
+  },
+  {
+    "name": "Bentiromide",
+    "atc_code": "V04CK03",
+    "drugbank_id": "DB00522"
+  },
+  {
+    "name": "Benzoic acid",
+    "atc_code": "V04CG30",
+    "drugbank_id": "DB03793"
+  },
+  {
+    "name": "Betazole",
+    "atc_code": "V04CG02",
+    "drugbank_id": "DB00272"
+  }
+]

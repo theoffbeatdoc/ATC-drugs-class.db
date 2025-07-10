@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ximelagatran",
+    "atc_code": "B01AE05",
+    "drugbank_id": "DB04898"
+  },
+  {
+    "name": "Xanthinol",
+    "atc_code": "C04AD02",
+    "drugbank_id": "DB09092"
+  },
+  {
+    "name": "Xipamide",
+    "atc_code": "C03BA10",
+    "drugbank_id": "DB13803"
+  },
+  {
+    "name": "Xamoterol",
+    "atc_code": "C01CX07",
+    "drugbank_id": "DB13781"
+  },
+  {
+    "name": "Xenysalate",
+    "atc_code": "D11AC09",
+    "drugbank_id": "DB13815"
+  },
+  {
+    "name": "Xibornol",
+    "atc_code": "J01XX02",
+    "drugbank_id": "DB13714"
+  },
+  {
+    "name": "Xaliproden",
+    "atc_code": "N07XX03",
+    "drugbank_id": "DB06393"
+  },
+  {
+    "name": "Xenon",
+    "atc_code": "N01AX15",
+    "drugbank_id": "DB13453"
+  },
+  {
+    "name": "Xylometazoline",
+    "atc_code": "R01AB06",
+    "drugbank_id": "DB06694"
+  },
+  {
+    "name": "Xylometazoline",
+    "atc_code": "R01AA07",
+    "drugbank_id": "DB06694"
+  },
+  {
+    "name": "Xylometazoline",
+    "atc_code": "S01GA53",
+    "drugbank_id": "DB06694"
+  },
+  {
+    "name": "Xylometazoline",
+    "atc_code": "S01GA03",
+    "drugbank_id": "DB06694"
+  },
+  {
+    "name": "Xenon-133",
+    "atc_code": "V09EX03",
+    "drugbank_id": "DB09315"
+  },
+  {
+    "name": "Xenon",
+    "atc_code": "V04CX12",
+    "drugbank_id": "DB13453"
+  }
+]

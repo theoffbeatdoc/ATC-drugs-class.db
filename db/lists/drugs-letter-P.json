@@ -1,0 +1,2652 @@
+[
+  {
+    "name": "Phenylacetic acid",
+    "atc_code": "A16AX30",
+    "drugbank_id": "DB09269"
+  },
+  {
+    "name": "Phenylbutyric acid",
+    "atc_code": "A16AX03",
+    "drugbank_id": "DB06819"
+  },
+  {
+    "name": "Pabinafusp alfa",
+    "atc_code": "A16AB27",
+    "drugbank_id": "DB15633"
+  },
+  {
+    "name": "Pegzilarginase",
+    "atc_code": "A16AB24",
+    "drugbank_id": "DB14780"
+  },
+  {
+    "name": "Pegunigalsidase alfa",
+    "atc_code": "A16AB20",
+    "drugbank_id": "DB14992"
+  },
+  {
+    "name": "Pegvaliase",
+    "atc_code": "A16AB19",
+    "drugbank_id": "DB12839"
+  },
+  {
+    "name": "Prasterone",
+    "atc_code": "A14AA07",
+    "drugbank_id": "DB01708"
+  },
+  {
+    "name": "Pidolic acid",
+    "atc_code": "A12CC08",
+    "drugbank_id": "DB03088"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "A12BA51",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium gluconate",
+    "atc_code": "A12BA05",
+    "drugbank_id": "DB13620"
+  },
+  {
+    "name": "Potassium bicarbonate",
+    "atc_code": "A12BA04",
+    "drugbank_id": "DB11098"
+  },
+  {
+    "name": "Potassium citrate",
+    "atc_code": "A12BA02",
+    "drugbank_id": "DB09125"
+  },
+  {
+    "name": "Potassium chloride",
+    "atc_code": "A12BA01",
+    "drugbank_id": "DB00761"
+  },
+  {
+    "name": "Pantethine",
+    "atc_code": "A11HA32",
+    "drugbank_id": "DB11190"
+  },
+  {
+    "name": "Pantothenic acid",
+    "atc_code": "A11HA31",
+    "drugbank_id": "DB01783"
+  },
+  {
+    "name": "Pyridoxal phosphate",
+    "atc_code": "A11HA06",
+    "drugbank_id": "DB00114"
+  },
+  {
+    "name": "Pyridoxine",
+    "atc_code": "A11HA02",
+    "drugbank_id": "DB00165"
+  },
+  {
+    "name": "Pramlintide",
+    "atc_code": "A10BX05",
+    "drugbank_id": "DB01278"
+  },
+  {
+    "name": "Pioglitazone",
+    "atc_code": "A10BG03",
+    "drugbank_id": "DB01132"
+  },
+  {
+    "name": "Pioglitazone",
+    "atc_code": "A10BD12",
+    "drugbank_id": "DB01132"
+  },
+  {
+    "name": "Pioglitazone",
+    "atc_code": "A10BD09",
+    "drugbank_id": "DB01132"
+  },
+  {
+    "name": "Pioglitazone",
+    "atc_code": "A10BD06",
+    "drugbank_id": "DB01132"
+  },
+  {
+    "name": "Pioglitazone",
+    "atc_code": "A10BD05",
+    "drugbank_id": "DB01132"
+  },
+  {
+    "name": "Phenformin",
+    "atc_code": "A10BD01",
+    "drugbank_id": "DB00914"
+  },
+  {
+    "name": "Phenformin",
+    "atc_code": "A10BA01",
+    "drugbank_id": "DB00914"
+  },
+  {
+    "name": "Pepsin",
+    "atc_code": "A09AC01",
+    "drugbank_id": "DB13198"
+  },
+  {
+    "name": "Pepsin",
+    "atc_code": "A09AA03",
+    "drugbank_id": "DB13198"
+  },
+  {
+    "name": "Pancrelipase",
+    "atc_code": "A09AA02",
+    "drugbank_id": "DB00085"
+  },
+  {
+    "name": "Phentermine",
+    "atc_code": "A08AA51",
+    "drugbank_id": "DB00191"
+  },
+  {
+    "name": "Phentermine",
+    "atc_code": "A08AA01",
+    "drugbank_id": "DB00191"
+  },
+  {
+    "name": "Prednisone",
+    "atc_code": "A07EA03",
+    "drugbank_id": "DB00635"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "A07EA01",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Pectin",
+    "atc_code": "A07BC01",
+    "drugbank_id": "DB11158"
+  },
+  {
+    "name": "Phthalylsulfathiazole",
+    "atc_code": "A07AB02",
+    "drugbank_id": "DB13248"
+  },
+  {
+    "name": "Paromomycin",
+    "atc_code": "A07AA06",
+    "drugbank_id": "DB01421"
+  },
+  {
+    "name": "Polymyxin B",
+    "atc_code": "A07AA05",
+    "drugbank_id": "DB00781"
+  },
+  {
+    "name": "Plecanatide",
+    "atc_code": "A06AX07",
+    "drugbank_id": "DB13170"
+  },
+  {
+    "name": "Prucalopride",
+    "atc_code": "A06AX05",
+    "drugbank_id": "DB06480"
+  },
+  {
+    "name": "Polyethylene glycol",
+    "atc_code": "A06AD65",
+    "drugbank_id": "DB09287"
+  },
+  {
+    "name": "Polyethylene glycol",
+    "atc_code": "A06AD15",
+    "drugbank_id": "DB09287"
+  },
+  {
+    "name": "Pentaerithrityl",
+    "atc_code": "A06AD14",
+    "drugbank_id": "DB13526"
+  },
+  {
+    "name": "Plantago ovata seed",
+    "atc_code": "A06AC51",
+    "drugbank_id": "DB14585"
+  },
+  {
+    "name": "Picosulfuric acid",
+    "atc_code": "A06AB58",
+    "drugbank_id": "DB09268"
+  },
+  {
+    "name": "Picosulfuric acid",
+    "atc_code": "A06AB08",
+    "drugbank_id": "DB09268"
+  },
+  {
+    "name": "Phenolphthalein",
+    "atc_code": "A06AB04",
+    "drugbank_id": "DB04824"
+  },
+  {
+    "name": "Piprozolin",
+    "atc_code": "A05AX01",
+    "drugbank_id": "DB13202"
+  },
+  {
+    "name": "Palonosetron",
+    "atc_code": "A04AA55",
+    "drugbank_id": "DB00377"
+  },
+  {
+    "name": "Palonosetron",
+    "atc_code": "A04AA05",
+    "drugbank_id": "DB00377"
+  },
+  {
+    "name": "Pitofenone",
+    "atc_code": "A03DA02",
+    "drugbank_id": "DB15947"
+  },
+  {
+    "name": "Propantheline",
+    "atc_code": "A03CA34",
+    "drugbank_id": "DB00782"
+  },
+  {
+    "name": "Pipenzolate",
+    "atc_code": "A03CA09",
+    "drugbank_id": "DB13844"
+  },
+  {
+    "name": "Peppermint oil",
+    "atc_code": "A03AX15",
+    "drugbank_id": "DB11198"
+  },
+  {
+    "name": "Phloroglucinol",
+    "atc_code": "A03AX12",
+    "drugbank_id": "DB12944"
+  },
+  {
+    "name": "Proxazole",
+    "atc_code": "A03AX07",
+    "drugbank_id": "DB13819"
+  },
+  {
+    "name": "Pinaverium",
+    "atc_code": "A03AX04",
+    "drugbank_id": "DB09090"
+  },
+  {
+    "name": "Papaverine",
+    "atc_code": "A03AD01",
+    "drugbank_id": "DB01113"
+  },
+  {
+    "name": "Prifinium",
+    "atc_code": "A03AB18",
+    "drugbank_id": "DB13254"
+  },
+  {
+    "name": "Pipenzolate",
+    "atc_code": "A03AB14",
+    "drugbank_id": "DB13844"
+  },
+  {
+    "name": "Poldine",
+    "atc_code": "A03AB11",
+    "drugbank_id": "DB13507"
+  },
+  {
+    "name": "Propantheline",
+    "atc_code": "A03AB05",
+    "drugbank_id": "DB00782"
+  },
+  {
+    "name": "Penthienate",
+    "atc_code": "A03AB04",
+    "drugbank_id": "DB13695"
+  },
+  {
+    "name": "Piperidolate",
+    "atc_code": "A03AA30",
+    "drugbank_id": "DB13351"
+  },
+  {
+    "name": "Proglumide",
+    "atc_code": "A02BX06",
+    "drugbank_id": "DB13431"
+  },
+  {
+    "name": "Pirenzepine",
+    "atc_code": "A02BX03",
+    "drugbank_id": "DB00670"
+  },
+  {
+    "name": "Pantoprazole",
+    "atc_code": "A02BD11",
+    "drugbank_id": "DB00213"
+  },
+  {
+    "name": "Pantoprazole",
+    "atc_code": "A02BD04",
+    "drugbank_id": "DB00213"
+  },
+  {
+    "name": "Pantoprazole",
+    "atc_code": "A02BC02",
+    "drugbank_id": "DB00213"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "A01AC04",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "A01AC54",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Perboric acid",
+    "atc_code": "A01AB19",
+    "drugbank_id": "DB13235"
+  },
+  {
+    "name": "Potassium acetate",
+    "atc_code": "B05XA17",
+    "drugbank_id": "DB14498"
+  },
+  {
+    "name": "Potassium lactate",
+    "atc_code": "B05XA15",
+    "drugbank_id": "DB09483"
+  },
+  {
+    "name": "Potassium chloride",
+    "atc_code": "B05XA01",
+    "drugbank_id": "DB00761"
+  },
+  {
+    "name": "Peginesatide",
+    "atc_code": "B03XA04",
+    "drugbank_id": "DB08894"
+  },
+  {
+    "name": "Phylloquinone",
+    "atc_code": "B02BA01",
+    "drugbank_id": "DB01022"
+  },
+  {
+    "name": "Protein C",
+    "atc_code": "B01AD12",
+    "drugbank_id": "DB11312"
+  },
+  {
+    "name": "Prasugrel",
+    "atc_code": "B01AC22",
+    "drugbank_id": "DB06209"
+  },
+  {
+    "name": "Picotamide",
+    "atc_code": "B01AC03",
+    "drugbank_id": "DB13327"
+  },
+  {
+    "name": "Parnaparin",
+    "atc_code": "B01AB07",
+    "drugbank_id": "DB09260"
+  },
+  {
+    "name": "Phenprocoumon",
+    "atc_code": "B01AA04",
+    "drugbank_id": "DB00946"
+  },
+  {
+    "name": "Phenindione",
+    "atc_code": "B01AA02",
+    "drugbank_id": "DB00498"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX21",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX15",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX14",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX13",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX12",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C10BX11",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Pravastatin",
+    "atc_code": "C10BX02",
+    "drugbank_id": "DB00175"
+  },
+  {
+    "name": "Pitavastatin",
+    "atc_code": "C10BA13",
+    "drugbank_id": "DB08860"
+  },
+  {
+    "name": "Pravastatin",
+    "atc_code": "C10BA12",
+    "drugbank_id": "DB00175"
+  },
+  {
+    "name": "Pravastatin",
+    "atc_code": "C10BA11",
+    "drugbank_id": "DB00175"
+  },
+  {
+    "name": "Pravastatin",
+    "atc_code": "C10BA03",
+    "drugbank_id": "DB00175"
+  },
+  {
+    "name": "Probucol",
+    "atc_code": "C10AX02",
+    "drugbank_id": "DB01599"
+  },
+  {
+    "name": "Pemafibrate",
+    "atc_code": "C10AB12",
+    "drugbank_id": "DB15212"
+  },
+  {
+    "name": "Pitavastatin",
+    "atc_code": "C10AA08",
+    "drugbank_id": "DB08860"
+  },
+  {
+    "name": "Pravastatin",
+    "atc_code": "C10AA03",
+    "drugbank_id": "DB00175"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BX06",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BX04",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BX02",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BX01",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BB04",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09BA04",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perindopril",
+    "atc_code": "C09AA04",
+    "drugbank_id": "DB00790"
+  },
+  {
+    "name": "Perhexiline",
+    "atc_code": "C08EX02",
+    "drugbank_id": "DB01074"
+  },
+  {
+    "name": "Propranolol",
+    "atc_code": "C07FX01",
+    "drugbank_id": "DB00571"
+  },
+  {
+    "name": "Penbutolol",
+    "atc_code": "C07CA23",
+    "drugbank_id": "DB01359"
+  },
+  {
+    "name": "Pindolol",
+    "atc_code": "C07CA03",
+    "drugbank_id": "DB00960"
+  },
+  {
+    "name": "Propranolol",
+    "atc_code": "C07BA05",
+    "drugbank_id": "DB00571"
+  },
+  {
+    "name": "Practolol",
+    "atc_code": "C07AB01",
+    "drugbank_id": "DB01297"
+  },
+  {
+    "name": "Penbutolol",
+    "atc_code": "C07AA23",
+    "drugbank_id": "DB01359"
+  },
+  {
+    "name": "Propranolol",
+    "atc_code": "C07AA05",
+    "drugbank_id": "DB00571"
+  },
+  {
+    "name": "Pindolol",
+    "atc_code": "C07AA03",
+    "drugbank_id": "DB00960"
+  },
+  {
+    "name": "Phenol",
+    "atc_code": "C05BB05",
+    "drugbank_id": "DB03255"
+  },
+  {
+    "name": "Polidocanol",
+    "atc_code": "C05BB02",
+    "drugbank_id": "DB06811"
+  },
+  {
+    "name": "Pentosan polysulfate",
+    "atc_code": "C05BA51",
+    "drugbank_id": "DB00686"
+  },
+  {
+    "name": "Pentosan polysulfate",
+    "atc_code": "C05BA04",
+    "drugbank_id": "DB00686"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "C05AX06",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Pramocaine",
+    "atc_code": "C05AD07",
+    "drugbank_id": "DB09345"
+  },
+  {
+    "name": "Procaine",
+    "atc_code": "C05AD05",
+    "drugbank_id": "DB00721"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "C05AA04",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Phenoxybenzamine",
+    "atc_code": "C04AX02",
+    "drugbank_id": "DB00925"
+  },
+  {
+    "name": "Pentoxifylline",
+    "atc_code": "C04AD03",
+    "drugbank_id": "DB00806"
+  },
+  {
+    "name": "Pentifylline",
+    "atc_code": "C04AD01",
+    "drugbank_id": "DB13634"
+  },
+  {
+    "name": "Phentolamine",
+    "atc_code": "C04AB01",
+    "drugbank_id": "DB00692"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03CB02",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03CB01",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Piretanide",
+    "atc_code": "C03CA03",
+    "drugbank_id": "DB02925"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03BB07",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03BB05",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03BB04",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03BB03",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03BB02",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB09",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB08",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB07",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB06",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Polythiazide",
+    "atc_code": "C03AB05",
+    "drugbank_id": "DB01324"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB05",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB04",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB03",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB02",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Potassium",
+    "atc_code": "C03AB01",
+    "drugbank_id": "DB14500"
+  },
+  {
+    "name": "Polythiazide",
+    "atc_code": "C03AA05",
+    "drugbank_id": "DB01324"
+  },
+  {
+    "name": "Pinacidil",
+    "atc_code": "C02LX01",
+    "drugbank_id": "DB06762"
+  },
+  {
+    "name": "Pargyline",
+    "atc_code": "C02LL01",
+    "drugbank_id": "DB01626"
+  },
+  {
+    "name": "Prazosin",
+    "atc_code": "C02LE01",
+    "drugbank_id": "DB00457"
+  },
+  {
+    "name": "Pargyline",
+    "atc_code": "C02KC01",
+    "drugbank_id": "DB01626"
+  },
+  {
+    "name": "Pinacidil",
+    "atc_code": "C02DG01",
+    "drugbank_id": "DB06762"
+  },
+  {
+    "name": "Prazosin",
+    "atc_code": "C02CA01",
+    "drugbank_id": "DB00457"
+  },
+  {
+    "name": "Phosphocreatine",
+    "atc_code": "C01EB06",
+    "drugbank_id": "DB13191"
+  },
+  {
+    "name": "Prenylamine",
+    "atc_code": "C01DX52",
+    "drugbank_id": "DB04825"
+  },
+  {
+    "name": "Prenylamine",
+    "atc_code": "C01DX02",
+    "drugbank_id": "DB04825"
+  },
+  {
+    "name": "Propatyl nitrate",
+    "atc_code": "C01DA57",
+    "drugbank_id": "DB13255"
+  },
+  {
+    "name": "Pentaerythritol tetranitrate",
+    "atc_code": "C01DA55",
+    "drugbank_id": "DB06154"
+  },
+  {
+    "name": "Propatyl nitrate",
+    "atc_code": "C01DA07",
+    "drugbank_id": "DB13255"
+  },
+  {
+    "name": "Pentaerythritol tetranitrate",
+    "atc_code": "C01DA05",
+    "drugbank_id": "DB06154"
+  },
+  {
+    "name": "Prenalterol",
+    "atc_code": "C01CA13",
+    "drugbank_id": "DB13777"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "C01CA06",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Propafenone",
+    "atc_code": "C01BC03",
+    "drugbank_id": "DB01182"
+  },
+  {
+    "name": "Prajmaline",
+    "atc_code": "C01BA08",
+    "drugbank_id": "DB13555"
+  },
+  {
+    "name": "Procainamide",
+    "atc_code": "C01BA02",
+    "drugbank_id": "DB01035"
+  },
+  {
+    "name": "Peruvoside",
+    "atc_code": "C01AX02",
+    "drugbank_id": "DB13756"
+  },
+  {
+    "name": "Proscillaridin",
+    "atc_code": "C01AB51",
+    "drugbank_id": "DB13307"
+  },
+  {
+    "name": "Proscillaridin",
+    "atc_code": "C01AB01",
+    "drugbank_id": "DB13307"
+  },
+  {
+    "name": "Pyrithione",
+    "atc_code": "D11AX12",
+    "drugbank_id": "DB06815"
+  },
+  {
+    "name": "Pimecrolimus",
+    "atc_code": "D11AH02",
+    "drugbank_id": "DB00337"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "D11AC06",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "D09AA09",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Phenylmercuric nitrate",
+    "atc_code": "D09AA04",
+    "drugbank_id": "DB13388"
+  },
+  {
+    "name": "Propyl alcohol",
+    "atc_code": "D08AX53",
+    "drugbank_id": "DB03175"
+  },
+  {
+    "name": "Potassium permanganate",
+    "atc_code": "D08AX06",
+    "drugbank_id": "DB13831"
+  },
+  {
+    "name": "Propyl alcohol",
+    "atc_code": "D08AX03",
+    "drugbank_id": "DB03175"
+  },
+  {
+    "name": "Phenylmercuric borate",
+    "atc_code": "D08AK02",
+    "drugbank_id": "DB13834"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "D08AG02",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Phenol",
+    "atc_code": "D08AE03",
+    "drugbank_id": "DB03255"
+  },
+  {
+    "name": "Policresulen",
+    "atc_code": "D08AE02",
+    "drugbank_id": "DB13492"
+  },
+  {
+    "name": "Polihexanide",
+    "atc_code": "D08AC05",
+    "drugbank_id": "DB12277"
+  },
+  {
+    "name": "Propamidine",
+    "atc_code": "D08AC03",
+    "drugbank_id": "DB13296"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "D07XA02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "D07CA03",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "D07BA01",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednicarbate",
+    "atc_code": "D07AC18",
+    "drugbank_id": "DB01130"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "D07AA03",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Penciclovir",
+    "atc_code": "D06BB06",
+    "drugbank_id": "DB00299"
+  },
+  {
+    "name": "Podofilox",
+    "atc_code": "D06BB04",
+    "drugbank_id": "DB01179"
+  },
+  {
+    "name": "Pramocaine",
+    "atc_code": "D04AB07",
+    "drugbank_id": "DB09345"
+  },
+  {
+    "name": "Pheniramine",
+    "atc_code": "D04AA16",
+    "drugbank_id": "DB01620"
+  },
+  {
+    "name": "Promethazine",
+    "atc_code": "D04AA10",
+    "drugbank_id": "DB01069"
+  },
+  {
+    "name": "Pantothenic acid",
+    "atc_code": "D03AX04",
+    "drugbank_id": "DB01783"
+  },
+  {
+    "name": "Pyrrolnitrin",
+    "atc_code": "D01AA07",
+    "drugbank_id": "DB13603"
+  },
+  {
+    "name": "Pecilocin",
+    "atc_code": "D01AA04",
+    "drugbank_id": "DB13459"
+  },
+  {
+    "name": "Pentosan polysulfate",
+    "atc_code": "G04BX15",
+    "drugbank_id": "DB00686"
+  },
+  {
+    "name": "Phenyl salicylate",
+    "atc_code": "G04BX12",
+    "drugbank_id": "DB11071"
+  },
+  {
+    "name": "Phenazopyridine",
+    "atc_code": "G04BX06",
+    "drugbank_id": "DB01438"
+  },
+  {
+    "name": "Papaverine",
+    "atc_code": "G04BE52",
+    "drugbank_id": "DB01113"
+  },
+  {
+    "name": "Papaverine",
+    "atc_code": "G04BE02",
+    "drugbank_id": "DB01113"
+  },
+  {
+    "name": "Propiverine",
+    "atc_code": "G04BD06",
+    "drugbank_id": "DB12278"
+  },
+  {
+    "name": "Prasterone",
+    "atc_code": "G03XX01",
+    "drugbank_id": "DB01708"
+  },
+  {
+    "name": "Progesterone",
+    "atc_code": "G03FA04",
+    "drugbank_id": "DB00396"
+  },
+  {
+    "name": "Prasterone",
+    "atc_code": "G03EA03",
+    "drugbank_id": "DB01708"
+  },
+  {
+    "name": "Promegestone",
+    "atc_code": "G03DB07",
+    "drugbank_id": "DB13602"
+  },
+  {
+    "name": "Progesterone",
+    "atc_code": "G03DA04",
+    "drugbank_id": "DB00396"
+  },
+  {
+    "name": "Promestriene",
+    "atc_code": "G03CA09",
+    "drugbank_id": "DB12487"
+  },
+  {
+    "name": "Protiofate",
+    "atc_code": "G01AX13",
+    "drugbank_id": "DB13632"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "G01AX11",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Policresulen",
+    "atc_code": "G01AX03",
+    "drugbank_id": "DB13492"
+  },
+  {
+    "name": "Propenidazole",
+    "atc_code": "G01AF14",
+    "drugbank_id": "DB13319"
+  },
+  {
+    "name": "Piretanide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB02925"
+  },
+  {
+    "name": "Phthalylsulfathiazole",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB13248"
+  },
+  {
+    "name": "Polythiazide",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01324"
+  },
+  {
+    "name": "Probenecid",
+    "atc_code": "G01AE10",
+    "drugbank_id": "DB01032"
+  },
+  {
+    "name": "Pentamycin",
+    "atc_code": "G01AA11",
+    "drugbank_id": "DB13571"
+  },
+  {
+    "name": "Paricalcitol",
+    "atc_code": "H05BX02",
+    "drugbank_id": "DB00910"
+  },
+  {
+    "name": "Palopegteriparatide",
+    "atc_code": "H05AA05",
+    "drugbank_id": "DB18676"
+  },
+  {
+    "name": "Parathyroid hormone",
+    "atc_code": "H05AA03",
+    "drugbank_id": "DB05829"
+  },
+  {
+    "name": "Potassium perchlorate",
+    "atc_code": "H03BC01",
+    "drugbank_id": "DB09418"
+  },
+  {
+    "name": "Propylthiouracil",
+    "atc_code": "H03BA02",
+    "drugbank_id": "DB00550"
+  },
+  {
+    "name": "Prednylidene",
+    "atc_code": "H02AB11",
+    "drugbank_id": "DB13208"
+  },
+  {
+    "name": "Prednisone",
+    "atc_code": "H02AB07",
+    "drugbank_id": "DB00635"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "H02AB06",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Paramethasone",
+    "atc_code": "H02AB05",
+    "drugbank_id": "DB01384"
+  },
+  {
+    "name": "Pasireotide",
+    "atc_code": "H01CB05",
+    "drugbank_id": "DB06663"
+  },
+  {
+    "name": "Pegvisomant",
+    "atc_code": "H01AX01",
+    "drugbank_id": "DB00082"
+  },
+  {
+    "name": "Palivizumab",
+    "atc_code": "J06BD01",
+    "drugbank_id": "DB00110"
+  },
+  {
+    "name": "Pibrentasvir",
+    "atc_code": "J05AP57",
+    "drugbank_id": "DB13878"
+  },
+  {
+    "name": "Paritaprevir",
+    "atc_code": "J05AP53",
+    "drugbank_id": "DB09297"
+  },
+  {
+    "name": "Paritaprevir",
+    "atc_code": "J05AP52",
+    "drugbank_id": "DB09297"
+  },
+  {
+    "name": "Pleconaril",
+    "atc_code": "J05AX06",
+    "drugbank_id": "DB05105"
+  },
+  {
+    "name": "Peramivir",
+    "atc_code": "J05AH03",
+    "drugbank_id": "DB06614"
+  },
+  {
+    "name": "Penciclovir",
+    "atc_code": "J05AB13",
+    "drugbank_id": "DB00299"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM12",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Protionamide",
+    "atc_code": "J04AM11",
+    "drugbank_id": "DB12667"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM11",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM10",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Protionamide",
+    "atc_code": "J04AM10",
+    "drugbank_id": "DB12667"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM09",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM06",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AM05",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Pretomanid",
+    "atc_code": "J04AK08",
+    "drugbank_id": "DB05154"
+  },
+  {
+    "name": "Pyrazinamide",
+    "atc_code": "J04AK01",
+    "drugbank_id": "DB00339"
+  },
+  {
+    "name": "Protionamide",
+    "atc_code": "J04AD01",
+    "drugbank_id": "DB12667"
+  },
+  {
+    "name": "Posaconazole",
+    "atc_code": "J02AC04",
+    "drugbank_id": "DB01263"
+  },
+  {
+    "name": "Polymyxin B",
+    "atc_code": "J01XB02",
+    "drugbank_id": "DB00781"
+  },
+  {
+    "name": "Pipemidic acid",
+    "atc_code": "J01MB04",
+    "drugbank_id": "DB13823"
+  },
+  {
+    "name": "Piromidic acid",
+    "atc_code": "J01MB03",
+    "drugbank_id": "DB13744"
+  },
+  {
+    "name": "Pazufloxacin",
+    "atc_code": "J01MA18",
+    "drugbank_id": "DB11774"
+  },
+  {
+    "name": "Prulifloxacin",
+    "atc_code": "J01MA17",
+    "drugbank_id": "DB11892"
+  },
+  {
+    "name": "Pefloxacin",
+    "atc_code": "J01MA03",
+    "drugbank_id": "DB00487"
+  },
+  {
+    "name": "Plazomicin",
+    "atc_code": "J01GB14",
+    "drugbank_id": "DB12615"
+  },
+  {
+    "name": "Pristinamycin",
+    "atc_code": "J01FG01",
+    "drugbank_id": "DB13704"
+  },
+  {
+    "name": "Piperacillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00319"
+  },
+  {
+    "name": "Pivampicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01604"
+  },
+  {
+    "name": "Pivmecillinam",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB01605"
+  },
+  {
+    "name": "Procaine benzylpenicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB09320"
+  },
+  {
+    "name": "Pheneticillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB13337"
+  },
+  {
+    "name": "Phenoxymethylpenicillin",
+    "atc_code": "J01CR50",
+    "drugbank_id": "DB00417"
+  },
+  {
+    "name": "Phenoxymethylpenicillin",
+    "atc_code": "J01CE10",
+    "drugbank_id": "DB00417"
+  },
+  {
+    "name": "Procaine benzylpenicillin",
+    "atc_code": "J01CE09",
+    "drugbank_id": "DB09320"
+  },
+  {
+    "name": "Penamecillin",
+    "atc_code": "J01CE06",
+    "drugbank_id": "DB13739"
+  },
+  {
+    "name": "Pheneticillin",
+    "atc_code": "J01CE05",
+    "drugbank_id": "DB13337"
+  },
+  {
+    "name": "Propicillin",
+    "atc_code": "J01CE03",
+    "drugbank_id": "DB13660"
+  },
+  {
+    "name": "Phenoxymethylpenicillin",
+    "atc_code": "J01CE02",
+    "drugbank_id": "DB00417"
+  },
+  {
+    "name": "Piperacillin",
+    "atc_code": "J01CA12",
+    "drugbank_id": "DB00319"
+  },
+  {
+    "name": "Pivmecillinam",
+    "atc_code": "J01CA08",
+    "drugbank_id": "DB01605"
+  },
+  {
+    "name": "Pivampicillin",
+    "atc_code": "J01CA02",
+    "drugbank_id": "DB01604"
+  },
+  {
+    "name": "Penimepicycline",
+    "atc_code": "J01AA10",
+    "drugbank_id": "DB13264"
+  },
+  {
+    "name": "Pozelimab",
+    "atc_code": "L04AJ11",
+    "drugbank_id": "DB15218"
+  },
+  {
+    "name": "Pegcetacoplan",
+    "atc_code": "L04AJ03",
+    "drugbank_id": "DB16694"
+  },
+  {
+    "name": "Peficitinib",
+    "atc_code": "L04AF06",
+    "drugbank_id": "DB11708"
+  },
+  {
+    "name": "Ponesimod",
+    "atc_code": "L04AE04",
+    "drugbank_id": "DB12016"
+  },
+  {
+    "name": "Pomalidomide",
+    "atc_code": "L04AX06",
+    "drugbank_id": "DB08910"
+  },
+  {
+    "name": "Pirfenidone",
+    "atc_code": "L04AX05",
+    "drugbank_id": "DB04951"
+  },
+  {
+    "name": "Plerixafor",
+    "atc_code": "L03AX16",
+    "drugbank_id": "DB06809"
+  },
+  {
+    "name": "Pidotimod",
+    "atc_code": "L03AX05",
+    "drugbank_id": "DB11364"
+  },
+  {
+    "name": "Pegademase",
+    "atc_code": "L03AX04",
+    "drugbank_id": "DB00061"
+  },
+  {
+    "name": "Peginterferon Alfacon-2",
+    "atc_code": "L03AB16",
+    "drugbank_id": "DB19335"
+  },
+  {
+    "name": "Peginterferon alfa-2a",
+    "atc_code": "L03AB61",
+    "drugbank_id": "DB00008"
+  },
+  {
+    "name": "Peginterferon alfa-2b",
+    "atc_code": "L03AB60",
+    "drugbank_id": "DB00022"
+  },
+  {
+    "name": "Peginterferon beta-1a",
+    "atc_code": "L03AB13",
+    "drugbank_id": "DB09122"
+  },
+  {
+    "name": "Peginterferon alfa-2a",
+    "atc_code": "L03AB11",
+    "drugbank_id": "DB00008"
+  },
+  {
+    "name": "Peginterferon alfa-2b",
+    "atc_code": "L03AB10",
+    "drugbank_id": "DB00022"
+  },
+  {
+    "name": "Pegteograstim",
+    "atc_code": "L03AA17",
+    "drugbank_id": "DB15290"
+  },
+  {
+    "name": "Pegfilgrastim",
+    "atc_code": "L03AA13",
+    "drugbank_id": "DB00019"
+  },
+  {
+    "name": "Polyestradiol phosphate",
+    "atc_code": "L02AA02",
+    "drugbank_id": "DB09369"
+  },
+  {
+    "name": "Prolgolimab",
+    "atc_code": "L01FY03",
+    "drugbank_id": "DB16740"
+  },
+  {
+    "name": "Pertuzumab",
+    "atc_code": "L01FY01",
+    "drugbank_id": "DB06366"
+  },
+  {
+    "name": "Polatuzumab vedotin",
+    "atc_code": "L01FX14",
+    "drugbank_id": "DB12240"
+  },
+  {
+    "name": "Prolgolimab",
+    "atc_code": "L01FF08",
+    "drugbank_id": "DB16740"
+  },
+  {
+    "name": "Pembrolizumab",
+    "atc_code": "L01FF02",
+    "drugbank_id": "DB09037"
+  },
+  {
+    "name": "Panitumumab",
+    "atc_code": "L01FE02",
+    "drugbank_id": "DB01269"
+  },
+  {
+    "name": "Pertuzumab",
+    "atc_code": "L01FD02",
+    "drugbank_id": "DB06366"
+  },
+  {
+    "name": "Pralsetinib",
+    "atc_code": "L01EX23",
+    "drugbank_id": "DB15822"
+  },
+  {
+    "name": "Pexidartinib",
+    "atc_code": "L01EX15",
+    "drugbank_id": "DB12978"
+  },
+  {
+    "name": "Pazopanib",
+    "atc_code": "L01EX03",
+    "drugbank_id": "DB06589"
+  },
+  {
+    "name": "Pemigatinib",
+    "atc_code": "L01EN02",
+    "drugbank_id": "DB15102"
+  },
+  {
+    "name": "Parsaclisib",
+    "atc_code": "L01EM05",
+    "drugbank_id": "DB14867"
+  },
+  {
+    "name": "Pirtobrutinib",
+    "atc_code": "L01EL05",
+    "drugbank_id": "DB17472"
+  },
+  {
+    "name": "Pacritinib",
+    "atc_code": "L01EJ03",
+    "drugbank_id": "DB11697"
+  },
+  {
+    "name": "Palbociclib",
+    "atc_code": "L01EF01",
+    "drugbank_id": "DB09073"
+  },
+  {
+    "name": "Ponatinib",
+    "atc_code": "L01EA05",
+    "drugbank_id": "DB08901"
+  },
+  {
+    "name": "Pamiparib",
+    "atc_code": "L01XK06",
+    "drugbank_id": "DB14769"
+  },
+  {
+    "name": "Panobinostat",
+    "atc_code": "L01XH03",
+    "drugbank_id": "DB06603"
+  },
+  {
+    "name": "Pelabresib anhydrous",
+    "atc_code": "L01XX84",
+    "drugbank_id": "DB17129"
+  },
+  {
+    "name": "p-Toluenesulfonamide",
+    "atc_code": "L01XX83",
+    "drugbank_id": "DB17299"
+  },
+  {
+    "name": "Pentostatin",
+    "atc_code": "L01XX08",
+    "drugbank_id": "DB00552"
+  },
+  {
+    "name": "Pegaspargase",
+    "atc_code": "L01XX24",
+    "drugbank_id": "DB00059"
+  },
+  {
+    "name": "Plitidepsin",
+    "atc_code": "L01XX57",
+    "drugbank_id": "DB04977"
+  },
+  {
+    "name": "Padeliporfin",
+    "atc_code": "L01XD07",
+    "drugbank_id": "DB15575"
+  },
+  {
+    "name": "Porfimer sodium",
+    "atc_code": "L01XD01",
+    "drugbank_id": "DB00707"
+  },
+  {
+    "name": "Procarbazine",
+    "atc_code": "L01XB01",
+    "drugbank_id": "DB01168"
+  },
+  {
+    "name": "Plicamycin",
+    "atc_code": "L01DC02",
+    "drugbank_id": "DB06810"
+  },
+  {
+    "name": "Pixantrone",
+    "atc_code": "L01DB11",
+    "drugbank_id": "DB06193"
+  },
+  {
+    "name": "Pirarubicin",
+    "atc_code": "L01DB08",
+    "drugbank_id": "DB11616"
+  },
+  {
+    "name": "Paclitaxel",
+    "atc_code": "L01CD51",
+    "drugbank_id": "DB01229"
+  },
+  {
+    "name": "Paclitaxel poliglumex",
+    "atc_code": "L01CD03",
+    "drugbank_id": "DB13809"
+  },
+  {
+    "name": "Paclitaxel",
+    "atc_code": "L01CD01",
+    "drugbank_id": "DB01229"
+  },
+  {
+    "name": "Pralatrexate",
+    "atc_code": "L01BA05",
+    "drugbank_id": "DB06813"
+  },
+  {
+    "name": "Pemetrexed",
+    "atc_code": "L01BA04",
+    "drugbank_id": "DB00642"
+  },
+  {
+    "name": "Pipobroman",
+    "atc_code": "L01AX02",
+    "drugbank_id": "DB00236"
+  },
+  {
+    "name": "Prednimustine",
+    "atc_code": "L01AA08",
+    "drugbank_id": "DB12832"
+  },
+  {
+    "name": "Palovarotene",
+    "atc_code": "M09AX11",
+    "drugbank_id": "DB05467"
+  },
+  {
+    "name": "Pamidronic acid",
+    "atc_code": "M05BA03",
+    "drugbank_id": "DB00282"
+  },
+  {
+    "name": "Pegloticase",
+    "atc_code": "M04AX02",
+    "drugbank_id": "DB09208"
+  },
+  {
+    "name": "Probenecid",
+    "atc_code": "M04AC51",
+    "drugbank_id": "DB01032"
+  },
+  {
+    "name": "Probenecid",
+    "atc_code": "M04AB01",
+    "drugbank_id": "DB01032"
+  },
+  {
+    "name": "Pridinol",
+    "atc_code": "M03BX53",
+    "drugbank_id": "DB13642"
+  },
+  {
+    "name": "Pridinol",
+    "atc_code": "M03BX03",
+    "drugbank_id": "DB13642"
+  },
+  {
+    "name": "Phenprobamate",
+    "atc_code": "M03BA71",
+    "drugbank_id": "DB13354"
+  },
+  {
+    "name": "Phenprobamate",
+    "atc_code": "M03BA51",
+    "drugbank_id": "DB13354"
+  },
+  {
+    "name": "Phenprobamate",
+    "atc_code": "M03BA01",
+    "drugbank_id": "DB13354"
+  },
+  {
+    "name": "Pipecuronium",
+    "atc_code": "M03AC06",
+    "drugbank_id": "DB01338"
+  },
+  {
+    "name": "Pancuronium",
+    "atc_code": "M03AC01",
+    "drugbank_id": "DB01337"
+  },
+  {
+    "name": "Piroxicam",
+    "atc_code": "M02AA07",
+    "drugbank_id": "DB00554"
+  },
+  {
+    "name": "Phenylbutazone",
+    "atc_code": "M02AA01",
+    "drugbank_id": "DB00812"
+  },
+  {
+    "name": "Penicillamine",
+    "atc_code": "M01CC01",
+    "drugbank_id": "DB00859"
+  },
+  {
+    "name": "Phenylbutazone",
+    "atc_code": "M01BA01",
+    "drugbank_id": "DB00812"
+  },
+  {
+    "name": "Proquazone",
+    "atc_code": "M01AX13",
+    "drugbank_id": "DB13649"
+  },
+  {
+    "name": "Polmacoxib",
+    "atc_code": "M01AH07",
+    "drugbank_id": "DB12399"
+  },
+  {
+    "name": "Parecoxib",
+    "atc_code": "M01AH04",
+    "drugbank_id": "DB08439"
+  },
+  {
+    "name": "Pelubiprofen",
+    "atc_code": "M01AE20",
+    "drugbank_id": "DB12150"
+  },
+  {
+    "name": "Pirprofen",
+    "atc_code": "M01AE08",
+    "drugbank_id": "DB13722"
+  },
+  {
+    "name": "Piroxicam",
+    "atc_code": "M01AC01",
+    "drugbank_id": "DB00554"
+  },
+  {
+    "name": "Proglumetacin",
+    "atc_code": "M01AB14",
+    "drugbank_id": "DB13527"
+  },
+  {
+    "name": "Phenylbutazone",
+    "atc_code": "M01AA01",
+    "drugbank_id": "DB00812"
+  },
+  {
+    "name": "Phenylbutyric acid",
+    "atc_code": "N07XX19",
+    "drugbank_id": "DB06819"
+  },
+  {
+    "name": "Patisiran",
+    "atc_code": "N07XX12",
+    "drugbank_id": "DB14582"
+  },
+  {
+    "name": "Pitolisant",
+    "atc_code": "N07XX11",
+    "drugbank_id": "DB11642"
+  },
+  {
+    "name": "Pilocarpine",
+    "atc_code": "N07AX01",
+    "drugbank_id": "DB01085"
+  },
+  {
+    "name": "Pyridostigmine",
+    "atc_code": "N07AA02",
+    "drugbank_id": "DB00545"
+  },
+  {
+    "name": "Phenibut",
+    "atc_code": "N06BX22",
+    "drugbank_id": "DB13455"
+  },
+  {
+    "name": "Pramiracetam",
+    "atc_code": "N06BX16",
+    "drugbank_id": "DB13247"
+  },
+  {
+    "name": "Pipradrol",
+    "atc_code": "N06BX15",
+    "drugbank_id": "DB11584"
+  },
+  {
+    "name": "Prolintane",
+    "atc_code": "N06BX14",
+    "drugbank_id": "DB13438"
+  },
+  {
+    "name": "Pirisudanol",
+    "atc_code": "N06BX08",
+    "drugbank_id": "DB13412"
+  },
+  {
+    "name": "Piracetam",
+    "atc_code": "N06BX03",
+    "drugbank_id": "DB09210"
+  },
+  {
+    "name": "Pyritinol",
+    "atc_code": "N06BX02",
+    "drugbank_id": "DB13084"
+  },
+  {
+    "name": "Propentofylline",
+    "atc_code": "N06BC02",
+    "drugbank_id": "DB06479"
+  },
+  {
+    "name": "Pemoline",
+    "atc_code": "N06BA05",
+    "drugbank_id": "DB01230"
+  },
+  {
+    "name": "Pivagabine",
+    "atc_code": "N06AX15",
+    "drugbank_id": "DB12951"
+  },
+  {
+    "name": "Phenelzine",
+    "atc_code": "N06AF03",
+    "drugbank_id": "DB00780"
+  },
+  {
+    "name": "Paroxetine",
+    "atc_code": "N06AB05",
+    "drugbank_id": "DB00715"
+  },
+  {
+    "name": "Protriptyline",
+    "atc_code": "N06AA11",
+    "drugbank_id": "DB00344"
+  },
+  {
+    "name": "Propiomazine",
+    "atc_code": "N05CM06",
+    "drugbank_id": "DB00777"
+  },
+  {
+    "name": "Pyrithyldione",
+    "atc_code": "N05CE03",
+    "drugbank_id": "DB13331"
+  },
+  {
+    "name": "Paraldehyde",
+    "atc_code": "N05CC05",
+    "drugbank_id": "DB09117"
+  },
+  {
+    "name": "Phenobarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB01174"
+  },
+  {
+    "name": "Primidone",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00794"
+  },
+  {
+    "name": "Pentobarbital",
+    "atc_code": "N05CB01",
+    "drugbank_id": "DB00312"
+  },
+  {
+    "name": "Proxibarbal",
+    "atc_code": "N05CA22",
+    "drugbank_id": "DB13253"
+  },
+  {
+    "name": "Pentobarbital",
+    "atc_code": "N05CA01",
+    "drugbank_id": "DB00312"
+  },
+  {
+    "name": "Pinazepam",
+    "atc_code": "N05BA14",
+    "drugbank_id": "DB13335"
+  },
+  {
+    "name": "Prazepam",
+    "atc_code": "N05BA11",
+    "drugbank_id": "DB01588"
+  },
+  {
+    "name": "Pimavanserin",
+    "atc_code": "N05AX17",
+    "drugbank_id": "DB05316"
+  },
+  {
+    "name": "Paliperidone",
+    "atc_code": "N05AX13",
+    "drugbank_id": "DB01267"
+  },
+  {
+    "name": "Prothipendyl",
+    "atc_code": "N05AX07",
+    "drugbank_id": "DB12958"
+  },
+  {
+    "name": "Penfluridol",
+    "atc_code": "N05AG03",
+    "drugbank_id": "DB13791"
+  },
+  {
+    "name": "Pimozide",
+    "atc_code": "N05AG02",
+    "drugbank_id": "DB01100"
+  },
+  {
+    "name": "Pipamperone",
+    "atc_code": "N05AD05",
+    "drugbank_id": "DB09286"
+  },
+  {
+    "name": "Pipotiazine",
+    "atc_code": "N05AC04",
+    "drugbank_id": "DB01621"
+  },
+  {
+    "name": "Periciazine",
+    "atc_code": "N05AC01",
+    "drugbank_id": "DB01608"
+  },
+  {
+    "name": "Perazine",
+    "atc_code": "N05AB10",
+    "drugbank_id": "DB12710"
+  },
+  {
+    "name": "Prochlorperazine",
+    "atc_code": "N05AB04",
+    "drugbank_id": "DB00433"
+  },
+  {
+    "name": "Perphenazine",
+    "atc_code": "N05AB03",
+    "drugbank_id": "DB00850"
+  },
+  {
+    "name": "Promazine",
+    "atc_code": "N05AA03",
+    "drugbank_id": "DB00420"
+  },
+  {
+    "name": "Piribedil",
+    "atc_code": "N04BC08",
+    "drugbank_id": "DB12478"
+  },
+  {
+    "name": "Pramipexole",
+    "atc_code": "N04BC05",
+    "drugbank_id": "DB00413"
+  },
+  {
+    "name": "Pergolide",
+    "atc_code": "N04BC02",
+    "drugbank_id": "DB01186"
+  },
+  {
+    "name": "Phenglutarimide",
+    "atc_code": "N04AA09",
+    "drugbank_id": "DB13413"
+  },
+  {
+    "name": "Profenamine",
+    "atc_code": "N04AA05",
+    "drugbank_id": "DB00392"
+  },
+  {
+    "name": "Procyclidine",
+    "atc_code": "N04AA04",
+    "drugbank_id": "DB00387"
+  },
+  {
+    "name": "Perampanel",
+    "atc_code": "N03AX22",
+    "drugbank_id": "DB08883"
+  },
+  {
+    "name": "Pheneturide",
+    "atc_code": "N03AX13",
+    "drugbank_id": "DB13362"
+  },
+  {
+    "name": "Phenacemide",
+    "atc_code": "N03AX07",
+    "drugbank_id": "DB01121"
+  },
+  {
+    "name": "Progabide",
+    "atc_code": "N03AG05",
+    "drugbank_id": "DB00837"
+  },
+  {
+    "name": "Phensuximide",
+    "atc_code": "N03AD02",
+    "drugbank_id": "DB00832"
+  },
+  {
+    "name": "Paramethadione",
+    "atc_code": "N03AC01",
+    "drugbank_id": "DB00617"
+  },
+  {
+    "name": "Phenytoin",
+    "atc_code": "N03AB52",
+    "drugbank_id": "DB00252"
+  },
+  {
+    "name": "Phenytoin",
+    "atc_code": "N03AB02",
+    "drugbank_id": "DB00252"
+  },
+  {
+    "name": "Primidone",
+    "atc_code": "N03AA03",
+    "drugbank_id": "DB00794"
+  },
+  {
+    "name": "Phenobarbital",
+    "atc_code": "N03AA02",
+    "drugbank_id": "DB01174"
+  },
+  {
+    "name": "Pregabalin",
+    "atc_code": "N02BF02",
+    "drugbank_id": "DB00230"
+  },
+  {
+    "name": "Phenacetin",
+    "atc_code": "N02BE73",
+    "drugbank_id": "DB03783"
+  },
+  {
+    "name": "Phenacetin",
+    "atc_code": "N02BE53",
+    "drugbank_id": "DB03783"
+  },
+  {
+    "name": "Propacetamol",
+    "atc_code": "N02BE05",
+    "drugbank_id": "DB09288"
+  },
+  {
+    "name": "Phenacetin",
+    "atc_code": "N02BE03",
+    "drugbank_id": "DB03783"
+  },
+  {
+    "name": "Propyphenazone",
+    "atc_code": "N02BB74",
+    "drugbank_id": "DB13524"
+  },
+  {
+    "name": "Propyphenazone",
+    "atc_code": "N02BB54",
+    "drugbank_id": "DB13524"
+  },
+  {
+    "name": "Propyphenazone",
+    "atc_code": "N02BB04",
+    "drugbank_id": "DB13524"
+  },
+  {
+    "name": "Pentazocine",
+    "atc_code": "N02AD51",
+    "drugbank_id": "DB00652"
+  },
+  {
+    "name": "Phenazocine",
+    "atc_code": "N02AD02",
+    "drugbank_id": "DB13606"
+  },
+  {
+    "name": "Pentazocine",
+    "atc_code": "N02AD01",
+    "drugbank_id": "DB00652"
+  },
+  {
+    "name": "Piritramide",
+    "atc_code": "N02AC03",
+    "drugbank_id": "DB12492"
+  },
+  {
+    "name": "Phenol",
+    "atc_code": "N01BX03",
+    "drugbank_id": "DB03255"
+  },
+  {
+    "name": "Prilocaine",
+    "atc_code": "N01BB54",
+    "drugbank_id": "DB00750"
+  },
+  {
+    "name": "Prilocaine",
+    "atc_code": "N01BB04",
+    "drugbank_id": "DB00750"
+  },
+  {
+    "name": "Procaine",
+    "atc_code": "N01BA52",
+    "drugbank_id": "DB00721"
+  },
+  {
+    "name": "Procaine",
+    "atc_code": "N01BA02",
+    "drugbank_id": "DB00721"
+  },
+  {
+    "name": "Propofol",
+    "atc_code": "N01AX10",
+    "drugbank_id": "DB00818"
+  },
+  {
+    "name": "Propanidid",
+    "atc_code": "N01AX04",
+    "drugbank_id": "DB13234"
+  },
+  {
+    "name": "Phenoperidine",
+    "atc_code": "N01AH04",
+    "drugbank_id": "DB13605"
+  },
+  {
+    "name": "Permethrin",
+    "atc_code": "P03AC54",
+    "drugbank_id": "DB04930"
+  },
+  {
+    "name": "Phenothrin",
+    "atc_code": "P03AC53",
+    "drugbank_id": "DB13717"
+  },
+  {
+    "name": "Permethrin",
+    "atc_code": "P03AC04",
+    "drugbank_id": "DB04930"
+  },
+  {
+    "name": "Phenothrin",
+    "atc_code": "P03AC03",
+    "drugbank_id": "DB13717"
+  },
+  {
+    "name": "Pyrvinium",
+    "atc_code": "P02CX01",
+    "drugbank_id": "DB06816"
+  },
+  {
+    "name": "Pyrantel",
+    "atc_code": "P02CC01",
+    "drugbank_id": "DB11156"
+  },
+  {
+    "name": "Piperazine",
+    "atc_code": "P02CB01",
+    "drugbank_id": "DB00592"
+  },
+  {
+    "name": "Praziquantel",
+    "atc_code": "P02BA01",
+    "drugbank_id": "DB01058"
+  },
+  {
+    "name": "Pentamidine",
+    "atc_code": "P01CX01",
+    "drugbank_id": "DB00738"
+  },
+  {
+    "name": "Piperaquine",
+    "atc_code": "P01BX02",
+    "drugbank_id": "DB13941"
+  },
+  {
+    "name": "Pyrimethamine",
+    "atc_code": "P01BF09",
+    "drugbank_id": "DB00205"
+  },
+  {
+    "name": "Piperaquine",
+    "atc_code": "P01BF07",
+    "drugbank_id": "DB13941"
+  },
+  {
+    "name": "Pyronaridine",
+    "atc_code": "P01BF06",
+    "drugbank_id": "DB12975"
+  },
+  {
+    "name": "Piperaquine",
+    "atc_code": "P01BF05",
+    "drugbank_id": "DB13941"
+  },
+  {
+    "name": "Pyrimethamine",
+    "atc_code": "P01BF04",
+    "drugbank_id": "DB00205"
+  },
+  {
+    "name": "Pyrimethamine",
+    "atc_code": "P01BD51",
+    "drugbank_id": "DB00205"
+  },
+  {
+    "name": "Pyrimethamine",
+    "atc_code": "P01BD01",
+    "drugbank_id": "DB00205"
+  },
+  {
+    "name": "Proguanil",
+    "atc_code": "P01BB52",
+    "drugbank_id": "DB01131"
+  },
+  {
+    "name": "Proguanil",
+    "atc_code": "P01BB51",
+    "drugbank_id": "DB01131"
+  },
+  {
+    "name": "Proguanil",
+    "atc_code": "P01BB01",
+    "drugbank_id": "DB01131"
+  },
+  {
+    "name": "Primaquine",
+    "atc_code": "P01BA03",
+    "drugbank_id": "DB01087"
+  },
+  {
+    "name": "Phanquinone",
+    "atc_code": "P01AX04",
+    "drugbank_id": "DB13469"
+  },
+  {
+    "name": "Propenidazole",
+    "atc_code": "P01AB05",
+    "drugbank_id": "DB13319"
+  },
+  {
+    "name": "Pentetrazol",
+    "atc_code": "R07AB53",
+    "drugbank_id": "DB13415"
+  },
+  {
+    "name": "Prethcamide",
+    "atc_code": "R07AB06",
+    "drugbank_id": "DB13447"
+  },
+  {
+    "name": "Pentetrazol",
+    "atc_code": "R07AB03",
+    "drugbank_id": "DB13415"
+  },
+  {
+    "name": "Pyrrobutamine",
+    "atc_code": "R06AX58",
+    "drugbank_id": "DB13846"
+  },
+  {
+    "name": "Pimethixene",
+    "atc_code": "R06AX23",
+    "drugbank_id": "DB13292"
+  },
+  {
+    "name": "Pyrrobutamine",
+    "atc_code": "R06AX08",
+    "drugbank_id": "DB13846"
+  },
+  {
+    "name": "Phenindamine",
+    "atc_code": "R06AX04",
+    "drugbank_id": "DB01619"
+  },
+  {
+    "name": "Promethazine",
+    "atc_code": "R06AD52",
+    "drugbank_id": "DB01069"
+  },
+  {
+    "name": "Promethazine",
+    "atc_code": "R06AD02",
+    "drugbank_id": "DB01069"
+  },
+  {
+    "name": "Pheniramine",
+    "atc_code": "R06AB05",
+    "drugbank_id": "DB01620"
+  },
+  {
+    "name": "Piperidione",
+    "atc_code": "R05DB23",
+    "drugbank_id": "DB13224"
+  },
+  {
+    "name": "Prenoxdiazine",
+    "atc_code": "R05DB18",
+    "drugbank_id": "DB13397"
+  },
+  {
+    "name": "Pipazethate",
+    "atc_code": "R05DB11",
+    "drugbank_id": "DB08796"
+  },
+  {
+    "name": "Pentoxyverine",
+    "atc_code": "R05DB05",
+    "drugbank_id": "DB11186"
+  },
+  {
+    "name": "Pholcodine",
+    "atc_code": "R05DA08",
+    "drugbank_id": "DB09209"
+  },
+  {
+    "name": "Polygala senega root",
+    "atc_code": "R05CA06",
+    "drugbank_id": "DB14749"
+  },
+  {
+    "name": "Potassium Iodide",
+    "atc_code": "R05CA02",
+    "drugbank_id": "DB06715"
+  },
+  {
+    "name": "Pranlukast",
+    "atc_code": "R03DC02",
+    "drugbank_id": "DB01411"
+  },
+  {
+    "name": "Proxyphylline",
+    "atc_code": "R03DB03",
+    "drugbank_id": "DB13449"
+  },
+  {
+    "name": "Pentoxifylline",
+    "atc_code": "R03DA20",
+    "drugbank_id": "DB00806"
+  },
+  {
+    "name": "Proxyphylline",
+    "atc_code": "R03DA03",
+    "drugbank_id": "DB13449"
+  },
+  {
+    "name": "Procaterol",
+    "atc_code": "R03CC08",
+    "drugbank_id": "DB01366"
+  },
+  {
+    "name": "Pirbuterol",
+    "atc_code": "R03CC07",
+    "drugbank_id": "DB01291"
+  },
+  {
+    "name": "Procaterol",
+    "atc_code": "R03AC16",
+    "drugbank_id": "DB01366"
+  },
+  {
+    "name": "Pirbuterol",
+    "atc_code": "R03AC08",
+    "drugbank_id": "DB01291"
+  },
+  {
+    "name": "Phenol",
+    "atc_code": "R02AA19",
+    "drugbank_id": "DB03255"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "R02AA15",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "R01BA53",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Pseudoephedrine",
+    "atc_code": "R01BA52",
+    "drugbank_id": "DB00852"
+  },
+  {
+    "name": "Phenylpropanolamine",
+    "atc_code": "R01BA51",
+    "drugbank_id": "DB00397"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "R01BA03",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Pseudoephedrine",
+    "atc_code": "R01BA02",
+    "drugbank_id": "DB00852"
+  },
+  {
+    "name": "Phenylpropanolamine",
+    "atc_code": "R01BA01",
+    "drugbank_id": "DB00397"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "R01AD52",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "R01AD02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "R01AB01",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "R01AA04",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S03CA02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S03BA02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Polymyxin B",
+    "atc_code": "S03AA03",
+    "drugbank_id": "DB00781"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S02CA01",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S02BA03",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Polymyxin B",
+    "atc_code": "S02AA11",
+    "drugbank_id": "DB00781"
+  },
+  {
+    "name": "Pegcetacoplan",
+    "atc_code": "S01XA31",
+    "drugbank_id": "DB16694"
+  },
+  {
+    "name": "Potassium Iodide",
+    "atc_code": "S01XA04",
+    "drugbank_id": "DB06715"
+  },
+  {
+    "name": "Pegaptanib",
+    "atc_code": "S01LA03",
+    "drugbank_id": "DB04895"
+  },
+  {
+    "name": "Procaine",
+    "atc_code": "S01HA05",
+    "drugbank_id": "DB00721"
+  },
+  {
+    "name": "Proparacaine",
+    "atc_code": "S01HA04",
+    "drugbank_id": "DB00807"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "S01GA55",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "S01GA05",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "S01FB51",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Phenylephrine",
+    "atc_code": "S01FB01",
+    "drugbank_id": "DB00388"
+  },
+  {
+    "name": "Pilocarpine",
+    "atc_code": "S01EB51",
+    "drugbank_id": "DB01085"
+  },
+  {
+    "name": "Paraoxon",
+    "atc_code": "S01EB10",
+    "drugbank_id": "DB13495"
+  },
+  {
+    "name": "Physostigmine",
+    "atc_code": "S01EB05",
+    "drugbank_id": "DB00981"
+  },
+  {
+    "name": "Pilocarpine",
+    "atc_code": "S01EB01",
+    "drugbank_id": "DB01085"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S01CB02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S01CA02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Pranoprofen",
+    "atc_code": "S01BC09",
+    "drugbank_id": "DB13514"
+  },
+  {
+    "name": "Piroxicam",
+    "atc_code": "S01BC06",
+    "drugbank_id": "DB00554"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S01BB02",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "S01BA04",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Polihexanide",
+    "atc_code": "S01AX24",
+    "drugbank_id": "DB12277"
+  },
+  {
+    "name": "Povidone-iodine",
+    "atc_code": "S01AX18",
+    "drugbank_id": "DB06812"
+  },
+  {
+    "name": "Picloxydine",
+    "atc_code": "S01AX16",
+    "drugbank_id": "DB13607"
+  },
+  {
+    "name": "Propamidine",
+    "atc_code": "S01AX15",
+    "drugbank_id": "DB13296"
+  },
+  {
+    "name": "Propanoic acid",
+    "atc_code": "S01AX10",
+    "drugbank_id": "DB03766"
+  },
+  {
+    "name": "Polymyxin B",
+    "atc_code": "S01AA18",
+    "drugbank_id": "DB00781"
+  },
+  {
+    "name": "Perflenapent",
+    "atc_code": "V08DA03",
+    "drugbank_id": "DB11625"
+  },
+  {
+    "name": "Perflubron",
+    "atc_code": "V08CX01",
+    "drugbank_id": "DB05791"
+  },
+  {
+    "name": "Propyliodone",
+    "atc_code": "V08AD03",
+    "drugbank_id": "DB09366"
+  },
+  {
+    "name": "Pafolacianine",
+    "atc_code": "V04CX10",
+    "drugbank_id": "DB15413"
+  },
+  {
+    "name": "Patent Blue",
+    "atc_code": "V04CX09",
+    "drugbank_id": "DB13967"
+  },
+  {
+    "name": "Protirelin",
+    "atc_code": "V04CJ02",
+    "drugbank_id": "DB09421"
+  },
+  {
+    "name": "Phenolsulfonphthalein",
+    "atc_code": "V04CH03",
+    "drugbank_id": "DB13212"
+  },
+  {
+    "name": "Pentagastrin",
+    "atc_code": "V04CG04",
+    "drugbank_id": "DB00183"
+  },
+  {
+    "name": "Palifermin",
+    "atc_code": "V03AF08",
+    "drugbank_id": "DB00039"
+  },
+  {
+    "name": "Pralidoxime",
+    "atc_code": "V03AB54",
+    "drugbank_id": "DB00733"
+  },
+  {
+    "name": "Phentolamine",
+    "atc_code": "V03AB36",
+    "drugbank_id": "DB00692"
+  },
+  {
+    "name": "Prussian blue",
+    "atc_code": "V03AB31",
+    "drugbank_id": "DB06783"
+  },
+  {
+    "name": "Potassium Iodide",
+    "atc_code": "V03AB21",
+    "drugbank_id": "DB06715"
+  },
+  {
+    "name": "Physostigmine",
+    "atc_code": "V03AB19",
+    "drugbank_id": "DB00981"
+  },
+  {
+    "name": "Potassium permanganate",
+    "atc_code": "V03AB18",
+    "drugbank_id": "DB13831"
+  },
+  {
+    "name": "Protamine",
+    "atc_code": "V03AB14",
+    "drugbank_id": "DB13700"
+  },
+  {
+    "name": "Prednisolone",
+    "atc_code": "V03AB05",
+    "drugbank_id": "DB00860"
+  },
+  {
+    "name": "Promethazine",
+    "atc_code": "V03AB05",
+    "drugbank_id": "DB01069"
+  },
+  {
+    "name": "Pralidoxime",
+    "atc_code": "V03AB04",
+    "drugbank_id": "DB00733"
+  }
+]
