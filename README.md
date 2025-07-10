@@ -9,6 +9,27 @@ This project offers:
 - A public CDN endpoint to fetch the JSON data for integration into applications, research, or educational tools.
 - Easy-to-use format suitable for web and backend applications.
 
+
+## ATC Drug Classification
+- (refer to [Anatomical Therapeutic Chemical (ATC) Classification](https://www.who.int/tools/atc-ddd-toolkit/atc-classification) for more details.)
+- In the Anatomical Therapeutic Chemical (ATC) classification system, the active substances are divided into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Drugs are classified in groups at five different levels.
+- **ATC 1st level**
+	- The system has fourteen main anatomical or pharmacological groups (1st level). The ATC 1st levels are shown in the figure.
+- **ATC 2nd level**
+	- Pharmacological or Therapeutic subgroup
+- **ATC 3rd& 4th levels**
+	- Chemical, Pharmacological or Therapeutic subgroup
+- **ATC 5th level**
+	- Chemical substance
+
+![atcclassification](https://www.who.int/images/default-source/departments/essential-medicines/atcclassification.tmb-768v.jpg?Culture=en&sfvrsn=1c90541b_2 "atcclassification")
+
+The 2nd, 3rd and 4th levels are often used to identify pharmacological subgroups when that is considered more appropriate than therapeutic or chemical subgroups.
+
+The complete classification of metformin illustrates the structure of the code:
+![metformin-structure](https://www.who.int/images/default-source/departments/essential-medicines/table1.jpg?sfvrsn=4e770104_0)
+
+
 ## Why This Project?
 The ATC classification system is widely used in pharmacology and drug research to classify drugs into different groups according to the organ or system they act on and their therapeutic, pharmacological, and chemical properties.
 
