@@ -191,7 +191,7 @@ Download any of the JSON files and import into your project or database for offl
 Improvements, bug fixes, new mappings, or updates are very welcome. Please fork the repo and submit pull requests or open issues.
 
 ---
-## License
+## License ![CC BY-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
