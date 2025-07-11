@@ -1,3 +1,4 @@
+![banner](banner.webp)
 # ATC Drugs Classification Database (a static JSON API)
 
 A lightweight project that stores the Anatomical Therapeutic Chemical (ATC) drug classification data as JSON and provides easy access to the data, including mappings between Drug names, ATC codes, and DrugBank IDs, served via a CDN.
